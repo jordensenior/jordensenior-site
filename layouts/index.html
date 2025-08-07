@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div id="photo-viewer" class="w-full h-screen flex items-center justify-center relative">
+  <img id="mainImage" src="/images/slide1.jpg" class="max-h-full max-w-full object-contain transition duration-500" />
+</div>
+
+<script>
+  const images = [
+    { src: "/images/slide1.jpg", caption: "001 · Mordançage Collapse" },
+    { src: "/images/slide2.jpg", caption: "002 · Easton Lith Study" },
+  ];
+
+  let current = 0;
+
+  function updateImage() {
+    document.getElementById('mainImage').src = images[current].src;
+    document.getElementById('caption').textContent = images[current].caption;
+  }
+
+  function prevImage() {
+    current = (current - 1 + images.length) % images.length;
+    updateImage();
+  }
+
+  function nextImage() {
+    current = (current + 1) % images.length;
+    updateImage();
+  }
+
+  window.onload = updateImage;
+</script>
+{{ end }}

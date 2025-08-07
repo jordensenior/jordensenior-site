@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=IBM+Plex+Mono&display=swap');
+
+body {
+  font-family: 'Libre Baskerville', serif;
+  text-transform: lowercase;
+}
+
+h1, h2 {
+  font-family: 'IBM Plex Mono', monospace;
+}
