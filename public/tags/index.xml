@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
+      <title>Experimental</title>
+      <link>http://localhost:1313/tags/experimental/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/test/</guid>
+      <guid>http://localhost:1313/tags/experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mordencage</title>
+      <link>http://localhost:1313/tags/mordencage/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mordencage/</guid>
       <description></description>
     </item>
     
