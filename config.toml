@@ -59,9 +59,11 @@ category = "categories"
 series = "series"
 tag = "tags"
 [params.social]
-github = "https://github.com/jordensenior"
-instagram = "http://instagram.com/jordensenior"
-mail = "mailto:contact@jordensenior.com"
+#github = "https://github.com/jordensenior"
+newdiscord = "https://discordapp.com/users/jor_sen"
+scholar = "https://scholar.google.com/citations?user=NLvtrNQAAAAJ&hl=en"
+instagramdark = "http://instagram.com/jordensenior"
+maildark = "mailto:contact@jordensenior.com"
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"
 
 [outputs]
