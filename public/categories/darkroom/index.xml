@@ -14,14 +14,15 @@
     
     <item>
       <title>002 · Easton Lith Study</title>
-      <link>http://localhost:1313/experiments/002-easton/</link>
+      <link>http://localhost:1313/experiments/002-easton/002-easton/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/002-easton/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mordancage.jpg&#34; alt=&#34;Lith Print&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/experiments/002-easton/002-easton/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/images/slide1.jpg&#34; align=&#34;left&#34; width=&#34;200px&#34; style=&#34;margin:16px;&#34; /&gt;
+&gt; some text floating around the image
+&lt;br clear=&#34;left&#34;/&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A hallway, a light leak, an unstable highlight.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/experiments/001-mordancage/&#34;&gt;←&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A &amp;ldquo;newline&amp;rdquo;. This text doesn&amp;rsquo;t float anymore, is left-aligned.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     

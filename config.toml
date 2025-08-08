@@ -19,7 +19,7 @@ style = "monokailight"
 unsafe = true
 
 [params]
-customCSS = ["css/custom.css"]
+
 bannerFont = "fonts/exampleFont" 
 description = """
 Tokiwa-iro is the theme color of this site.
@@ -30,7 +30,7 @@ fuse = true # for searchbox. "JSON" must added to output contents. See [outputs]
 math = true # for introducing $KaTeX$
 useChineseFonts = true 
 postDateFormat = "2006-1-2"
-
+customCSS = ["css/custom.css"]
 [menu]
 # Shown in the side menu.
 [[menu.main]]

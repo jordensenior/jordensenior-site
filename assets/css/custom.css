@@ -10,3 +10,30 @@
     margin-top: 0 !important;
     display: block;
 }
+
+
+/* Homepage: cancel wrapper padding on top & right so hero is flush */
+.home .outer {
+  padding-top: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Let the right pane go edge-to-edge on home */
+.home main {
+  max-width: none !important;
+  padding-top: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Make sure the hero container contributes no gap */
+.home #photo-viewer {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 100vh;
+}
+.home #photo-viewer img {
+  display: block;      /* removes baseline gap on inline images */
+  max-height: 100vh;
+  max-width: 100%;
+  object-fit: contain;
+}

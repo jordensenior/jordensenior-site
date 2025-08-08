@@ -5,10 +5,10 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiments/001-mordancage/</loc>
+    <loc>http://localhost:1313/experiments/001-mordencage/001-mordancage/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiments/002-easton/</loc>
+    <loc>http://localhost:1313/experiments/002-easton/002-easton/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
