@@ -19,6 +19,7 @@ style = "monokailight"
 unsafe = true
 
 [params]
+customCSS = ["css/custom.css"]
 bannerFont = "fonts/exampleFont" 
 description = """
 Tokiwa-iro is the theme color of this site.

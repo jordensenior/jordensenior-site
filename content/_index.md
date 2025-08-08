@@ -1,6 +1,7 @@
 
 ---
 title: ""
+hasHero: true
 ---
 
 **Jorden Senior**  

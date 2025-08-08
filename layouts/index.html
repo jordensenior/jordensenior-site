@@ -1,7 +1,19 @@
 {{ define "main" }}
-<div id="photo-viewer" class="w-full h-screen flex items-center justify-center relative">
+<div id="photo-viewer" class="w-full h-screen m-0 p-0 flex items-center justify-center relative">
   <img id="mainImage" src="/images/slide1.jpg" class="max-h-full max-w-full object-contain transition duration-500" />
 </div>
+
+<style>
+  /* Kill the default Hugo/Tokiwa spacing on home */
+  body.home main {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+  body.home #photo-viewer {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+</style>
 
 <script>
   const images = [

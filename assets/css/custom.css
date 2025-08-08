@@ -1,0 +1,12 @@
+/* Remove top gap from homepage hero image */
+.home main,
+.home section {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* If the first element inside main is an image, reset it too */
+.home main img:first-child {
+    margin-top: 0 !important;
+    display: block;
+}
