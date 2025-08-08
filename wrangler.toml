@@ -1,0 +1,5 @@
+name = "jordensenior-worker"
+compatibility_date = "2025-08-08"
+
+# Serve static assets from the Hugo output
+assets = { directory = "./public" }
