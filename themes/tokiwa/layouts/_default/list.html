@@ -40,7 +40,7 @@
                     <a href="{{ $p.RelPermalink }}" class="block">
                       <div class="h-20 md:h-24 overflow-hidden rounded shadow bg-gray-100 mb-2">
                         <img
-                          src="{{ . | absURL }}"
+                          src="{{ . | relURL }}"
                           alt="{{ $p.Title }}"
                           class="h-full object-cover"
                           loading="lazy" decoding="async"
@@ -59,7 +59,7 @@
                   {{ end }}
                 {{ end }}
 
-                <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+                <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
                 {{ with $p.Description }}
                   <div class="pl-4 text-gray-600 font-light">{{ . }}</div>
                 {{ end }}

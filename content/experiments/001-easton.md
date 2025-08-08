@@ -1,6 +1,6 @@
 ---
 title: "002 · Easton Lith Study"
-image: "/images/slide1.jpg"
+image: ""
 description: "Surface decay at 13 °C using copper developer"
 author: "Jorden Senior"
 date: "2025-08-04"
