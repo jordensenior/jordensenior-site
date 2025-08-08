@@ -1,0 +1,39 @@
+{{$scratch := newScratch}}
+{{ range (.Site.Pages)}} {{$scratch.Add "total" .WordCount}} {{ end }}
+
+<div class="md:max-w-xs flex flex-col md:items-end pt-6">
+
+
+  <!-- Slideshow controls (homepage only) -->
+  {{ if eq .RelPermalink "/" }}
+    <div class="w-full md:text-right text-sm text-gray-500">
+
+      <!-- Buttons row (forced green) -->
+      <div class="flex justify-between w-full">
+        <button onclick="prevImage()" style="color:#16a34a;" class="hover:underline">← prev</button>
+        <button onclick="nextImage()" style="color:#16a34a;" class="hover:underline">next →</button>
+      </div>
+
+      <!-- Tight spacer -->
+      <div class="h-4"></div>
+
+      <!-- Caption -->
+      <div id="caption"  class="italic text-xs text-gray-400 pt-1">loading…</div>
+    </div>
+  {{ end }}
+
+  <!-- Big spacer -->
+  <div class="h-8"></div>
+
+  <!-- Socials -->
+  {{ partial "social-follow.html" . }}
+
+  <!-- Spacer -->
+  <div class="h-4"></div>
+
+  <!-- Footer / stats -->
+  <div class="text-sm text-gray-500 leading-tight">
+    {{ .Site.Copyright | safeHTML }}<br />
+    {{ len .Site.Pages }} pages, {{ $scratch.Get "total" }} words in total.
+  </div>
+</div>
