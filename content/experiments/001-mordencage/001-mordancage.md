@@ -1,6 +1,6 @@
 ---
 title: "001 · A Brief History of Mordençage"
-image: "slide1.jpg"
+image: "/images/slide1.jpg"
 description: "Chemistry bites photography."
 author: "Jorden Senior"
 date: "2025-08-07"
@@ -146,5 +146,3 @@ The magic isn't just in the chemistry – it's in that moment when you lift a ve
 > Silver dissolves, lifts— <br>
 > veils of memory floating <br>
 > between light and hand
-
-[→](/experiments/002-easton/)
