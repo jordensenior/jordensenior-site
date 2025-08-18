@@ -20,7 +20,7 @@ I don’t think in ink names while I work. I think in **plates**:
 - **Cool plate** → structure / shadows / distance  
 - **Warm plate** → highlights / presence / near-field  
 
-Colour choices come later. Files stay **monotone** all the way through; the **only** place I write colour is the **filename** for the studio/tool.
+Colour choices come later. Files stay monotone all the way through; the *only* place I write colour is the filename for the studio/tool.
 
 ---
 
@@ -29,18 +29,18 @@ Colour choices come later. Files stay **monotone** all the way through; the **on
 - **Affinity Photo** for separations (I prefer owning my tools)  
 - **Spectrolite** for halftoning + overprint preview  
 - **Uncoated paper** (preferably) with a bit of tooth  
-- A local studio (for me: [*If By Magic*](http://ifbymagic.space) in Helsinki - find yours on [Stencil](https://www.stencil.wiki/atlas))
+- A local studio (for me: [**If By Magic**](http://ifbymagic.space) in Helsinki - find yours on [Stencil](https://www.stencil.wiki/atlas))
 
 ---
 
 ## The short version
 
 1. Decide what the **cool** plate does and what the **warm** plate does.  
-2. Split the photo into two **monotone** plates in Affinity: by **colour** (for colour photos) or **tonal range** (for B&W).  
+2. Split the photo into two monotone plates in Affinity: by colour (for colour photos) or tonal range (for B&W).  
 3. Preview inks with **Recolour** / blend overlays per plate (then **turn them off** before export).  
-4. (Optional) add a small **trap** to the under-plate (≈ **0.25–0.5 mm**).  
+4. (Optional) add a small **trap** to the under-plate (≈ 0.25–0.5 mm).  
 5. (Optional) Halftone both plates in **Spectrolite** (pick LPI + angles).  
-6. Export **1-bit, 600 dpi** plates. Put ink names in **filenames only**.  
+6. Export 600 dpi plates. Put ink names in filenames only.  
 7. Proof 3–5 sheets, tweak per plate, then print the run.
 
 ---
@@ -118,7 +118,6 @@ Export each plate from Affinity as 8-bit grayscale TIFF at 600 dpi, then:
 - **Angles**: Offset pairs like 15°/75° or 22.5°/82.5° to avoid moiré
 - Use the overprint preview to check balance
 - Export as TIFFs at 600 dpi
-- 
 ---
 
 ## Things I’m borrowing from people who do it better
@@ -129,8 +128,8 @@ Turn parts of a photo into **solid shapes** instead of dots. One plate can be a 
 ### 2) Stochastic grain or custom textures
 Swap tidy dot grids for **diffusion dither** or **bitmap textures**. Error-diffusion reads like film grain; custom patterns (stipples, scribbles, scanned paper grain) make tones feel hand-made.
 
-### 3) Bold-plus-neutral, or **no black at all**
-Pair one **neutral** plate (for edges/legibility) with one **bold** plate for mood — or try **two colours with no black** and let overlap create a “third” tone. Studios focused on photo books (e.g., Outer Space Press) lean into two-ink interpretations, aiming for quality while embracing Riso’s rough, textured character.
+### 3) Bold-plus-neutral, or no black at all
+Pair one **neutral** plate (for edges/legibility) with one **bold** plate for mood — or try two colours with no black and let overlap create a “third” tone. Studios focused on photo books (e.g., Outer Space Press) lean into two-ink interpretations, aiming for quality while embracing Riso’s rough, textured character.
 
 ### 4) Design with misregistration
 Plan for a **1–2 mm wobble**. Put fine linework on one plate; use the other as a forgiving fill so any offset becomes a pleasant halo. [Pip Lu (O.OO)](https://art4d.com/en/2024/05/no-magic-in-riso) frames imperfection as the source of Riso’s personality — treat drift as material, not a bug.  

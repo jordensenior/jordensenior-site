@@ -1,6 +1,7 @@
 ---
 title: "About"
-description: "Jorden Senior — artist and quantum physicist."
+description: "Artist and Quantum Scientist."
+date: ""
 summary: "Entangling quantum and art: images at the edge of control."
 ---
 
@@ -25,4 +26,6 @@ Years spent building superconducting quantum hardware and working in the cleanro
 
 Alongside images, they write short essays on the philosophy of photography and sometimes pair series with music. They also prototype small quantum games for jams and exhibitions, exploring quantum art as interactive, playable systems.
 
-This site is a working notebook: finished series alongside experiments, game prototypes, process notes, failures and the occasional musing on images, materials and sound. Quantum Art in flux. 
+This site is a working notebook: finished series alongside experiments, game prototypes, process notes, failures and the occasional musing on images, materials and sound. 
+
+> Quantum Art in flux. 

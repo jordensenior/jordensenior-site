@@ -89,8 +89,8 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
 
 ### References and further madness
 
-- **Mordançage technique**: (Christina Anderson's "The Experimental Darkroom")[https://www.routledge.com/The-Experimental-Darkroom-Contemporary-Uses-of-Traditional-Black--White/Anderson/p/book/9781032131863?utm_source=cjaffiliates&utm_medium=affiliates&cjevent=b998faf77c0f11f083e602a10a18ba73]
-- (**Quantum Computing in Finland**)[https://qx.vtt.fi/login]
-- (**If By Magic**)[ifbymagic.space]: Riso studio based in Helsinki 
-- (**Experimental Photo Festival**)[https://en.experimentalphotofestival.com/]: Where photographic art meets alternative processes, annually in Barcelona
+- [**Mordançage technique**](https://www.routledge.com/The-Experimental-Darkroom-Contemporary-Uses-of-Traditional-Black--White/Anderson/p/book/9781032131863?utm_source=cjaffiliates&utm_medium=affiliates&cjevent=b998faf77c0f11f083e602a10a18ba73): Christina Anderson's "The Experimental Darkroom"
+- [**Quantum Computing in Finland**](https://qx.vtt.fi/login)
+- [**If By Magic**](ifbymagic.space): Riso studio based in Helsinki 
+- [**Experimental Photo Festival**](https://en.experimentalphotofestival.com/): Where photographic art meets alternative processes, annually in Barcelona
 
