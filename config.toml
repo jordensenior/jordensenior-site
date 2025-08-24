@@ -1,8 +1,8 @@
 DefaultContentLanguage = "en"
 author = "Jorden Senior"
-baseURL = "https://jordensenior.com"
+baseURL = "https://www.jordensenior.com"
 copyright = "Copyright © 2025"
-disqusShortname = "JordeSenior"
+disqusShortname = "JordenSenior"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v0.82+
@@ -67,4 +67,4 @@ maildark = "mailto:contact@jordensenior.com"
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"
 
 [outputs]
-home = ["HTML",  "JSON"]
+home = ["HTML",  "JSON", "RSS"]
