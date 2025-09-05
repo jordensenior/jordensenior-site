@@ -1,6 +1,6 @@
 ---
 title: "002 · Risography for Photographers"
-image: ""
+image: "experiments/004-quantummordencagezine/riso_drying.jpeg"
 description: "Why I fell in love with oily inks and noisy machines"
 author: "Jorden Senior"
 date: "2025-08-11"
@@ -20,12 +20,19 @@ toc: true
 # Risograph Printing for Photographers
 
 Lately I've been in the Riso rabbit hole. Partly because I've been printing at [If By Magic](https://ifbymagic.space/) here in Helsinki (Robin's workshops are the kind that make you want to stay late and keep experimenting), and partly because my friend [Ro](https://roantia.design/) made a gorgeous calendar from Riso-printed photographs. There's a particular feeling when you hold a Riso print: the soft matte surface, the way the ink sits on the paper, the tiny quirks in registration that make each copy its own object. Regular digital printing doesn't quite do that.
+<figure>
+    <img src="/experiments/004-quantummordencagezine/riso_drying.jpeg" align="left" width="200px" style="margin:16px;" alt="Zines drying" />
+    <figcaption></figcaption>
+</figure>
+
 
 If you've ever thought about making a zine, or wanted a way to see your images off-screen, or you just like machines that go *whrrr*, Riso is worth exploring. It's as much about the process as the result. Each print is an object. Each run is an edition. And like darkroom work, there's a rhythm to it that doesn't quite replicate with other methods.
 
 This is a practical, lightly nerdy tour of Riso specifically for photo and zine work, and a few notes for people who enjoy halftone curves and ink chemistry.
 
 ## A short history
+
+
 
 Riso started in post-war Japan. Noboru Hayama founded what became RISO Kagaku in 1946, starting with a single mimeograph in his kitchen. Japan needed domestic printing solutions, and imported inks were prohibitively expensive. His philosophy of "Riso-Sha" (meaning "ideal") came with this thought: people shouldn't lose their ideals, because then there would be no future for Japan as a nation.
 
@@ -34,6 +41,7 @@ By 1980, RISO launched the first printer-duplicator models—the AP7200 master m
 The migration from office duplicator to art tool happened gradually. As offices went digital in the 2000s, community print spaces and small presses started adopting abandoned Risographs. Knust/Extrapool in the Netherlands was ahead of the curve, using them for art publishing since the 1990s. SVA's RisoLAB opened in 2015 as the first dedicated teaching lab, and suddenly everyone wanted in.
 
 ## How the machine actually works (for photographers)
+
 
 Think of a Riso as automated stencil printing:
 
@@ -49,7 +57,10 @@ Two realities photographers should plan for:
 
 ## The inks (plant oils, transparency, and what that means for photos)
 
-Here's what's actually true about Riso inks: RISO moved from traditional oils to vegetable-oil systems, notably developing rice-bran-oil inks for their duplicators (they were the world's first in that category). The rice bran version is interesting—it's sourced in Japan, cutting transport emissions by 87% compared to imported soy, and the leftover bran becomes fertilizer or animal feed.
+Here's what's actually true about Riso inks: RISO moved from traditional oils to vegetable-oil systems, notably developing rice-bran-oil inks for their duplicators (they were the world's first in that category). The rice bran version is interesting—it's sourced in Japan, cutting transport emissions by 87% compared to imported soy, and the leftover bran becomes fertilizer or animal feed.<figure>
+    <img src="/experiments/004-quantummordencagezine/riso_inks.jpeg" align="right" width="300px" style="margin:16px;" alt="Riso ink drums" />
+    <figcaption></figcaption>
+</figure>
 
 Official lines today list ~21 standard colours plus ~50 custom and special-order colours. The inks are semi-transparent, so overprints behave like screen printing. Metallic Gold is the notable high-opacity outlier—it actually prints on black paper, which shouldn't work but does.
 
@@ -57,7 +68,7 @@ From a conservation perspective: oil-based Riso inks are low-VOC and print "cold
 
 If you care about longevity: fluorescent pigments (hot pinks, oranges) are inherently less lightfast across all mediums. If the work will live on a wall, plan accordingly. Unfortunately, these colours are also my favourites. 
 
-## Why photographers use it (even when inkjets are "better")
+## Why photographers use it (even when inkjets are better)
 
 Because Riso adds a point of view. Halftones give a gentle, poster-y abstraction. Grain compresses mid-tones in a way that feels closer to newsprint or lith printing than to CMYK offset. Spot-colour thinking forces interesting choices: a teal/pink duotone can read like split-toned fibre prints; a single green pass can make a portrait feel like a field note.
 
@@ -65,7 +76,7 @@ And the editions culture suits photo-zine practice. Many of us naturally land on
 
 If you want a sense of the medium at its photographic best, look at [Outer Space Press in Berlin](https://www.outerspacepress.com/), the guys at [Risotto](https://risottostudio.com/?srsltid=AfmBOopLih0k_ytq_ZyYDh6bKDd5XDyK3_N0dIEpq-Mt6ptvIoJ6r-XU), or the long list compiled by [Robyn Pitts](https://peopleofprint.com/best-of/51-riso-studios-you-should-all-know-about/).
 
-## Practical notes (what's worked for me with photos)
+## Practical notes
 
 These aren't rules—just habits that keep me out of trouble:
 

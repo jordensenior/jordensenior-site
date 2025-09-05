@@ -1,6 +1,6 @@
 ---
 title: "004 · Quantum Mordençage"
-image: ""
+image: "experiments/004-quantummordencagezine/foldingzine_2.jpeg"
 description: "And making a Riso-printed zine"
 author: "Jorden Senior"
 date: "2025-08-14"
@@ -16,6 +16,11 @@ Sometimes you have to break things to see what's underneath. In quantum computin
 
 That's the premise behind my latest project: photographing quantum computing hardware, then attacking those photographs with mordançage until the emulsion buckles and lifts, searching for traces of quantum coherence in the chemical chaos.
 
+<figure>
+    <img src="/experiments/004-quantummordencagezine/foldingzine_1.jpeg" align="center" width="600px" style="margin:16px;" alt="Folded Zine" />
+    <figcaption></figcaption>
+</figure>
+
 ## The mad scientist proposition
 
 Here's the hypothesis: quantum systems leave signatures we can't directly observe. Our measurement tools collapse wavefunctions by definition. But silver halide emulsions—those ancient light-recording crystals—might capture something in between. Not the measurement, but the presence. The shimmer. The uncertainty itself.
@@ -27,6 +32,7 @@ I photographed the prototypes of superconducting quantum computers. Not glamour 
 For those unfamiliar: mordançage is a darkroom process that physically lifts the emulsion from its paper base - see [my previous post explaining the process](https://www.jordensenior.com/experiments/001-mordencage/001-mordancage/)
 
 Why mordançage specifically? Because it mirrors quantum decoherence. A stable system (the photograph) subjected to environmental disruption (the chemistry) undergoes irreversible change. The original information is still there, but transformed, distorted, partially lost. Like a quantum state collapsing, but frozen mid-process.
+
 
 ## The prints themselves
 
@@ -40,7 +46,13 @@ Each process brought something different. The mordançage created physical dimen
 
 The time-based series shows the same image at different stages of chemical intervention: 60 seconds, 120 seconds, 180 seconds, suggesting the quantum decay emerging and escalating with time (of course, this to be compared with the real qubit decay times in the order of microseconds)
 
+
 ## From darkroom to Risograph
+
+<figure>
+    <img src="/experiments/004-quantummordencagezine/foldingzine_2.jpeg" align="right" width="300px" style="margin:16px;" alt="Folded Zine" />
+    <figcaption></figcaption>
+</figure>
 
 The original mordançage prints are unique objects—you can't reproduce that specific buckling, that exact crystallization pattern. But I wanted to share the work, make it distributable. Enter Risograph printing.
 
@@ -55,6 +67,11 @@ The Riso's registration drift adds another layer of uncertainty. Each print vari
 ## The zine as quantum object
 
 The final form: an zine using "magic" folding— folded and cut to create a 8-page zine from a single A3 sheet. 
+
+<figure>
+    <img src="/experiments/004-quantummordencagezine/foldingzine_3.jpeg" align="left" width="300px" style="margin:16px;" alt="Folded Zine" />
+    <figcaption></figcaption>
+</figure>
 
 Inside: the time-series progression of mordançage destroying/revealing the quantum hardware. Lab notebook aesthetics—typewriter fonts, hand annotations, timestamps. The kind of documentation you'd find if someone was actually trying to photograph quantum states and slowly going mad from the impossibility.
 
