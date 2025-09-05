@@ -3,7 +3,7 @@ title: "009 · Finding Mortality Through the Lens"
 image: "experiments/009-TimCarpenter/timcarpenter.jpeg"
 description: "Reflections on Tim Carpenters 'To Photograph is to Learn How to Die'"
 author: "Jorden Senior"
-date: "2025-09-05"
+date: "2025-09-06"
 tags: ["Book Review", "Tim Carpenter"]
 categories: ["Philosophy","Essay"]
 series: ["philosophy"]
