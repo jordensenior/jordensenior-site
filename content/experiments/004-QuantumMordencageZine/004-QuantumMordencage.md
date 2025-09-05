@@ -1,6 +1,6 @@
 ---
 title: "004 · Quantum Mordençage"
-image: "experiments/004-quantummordencagezine/foldingzine_2.jpeg"
+image: "experiments/004-QuantumMordencageZine/foldingzine_2.jpeg"
 description: "And making a Riso-printed zine"
 author: "Jorden Senior"
 date: "2025-08-14"
@@ -17,7 +17,7 @@ Sometimes you have to break things to see what's underneath. In quantum computin
 That's the premise behind my latest project: photographing quantum computing hardware, then attacking those photographs with mordançage until the emulsion buckles and lifts, searching for traces of quantum coherence in the chemical chaos.
 
 <figure>
-    <img src="/experiments/004-quantummordencagezine/foldingzine_1.jpeg" align="center" width="600px" style="margin:16px;" alt="Folded Zine" />
+    <img src="/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg" align="center" width="600px" style="margin:16px;" alt="Folded Zine" />
     <figcaption></figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The time-based series shows the same image at different stages of chemical inter
 ## From darkroom to Risograph
 
 <figure>
-    <img src="/experiments/004-quantummordencagezine/foldingzine_2.jpeg" align="right" width="300px" style="margin:16px;" alt="Folded Zine" />
+    <img src="/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg" align="right" width="300px" style="margin:16px;" alt="Folded Zine" />
     <figcaption></figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ The Riso's registration drift adds another layer of uncertainty. Each print vari
 The final form: an zine using "magic" folding— folded and cut to create a 8-page zine from a single A3 sheet. 
 
 <figure>
-    <img src="/experiments/004-quantummordencagezine/foldingzine_3.jpeg" align="left" width="300px" style="margin:16px;" alt="Folded Zine" />
+    <img src="/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg" align="left" width="300px" style="margin:16px;" alt="Folded Zine" />
     <figcaption></figcaption>
 </figure>
 

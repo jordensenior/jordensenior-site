@@ -1,6 +1,6 @@
 ---
 title: "007 · Time, Speed, and Improvisation"
-image: "experiments/005-008-beneaththesurface/afa_developing.jpeg"
+image: "experiments/005-008-BeneathTheSurface/afa_developing.jpeg"
 image: ""
 description: "Reflections on the accelerated making and improvisational approach in the Art for All exhibition"
 author: "Jorden Senior"
@@ -18,7 +18,7 @@ The Art for All festival demanded an intense burst of creation. While I'm natura
 
 ## Under Pressure: When Natural Energy Meets Necessity
 <figure>
-    <img src="/experiments/005-008-beneaththesurface/afa_developing.jpeg" align="left" width="270px" style="margin:16px;" alt="Negatives developing" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_developing.jpeg" align="left" width="270px" style="margin:16px;" alt="Negatives developing" />
     <figcaption></figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ There's a reason "Under Pressure" feels like the perfect soundtrack to this expe
 
 From just two rolls of film, I made about 50 prints—far beyond my usual experimental bursts. This volume served multiple purposes: selecting favorites, ensuring I had backups for additional mordançage treatments if needed, but most importantly, it allowed the narrative to emerge organically during the printing process itself. I was discovering what the images were trying to say as I worked, understanding which ones wanted to be paired together, how different treatments might serve the evolving story. About 20 prints ultimately received the slow, careful mordançage treatment, chosen not just for their individual merit but for how they contributed to the larger conversation happening across the room.
 <figure>
-    <img src="/experiments/005-008-beneaththesurface/afa_drying1.jpeg" align="center" width="600px" style="margin:10px;" alt="Prints Drying" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg" align="center" width="600px" style="margin:10px;" alt="Prints Drying" />
     <figcaption></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Mordançage straddles these worlds. Each print requires multiple, painstaking st
 
 The pressure of the deadline pressed down heavily—echoing the song's opening: "Pressure pushing down on me, pressing down on you." 
 <figure>
-    <img src="/experiments/005-008-beneaththesurface/afa_drying2.jpeg" align="right" width="310px" style="margin:10px;" alt="Prints drying" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_drying2.jpeg" align="right" width="310px" style="margin:10px;" alt="Prints drying" />
     <figcaption></figcaption>
 </figure>This tension sharpened every decision in the darkroom. Each print had to matter. Every mordançage carried risk and intention. Yet rather than stalling progress, this pressure honed my focus and opened paths to unexpected creative discoveries. 
 
@@ -71,7 +71,7 @@ This experience showed me that time isn't just a limitation—it's a creative fo
 Moving forward, I'm excited to explore how this tension between speed and contemplation, between natural creative momentum and external pressure, continues to inform my work. The dead mall may have been empty of shoppers, but it was full of creative possibility—a space where pressure and improvisation transformed constraint into breakthrough. Sometimes the most direct path to discovery is through the crucible of impossible deadlines and imperfect materials, where the only option is to trust the process and let the work become what it needs to be.
 
 <figure>
-    <img src="/experiments/005-008-beneaththesurface/afa_gallerywall.jpeg" align="center" width="600px" style="margin:20px;" alt="Hung Prints in Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg" align="center" width="600px" style="margin:20px;" alt="Hung Prints in Gallery" />
     <figcaption></figcaption>
 </figure>
 
