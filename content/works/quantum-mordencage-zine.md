@@ -2,8 +2,8 @@
 title: "Quantum Mordançage Zine"
 description: "Limited-edition artist's zine exploring quantum mechanics and photographic chemistry"
 author: "Jorden Senior"
-date: "2024-06-15"
-tags: ["Artist Book", "Zine", "Quantum Mechanics", "Mordançage", "Alternative Process"]
+date: "2025-07-06"
+tags: ["Zine","Mordançage"]
 categories: ["Publication", "Artist Book"]
 toc: true
 ---
@@ -35,7 +35,7 @@ The zine emerged from conceptual connections between quantum mechanical principl
 
 ## Production Process
 
-The zine was produced using risograph printing, chosen for its mechanical unpredictability that mirrors the chance elements in both quantum mechanics and mordançage chemistry.
+The zine was produced using risograph printing at (If By Magic Oy)[https://ifbymagic.space/], chosen for its mechanical unpredictability that mirrors the chance elements in both quantum mechanics and mordançage chemistry.
 
 <div class="gallery-grid">
 
@@ -69,7 +69,7 @@ Each zine is individually hand-folded, making every copy slightly unique despite
 
 <figure>
     <img src="/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg" alt="Folding process continuation" />
-    <figcaption><em>Continuing the precise folding sequence</em></figcaption>
+    <figcaption><em>Continuing the folding sequence</em></figcaption>
 </figure>
 
 <figure>
@@ -97,36 +97,25 @@ The zine combines theoretical text, process documentation, and visual examples t
 The zine circulates through alternative art networks, including:
 
 - Direct sales at exhibitions and events
-- Mail art exchanges
+- Art swaps
 - Independent bookstores specializing in artist publications
-- Academic conferences on alternative processes
+- Events on alternative processes
 
 <figure>
     <img src="/experiments/004-QuantumMordencageZine/stackofzines.jpeg" alt="Completed zine editions" />
     <figcaption><em>Finished edition ready for distribution through alternative networks</em></figcaption>
 </figure>
 
-The publication has found audiences among both photographers interested in alternative processes and readers engaged with experimental art theory.
-
----
-
-## Significance in Practice
-
-The zine represents an expansion of my practice into publication and theoretical writing. It serves multiple functions:
-
-**Documentation:** Recording and sharing technical knowledge about mordançage
-**Theory Development:** Exploring conceptual frameworks for understanding alternative processes  
-**Community Building:** Connecting with others working at the intersection of art and science
-**Alternative Distribution:** Engaging with networks outside traditional gallery systems
+The publication has found audiences among both photographers interested in alternative processes and readers engaged with experimental photographic art.
 
 ---
 
 ## Technical Specifications
 
-**Printing:** Risograph, multiple ink colors  
-**Paper:** Standard zine paper stock  
-**Binding:** Hand-folded, saddle-stitched  
-**Edition Size:** Limited run, exact numbers available upon request  
+**Printing:** Risograph, multiple ink colors - Medium Blue and Flourescent Pink  
+**Paper:** Standard uncoated 180g paper stock  
+**Binding:** Hand-folded, no stitching 
+**Edition Size:** Limited run of 15. 
 **Distribution:** Ongoing through multiple channels
 
 ---
@@ -140,4 +129,4 @@ This publication connects to broader themes in my practice:
 
 ---
 
-**Availability:** For information about obtaining a copy or questions about the publication, please [contact me](/about/).
+**Availability:** For information about obtaining a copy or questions about the publication, please [contact me](mailto:contact@jordensenior.com).

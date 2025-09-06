@@ -2,16 +2,16 @@
 title: "Beneath the Surface"
 description: "Installation series exploring consumer spaces through mordançage photography"
 author: "Jorden Senior"
-date: "2024-08-29"
-tags: ["Mordançage", "Installation", "Consumer Culture", "Alternative Process"]
-categories: ["Exhibition", "Series"]
+date: "2025-08-29"
+tags: ["Mordançage"]
+categories: ["Exhibition", "Darkroom"]
 toc: true
 ---
 
 # Beneath the Surface
 
 **2024** · *Installation Series*  
-**Medium:** Mordançage photography on fiber paper, mixed media  
+**Medium:** Mordançage photography on photographic paper, mixed media  
 **Dimensions:** Variable, approximately 20 works
 
 An exploration of consumer spaces through mordançage photography, examining the tension between commercial aspiration and economic reality through chemically manipulated photographic prints.
@@ -20,10 +20,17 @@ An exploration of consumer spaces through mordançage photography, examining the
 
 ## Exhibition History
 
-### Art for All Festival
-**Easton Mall, Columbus, OH** · *August 2024*
+### Pimiö 25 Exhibition
+**Galleria West, Helsinki, Finland** · *September 2025*
 
-Solo exhibition featuring approximately 20 mordançage prints installed in an abandoned mall space during the Art for All festival. The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.
+Group exhibition at Galleria West, showcasing a variaty of analogue processes. 
+
+### Art for All Festival
+**Easton Käytävä, Helsinki, Finland** · *August 2025*
+
+Solo exhibition featuring approximately 20 mordançage prints installed in empty mall space during the Art for All festival. 
+
+The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.
 
 <div class="gallery-grid">
 
@@ -44,7 +51,7 @@ Solo exhibition featuring approximately 20 mordançage prints installed in an ab
 
 <figure>
     <img src="/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg" alt="Table installation with prints" />
-    <figcaption><em>Table installation with process documentation</em></figcaption>
+    <figcaption><em>Table installation</em></figcaption>
 </figure>
 
 </div>
@@ -57,11 +64,11 @@ The series emerged from an intense week-long creative sprint, beginning with pho
 
 ### Production Timeline
 
-- **Day 1-2:** Location photography (2 rolls of film)
-- **Day 3-4:** Film processing and contact printing
-- **Day 5-6:** Production printing (~50 prints total)
-- **Day 6-7:** Mordançage treatment (20 selected prints)
-- **Day 7:** Framing and installation
+- **Day 1:** Location photography (2 rolls of film)
+- **Day 2:** Film processing and contact printing
+- **Day 3:** Production printing (~50 prints total)
+- **Day 4:** Mordançage treatment (20 selected prints)
+- **Day 5-6:** Framing and installation
 
 <figure>
     <img src="/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg" alt="Prints drying in studio" />
@@ -82,7 +89,7 @@ The mordançage process involves treating developed silver gelatin prints with a
 
 **Temporal Pressure:** The compressed production timeline reflected the urgent, speculative nature of commercial development and its equally rapid obsolescence.
 
-**Spatial Context:** Exhibiting in the abandoned Easton Mall created a direct dialogue between the work and its subject matter, with the installation inhabiting the same type of space it critiques.
+**Spatial Context:** Exhibiting in the Easton Hansakäytävä mall, where the images were taken, created a direct dialogue between the work and its subject matter, with the installation inhabiting the same type of space it critiques.
 
 ---
 
@@ -101,9 +108,9 @@ The work was documented extensively during both production and exhibition phases
 
 This series connects to broader themes explored in my practice:
 
-- [Mordançage Experiments](/works/mordencage-experiments/) - The foundational technical explorations
+- [Experiments: 005 - Beneath the Surface](/experiments/005-008-BeneathTheSurface/005-beneaththesurface/) - Series of blog posts about the project
 - [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Conceptual expansion into print media
 
 ---
 
-For more information about this work or inquiries about exhibitions, please [contact me](/about/).
+For more information about this work or inquiries about exhibitions, please [contact me](mailto:contact@jordensenior.com).
