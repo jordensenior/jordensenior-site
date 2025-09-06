@@ -1,0 +1,28 @@
+# Hugo generated files
+public/
+
+# Backup directories
+themes/tokiwa_backup/
+
+# Hugo build lock
+.hugo_build.lock
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Node modules (if using npm/yarn for theme development)
+node_modules/
