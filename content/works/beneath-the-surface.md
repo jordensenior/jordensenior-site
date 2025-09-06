@@ -20,14 +20,12 @@ An exploration of consumer spaces through mordançage photography, examining the
 
 ## Exhibition History
 
-### Pimiö 25 Exhibition
-**Galleria West, Helsinki, Finland** · *September 2025*
-
+**Pimiö 25 Exhibition,**
+**Galleria West, Helsinki, Finland** · *September 2025*<br>
 Group exhibition at Galleria West, showcasing a variaty of analogue processes. 
 
-### Art for All Festival
-**Easton Käytävä, Helsinki, Finland** · *August 2025*
-
+**Art for All Festival,**
+**Easton Käytävä, Helsinki, Finland** · *August 2025*<br>
 Solo exhibition featuring approximately 20 mordançage prints installed in empty mall space during the Art for All festival. 
 
 The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.

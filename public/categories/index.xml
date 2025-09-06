@@ -76,18 +76,9 @@
     </item>
     
     <item>
-      <title>Series</title>
-      <link>http://localhost:1313/categories/series/</link>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Artist Book</title>
       <link>http://localhost:1313/categories/artist-book/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/artist-book/</guid>
       <description></description>
@@ -96,27 +87,9 @@
     <item>
       <title>Publication</title>
       <link>http://localhost:1313/categories/publication/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Foundation</title>
-      <link>http://localhost:1313/categories/foundation/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/foundation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/categories/research/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/research/</guid>
       <description></description>
     </item>
     

@@ -112,10 +112,10 @@ The publication has found audiences among both photographers interested in alter
 
 ## Technical Specifications
 
-**Printing:** Risograph, multiple ink colors - Medium Blue and Flourescent Pink  
-**Paper:** Standard uncoated 180g paper stock  
-**Binding:** Hand-folded, no stitching 
-**Edition Size:** Limited run of 15. 
+**Printing:** Risograph, multiple ink colors - Medium Blue and Flourescent Pink  <br>
+**Paper:** Standard uncoated 180g paper stock  <br>
+**Binding:** Hand-folded, no stitching <br>
+**Edition Size:** Limited run of 15. <br>
 **Distribution:** Ongoing through multiple channels
 
 ---
@@ -124,8 +124,8 @@ The publication has found audiences among both photographers interested in alter
 
 This publication connects to broader themes in my practice:
 
-- [Beneath the Surface](/works/beneath-the-surface/) - Practical application of mordançage techniques documented in the zine
-- [Experiments](/experiments/) blog - Ongoing documentation of alternative process work
+- [Beneath the Surface](/works/beneath-the-surface/) - Mordençage-based series
+- [Experiments blog](/experiments/) - Ongoing documentation of alternative process work
 
 ---
 
