@@ -3,40 +3,151 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/009-timcarpenter/009-timcarpenter/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/book-review/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/essay/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/philosophy/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/philosophy/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tim-carpenter/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/005-008-beneaththesurface/008-reexhibiting/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/beneath-the-surface/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/darkroom/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/exhibition/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mordan%C3%A7age/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/005-008-beneaththesurface/007-underpressure/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/005-008-beneaththesurface/006-hanginginthemall/</loc>
+    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mordencage/</loc>
+    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/004-quantummordencagezine/004-quantummordencage/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/printmaking/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/riso/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/risography/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/003-twoplateriso/003-preparingfortwoplateriso/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/digital/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/002-introtoriso/002-introtoriso/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experiments/001-mordencage/001-mordancage/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiments/002-easton/002-easton/</loc>
+    <loc>http://localhost:1313/categories/analogue/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/series/morden%C3%A7age/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/darkroom/</loc>
+    <loc>http://localhost:1313/tags/morden%C3%A7age/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/darkroom/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/works/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/experimental/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/alternative-process/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiments/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/works/beneath-the-surface/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mordencage/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/consumer-culture/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/installation/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/series/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiments/001-easton/</loc>
-    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/artist-book/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artist-book/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/publication/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/quantum-mechanics/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/quantum-mordencage-zine/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zine/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/experimental-photography/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/foundation/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/mordencage-experiments/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/process/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/research/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url>

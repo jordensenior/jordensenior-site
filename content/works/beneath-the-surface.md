@@ -1,0 +1,109 @@
+---
+title: "Beneath the Surface"
+description: "Installation series exploring consumer spaces through mordançage photography"
+author: "Jorden Senior"
+date: "2024-08-29"
+tags: ["Mordançage", "Installation", "Consumer Culture", "Alternative Process"]
+categories: ["Exhibition", "Series"]
+toc: true
+---
+
+# Beneath the Surface
+
+**2024** · *Installation Series*  
+**Medium:** Mordançage photography on fiber paper, mixed media  
+**Dimensions:** Variable, approximately 20 works
+
+An exploration of consumer spaces through mordançage photography, examining the tension between commercial aspiration and economic reality through chemically manipulated photographic prints.
+
+---
+
+## Exhibition History
+
+### Art for All Festival
+**Easton Mall, Columbus, OH** · *August 2024*
+
+Solo exhibition featuring approximately 20 mordançage prints installed in an abandoned mall space during the Art for All festival. The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.
+
+<div class="gallery-grid">
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg" alt="Installation view at Art for All Festival" />
+    <figcaption><em>Installation view showing the full gallery space</em></figcaption>
+</figure>
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg" alt="Wall installation detail" />
+    <figcaption><em>Wall-mounted works showing mordançage treatments</em></figcaption>
+</figure>
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg" alt="Gallery wall with multiple works" />
+    <figcaption><em>Multiple works creating visual dialogue across the space</em></figcaption>
+</figure>
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg" alt="Table installation with prints" />
+    <figcaption><em>Table installation with process documentation</em></figcaption>
+</figure>
+
+</div>
+
+---
+
+## Artistic Process
+
+The series emerged from an intense week-long creative sprint, beginning with photographing the Easton Mall spaces and culminating in a full installation. This compressed timeline became integral to the work's conceptual framework, mirroring the pressure and urgency of commercial cycles.
+
+### Production Timeline
+
+- **Day 1-2:** Location photography (2 rolls of film)
+- **Day 3-4:** Film processing and contact printing
+- **Day 5-6:** Production printing (~50 prints total)
+- **Day 6-7:** Mordançage treatment (20 selected prints)
+- **Day 7:** Framing and installation
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg" alt="Prints drying in studio" />
+    <figcaption><em>Prints drying during the intensive production period</em></figcaption>
+</figure>
+
+### Technical Notes
+
+The mordançage process involves treating developed silver gelatin prints with a bleaching solution that softens the emulsion, allowing it to be physically manipulated, stretched, or removed from the paper base. This technique, dating to the 19th century, creates unique textures and surface qualities impossible to achieve through digital means.
+
+---
+
+## Conceptual Framework
+
+*Beneath the Surface* operates on multiple levels of meaning:
+
+**Physical Transformation:** The mordançage process literally transforms the photographic surface, paralleling the economic and social transformations affecting retail spaces.
+
+**Temporal Pressure:** The compressed production timeline reflected the urgent, speculative nature of commercial development and its equally rapid obsolescence.
+
+**Spatial Context:** Exhibiting in the abandoned Easton Mall created a direct dialogue between the work and its subject matter, with the installation inhabiting the same type of space it critiques.
+
+---
+
+## Documentation and Reception
+
+The work was documented extensively during both production and exhibition phases. The intense timeline and alternative venue contributed to strong engagement from festival audiences, many of whom were experiencing mordançage processes for the first time.
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_developing.jpeg" alt="Film development process" />
+    <figcaption><em>Behind-the-scenes documentation of the film development process</em></figcaption>
+</figure>
+
+---
+
+## Related Works
+
+This series connects to broader themes explored in my practice:
+
+- [Mordançage Experiments](/works/mordencage-experiments/) - The foundational technical explorations
+- [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Conceptual expansion into print media
+
+---
+
+For more information about this work or inquiries about exhibitions, please [contact me](/about/).

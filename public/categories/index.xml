@@ -7,17 +7,116 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Essay</title>
+      <link>http://localhost:1313/categories/essay/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/essay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/categories/philosophy/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Darkroom</title>
       <link>http://localhost:1313/categories/darkroom/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/darkroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhibition</title>
+      <link>http://localhost:1313/categories/exhibition/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/exhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printmaking</title>
+      <link>http://localhost:1313/categories/printmaking/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/printmaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital</title>
+      <link>http://localhost:1313/categories/digital/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analogue</title>
+      <link>http://localhost:1313/categories/analogue/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/analogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>http://localhost:1313/categories/series/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artist Book</title>
+      <link>http://localhost:1313/categories/artist-book/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/artist-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://localhost:1313/categories/publication/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundation</title>
+      <link>http://localhost:1313/categories/foundation/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/categories/research/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/research/</guid>
       <description></description>
     </item>
     
