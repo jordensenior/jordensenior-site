@@ -43,6 +43,12 @@ identifier = "Experiment"
 name = "Experiments"
 url = "/experiments/"
 weight = 1
+
+[[menu.main]]
+identifier = "works"
+name = "Works"
+url = "/works/"
+weight = 2
 #[[menu.main]]
 #name = "Tags"
 #url = "/tags/"
