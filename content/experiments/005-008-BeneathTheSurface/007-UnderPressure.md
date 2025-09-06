@@ -4,8 +4,8 @@ image: "experiments/005-008-BeneathTheSurface/afa_drying1.jpeg"
 description: "Reflections on the accelerated making and improvisational approach in the Art for All exhibition"
 author: "Jorden Senior"
 date: "2025-08-29"
-tags: ["Mordançage", "Process", "Improvisation", "Art for All", "Easton"]
-categories: ["Exhibition", "Practice"]
+tags: ["Mordançage",]
+categories: ["Exhibition", "Darkroom", "Philosophy"]
 series: ["Beneath the Surface"]
 aliases: ["time-speed-improvisation"]
 toc: true
