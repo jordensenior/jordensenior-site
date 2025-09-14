@@ -102,11 +102,25 @@ The work was documented extensively during both production and exhibition phases
 
 ---
 
+## Gallery
+
+<figure>
+    <img src="/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg" align="center" width="630px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+</figure>
+
+---
+
 ## Related Works
 
 This series connects to broader themes explored in my practice:
 
-- [Experiments: 005 - Beneath the Surface](/experiments/005-008-BeneathTheSurface/005-beneaththesurface/) - Series of blog posts about the project
+- [Experiments: 005 - Beneath the Surface](/experiments/005-008-beneaththesurface/005-beneaththesurface/) - Series of blog posts about the project
 - [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Conceptual expansion into print media
 
 ---
