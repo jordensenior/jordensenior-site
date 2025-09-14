@@ -116,6 +116,9 @@ The work was documented extensively during both production and exhibition phases
 
 ---
 
+<br>
+<br>
+
 ## Related Works
 
 This series connects to broader themes explored in my practice:
