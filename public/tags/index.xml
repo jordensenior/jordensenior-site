@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alternative Process</title>
+      <link>http://localhost:1313/tags/alternative-process/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/alternative-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enlarger Movement</title>
+      <link>http://localhost:1313/tags/enlarger-movement/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/enlarger-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Darkroom</title>
+      <link>http://localhost:1313/tags/experimental-darkroom/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/experimental-darkroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabattier</title>
+      <link>http://localhost:1313/tags/sabattier/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sabattier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Book Review</title>

@@ -10,7 +10,7 @@ toc: true
 
 # Beneath the Surface
 
-**2024** · *Installation Series*  
+**2024** · *Exhibition Series*  
 **Medium:** Mordançage photography on photographic paper, mixed media  
 **Dimensions:** Variable, approximately 20 works
 

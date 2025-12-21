@@ -7,10 +7,362 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/experiments/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>011 · Kinetic Darkroom: When the Enlarger Moves Instead of the Camera</title>
+      <link>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</guid>
+      <description>&lt;h1 id=&#34;kinetic-darkroom-when-the-enlarger-moves-instead-of-the-camera&#34;&gt;Kinetic Darkroom: When the Enlarger Moves Instead of the Camera&lt;/h1&gt;
+&lt;p&gt;These three prints come from the same negative—a straightforward street scene shot on scooters in bright daylight. The first is a straight print, capturing the scene as it was. The second fragments into parallel realities through lateral movement. The third dissolves into pure motion, figures bleeding into their own shadows.&lt;/p&gt;
+&lt;p&gt;This is intentional enlarger movement: the darkroom&amp;rsquo;s answer to ICM (intentional camera movement), executed not during capture but during printing. Same control over abstraction, entirely different physics.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_03.jpeg&#34; align=&#34;left&#34; width=&#34;295px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_02.jpeg&#34; align=&#34;left&#34; width=&#34;305px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_01.jpeg&#34; align=&#34;left&#34; width=&#34;305px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt;
+&lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+&lt;p&gt;Same negative, different prints. Left - moving the paper to make multiple exposures. Right upper - regular print. Right lower - zooming out the enlarger head mid-exposure&lt;/p&gt;
+&lt;h2 id=&#34;a-technique-without-a-name&#34;&gt;A Technique Without a Name&lt;/h2&gt;
+&lt;p&gt;While ICM has its dedicated practitioners, hashtags, and how-to guides, intentional enlarger movement exists in the margins of experimental darkroom practice. No standardized terminology. No unified community. Just scattered mentions in forums and the occasional artist statement.&lt;/p&gt;
+&lt;p&gt;This invisibility seems odd given the technique&amp;rsquo;s advantages. Unlike ICM, where you get one shot at the motion during capture, enlarger movement allows infinite variations from a single negative. You can refine through test strips, adjust timing, experiment with different movement patterns—all without burning through film chasing that perfect blur.&lt;/p&gt;
+&lt;h2 id=&#34;adding-life-to-static-moments&#34;&gt;Adding Life to Static Moments&lt;/h2&gt;
+&lt;p&gt;Street photography often captures frozen instants—decisive moments locked in silver. But what if the scene wants to move? What if those scooter riders deserve to continue their journey across the frame rather than being pinned like specimens?&lt;/p&gt;
+&lt;p&gt;Intentional enlarger movement resurrects motion from static negatives. It&amp;rsquo;s not about documenting movement that happened (that&amp;rsquo;s what slow shutter speeds do), but about creating movement that never was—injecting kinetic energy into moments that were captured in fractions of a second. The technique transforms documentary photographs into something more experiential, turning a record of what was there into an impression of what it felt like.&lt;/p&gt;
+&lt;p&gt;This matters particularly when working with older negatives. That shot from years ago, technically perfect but emotionally flat? Movement during printing can reinvigorate it, adding the dynamism that memory provides but the original capture missed. The negative becomes raw material for reinterpretation rather than a fixed document.&lt;/p&gt;
+&lt;p&gt;The physics differ fundamentally from camera movement too. When you move a camera, everything blurs equally relative to the sensor. When you raise an enlarger head during exposure, the inverse square law kicks in: light intensity drops with the square of distance. Your starting position might deliver four times the exposure of your ending position. This creates weighted, asymmetric blur—the closer position dominates the final image while the distant position ghosts away.&lt;/p&gt;
+&lt;h2 id=&#34;historical-context-objects-first-enlargers-later&#34;&gt;Historical Context: Objects First, Enlargers Later&lt;/h2&gt;
+&lt;p&gt;The Bauhaus experimenters understood movement in the darkroom, though they focused on moving objects rather than equipment. Moholy-Nagy&amp;rsquo;s photograms involved objects in motion during exposure, creating what he called &amp;ldquo;motion of light in space.&amp;rdquo; His Light-Space Modulator (1922-1930) mechanized this process—a kinetic sculpture specifically designed for photographic experimentation.&lt;/p&gt;
+&lt;p&gt;Lotte Jacobi took it further with her &amp;ldquo;Light Pictures&amp;rdquo; (1946-1951), using handheld torches covered in fabric, drawing with light directly onto photographic paper. Man Ray discovered that moving objects during photogram exposure created &amp;ldquo;ambiguous and refracted&amp;rdquo; qualities. Yet none of these pioneers documented systematic enlarger movement as a technique.&lt;/p&gt;
+&lt;p&gt;Jerry Uelsmann came closest to codifying kinetic darkroom work, though his method involved moving paper between multiple enlargers rather than moving the enlargers themselves. His setup—up to twelve enlargers loaded with different negatives—allowed complex composites through sequential exposure as he physically carried paper from station to station.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_05.jpeg&#34; align=&#34;left&#34; width=&#34;296px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_04.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt;
+&lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+&lt;h2 id=&#34;the-physics-of-projection-movement&#34;&gt;The Physics of Projection Movement&lt;/h2&gt;
+&lt;p&gt;Three factors shape how enlarger movement affects the final print: the inverse square law, magnification changes, and focus shift. Understanding these helps predict and control results.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vertical movement&lt;/strong&gt; (raising/lowering the head) creates radial zoom blur. As the enlarger rises, the projected image expands from its optical center. Points near the edges blur more than central areas. The asymmetric exposure means your starting height contributes more density than your ending height—creating a unique &amp;ldquo;comet tail&amp;rdquo; effect where the initial image anchors while the expanded version fades away.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Horizontal movement&lt;/strong&gt; keeps magnification constant but shifts the entire image plane. This produces cleaner directional blur without the zoom effect. Moving the paper rather than the enlarger head achieves similar results with easier control—though you lose the ability to selectively blur parts of the image through masked movement.&lt;/p&gt;
+&lt;p&gt;The Callier Effect adds another variable. Condenser enlargers, with their collimated light, produce higher contrast and more defined grain structure during movement. Diffusion enlargers create softer transitions. I use a condenser system, which gives these movement studies their sharp-edged quality even within the blur.&lt;/p&gt;
+&lt;h2 id=&#34;icm-vs-kinetic-darkroom-complementary-techniques&#34;&gt;ICM vs Kinetic Darkroom: Complementary Techniques&lt;/h2&gt;
+&lt;p&gt;The comparison reveals fundamental differences in approach and outcome:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Aspect&lt;/th&gt;
+          &lt;th&gt;ICM&lt;/th&gt;
+          &lt;th&gt;Kinetic Enlarger Movement&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;When it happens&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;During capture&lt;/td&gt;
+          &lt;td&gt;During printing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Repeatability&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Low—one chance per shot&lt;/td&gt;
+          &lt;td&gt;High—infinite variations from one negative&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Control&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Depends on environment, subject movement&lt;/td&gt;
+          &lt;td&gt;Complete control in darkroom setting&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Testing&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Requires multiple shots&lt;/td&gt;
+          &lt;td&gt;Test strips allow refinement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Original preserved&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Motion baked into negative&lt;/td&gt;
+          &lt;td&gt;Negative remains pristine&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Typical effects&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Streaking, impressionist blur&lt;/td&gt;
+          &lt;td&gt;Zoom blur, ghosting, weighted exposure&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;practical-execution&#34;&gt;Practical Execution&lt;/h2&gt;
+&lt;p&gt;For these prints, I started with a well-exposed negative—important because movement reduces effective contrast. The setup stays simple: Ilford Multigrade paper, standard chemistry, but with the enlarger timer set for extended exposures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First print (straight reference)&lt;/strong&gt;: Standard eight-second exposure at f/11, no movement. This serves as the baseline—what the negative actually captured. Sharp shadows, clear geometry, the street scene as it was.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second print (lateral shift)&lt;/strong&gt;: Five seconds static, then horizontal paper movement during five more seconds of exposure. This creates the parallel universe effect—each figure exists twice, once in sharp focus and once as their own ghost. The geometric patterns of the pavement amplify this doubling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Third print (continuous motion)&lt;/strong&gt;: The enlarger head rises continuously throughout a twelve-second exposure. No static anchor point. The result approaches pure abstraction—motion itself becomes the subject rather than the people or place.&lt;/p&gt;
+&lt;p&gt;Exposure compensation proved critical. Movement spreads light, reducing local density. These prints required 2-3× normal exposure time to maintain proper blacks. Test strips are essential—the non-linear response of photographic paper makes prediction difficult.&lt;/p&gt;
+&lt;h2 id=&#34;contemporary-practitioners&#34;&gt;Contemporary Practitioners&lt;/h2&gt;
+&lt;p&gt;Fabiola Menchelli has pushed kinetic darkroom practice furthest. Working in complete darkness, she folds photographic paper during exposure, creating large-scale abstractions through touch and sound alone. Her current Norton Museum residency (through March 2025) showcases these pieces—evidence that experimental darkroom work can hold its own in contemporary art spaces.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Liz Nielsen&lt;/strong&gt; creates &amp;ldquo;light paintings&amp;rdquo; in analog colour darkrooms, manipulating light sources during exposure to build abstract compositions. While not strictly enlarger movement, her kinetic approach to darkroom exposure shares the same experimental spirit.&lt;/p&gt;
+&lt;p&gt;Most practitioners, however, remain scattered across alternative process communities. Christina Z. Anderson&amp;rsquo;s &lt;em&gt;The Experimental Darkroom&lt;/em&gt; touches on movement techniques. Online forums like Photrio occasionally feature movement experiments. But there&amp;rsquo;s no cohesive community or standardized approach like ICM enjoys.&lt;/p&gt;
+&lt;h2 id=&#34;future-explorations&#34;&gt;Future Explorations&lt;/h2&gt;
+&lt;p&gt;These initial experiments suggest numerous directions worth pursuing:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Masked movement&lt;/strong&gt;: Using cutout shapes or graduated filters during movement to selectively blur portions of the image. Imagine sharp architectural elements while figures dissolve into motion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multiple movement phases&lt;/strong&gt;: Brief static exposure, movement phase, another static exposure. This could create sandwich effects—sharp images interpenetrated by their own motion ghosts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rotational movement&lt;/strong&gt;: Spinning the paper during exposure for radial blur effects. Combined with off-center placement, this could create vortex-like distortions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chemical combinations&lt;/strong&gt;: Movement prints as base layers for mordançage or Sabattier treatment. The altered silver distribution from movement might create unique reaction patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hybrid negatives&lt;/strong&gt;: Shooting with intentional camera movement, then adding enlarger movement during printing. Double abstraction through complementary techniques.&lt;/p&gt;
+&lt;p&gt;The analog resurgence—film sales up, new cameras being manufactured, Instagram flooded with #filmisnotdead—suggests timing is right for systematic exploration of these techniques. Young photographers seeking tactile, unrepeatable processes might find kinetic darkroom work offers something digital can&amp;rsquo;t replicate.&lt;/p&gt;
+&lt;h2 id=&#34;why-this-matters&#34;&gt;Why This Matters&lt;/h2&gt;
+&lt;p&gt;In an era of infinite digital perfection, intentional enlarger movement returns unpredictability to the photographic process. Like mordançage or Sabattier, it transforms the darkroom from reproduction space to creative laboratory. The technique demands presence—you can&amp;rsquo;t automate or preset these effects. Each print emerges from a specific moment of physical intervention.&lt;/p&gt;
+&lt;p&gt;More fundamentally, it challenges the assumed relationship between negative and print. The negative becomes raw material rather than fixed template. One street scene contains infinite possibilities, revealed through motion.&lt;/p&gt;
+&lt;p&gt;The absence of established terminology or technique guides isn&amp;rsquo;t a limitation—it&amp;rsquo;s an invitation. While ICM practitioners work within developed aesthetic frameworks, enlarger movement remains open territory. No rules except physics. No expectations except surprise.&lt;/p&gt;
+&lt;p&gt;Standing in the darkroom, watching an image transform through movement under red light, you&amp;rsquo;re not just making a print. You&amp;rsquo;re collaborating with light, time, and motion to find images that exist nowhere—not in the negative, not in reality, but in the space between intention and accident.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers</title>
+      <link>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</guid>
+      <description>&lt;h1 id=&#34;breaking-ra4-apart-when-mordançage-meets-colour-layers&#34;&gt;Breaking RA4 Apart: When Mordançage Meets Colour Layers&lt;/h1&gt;
+&lt;p&gt;The conventional wisdom is clear: mordançage doesn&amp;rsquo;t work on colour materials. No silver, no reaction. Case closed. The chemistry textbooks are unequivocal—RA4 colour paper creates images through cyan, magenta, and yellow dyes, not metallic silver. After the bleach step strips away the developed silver, you&amp;rsquo;re left with pure chromogenic dyes suspended in gelatin. Nothing for copper ions to bite into.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_1.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;So why are these prints lifting? Why, after a few minutes in heated mordançage solution, does the emulsion begin to bubble and separate? Why can I peel entire colour layers away from the resin-coated base like removing cling film from a window?&lt;/p&gt;
+&lt;p&gt;These questions led me into uncharted chemical territory. What started as curiosity about whether mordançage could affect colour materials has become an exploration of RA4 paper&amp;rsquo;s hidden architecture—the adhesion layers, the gelatin matrices, the boundaries between cyan, magenta, and yellow that normally remain invisible until chemistry forces them apart.&lt;/p&gt;
+&lt;h2 id=&#34;the-impossible-chemistry&#34;&gt;The Impossible Chemistry&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s establish what shouldn&amp;rsquo;t be happening. In a standard RA4 process, the workflow runs: developer → bleach-fix (or separate bleach, then fix) → wash. The developer converts exposed silver halides to metallic silver whilst simultaneously creating colour dyes through chromogenic coupling. The bleach then oxidises that metallic silver to soluble silver salts, which the fixer removes entirely. What remains are pure dye clouds—no metallic silver in the final image.&lt;/p&gt;
+&lt;p&gt;Mordançage chemistry, as it is usually described, requires metallic silver to function. The copper(II) chloride needs something to oxidise. The reaction cascade that weakens gelatin depends on that initial electron transfer from silver to copper. Without silver, the chemistry should be inert. The solution should sit there, doing nothing.&lt;/p&gt;
+&lt;p&gt;Yet here I am, watching bubbles form across the surface of a fully processed Fuji Crystal Archive print. The emulsion swells, distorts, then begins to separate from the base.&lt;/p&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_2.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;Sometimes it lifts in sheets. Sometimes in bubbles that burst to reveal the white polyethylene base beneath. Sometimes distinct colour layers separating from each other, cyan peeling away from magenta, yellow clouds floating free.&lt;/p&gt;
+&lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;the-alternative-hypothesis-beyond-silver-chemistry&#34;&gt;The Alternative Hypothesis: Beyond Silver Chemistry&lt;/h2&gt;
+&lt;p&gt;After some experimentation, I&amp;rsquo;m working with a different theory. What if the mordançage solution isn&amp;rsquo;t primarily attacking silver at all in these RA4 applications? What if we&amp;rsquo;re seeing something else entirely—a direct chemical assault on the adhesion layers and gelatin structure that has nothing to do with the classical mordançage mechanism?&lt;/p&gt;
+&lt;p&gt;Consider the brutal chemistry we&amp;rsquo;re deploying: concentrated hydrogen peroxide, glacial acetic acid, copper chloride, all held warm at roughly 35°C. Even without silver to oxidise, this cocktail remains seriously aggressive. The hydrogen peroxide alone, at 35% concentration, is a powerful oxidising agent that attacks organic materials. The glacial acetic acid drops the pH below 2, causing massive gelatin swelling. The warmth accelerates everything.&lt;/p&gt;
+&lt;p&gt;RA4 paper architecture differs fundamentally from traditional black and white papers. The emulsion isn&amp;rsquo;t just gelatin with silver halides—it&amp;rsquo;s a complex multilayer structure:&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/layerstack.png&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+    &lt;figcaption&gt; Taken from &lt;a href=&#34;https://asset.fujifilm.com/www/us/files/2020-02/9251484a0eda6ebb4b47cc6fec73173a/Fujicolor_Crystal_Archive_Type-CA-Data-Specs.pdf&#34; target=&#34;_blank&#34;&gt;Fujifilm Crystal Archive Datasheet&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Supercoat&lt;/strong&gt;: Protective top layer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Red-sensitive layer&lt;/strong&gt;: Contains cyan dye couplers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interlayer&lt;/strong&gt;: Prevents the diffusion of developer-derived molecules into neighbouring layers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Green-sensitive layer&lt;/strong&gt;: Contains magenta dye couplers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interlayer&lt;/strong&gt;: Prevents the diffusion of developer-derived molecules into neighbouring layers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blue-sensitive layer&lt;/strong&gt;: Contains yellow dye couplers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adhesion layer&lt;/strong&gt;: Binds emulsion to resin-coated base&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resin coating&lt;/strong&gt;: Polyethylene layer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper base&lt;/strong&gt;: The actual paper fibre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each boundary between these layers represents a potential failure point when subjected to extreme chemical stress.&lt;/p&gt;
+&lt;p&gt;For these experiments, I use modern RC colour paper simply because it is what remains available; fibre-based colour papers are essentially unobtainable in regular darkroom practice. That scarcity makes the peculiar vulnerability of RA4-on-RC all the more interesting.&lt;/p&gt;
+&lt;h2 id=&#34;the-heated-assault-temperature-as-catalyst&#34;&gt;The Heated Assault: Temperature as Catalyst&lt;/h2&gt;
+&lt;p&gt;The breakthrough came with temperature. At room temperature, RA4 prints resist the mordançage solution almost completely. The emulsion might swell slightly, colours might shift, but the layers hold together. Raise the working temperature to somewhere around 35°C, and everything changes.&lt;/p&gt;
+&lt;p&gt;The warmth serves multiple functions. It accelerates chemical reactions—what might take hours at 20°C happens in minutes closer to 35°C. It increases molecular motion, allowing the aggressive chemistry to penetrate deeper into the emulsion structure. Most critically, it weakens the adhesion layers that bind everything together [web:10][file:4].&lt;/p&gt;
+&lt;p&gt;Modern RA4 papers use sophisticated adhesion promoters to lock the emulsion to the polyethylene base. These are typically titanium- or chromium-based compounds that create molecular bridges between the organic gelatin and the synthetic resin coating. They&amp;rsquo;re designed to survive normal processing chemistry. They&amp;rsquo;re not designed to survive concentrated hydrogen peroxide around 35°C whilst simultaneously being attacked by acid.&lt;/p&gt;
+&lt;h2 id=&#34;the-colour-layer-phenomenon&#34;&gt;The Colour Layer Phenomenon&lt;/h2&gt;
+&lt;p&gt;The most fascinating aspect of this process is the occasional visible separation of colour layers. In a normally processed RA4 print, the three dye layers exist as an integrated sandwich, impossible to distinguish or separate. But under extreme chemical stress, boundaries emerge.&lt;/p&gt;
+&lt;p&gt;When the emulsion lifts cleanly, I sometimes catch glimpses of pure cyan or magenta regions—evidence that the layers aren&amp;rsquo;t lifting uniformly. The chemical attack seems to preferentially weaken certain interlayer boundaries. My hypothesis: each layer has slightly different gelatin formulations, different hardening levels, different chemical vulnerabilities. The mordançage solution exploits these differences.&lt;/p&gt;
+&lt;p&gt;This selective attack creates the yellow–green chromatic effects visible in prints left to dry with residual chemistry. As the trapped solution continues working between partially separated layers, it creates colour shifts that would be impossible through normal colour processing. We&amp;rsquo;re seeing subtractive colour in reverse—not the removal of colour layers but their physical and chemical isolation from each other.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mechanical intervention&lt;/strong&gt;: Unlike traditional mordançage where the emulsion often lifts spontaneously, RA4 sometimes requires encouragement. A gentle scratch with a fingernail or brush can initiate lifting that then propagates across the print. The chemistry weakens the structure; mechanical force provides the failure point.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timing windows&lt;/strong&gt;: Too short, and nothing happens. Too long, and the entire emulsion dissolves into coloured soup. The sweet spot—typically around 4–7 minutes at roughly 35°C in fresh solution—yields controllable lifting with maintained colour integrity.&lt;/p&gt;
+&lt;h2 id=&#34;safety-escalation-this-isnt-standard-mordançage&#34;&gt;Safety Escalation: This Isn&amp;rsquo;t Standard Mordançage&lt;/h2&gt;
+&lt;p&gt;If regular mordançage demands respect, heated RA4 mordançage demands reverence. We&amp;rsquo;re combining multiple hazard vectors:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chemical hazards&lt;/strong&gt;: 35% hydrogen peroxide causes immediate chemical burns. Glacial acetic acid vapours even around 35°C are significantly more aggressive than at room temperature. Copper compounds remain toxic. On top of this, there is the unknown element of whatever compounds are released when RA4 chemistry breaks down under these conditions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thermal hazards&lt;/strong&gt;: Warmer chemistry increases vapour pressure. That means more aggressive fumes, faster evaporation, and increased respiratory risk. The warmed solution can cause thermal burns on top of chemical burns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unknown decomposition products&lt;/strong&gt;: We&amp;rsquo;re forcing colour chemistry into conditions it was never designed to experience. The chromogenic dyes, the colour couplers, the stabilisers—all of these might decompose into unexpected compounds. Without proper analytical work, we can&amp;rsquo;t know exactly what we&amp;rsquo;re creating.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required safety protocol&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fume hood or exceptional ventilation (mandatory—not optional)&lt;/li&gt;
+&lt;li&gt;Chemical splash goggles (sealed; vented lab specs are not enough)&lt;/li&gt;
+&lt;li&gt;Thick nitrile or neoprene gloves (latex will not suffice)&lt;/li&gt;
+&lt;li&gt;Chemical-resistant apron&lt;/li&gt;
+&lt;li&gt;Closed-toe shoes&lt;/li&gt;
+&lt;li&gt;Emergency shower or at least copious running water within reach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contemporary-context-a-technique-without-precedent&#34;&gt;Contemporary Context: A Technique Without Precedent&lt;/h2&gt;
+&lt;p&gt;Extensive research reveals no documented precedent for this specific technique. Elizabeth Opalenik, the modern master of mordançage, works exclusively with black and white materials. Christina Z. Anderson&amp;rsquo;s comprehensive guides don&amp;rsquo;t mention colour applications. The alternative process forums—APUG, Photrio, the various Facebook groups—contain no sustained discussions of RA4 mordançage, at least at the time of writing.&lt;/p&gt;
+&lt;p&gt;The closest parallel might be experiments in bleach-bypass C‑41 film, where retained silver enables mordançage-like effects on colour negatives. But even that works through traditional silver chemistry. What is happening here—attacking fully processed colour prints with no retained metallic silver—appears to be genuinely novel.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t entirely surprising. The overlap between colour darkroom workers and alternative process practitioners has historically been small. Colour processing&amp;rsquo;s complexity and temperature criticality discouraged experimentation. The materials cost more. The chemistry expires faster. Most alternative process artists gravitated towards black and white, where variables were more controllable and materials more forgiving.&lt;/p&gt;
+&lt;h2 id=&#34;the-imperfect-archive-trapped-chemistry-as-extended-reaction&#34;&gt;The Imperfect Archive: Trapped Chemistry as Extended Reaction&lt;/h2&gt;
+&lt;p&gt;The most striking effects emerged accidentally. Prints pulled from the chemistry and left to dry without complete rinsing continued evolving for hours, even days. The residual mordançage solution, trapped between partially separated layers, kept working. The yellow–green aureoles spreading across the prints weren&amp;rsquo;t stains—they were ongoing chemical reactions creating new chromogenic effects.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;This presents an archival nightmare but an artistic opportunity. These prints exist in slow-motion transformation. The trapped chemistry creates effects impossible to achieve through controlled processing—colour clouds that seem to breathe, boundaries that shift depending on humidity, images that refuse to stabilise.&lt;/p&gt;
+&lt;p&gt;One could attempt to arrest these reactions through extensive washing, but something would be lost. The ongoing instability is part of the work&amp;rsquo;s meaning—photographs that refuse to be fixed, colours that won&amp;rsquo;t be contained, images actively decomposing and recomposing themselves.&lt;/p&gt;
+&lt;h2 id=&#34;technical-observations-and-patterns&#34;&gt;Technical Observations and Patterns&lt;/h2&gt;
+&lt;p&gt;After dozens of prints, patterns emerge:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cyan lifts first&lt;/strong&gt;: The top layer seems most vulnerable to separation, which fits the known RA4 layer stack with the red-sensitive/cyan-forming layer nearest the surface.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edge effects dominate&lt;/strong&gt;: Like traditional mordançage, dramatic effects concentrate where chemistry can penetrate from multiple angles—edges, scratches, any break in the emulsion surface.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Colour density affects lifting&lt;/strong&gt;: Heavily exposed areas with maximum dye and gelatin density often lift earlier than highlights. Dense regions appear to provide more material for the swollen, weakened gelatin to lose its grip.&lt;/p&gt;
+&lt;h2 id=&#34;future-investigations&#34;&gt;Future Investigations&lt;/h2&gt;
+&lt;p&gt;This work opens numerous research directions:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chemical analysis&lt;/strong&gt;: Mass spectrometry or related techniques could identify what compounds form during the reaction. Are we seeing dye decomposition, altered couplers, or new chromogenic products? Understanding the chemistry could enable more precise control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alternative chemistry formulations&lt;/strong&gt;: If copper chloride isn&amp;rsquo;t essential in the absence of silver, what other oxidisers or catalysts might work? Could we achieve similar effects with completely different, possibly safer chemistry?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selective layer removal&lt;/strong&gt;: Can we develop techniques to remove specific colour layers whilst preserving others? Imagine removing only cyan to reveal the magenta–yellow image beneath.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hybrid processes&lt;/strong&gt;: What happens when we combine this with other alternative techniques? RA4 mordançage followed by toning? Sequential layer lifting with different chemistry between stages?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Digital hybrids&lt;/strong&gt;: These lifted colour layers could be scanned at various stages, creating digital composites impossible through purely photographic means.&lt;/p&gt;
+&lt;h2 id=&#34;the-larger-implications&#34;&gt;The Larger Implications&lt;/h2&gt;
+&lt;p&gt;This technique challenges fundamental assumptions about photographic processes. We&amp;rsquo;ve been told colour and alternative processes don&amp;rsquo;t mix—that chromogenic materials exist in a separate universe from historical techniques. Chemistry refuses those neat categories.&lt;/p&gt;
+&lt;p&gt;More broadly, this work suggests vast unexplored territory in experimental colour photography. Whilst the alt‑process community has exhaustively explored many historical black and white techniques, colour remains largely virgin territory for experimental manipulation. The complexity that once discouraged experimentation now offers rich possibilities for those willing to venture into unstable, unpredictable processes.&lt;/p&gt;
+&lt;p&gt;Working with RA4 mordançage means accepting imperfection, embracing accident, collaborating with chemistry that refuses complete control. The results can&amp;rsquo;t be precisely repeated. Each print emerges from a unique moment of chemical chaos—temperature, timing, mechanical intervention, and pure chance combining to create something that shouldn&amp;rsquo;t exist according to the textbooks.&lt;/p&gt;
+&lt;h2 id=&#34;why-this-matters-now&#34;&gt;Why This Matters Now&lt;/h2&gt;
+&lt;p&gt;In an era when colour photography means primarily digital capture and inkjet output, returning to chromogenic materials with experimental intent feels almost archaeological. We&amp;rsquo;re excavating the physical structure of colour photography itself—literally peeling apart the layers that create photographic colour.&lt;/p&gt;
+&lt;p&gt;This matters because it reveals colour photography as constructed rather than natural. When we can physically separate cyan from magenta, we see how arbitrary and artificial photographic colour has always been. The smooth colour gradients we accept as “realistic” are actually discontinuous layers of dye, only appearing continuous because they&amp;rsquo;re normally inseparable.&lt;/p&gt;
+&lt;p&gt;The technique also speaks to contemporary concerns about permanence and degradation. Whilst traditional photography prizes archival stability, these prints celebrate their own destruction. They&amp;rsquo;re photographs in active decomposition, images that refuse the stability we expect from colour prints. In a digital age of perfect preservation, there&amp;rsquo;s something compelling about photographs that insist on their own material transformation.&lt;/p&gt;
+&lt;p&gt;Standing in the darkroom, watching colour layers peel apart, I&amp;rsquo;m reminded that photography&amp;rsquo;s experimental future might lie not in new technologies but in misusing existing ones. Every established process contains potential for subversion. Every “impossible” reaction might just be waiting for someone willing to add heat, increase concentration, or simply refuse to accept that something can&amp;rsquo;t be done.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>013 · Chromatic Archaeology: Reading the Ruins of Colour Photography</title>
+      <link>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
+      <description>&lt;h1 id=&#34;chromatic-archaeology-reading-the-ruins-of-colour-photography&#34;&gt;Chromatic Archaeology: Reading the Ruins of Colour Photography&lt;/h1&gt;
+&lt;p&gt;A fully processed RA4 print presents itself as a unified surface—a seamless blend of cyan, magenta, and yellow that our eyes read as full colour. We accept this illusion so completely that we forget it&amp;rsquo;s an illusion at all. But what happens when we literally peel back that promise? These mordançage-treated RA4 prints aren&amp;rsquo;t just technical experiments—they&amp;rsquo;re archaeological excavations into the physical structure of colour photography itself. Each lifted layer, each chromatic bubble, each yellow-green chemical burn reveals something fundamental: colour photography has always been a construction, a careful stack of molecular approximations that only coheres when we don&amp;rsquo;t look too closely.&lt;/p&gt;
+&lt;h2 id=&#34;the-revelation-of-structure&#34;&gt;The Revelation of Structure&lt;/h2&gt;
+&lt;p&gt;When I first saw distinct colour layers separating—cyan peeling away from magenta like old paint from a wall—I realised I was witnessing something typically invisible: the actual architecture of colour photography. Intellectually, we understand that colour prints contain separate dye layers, but seeing them physically delaminate transforms theoretical knowledge into visceral understanding.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s like those anatomical models where transparent layers reveal muscles, organs, bones. Except here, we&amp;rsquo;re dissecting the anatomy of an image. The cyan layer, responsible for controlling red light, floats free. The magenta layer, modulating green, bubbles up. The yellow, so often invisible in its subtlety, suddenly appears as distinct clouds of colour.&lt;/p&gt;
+&lt;p&gt;The visible stratification exposes the fundamental arbitrariness of photographic colour. There&amp;rsquo;s nothing natural about dividing the visible spectrum into three dye layers. It&amp;rsquo;s a compromise, an engineering solution that works well enough that we&amp;rsquo;ve forgotten it&amp;rsquo;s a compromise at all. These mordançage prints make that compromise visible again.&lt;/p&gt;
+&lt;h2 id=&#34;reading-the-ruins&#34;&gt;Reading the Ruins&lt;/h2&gt;
+&lt;p&gt;Looking at these prints requires developing new visual literacy. We can&amp;rsquo;t read them as conventional photographs—representations of something that existed in front of the camera. Instead, we read them as palimpsests, as geological cross-sections, as maps of chemical events.&lt;/p&gt;
+&lt;p&gt;The lifted areas become negative spaces that reveal the polyethylene base—photography&amp;rsquo;s hidden substrate suddenly visible. The colour separations show the arbitrary divisions we use to construct &amp;ldquo;natural&amp;rdquo; colour. The chemical burns mark time&amp;rsquo;s passage not in years but in minutes of reaction.&lt;/p&gt;
+&lt;p&gt;This is photography that documents its own making and unmaking simultaneously. The image shows both what the camera captured and what the chemistry destroyed. Past and future collapse into a present that won&amp;rsquo;t hold still.&lt;/p&gt;
+&lt;h2 id=&#34;the-palette-of-destruction&#34;&gt;The Palette of Destruction&lt;/h2&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3a.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+The yellow-green chromatic tone that dominates these prints deserves special attention.
+ I think of it as the colour of photographic death. Just as leaves turn colours when dying that they never showed whilst alive, these prints reveal hues during their destruction that were impossible during their creation. The yellow-green isn&#39;t just chemical staining—it&#39;s the visual signature of molecular breakdown, of dyes decomposing, of chemistry consuming itself.
+&lt;p&gt;This expanded palette suggests vast unexplored territories in colour photography.
+What colours emerge only through destruction?&lt;/p&gt;
+&lt;h2 id=&#34;time-as-a-dimension&#34;&gt;Time as a Dimension&lt;/h2&gt;
+&lt;p&gt;Traditional photography freezes time—that&amp;rsquo;s its fundamental promise. These mordançage prints reject that promise entirely. They exist in continuous transformation, their chemistry still active, their colours still shifting. A print photographed today will look different tomorrow. The trapped chemistry continues its work, creating aureoles of colour that expand like slow explosions.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3b.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;The temporal dimension transforms them from photographs into performances. The image isn&amp;rsquo;t the final print—it&amp;rsquo;s the entire process of transformation. Watching a print change over days or weeks becomes part of experiencing the work. We&amp;rsquo;re not just viewing an image; we&amp;rsquo;re witnessing its ongoing decay.&lt;/p&gt;
+&lt;p&gt;This recalls the Japanese concept of &lt;em&gt;mono no aware&lt;/em&gt;—the pathos of things, the gentle sadness of transient beauty. These prints embody that aesthetic philosophy in chemical form. Their beauty is inseparable from their impermanence. They&amp;rsquo;re more beautiful because they&amp;rsquo;re dying.&lt;/p&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;the-honesty-of-instability&#34;&gt;The Honesty of Instability&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s something fundamentally honest about prints that refuse to stabilise. All colour photographs fade—that&amp;rsquo;s been true since the earliest chromogenic processes. Even the most archival contemporary materials will eventually succumb to entropy. These mordançage prints simply acknowledge that fate more openly, even celebrate it.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;Consider the history of colour photography&amp;rsquo;s false promises of permanence. Kodacolor prints from the 1940s have shifted dramatically. Ektachromes from various eras showed poor dark fading and colour shifts. Even modern RA4 prints, despite manufacturer claims, show measurable colour shifts within decades. Colour photography has chased archival stability for over a century and consistently struggled to achieve it.&lt;/p&gt;
+&lt;p&gt;These deliberately unstable prints suggest a different approach: embrace the impermanence. Make work that acknowledges its own mortality. Create images that perform their own decay. There&amp;rsquo;s more truth in a print that openly deteriorates than in one that pretends to permanence it can&amp;rsquo;t actually achieve.&lt;/p&gt;
+&lt;h2 id=&#34;chemical-terroir&#34;&gt;Chemical Terroir&lt;/h2&gt;
+&lt;p&gt;Each batch of prints develops its own character based on subtle variables—the exact temperature that day, the chemistry&amp;rsquo;s age, the specific paper batch, even the humidity in the darkroom. Like wine reflecting its terroir, these prints carry the signature of their specific moment of creation. This chemical variability builds on the kinetic darkroom experiments where movement during enlargement created unique prints—but here the uniqueness comes not from exposure technique but from chemical chaos itself.&lt;/p&gt;
+&lt;p&gt;This irreproducibility runs counter to photography&amp;rsquo;s supposed democratic reproducibility. An entire medium has been built on the premise that prints can be repeated, that editions can be matched. These prints reject that industrial logic. Each one is necessarily unique, carrying the chemical fingerprint of its specific moment of destruction.&lt;/p&gt;
+&lt;p&gt;The yellow-green pollution varies from print to print—sometimes spreading in circular aureoles, sometimes in directional streams, sometimes in explosive bursts. These patterns can&amp;rsquo;t be controlled, only influenced. The chemistry has its own agency, its own aesthetic decisions. The photographer becomes collaborator rather than author.&lt;/p&gt;
+&lt;h2 id=&#34;living-with-instability&#34;&gt;Living With Instability&lt;/h2&gt;
+&lt;p&gt;These prints present practical challenges that become part of their conceptual framework. Storage becomes performance—do I arrest the chemical reactions through extensive washing, or let them continue? Display becomes documentation—each viewing captures a specific moment in an ongoing transformation. Archiving becomes paradox—how do you preserve something designed to decay?&lt;/p&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_5.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+So far, I&#39;ve chosen to let the chemistry continue working. Some prints I&#39;ve washed thoroughly after initial documentation, effectively freezing them at a particular stage of degradation. Others remain unwashed, their evolution continuing in storage. After several weeks, the most aggressive reactions slow, though subtle shifts in colour and density continue for months.
+&lt;p&gt;The fragility matters too. These prints can&amp;rsquo;t be handled carelessly—lifted emulsion layers remain delicate, prone to further tearing or complete detachment. They exist in gallery spaces only with significant care, protected from touch, humidity extremes, and direct light. Their physical vulnerability reinforces their conceptual stance: impermanence made manifest.&lt;/p&gt;
+&lt;h2 id=&#34;digital-mediation-and-material-reality&#34;&gt;Digital Mediation and Material Reality&lt;/h2&gt;
+&lt;p&gt;Ironically, these supremely physical, unmistakably analogue prints often reach viewers as digital files. The photographs you&amp;rsquo;re seeing of these prints are digital captures of analogue destructions. There&amp;rsquo;s something poetic about using digital photography&amp;rsquo;s stability to document analogue photography&amp;rsquo;s instability.&lt;/p&gt;
+&lt;p&gt;But the digital documentation is necessarily incomplete. It can&amp;rsquo;t capture the dimensionality—the actual lifting of emulsion creates topographical variations that shift with viewing angle. It can&amp;rsquo;t capture the ongoing transformation—each digital capture freezes what refuses to be frozen. It can&amp;rsquo;t capture the chemical smell, the tackiness of incompletely dried emulsion, the fragility of layers barely holding together.&lt;/p&gt;
+&lt;p&gt;This gap between digital documentation and physical reality emphasises what we lose in photography&amp;rsquo;s digital migration. These prints insist on their materiality in ways that can&amp;rsquo;t be fully digitised. They&amp;rsquo;re photographs that resist photography.&lt;/p&gt;
+&lt;h2 id=&#34;toward-a-new-colour-aesthetic&#34;&gt;Toward a New Colour Aesthetic&lt;/h2&gt;
+&lt;p&gt;These experiments suggest possibilities for a new relationship with colour photography—one that acknowledges construction rather than assuming naturalism, embraces instability rather than pursuing permanence, celebrates accident alongside intention.&lt;/p&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_6.jpeg&#34; align=&#34;left&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+Imagine exhibitions where prints continue evolving throughout the show&#39;s run. Opening night viewers see different works than closing night viewers. The exhibition becomes durational, performative, unrepeatable.
+&lt;p&gt;Imagine editions where each print is deliberately unique—not through numbering but through chemical variation. The same negative yields infinite variations, each carrying its own chemical signature.&lt;/p&gt;
+&lt;p&gt;Imagine hybrid processes where controlled sections undergo mordançage whilst others remain stable, creating images that exist partially in transformation, partially in stasis. Time moves differently across the picture plane.&lt;/p&gt;
+&lt;h2 id=&#34;chemistry-as-revelation&#34;&gt;Chemistry as Revelation&lt;/h2&gt;
+&lt;p&gt;These RA4 mordançage experiments aren&amp;rsquo;t trying to solve a problem—archival instability isn&amp;rsquo;t a bug here but a feature. They&amp;rsquo;re not trying to improve colour photography—improvement implies we agree on what colour photography should do. Instead, they&amp;rsquo;re revealing what colour photography is: a precarious construction that has been naturalised through repetition and convention.&lt;/p&gt;
+&lt;p&gt;By forcing colour materials into conditions they weren&amp;rsquo;t designed to survive, we learn something essential about their nature. By watching them fail, we understand how they succeed. By seeing them come apart, we grasp how they&amp;rsquo;re put together.&lt;/p&gt;
+&lt;p&gt;Standing in the darkroom, watching colours separate and transform, smelling the acidic bite of chemistry doing things it shouldn&amp;rsquo;t, I&amp;rsquo;m reminded that experimental futures might not lie in new technologies but in deliberately misusing existing ones. Every established process contains the seeds of its own subversion. Every stable system can be destabilised to reveal new truths.&lt;/p&gt;
+&lt;p&gt;The twenty-first century has given us perfect digital colour, infinite reproducibility, absolute control. Perhaps what we need now is imperfect chemical colour, radical uniqueness, collaborative chaos. Perhaps we need photographs that admit what all photographs actually are: unstable negotiations between light and time, chemistry and chance, intention and accident.&lt;/p&gt;
+&lt;p&gt;The yellow-green stains spreading across these prints aren&amp;rsquo;t failures—they&amp;rsquo;re revelations. They show us colour photography with its mask removed, beautiful in its honesty about its own constructed nature. They remind us that every photograph, no matter how stable it appears, is actually a slow explosion of chemistry barely held in check.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>009 · Sabattier in the City of Lights</title>
+      <link>http://localhost:1313/experiments/010-sabattierincityoflights/010-sabattierincityoflights/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/010-sabattierincityoflights/010-sabattierincityoflights/</guid>
+      <description>&lt;h1 id=&#34;sabattier-in-the-city-of-lights&#34;&gt;Sabattier in the City of Lights&lt;/h1&gt;
+&lt;p&gt;One of the great privileges of my work in quantum hardware is the opportunity to travel. This past year, a research trip brought me to Paris, and I brought my camera along to capture the city between conference sessions and lab visits. When I returned to the darkroom, I found myself drawn to experimenting with these Parisian images through the Sabattier effect.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+There&#39;s something fitting, perhaps even inevitable, about applying the Sabattier effect to photographs of Paris. A city famous for its light seemed to call for a process that uses light against itself—where a controlled re-exposure during development creates those characteristic tonal reversals and glowing edge effects. If Paris celebrates illumination, Sabattier subverts it.
+&lt;h2 id=&#34;the-history-of-an-accident&#34;&gt;The History of an Accident&lt;/h2&gt;
+&lt;p&gt;The Sabattier effect has one of photography&amp;rsquo;s most fitting origin stories: it was discovered repeatedly, almost always by accident. As far as I can tell, the phenomenon was first described in print by H. de la Blanchère in 1859, then again in 1860 by multiple researchers including L.M. Rutherford, C.A. Seely, and Count Schouwaloff. French zoologist Armand Sabatier published work on the process in 1860 and correctly described the phenomenon in 1862, though he couldn&amp;rsquo;t explain why it occurred. His name was misspelled with a double &amp;ldquo;t&amp;rdquo; in subsequent literature, which is why we now call it the &amp;ldquo;Sabattier effect&amp;rdquo; rather than &amp;ldquo;Sabatier effect&amp;rdquo;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_8.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Throughout the 19th century, the effect was &amp;ldquo;discovered&amp;rdquo; many times by many photographers, as it tends to occur whenever a light is switched on inadvertently in the darkroom while a film or print is being developed. The technique remained largely a curiosity until Man Ray perfected it in the 1930s, reportedly after fellow artist Lee Miller accidentally exposed his film in the darkroom (coincidentally, Lee Miller was also the inspiration for Lee Smith in the recent Civil War movie). Man Ray quickly adopted the technique as a means to &amp;ldquo;escape from banality,&amp;rdquo; transforming darkroom accidents into intentional artistic practice, and to this date, is perhaps the most famous practitioner.&lt;/p&gt;
+&lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;the-chemistry-of-reversal&#34;&gt;The Chemistry of Reversal&lt;/h2&gt;
+&lt;p&gt;Understanding what happens during Sabattier requires looking at the behavior of silver halide crystals. When photographic paper is first exposed in an enlarger, light strikes silver halide molecules, creating latent image centers—essentially activation sites that mark where silver will form during development. During normal development, these exposed centers transform into metallic silver while the developer simultaneously eliminates the centers of remaining unexposed silver halides.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_1.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The magic happens with the second exposure. When the partially developed print is flashed with light while still in the developer, the remaining unexposed silver halides—those that would normally stay clear—suddenly become exposed. These newly formed silver bodies are much larger than the silver centers formed during the first exposure, and they overpower them, causing tone reversal. Dark areas that were heavily developed remain relatively unchanged, while lighter areas that retained more unexposed silver halides undergo dramatic transformation.&lt;/p&gt;
+&lt;p&gt;This creates the characteristic appearance of Sabattier prints: partial tone reversals, distinctive edge effects (called Mackie lines), and an eerie quality where shadows and highlights exist in uncertain relationship. The optical screening effect—where already-developed silver shields unexposed grains from the second exposure—contributes to the distinctive halos and boundaries between reversed and non-reversed areas.&lt;/p&gt;
+&lt;h2 id=&#34;why-sabattier-for-paris&#34;&gt;Why Sabattier for Paris&lt;/h2&gt;
+&lt;p&gt;Beyond the poetic connection between Paris as the City of Lights and a technique built on light intervention, there&amp;rsquo;s something conceptually appropriate about using Sabattier for this particular city. Paris isn&amp;rsquo;t just luminous—it&amp;rsquo;s a city of excess. Too rich in history, too dense with monuments, too saturated with cultural significance. The Sabattier process, which fundamentally involves &lt;em&gt;too much&lt;/em&gt; light, mirrors this overwhelming quality. Just as Sabattier embraces surplus light to create new forms, working with Paris photographs through this technique allows one to engage with the city&amp;rsquo;s overwhelming nature productively.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_2.jpeg&#34; align=&#34;right&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+I shot these images on a mix of film during walks through the city—mostly Kodak Double-X for these particular photographs—capturing early morning light along the Seine, the geometric patterns of Parisian architecture, metro stations emptied of crowds. They began as straightforward documentary photographs, the kind of images any photographer might make while exploring an iconic city. The transformation happened later, in the darkroom.
+&lt;h2 id=&#34;technical-approach-and-precise-control&#34;&gt;Technical Approach and Precise Control&lt;/h2&gt;
+&lt;p&gt;The Sabattier process rewards experimentation, but I wanted more precision than most historical accounts describe. I developed the prints in Adox chemistry, and rather than using a simple flash or room light, I performed the second exposure using a second enlarger. This approach allowed me precise control over both the timing and aperture—essentially controlling exactly how much light was introduced during the critical moment.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+My technique involved removing the partially developed prints from the developer tray and placing them in a dry tray for the second exposure, before resubmerging them in the developer. This prevented unwanted bubbling or chemical dilution during the flash exposure and gave me better control over the uniformity of the second exposure. The enlarger setup also meant I could vary the intensity by adjusting the aperture rather than relying on distance or timing alone.
+&lt;h2 id=&#34;from-street-photography-to-chemical-intervention&#34;&gt;From Street Photography to Chemical Intervention&lt;/h2&gt;
+&lt;p&gt;Not every print succeeded. Many ended up in the reject pile—too muddy, too chaotic, or simply uninteresting. But the successful ones revealed Paris in ways I hadn&amp;rsquo;t anticipated while standing on those streets with my camera. Architectural lines gained glowing halos from the Mackie line effect. The familiar cityscape became simultaneously itself and its negative, existing in an ambiguous space between light and dark.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_5.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;What emerges isn&amp;rsquo;t Paris as tourists see it, but Paris reimagined through chemical intervention—a city of lights transformed by light itself. The process doesn&amp;rsquo;t just depict the city&amp;rsquo;s luminosity; it performs an operation on it, pushing photographic materials beyond their intended limits to reveal something unexpected.&lt;/p&gt;
+&lt;h2 id=&#34;light-beyond-documentation&#34;&gt;Light Beyond Documentation&lt;/h2&gt;
+&lt;p&gt;These Sabattier prints don&amp;rsquo;t document Paris so much as &lt;em&gt;interpret&lt;/em&gt; the experience of being there. They capture something about the city&amp;rsquo;s relationship with light, but also something about the photographer&amp;rsquo;s relationship with both—the way travel compresses experience, the way darkroom work extends it, the way experimental processes can uncover dimensions invisible to straight photography.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The technique that Man Ray adopted to &amp;ldquo;escape from banality&amp;rdquo; in the 1930s still serves that purpose today. Paris will always be the City of Lights. Through Sabattier—a process born from accidents and perfected through intention—these photographs take the city&amp;rsquo;s luminous reputation and push it through one more transformation in the darkness of the darkroom.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_10.jpeg&#34; align=&#34;left&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_7.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_12.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>009 · Finding Mortality Through the Lens</title>
@@ -543,10 +895,6 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
 &lt;li&gt;&lt;a href=&#34;https://www.shop.odotoo.com/collections/books&#34;&gt;&lt;em&gt;No Magic in Riso&lt;/em&gt; by O.OO Design &amp;amp; Risograph Room, Taipei&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://risottostudio.com/pages/what-is-risograph-printing&#34;&gt;Risotto: What is risograph printing?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Zines dry on the rack— &lt;br&gt;
-twenty copies, all slightly &lt;br&gt;
-different, like days.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -627,10 +975,6 @@ different, like days.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;From Liesegang&amp;rsquo;s laboratory notebooks to contemporary gallery walls, mordançage demonstrates how historical processes remain relevant not through nostalgia, but through their unique expressive possibilities. The process demands respect – for its chemical hazards, certainly, but also for its potential to transform static photographs into dynamic, dimensional artworks.&lt;/p&gt;
 &lt;p&gt;As photography continues its digital evolution, mordançage reminds us that some artistic visions require getting your hands wet, literally. It&amp;rsquo;s a process where chemistry becomes choreography, where scientific understanding enables artistic expression, and where a 125-year-old technique still has something new to say.&lt;/p&gt;
 &lt;p&gt;The magic isn&amp;rsquo;t just in the chemistry – it&amp;rsquo;s in that moment when you lift a veil of emulsion from the paper, watching an image transform from two dimensions to three, from fixed to fluid, from photograph to something entirely other. That&amp;rsquo;s the real reaction happening in the tray: the transformation of scientific process into artistic possibility.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Silver dissolves, lifts— &lt;br&gt;
-veils of memory floating &lt;br&gt;
-between light and hand&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     

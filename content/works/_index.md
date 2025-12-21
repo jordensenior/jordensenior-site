@@ -15,7 +15,7 @@ A collection of photographic works, mordançage experiments, and mixed-media ins
 ---
 
 ## [Beneath the Surface](/works/beneath-the-surface/) 
-**2025** · *Installation Series*
+**2025** · *Exhibition Series*
 
 <br>
 <div class="work-preview">
@@ -33,6 +33,28 @@ An exploration of consumer spaces through mordançage photography, exhibited in 
 
 </div>
 <br>
+
+---
+
+## [Entangled Shadows: Mordançage at the Edge of Coherence](/works/quantum_mordancage/) 
+**2025** · *Exhibition Series*
+
+<br>
+<div class="work-preview">
+<img src="/works/exhibitions/rotlicht_0.jpeg" alt="Entangled Shadows: Mordançage at the Edge of Coherence installation" class="preview-image" />
+<br>
+An exploration transforming photographs of quantum systems into visceral representations of coherence, collapse, and emergence through mordançage and lith printing processes
+
+<br>
+<br>
+
+**Exhibitions:** 
+<br> Rotlicht Festival, Vienna, November 2025
+
+
+</div>
+<br>
+
 
 ---
 

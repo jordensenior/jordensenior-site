@@ -142,7 +142,3 @@ From Liesegang's laboratory notebooks to contemporary gallery walls, mordançage
 As photography continues its digital evolution, mordançage reminds us that some artistic visions require getting your hands wet, literally. It's a process where chemistry becomes choreography, where scientific understanding enables artistic expression, and where a 125-year-old technique still has something new to say.
 
 The magic isn't just in the chemistry – it's in that moment when you lift a veil of emulsion from the paper, watching an image transform from two dimensions to three, from fixed to fluid, from photograph to something entirely other. That's the real reaction happening in the tray: the transformation of scientific process into artistic possibility.
-
-> Silver dissolves, lifts— <br>
-> veils of memory floating <br>
-> between light and hand

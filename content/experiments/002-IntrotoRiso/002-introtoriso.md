@@ -108,7 +108,4 @@ The workshops feel more like darkroom sessions than print classes. I printed my 
 - [Risotto: What is risograph printing?](https://risottostudio.com/pages/what-is-risograph-printing)
 
 
-> Zines dry on the rack— <br>
-> twenty copies, all slightly <br>
-> different, like days.
 

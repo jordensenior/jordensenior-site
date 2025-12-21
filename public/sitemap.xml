@@ -3,7 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/alternative-process/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/analogue/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/darkroom/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enlarger-movement/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/experimental-darkroom/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/experimental-darkroom/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experiments/010-sabattierincityoflights/010-sabattierincityoflights/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sabattier/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experiments/009-timcarpenter/009-timcarpenter/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
@@ -11,25 +53,13 @@
     <loc>http://localhost:1313/tags/book-review/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/essay/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/experiments/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/philosophy/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/philosophy/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tim-carpenter/</loc>
@@ -42,9 +72,6 @@
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/beneath-the-surface/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/darkroom/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/exhibition/</loc>
@@ -93,9 +120,6 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experiments/001-mordencage/001-mordancage/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/analogue/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/morden%C3%A7age/</loc>
