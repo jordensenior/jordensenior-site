@@ -1,6 +1,6 @@
 ---
 title: "013 · Chromatic Archaeology: Reading the Ruins of Colour Photography"
-image: "/experiments/012-Ra4Mordancage/ra_3b.jpeg"
+image: "/experiments/012-RA4Mordancage/ra_3b.jpeg"
 description: "What RA4 mordançage reveals about the hidden architecture of colour photography—and why impermanence might be the medium's most honest expression"
 author: "Jorden Senior"
 date: "2025-12-20"
@@ -35,7 +35,7 @@ This is photography that documents its own making and unmaking simultaneously. T
 ## The Palette of Destruction
 <br>
 <figure class="inline end" markdown>
-    <img src="/experiments/012-Ra4Mordancage/ra_3a.jpeg" align="right" width="280px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/012-RA4Mordancage/ra_3a.jpeg" align="right" width="280px" style="margin:10px;" alt="Gallery" />
 </figure> 
 The yellow-green chromatic tone that dominates these prints deserves special attention.
  I think of it as the colour of photographic death. Just as leaves turn colours when dying that they never showed whilst alive, these prints reveal hues during their destruction that were impossible during their creation. The yellow-green isn't just chemical staining—it's the visual signature of molecular breakdown, of dyes decomposing, of chemistry consuming itself.
@@ -50,7 +50,7 @@ What colours emerge only through destruction?
 Traditional photography freezes time—that's its fundamental promise. These mordançage prints reject that promise entirely. They exist in continuous transformation, their chemistry still active, their colours still shifting. A print photographed today will look different tomorrow. The trapped chemistry continues its work, creating aureoles of colour that expand like slow explosions.
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-Ra4Mordancage/ra_3b.jpeg" align="left" width="250px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/012-RA4Mordancage/ra_3b.jpeg" align="left" width="250px" style="margin:10px;" alt="Gallery" />
 </figure> 
 
 The temporal dimension transforms them from photographs into performances. The image isn't the final print—it's the entire process of transformation. Watching a print change over days or weeks becomes part of experiencing the work. We're not just viewing an image; we're witnessing its ongoing decay.
@@ -64,7 +64,7 @@ This recalls the Japanese concept of *mono no aware*—the pathos of things, the
 There's something fundamentally honest about prints that refuse to stabilise. All colour photographs fade—that's been true since the earliest chromogenic processes. Even the most archival contemporary materials will eventually succumb to entropy. These mordançage prints simply acknowledge that fate more openly, even celebrate it.
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-Ra4Mordancage/ra_3c.jpeg" align="right" width="275px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/012-RA4Mordancage/ra_3c.jpeg" align="right" width="275px" style="margin:10px;" alt="Gallery" />
 </figure> 
 
 Consider the history of colour photography's false promises of permanence. Kodacolor prints from the 1940s have shifted dramatically. Ektachromes from various eras showed poor dark fading and colour shifts. Even modern RA4 prints, despite manufacturer claims, show measurable colour shifts within decades. Colour photography has chased archival stability for over a century and consistently struggled to achieve it.
@@ -86,7 +86,7 @@ These prints present practical challenges that become part of their conceptual f
 <br>
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-Ra4Mordancage/ra_5.jpeg" align="right" width="275px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/012-RA4Mordancage/ra_5.jpeg" align="right" width="275px" style="margin:10px;" alt="Gallery" />
 </figure> 
 So far, I've chosen to let the chemistry continue working. Some prints I've washed thoroughly after initial documentation, effectively freezing them at a particular stage of degradation. Others remain unwashed, their evolution continuing in storage. After several weeks, the most aggressive reactions slow, though subtle shifts in colour and density continue for months.
 
@@ -107,7 +107,7 @@ These experiments suggest possibilities for a new relationship with colour photo
 <br>
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-Ra4Mordancage/ra_6.jpeg" align="left" width="275px" style="margin:10px;" alt="Gallery" />
+    <img src="/experiments/012-RA4Mordancage/ra_6.jpeg" align="left" width="275px" style="margin:10px;" alt="Gallery" />
 </figure> 
 Imagine exhibitions where prints continue evolving throughout the show's run. Opening night viewers see different works than closing night viewers. The exhibition becomes durational, performative, unrepeatable.
 

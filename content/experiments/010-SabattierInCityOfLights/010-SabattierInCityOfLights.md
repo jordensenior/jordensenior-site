@@ -18,7 +18,7 @@ toc: true
 One of the great privileges of my work in quantum hardware is the opportunity to travel. This past year, a research trip brought me to Paris, and I brought my camera along to capture the city between conference sessions and lab visits. When I returned to the darkroom, I found myself drawn to experimenting with these Parisian images through the Sabattier effect.
 
 <figure>
-    <img src="/experiments/010-SabattierinCityOfLights/paris_saba_6.jpeg" align="left" width="300px" style="margin:10px;" alt="Sabattier print" />
+    <img src="/experiments/010-SabattierInCityOfLights/paris_saba_6.jpeg" align="left" width="300px" style="margin:10px;" alt="Sabattier print" />
     <figcaption></figcaption>
 </figure>
 There's something fitting, perhaps even inevitable, about applying the Sabattier effect to photographs of Paris. A city famous for its light seemed to call for a process that uses light against itself—where a controlled re-exposure during development creates those characteristic tonal reversals and glowing edge effects. If Paris celebrates illumination, Sabattier subverts it.
