@@ -39,9 +39,9 @@ customCSS = ["css/custom.css"]
 [menu]
 # Shown in the side menu.
 [[menu.main]]
-identifier = "Experiment"
-name = "Experiments"
-url = "/experiments/"
+identifier = "Notebook"
+name = "Notebook"
+url = "/notebook/"
 weight = 1
 
 [[menu.main]]

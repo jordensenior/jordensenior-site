@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "Artist and Quantum Scientist."
-date: ""
 summary: "Entangling quantum and art: images at the edge of control."
 ---
 

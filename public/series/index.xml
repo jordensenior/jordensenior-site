@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sustainable Darkroom</title>
-      <link>http://localhost:1313/series/sustainable-darkroom/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/series/sustainable-darkroom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chromoskedasic Sabattier</title>
       <link>http://localhost:1313/series/chromoskedasic-sabattier/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/series/chromoskedasic-sabattier/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Experimental Darkroom</title>
       <link>http://localhost:1313/series/experimental-darkroom/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/series/experimental-darkroom/</guid>
       <description></description>
@@ -69,7 +60,7 @@
     <item>
       <title>Beneath the Surface</title>
       <link>http://localhost:1313/series/beneath-the-surface/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/series/beneath-the-surface/</guid>
       <description></description>

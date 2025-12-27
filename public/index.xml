@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>016 · Chromoskedasic DC: Colour Alchemy in the US Capital</title>
-      <link>http://localhost:1313/experiments/014-016-chromoskedasic/016-chromoskedasicdc/</link>
+      <link>http://localhost:1313/notebook/014-016-chromoskedasic/016-chromoskedasicdc/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/016-chromoskedasicdc/</guid>
+      <guid>http://localhost:1313/notebook/014-016-chromoskedasic/016-chromoskedasicdc/</guid>
       <description>&lt;h1 id=&#34;chromoskedasic-dc-colour-alchemy-in-the-capital&#34;&gt;Chromoskedasic DC: Colour Alchemy in the Capital&lt;/h1&gt;
 &lt;p&gt;The previous two posts laid the foundation: what chromoskedasic printing is, its history and lineage, and the physics and chemistry that enable colour formation from silver nanoparticles. Now we turn to practice. This post documents my experiments applying the technique to photographs from Washington DC—the workflow I developed, the successes and failures, and the lessons extracted from several dozen attempts.&lt;/p&gt;
 &lt;figure&gt;
@@ -201,10 +201,10 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
     
     <item>
       <title>015 · The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry</title>
-      <link>http://localhost:1313/experiments/014-016-chromoskedasic/015-chromoskedasicscience/</link>
+      <link>http://localhost:1313/notebook/014-016-chromoskedasic/015-chromoskedasicscience/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/015-chromoskedasicscience/</guid>
+      <guid>http://localhost:1313/notebook/014-016-chromoskedasic/015-chromoskedasicscience/</guid>
       <description>&lt;h1 id=&#34;the-science-of-colour-from-silver-mie-scattering-plasmons-and-counterintuitive-chemistry&#34;&gt;The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry&lt;/h1&gt;
 &lt;p&gt;In the previous post, I introduced chromoskedasic Sabattier printing as a technique that creates colour from black and white materials through physics and chemistry. Now we examine exactly how this works—why silver nanoparticles of specific sizes scatter specific wavelengths of light, and how darkroom chemistry produces those particles.&lt;/p&gt;
 &lt;p&gt;This is where my professional life intersects with my darkroom practice. The physics underlying chromoskedasic printing—surface plasmon resonance, Mie scattering, colloidal nanoparticle optics—connects directly to phenomena I encounter in quantum hardware research. The same principles that govern colour formation in these prints inform the design of plasmonic sensors and nanophotonic devices. Understanding the science doesn&amp;rsquo;t diminish the art; it reveals why this technique produces results achievable through no other means.&lt;/p&gt;
@@ -550,10 +550,10 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
     
     <item>
       <title>014 · Chromoskedasic Sabattier: Colour from Silver, Light from Scattering</title>
-      <link>http://localhost:1313/experiments/014-016-chromoskedasic/014-chromoskedasicintro/</link>
+      <link>http://localhost:1313/notebook/014-016-chromoskedasic/014-chromoskedasicintro/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/014-chromoskedasicintro/</guid>
+      <guid>http://localhost:1313/notebook/014-016-chromoskedasic/014-chromoskedasicintro/</guid>
       <description>&lt;h1 id=&#34;chromoskedasic-sabattier-colour-from-silver-light-from-scattering&#34;&gt;Chromoskedasic Sabattier: Colour from Silver, Light from Scattering&lt;/h1&gt;
 &lt;p&gt;The print came out of the activator tray warm amber where it had been grey seconds before. Not stained amber, not toned amber—the silver itself had transformed, scattering light at wavelengths it had no business scattering. I tilted the wet paper and watched the colour shift, iridescent, metallic, impossible from materials that contained nothing but silver and gelatin.&lt;/p&gt;
 &lt;figure&gt;
@@ -650,10 +650,10 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
     
     <item>
       <title>013 · Chromatic Archaeology: Reading the Ruins of Colour Photography</title>
-      <link>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</link>
+      <link>http://localhost:1313/notebook/013-chromaticarchaeology/013-chromaticarchaeology/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
+      <guid>http://localhost:1313/notebook/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
       <description>&lt;h1 id=&#34;chromatic-archaeology-reading-the-ruins-of-colour-photography&#34;&gt;Chromatic Archaeology: Reading the Ruins of Colour Photography&lt;/h1&gt;
 &lt;p&gt;A fully processed RA4 print presents itself as a unified surface—a seamless blend of cyan, magenta, and yellow that our eyes read as full colour. We accept this illusion so completely that we forget it&amp;rsquo;s an illusion at all. But what happens when we literally peel back that promise? These mordançage-treated RA4 prints aren&amp;rsquo;t just technical experiments—they&amp;rsquo;re archaeological excavations into the physical structure of colour photography itself. Each lifted layer, each chromatic bubble, each yellow-green chemical burn reveals something fundamental: colour photography has always been a construction, a careful stack of molecular approximations that only coheres when we don&amp;rsquo;t look too closely.&lt;/p&gt;
 &lt;h2 id=&#34;the-revelation-of-structure&#34;&gt;The Revelation of Structure&lt;/h2&gt;
@@ -724,10 +724,10 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
     
     <item>
       <title>012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers</title>
-      <link>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</link>
+      <link>http://localhost:1313/notebook/012-ra4mordancage/012-ra4mordencage/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</guid>
+      <guid>http://localhost:1313/notebook/012-ra4mordancage/012-ra4mordencage/</guid>
       <description>&lt;h1 id=&#34;breaking-ra4-apart-when-mordançage-meets-colour-layers&#34;&gt;Breaking RA4 Apart: When Mordançage Meets Colour Layers&lt;/h1&gt;
 &lt;p&gt;The conventional wisdom is clear: mordançage doesn&amp;rsquo;t work on colour materials. No silver, no reaction. Case closed. The chemistry textbooks are unequivocal—RA4 colour paper creates images through cyan, magenta, and yellow dyes, not metallic silver. After the bleach step strips away the developed silver, you&amp;rsquo;re left with pure chromogenic dyes suspended in gelatin. Nothing for copper ions to bite into.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
@@ -829,10 +829,10 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
     
     <item>
       <title>011 · Kinetic Darkroom: When the Enlarger Moves Instead of the Camera</title>
-      <link>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</link>
+      <link>http://localhost:1313/notebook/011-kineticdarkroom/011-kineticdarkroom/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</guid>
+      <guid>http://localhost:1313/notebook/011-kineticdarkroom/011-kineticdarkroom/</guid>
       <description>&lt;h1 id=&#34;kinetic-darkroom-when-the-enlarger-moves-instead-of-the-camera&#34;&gt;Kinetic Darkroom: When the Enlarger Moves Instead of the Camera&lt;/h1&gt;
 &lt;p&gt;These three prints come from the same negative—a straightforward street scene shot on scooters in bright daylight. The first is a straight print, capturing the scene as it was. The second fragments into parallel realities through lateral movement. The third dissolves into pure motion, figures bleeding into their own shadows.&lt;/p&gt;
 &lt;p&gt;This is intentional enlarger movement: the darkroom&amp;rsquo;s answer to ICM (intentional camera movement), executed not during capture but during printing. Same control over abstraction, entirely different physics.&lt;/p&gt;
@@ -1006,10 +1006,10 @@ Winner of the international Open Call for the main exhibition at ROTLICHT Festiv
     
     <item>
       <title>010 · Sabattier in the City of Lights</title>
-      <link>http://localhost:1313/experiments/010-sabattier/010-sabattierincityoflights/</link>
+      <link>http://localhost:1313/notebook/010-sabattier/010-sabattierincityoflights/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/010-sabattier/010-sabattierincityoflights/</guid>
+      <guid>http://localhost:1313/notebook/010-sabattier/010-sabattierincityoflights/</guid>
       <description>&lt;h1 id=&#34;sabattier-in-the-city-of-lights&#34;&gt;Sabattier in the City of Lights&lt;/h1&gt;
 &lt;p&gt;One of the great privileges of my work in quantum hardware is the opportunity to travel. This past year, a research trip brought me to Paris, and I brought my camera along to capture the city between conference sessions and lab visits. When I returned to the darkroom, I found myself drawn to experimenting with these Parisian images through the Sabattier effect.&lt;/p&gt;
 &lt;figure&gt;
@@ -1072,10 +1072,10 @@ My technique involved removing the partially developed prints from the developer
     
     <item>
       <title>009 · Finding Mortality Through the Lens</title>
-      <link>http://localhost:1313/experiments/009-timcarpenter/009-timcarpenter/</link>
+      <link>http://localhost:1313/notebook/009-timcarpenter/009-timcarpenter/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/009-timcarpenter/009-timcarpenter/</guid>
+      <guid>http://localhost:1313/notebook/009-timcarpenter/009-timcarpenter/</guid>
       <description>&lt;p&gt;This post shares a personal and reflective essay I wrote earlier in the summer, inspired by Tim Carpenters &lt;em&gt;To Photograph is to Learn How to Die&lt;/em&gt;. It explores photography as a way of engaging with time, mortality, and the fleeting nature of moments—especially through analogue and darkroom practice.&lt;/p&gt;
 &lt;p&gt;Please forgive my more academic musings here; I hope you’ll find something meaningful in this slower, deeper take on photography.&lt;/p&gt;
 &lt;hr&gt;
@@ -1125,10 +1125,10 @@ There’s a moment in Paul Simon’s America where he describes looking out of a
     
     <item>
       <title>008 · Re-exhibiting at Pimiö 25</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/008-reexhibiting/</link>
+      <link>http://localhost:1313/notebook/005-008-beneaththesurface/008-reexhibiting/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/008-reexhibiting/</guid>
+      <guid>http://localhost:1313/notebook/005-008-beneaththesurface/008-reexhibiting/</guid>
       <description>&lt;h1 id=&#34;re-exhibiting-under-the-surface-new-contexts-at-pimiö-25&#34;&gt;Re-exhibiting Under the Surface: New Contexts at Pimiö 25&lt;/h1&gt;
 &lt;p&gt;This month, a selection of my mordançage works finds new life in the Pimiö’25 group exhibition at Galleria West, Helsinki. Returning to these prints in a different space and format has sparked fresh perspectives—both in terms of what I show and how the work interacts with viewers and fellow artists.&lt;/p&gt;
 &lt;h2 id=&#34;re-exhibiting-in-a-new-context&#34;&gt;Re-exhibiting in a New Context&lt;/h2&gt;
@@ -1163,10 +1163,10 @@ There’s a moment in Paul Simon’s America where he describes looking out of a
     
     <item>
       <title>007 · Time, Speed, and Improvisation</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/007-underpressure/</link>
+      <link>http://localhost:1313/notebook/005-008-beneaththesurface/007-underpressure/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/007-underpressure/</guid>
+      <guid>http://localhost:1313/notebook/005-008-beneaththesurface/007-underpressure/</guid>
       <description>&lt;h1 id=&#34;time-speed-and-improvisation-making-under-pressure-at-art-for-all&#34;&gt;Time, Speed, and Improvisation: Making Under Pressure at Art for All&lt;/h1&gt;
 &lt;p&gt;The Art for All festival demanded an intense burst of creation. While I&amp;rsquo;m naturally quite prolific in the darkroom, often generating creative bursts with many prints in a session, this project pushed that approach to an entirely different level. In about a week, I shot two rolls of film at the mall, developed them, printed around 50 images, mordançaged my favorites, framed, and installed everything. The compressed timeline forced me to embrace risk, chance, and improvisation more deeply than usual.&lt;/p&gt;
 &lt;h2 id=&#34;under-pressure-when-natural-energy-meets-necessity&#34;&gt;Under Pressure: When Natural Energy Meets Necessity&lt;/h2&gt;
@@ -1303,10 +1303,10 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
     
     <item>
       <title>006 · Hanging in the Mall</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/006-hanginginthemall/</link>
+      <link>http://localhost:1313/notebook/005-008-beneaththesurface/006-hanginginthemall/</link>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/006-hanginginthemall/</guid>
+      <guid>http://localhost:1313/notebook/005-008-beneaththesurface/006-hanginginthemall/</guid>
       <description>&lt;h1 id=&#34;hanging-in-the-mall-exhibiting-fragile-prints-in-easton-hansakäytävä&#34;&gt;Hanging in the Mall: Exhibiting Fragile Prints in Easton Hansakäytävä&lt;/h1&gt;
 &lt;p&gt;Following from &lt;a href=&#34;http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;the introduction to the series and the creation of the mordançage prints&lt;/a&gt;, the next crucial phase was bringing these fragile works into the physical space of Easton Hansakäytävä for the Art for All festival.&lt;/p&gt;
 &lt;h2 id=&#34;sourcing-and-assembling-materials&#34;&gt;Sourcing and Assembling Materials&lt;/h2&gt;
@@ -1357,10 +1357,10 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
     
     <item>
       <title>005 · Beneath the Surface</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/</link>
+      <link>http://localhost:1313/notebook/005-008-beneaththesurface/005-beneaththesurface/</link>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/</guid>
+      <guid>http://localhost:1313/notebook/005-008-beneaththesurface/005-beneaththesurface/</guid>
       <description>&lt;h1 id=&#34;beneath-the-surface-mordançage-prints-for-art-for-all&#34;&gt;Beneath the Surface: Mordançage Prints for Art for All&lt;/h1&gt;
 &lt;p&gt;Exhibiting fragile, alternative darkroom prints in a bustling shopping mall is a kind of quiet subversion. For Art for All’s “Success &amp;amp; Glory” festival at Easton Hansakäytävä, I set out to create photographs of the mall itself—its passageways, materials, overlooked corners—and transform those images using mordançage, a process that destabilizes photographic surface and exposes hidden structure.
 &lt;br&gt;&lt;/p&gt;
@@ -1411,10 +1411,10 @@ Darkroom processes like mordançage are about timing, risk, and the impossibilit
     
     <item>
       <title>004 · Quantum Mordençage</title>
-      <link>http://localhost:1313/experiments/004-quantummordencagezine/004-quantummordencage/</link>
+      <link>http://localhost:1313/notebook/004-quantummordencagezine/004-quantummordencage/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/004-quantummordencagezine/004-quantummordencage/</guid>
+      <guid>http://localhost:1313/notebook/004-quantummordencagezine/004-quantummordencage/</guid>
       <description>&lt;h1 id=&#34;quantum-mordançage-when-chemistry-meets-coherence&#34;&gt;Quantum Mordançage: When Chemistry Meets Coherence&lt;/h1&gt;
 &lt;p&gt;Sometimes you have to break things to see what&amp;rsquo;s underneath. In quantum computing, we spend all our time trying to maintain coherence—keeping qubits isolated, stable, controlled. But what if instead of preserving that delicate quantum state, you deliberately disrupted it? What if the disruption itself could reveal something about quantum behavior that our instruments miss?&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s the premise behind my latest project: photographing quantum computing hardware, then attacking those photographs with mordançage until the emulsion buckles and lifts, searching for traces of quantum coherence in the chemical chaos.&lt;/p&gt;
@@ -1484,10 +1484,10 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
     
     <item>
       <title>003 · From Photo to Two-Plate Riso</title>
-      <link>http://localhost:1313/experiments/003-twoplateriso/003-preparingfortwoplateriso/</link>
+      <link>http://localhost:1313/notebook/003-twoplateriso/003-preparingfortwoplateriso/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/003-twoplateriso/003-preparingfortwoplateriso/</guid>
+      <guid>http://localhost:1313/notebook/003-twoplateriso/003-preparingfortwoplateriso/</guid>
       <description>&lt;h1 id=&#34;from-photo-to-two-plate-riso-notes-from-a-work-in-progress&#34;&gt;From Photo to Two-Plate Riso (notes from a work-in-progress)&lt;/h1&gt;
 &lt;p&gt;I’m not chasing CMYK here. Two reasons: &lt;strong&gt;(1)&lt;/strong&gt; it burns through inks and setup, &lt;strong&gt;(2)&lt;/strong&gt; it sands off a lot of what makes Riso feel like Riso. Two plates is a sweet spot for photos — enough tone and mood, still honest about the medium.&lt;/p&gt;
 &lt;p&gt;I don’t think in ink names while I work. I think in &lt;strong&gt;plates&lt;/strong&gt;:&lt;/p&gt;
@@ -1628,10 +1628,10 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
     
     <item>
       <title>002 · Risography for Photographers</title>
-      <link>http://localhost:1313/experiments/002-introtoriso/002-introtoriso/</link>
+      <link>http://localhost:1313/notebook/002-introtoriso/002-introtoriso/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/002-introtoriso/002-introtoriso/</guid>
+      <guid>http://localhost:1313/notebook/002-introtoriso/002-introtoriso/</guid>
       <description>&lt;!--- ![Collapse](slide1.jpg) ---&gt; 
 &lt;h1 id=&#34;risograph-printing-for-photographers&#34;&gt;Risograph Printing for Photographers&lt;/h1&gt;
 &lt;p&gt;Lately I&amp;rsquo;ve been in the Riso rabbit hole. Partly because I&amp;rsquo;ve been printing at &lt;a href=&#34;https://ifbymagic.space/&#34;&gt;If By Magic&lt;/a&gt; here in Helsinki (Robin&amp;rsquo;s workshops are the kind that make you want to stay late and keep experimenting), and partly because my friend &lt;a href=&#34;https://roantia.design/&#34;&gt;Ro&lt;/a&gt; made a gorgeous calendar from Riso-printed photographs. There&amp;rsquo;s a particular feeling when you hold a Riso print: the soft matte surface, the way the ink sits on the paper, the tiny quirks in registration that make each copy its own object. Regular digital printing doesn&amp;rsquo;t quite do that.&lt;/p&gt;
@@ -1699,10 +1699,10 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
     
     <item>
       <title>001 · A Brief History of Mordençage</title>
-      <link>http://localhost:1313/experiments/001-mordencage/001-mordancage/</link>
+      <link>http://localhost:1313/notebook/001-mordencage/001-mordancage/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/001-mordencage/001-mordancage/</guid>
+      <guid>http://localhost:1313/notebook/001-mordencage/001-mordancage/</guid>
       <description>&lt;!--- ![Collapse](slide1.jpg) ---&gt; 
 &lt;h1 id=&#34;mordançage-the-chemistry-and-craft-of-photographic-emulsion-manipulation&#34;&gt;Mordançage: The Chemistry and Craft of Photographic Emulsion Manipulation&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;ve ever wanted to literally peel apart a photograph and rebuild it with your hands, mordançage might be the most fun way to do it. This historic alternative process doesn&amp;rsquo;t just alter images – it transforms them into three-dimensional objects through a dance of copper ions, hydrogen peroxide, and carefully controlled chaos.&lt;/p&gt;
