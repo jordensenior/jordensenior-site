@@ -1,7 +1,7 @@
 ---
 title: "006 · Hanging in the Mall"
-image: "experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg"
-description: "Installation and public interaction with Mordançage prints at Easton Hansakäytävä"
+#image: "experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg"
+description: "Installation and public interaction with prints at Easton Hansakäytävä"
 author: "Jorden Senior"
 date: "2025-08-23"
 tags: ["Mordencage"]

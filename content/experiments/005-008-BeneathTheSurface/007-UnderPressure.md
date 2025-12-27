@@ -1,6 +1,6 @@
 ---
 title: "007 · Time, Speed, and Improvisation"
-image: "experiments/005-008-BeneathTheSurface/afa_drying1.jpeg"
+#image: "experiments/005-008-BeneathTheSurface/afa_drying1.jpeg"
 description: "Reflections on the accelerated making and improvisational approach in the Art for All exhibition"
 author: "Jorden Senior"
 date: "2025-08-29"

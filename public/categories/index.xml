@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Analogue</title>
       <link>http://localhost:1313/categories/analogue/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/analogue/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Darkroom</title>
       <link>http://localhost:1313/categories/darkroom/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/darkroom/</guid>
       <description></description>
@@ -33,9 +33,36 @@
     <item>
       <title>Travel</title>
       <link>http://localhost:1313/categories/travel/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://localhost:1313/categories/science/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colour</title>
+      <link>http://localhost:1313/categories/colour/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/colour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhibition</title>
+      <link>http://localhost:1313/categories/exhibition/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/exhibition/</guid>
       <description></description>
     </item>
     
@@ -54,15 +81,6 @@
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exhibition</title>
-      <link>http://localhost:1313/categories/exhibition/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/exhibition/</guid>
       <description></description>
     </item>
     

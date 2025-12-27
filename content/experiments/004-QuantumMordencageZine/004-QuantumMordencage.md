@@ -1,6 +1,6 @@
 ---
 title: "004 · Quantum Mordençage"
-image: "experiments/004-QuantumMordencageZine/foldingzine_2.jpeg"
+#image: "experiments/004-QuantumMordencageZine/foldingzine_2.jpeg"
 description: "And making a Riso-printed zine"
 author: "Jorden Senior"
 date: "2025-08-14"

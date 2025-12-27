@@ -1,6 +1,6 @@
 ---
 title: "013 · Chromatic Archaeology: Reading the Ruins of Colour Photography"
-image: "/experiments/012-RA4Mordancage/ra_3b.jpeg"
+# image: "/experiments/012-RA4Mordancage/ra_3b.jpeg"
 description: "What RA4 mordançage reveals about the hidden architecture of colour photography—and why impermanence might be the medium's most honest expression"
 author: "Jorden Senior"
 date: "2025-12-21"

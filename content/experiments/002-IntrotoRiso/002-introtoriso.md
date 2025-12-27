@@ -1,6 +1,6 @@
 ---
 title: "002 · Risography for Photographers"
-image: "experiments/004-QuantumMordencageZine/riso_drying.jpeg"
+#image: "experiments/004-QuantumMordencageZine/riso_drying.jpeg"
 description: "Why I fell in love with oily inks and noisy machines"
 author: "Jorden Senior"
 date: "2025-08-11"

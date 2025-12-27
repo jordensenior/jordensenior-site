@@ -1,6 +1,6 @@
 ---
 title: "001 · A Brief History of Mordençage"
-image: "/images/slide1.jpg"
+#image: "/images/slide1.jpg"
 description: "Chemistry bites photography."
 author: "Jorden Senior"
 date: "2025-08-07"

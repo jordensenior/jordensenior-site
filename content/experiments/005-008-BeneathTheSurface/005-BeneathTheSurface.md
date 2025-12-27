@@ -1,7 +1,7 @@
 ---
 title: "005 · Beneath the Surface"
-image: "experiments/005-008-BeneathTheSurface/afa_circle1.jpeg"
-description: "Making site-specific Mordançage prints for Art for Alls 'Success and Glory' Festival"
+#image: "experiments/005-008-BeneathTheSurface/afa_circle1.jpeg"
+description: "Making site-specific Mordançage prints for Art for Alls 'Success and Glory'"
 author: "Jorden Senior"
 date: "2025-08-22"
 tags: ["Mordencage",]

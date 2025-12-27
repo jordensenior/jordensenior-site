@@ -1,6 +1,6 @@
 ---
 title: "008 · Re-exhibiting at Pimiö 25"
-image: "experiments/005-008-BeneathTheSurface/kaapeli_wall.jpeg"
+#image: "experiments/005-008-BeneathTheSurface/kaapeli_wall.jpeg"
 description: "Reflections on re-exhibiting Beneath the Surface"
 author: "Jorden Senior"
 date: "2025-09-04"

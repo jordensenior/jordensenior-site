@@ -1,6 +1,6 @@
 ---
 title: "011 · Kinetic Darkroom: When the Enlarger Moves Instead of the Camera"
-image: "experiments/011-KineticDarkroom/kd_01.jpeg"
+#image: "experiments/011-KineticDarkroom/kd_01.jpeg"
 description: "Exploring intentional enlarger movement as a darkroom alternative to ICM"
 author: "Jorden Senior"
 date: "2025-12-11"

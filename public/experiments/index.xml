@@ -7,15 +7,830 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/experiments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>016 · Chromoskedasic DC: Colour Alchemy in the US Capital</title>
+      <link>http://localhost:1313/experiments/014-016-chromoskedasic/016-chromoskedasicdc/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/016-chromoskedasicdc/</guid>
+      <description>&lt;h1 id=&#34;chromoskedasic-dc-colour-alchemy-in-the-capital&#34;&gt;Chromoskedasic DC: Colour Alchemy in the Capital&lt;/h1&gt;
+&lt;p&gt;The previous two posts laid the foundation: what chromoskedasic printing is, its history and lineage, and the physics and chemistry that enable colour formation from silver nanoparticles. Now we turn to practice. This post documents my experiments applying the technique to photographs from Washington DC—the workflow I developed, the successes and failures, and the lessons extracted from several dozen attempts.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;right&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro Platform&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;My workflow differs from standard approaches in one significant way: I perform the chromoskedasic treatment outdoors under natural daylight rather than under room light in the darkroom. This emerged from practical necessity—inadequate darkroom ventilation for extended chemical sessions—but proved to offer certain advantages. I&amp;rsquo;ll discuss the reasoning and results throughout.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re considering trying chromoskedasic printing, this post provides concrete guidance. I&amp;rsquo;ve made enough failed prints to identify reliable patterns, and enough successful ones to understand what the technique can achieve.&lt;/p&gt;
+&lt;h2 id=&#34;why-the-dc-metro&#34;&gt;Why the DC Metro&lt;/h2&gt;
+&lt;p&gt;The Washington Metro system, designed by architect Harry Weese and constructed between 1969 and 2001, represents one of America&amp;rsquo;s most ambitious public architecture projects of the late twentieth century. The system serves the District of Columbia and surrounding Maryland and Virginia suburbs through 98 stations spanning six lines and over 120 miles of track.&lt;/p&gt;
+&lt;p&gt;Weese&amp;rsquo;s design established a distinctive visual vocabulary: coffered concrete vaults that widen toward the platforms, indirect lighting casting gradients across curved surfaces, dramatically long escalators connecting platform levels to the surface. The stations draw on brutalist precedents—raw concrete, expressed structure, monumental scale—while achieving an elegance unusual in public infrastructure. The coffered vault design, beyond its aesthetic impact, serves acoustic and structural functions, controlling reverberation while spanning wide platform areas without intermediate supports.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/015-ChromoskedasicDC/dc_platform.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro platform&#34; /&gt;
+    &lt;figcaption&gt;The coffered vault structure creates strong geometric patterns that anchor the composition even as colours transform unpredictably.&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;Photographically, Metro stations present high-contrast scenes with clear geometric structure. The controlled lighting creates deep shadows and bright highlights with definite separation rather than continuous gradation. The repeating architectural elements—coffered ceiling panels, escalator handrails, platform edge tiles—provide visual rhythm that survives substantial image transformation.&lt;/p&gt;
+&lt;p&gt;These characteristics make Metro photographs well-suited for chromoskedasic treatment:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clear tonal separation&lt;/strong&gt;: The process transforms highlight areas while leaving shadows largely unchanged. Images with distinct zones of light and dark show effects most dramatically. The Metro&amp;rsquo;s theatrical lighting provides exactly this tonal structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strong geometric armature&lt;/strong&gt;: Architectural images with clear compositional bones can survive aggressive colour transformation because the structure remains legible even when colour shifts unpredictably. A portrait or landscape with subtle gradations might become muddy; the Metro&amp;rsquo;s geometry remains readable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Appropriate colour associations&lt;/strong&gt;: The concrete and artificial lighting of Metro stations produce warm grey-yellow tones in black and white. The amber-bronze palette chromoskedasic chemistry produces feels natural against this subject matter—warm tones that suggest aged metal or late afternoon light rather than arbitrary colour effects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tolerance for variation&lt;/strong&gt;: The repeating ceiling coffers mean that uneven colour development across the print reads as lighting variation rather than processing error. If some panels develop more intensely than others, the eye accepts this as differential illumination.&lt;/p&gt;
+&lt;p&gt;The Washington Monument and other DC landmarks offered different opportunities: simpler compositions, larger continuous tonal areas, and subjects carrying strong cultural resonance. Processing photographs of the Monument—watching white marble obelisk transform to bronze—felt like performing alchemy on an American icon.&lt;/p&gt;
+&lt;h2 id=&#34;film-choices-and-exposure-strategy&#34;&gt;Film Choices and Exposure Strategy&lt;/h2&gt;
+&lt;p&gt;I shot the DC photographs primarily on Kodak Double-X (5222), a cinema film rated at ISO 250, featuring moderate contrast and finer grain than typical camera films of its speed. I develop it in Rodinal at 1:50 dilution. The resulting negatives show tonal gradation with good highlight separation—detail holds well into the high values without blocking. This matters for chromoskedasic printing, where highlight areas receive the most transformation; blocked highlights provide nothing for the chemistry to work with.&lt;/p&gt;
+&lt;p&gt;For chromoskedasic work, exposure and development strategy differs from conventional printing:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Expose generously for shadows&lt;/strong&gt;: Shadow regions will remain essentially unchanged by chromoskedasic treatment—they contain dense, fully-developed silver that the chemistry doesn&amp;rsquo;t restructure. Ensure adequate shadow exposure in the negative to preserve detail you want in the final print.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t push development&lt;/strong&gt;: Contrasty negatives with blocked highlights don&amp;rsquo;t serve the process. You want open, detailed highlights that give the chemistry silver to work with. Normal or slightly restrained development is better than extended development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Consider tonal distribution when framing&lt;/strong&gt;: Images predominantly middle-grey won&amp;rsquo;t show dramatic effects. Look for scenes with significant highlight area—skies, illuminated ceilings, bright walls—where colour transformation will be visible. The Metro stations, with their dramatic interplay of dark tunnels and lit vault ceilings, naturally produce well-distributed negatives.&lt;/p&gt;
+&lt;h2 id=&#34;my-workflow-darkroom-preparation-outdoor-treatment&#34;&gt;My Workflow: Darkroom Preparation, Outdoor Treatment&lt;/h2&gt;
+&lt;p&gt;My chromoskedasic workflow splits between two locations. The darkroom provides controlled conditions for initial print exposure and partial development; outdoors provides ventilation, natural light, and working space for the chemical treatment.&lt;/p&gt;
+&lt;p&gt;This also offer advantages. Natural daylight, being full-spectrum and intense, may provide more uniform activation than artificial room lighting. The outdoor environment allows extended working sessions without fatigue. And there&amp;rsquo;s something fitting about performing this light-dependent chemistry in actual sunlight.&lt;/p&gt;
+&lt;h3 id=&#34;step-1-print-exposure-darkroom-safelight&#34;&gt;Step 1: Print Exposure (Darkroom, Safelight)&lt;/h3&gt;
+&lt;p&gt;I work with Ilford Multigrade RC Pearl, and Fomatone 132, typically in 8×10 format. The prints receive enlarger exposure as usual, but targeting slightly lighter than I would for conventional printing—roughly two-thirds to three-quarters stop less exposure than would yield a properly finished conventional print.&lt;/p&gt;
+&lt;p&gt;The reasoning: chromoskedasic treatment darkens highlights substantially. If you start with correct-looking exposure, you&amp;rsquo;ll finish too dark. Beginning light leaves room for the chemistry to add density while forming colour. The final result should appear properly exposed; the starting point should appear noticeably light.&lt;/p&gt;
+&lt;h3 id=&#34;step-2-partial-development-darkroom-safelight&#34;&gt;Step 2: Partial Development (Darkroom, Safelight)&lt;/h3&gt;
+&lt;p&gt;This step requires attention and practice. The print goes into developer—I use Adox Neutol Eco Developer at 1:4—and I watch the image appear.&lt;/p&gt;
+&lt;p&gt;The goal is to develop until detail is fully visible in highlights but overall density remains light. For a print that would normally develop for 90 seconds to completion, I pull it at roughly 45-60 seconds. Shadows should be establishing but not fully dense. Highlights should show complete detail but remain distinctly lighter than they would in a finished print.&lt;/p&gt;
+&lt;p&gt;Fixed times are unreliable because development rate varies with temperature, developer freshness, paper batch, and image content. I&amp;rsquo;ve learned to read the prints rather than watch the clock. The key indicator: highlight areas should look &amp;ldquo;fully detailed but not yet finished&amp;rdquo;—all the tonal information is present, but the overall print appears light.&lt;/p&gt;
+&lt;p&gt;Underdevelopment risks: If you stop too early, insufficient silver has formed in the highlights. The chromoskedasic chemistry will have limited material to work with, producing weak colour and muddy results.&lt;/p&gt;
+&lt;p&gt;Overdevelopment risks: If you continue too long, the highlights become too dense and the silver particles too large and interconnected. Colour formation will be compromised because you&amp;rsquo;ve already produced conventional-scale silver rather than leaving room for controlled nanoparticle formation.&lt;/p&gt;
+&lt;h3 id=&#34;step-3-stop-bath-and-initial-rinse-darkroom-safelight&#34;&gt;Step 3: Stop Bath and Initial Rinse (Darkroom, Safelight)&lt;/h3&gt;
+&lt;p&gt;A quick dip in stop bath (30 seconds of agitation) arrests development. Follow with a water rinse (1-2 minutes) to remove surface chemistry.&lt;/p&gt;
+&lt;p&gt;Critically: do not fix the print. The unexposed silver halide remaining in the emulsion is essential for chromoskedasic colour formation. Fixing would remove this material, eliminating the chemistry&amp;rsquo;s substrate.&lt;/p&gt;
+&lt;h3 id=&#34;step-4-transport-to-outdoor-working-area&#34;&gt;Step 4: Transport to Outdoor Working Area&lt;/h3&gt;
+&lt;p&gt;I place the wet, unfixed prints between sheets of black plastic—heavy garbage bags work adequately—and carry them outside. The black plastic prevents premature light exposure during transport while I set up chemistry and working area.&lt;/p&gt;
+&lt;p&gt;My outdoor setup consists of plastic trays, chemistry in labelled bottles, brushes, and a garden hose for rinsing. A folding table provides working surface. I position to work in full sun or bright shade—consistent, intense illumination.&lt;/p&gt;
+&lt;h3 id=&#34;step-5-stabilizer-application-outdoors-daylight&#34;&gt;Step 5: Stabilizer Application (Outdoors, Daylight)&lt;/h3&gt;
+&lt;p&gt;With chemistry prepared and print positioned face-up, I begin treatment under natural daylight.&lt;/p&gt;
+&lt;p&gt;I apply stabilizer with a wide brush, covering the entire print surface evenly. Within 30-90 seconds, light-struck areas shift from their developed grey toward pale yellow. This is expected and correct.&lt;/p&gt;
+&lt;p&gt;Stabilizer timing matters. Too brief (under 30 seconds of contact) and the subsequent activator produces weak colour. Too long (over 3-4 minutes) and reactions overshoot into different effects. I typically work in the 1-2 minute range, watching for the yellow shift to stabilise before proceeding.&lt;/p&gt;
+&lt;h3 id=&#34;step-6-activator-application-outdoors-daylight&#34;&gt;Step 6: Activator Application (Outdoors, Daylight)&lt;/h3&gt;
+&lt;p&gt;I apply activator selectively with a brush, watching the print transform. Pale yellow areas shift toward amber, then bronze, then brown depending on activator concentration and contact time. Colour change occurs over 30-120 seconds—slower than the stabilizer effects, allowing time to observe and adjust.&lt;/p&gt;
+&lt;p&gt;This step offers artistic control. More activator on certain areas intensifies their colour. Areas receiving only stabilizer remain cooler (yellower). Working back and forth between stabilizer and activator applications lets me tune colour balance across the image.&lt;/p&gt;
+&lt;p&gt;The danger is overworking. Chemistry accumulates—you can always add more effect, but you cannot subtract. I&amp;rsquo;ve ruined prints by continuing too long, trying to intensify results that were already sufficient.&lt;/p&gt;
+&lt;h3 id=&#34;step-7-developer-for-silvering-optional-outdoors&#34;&gt;Step 7: Developer for Silvering (Optional, Outdoors)&lt;/h3&gt;
+&lt;p&gt;For mirror-like metallic effects in specific areas, I introduce paper developer. A brush loaded with working-strength or diluted developer, applied to chosen areas, triggers silvering—the formation of continuous metallic films rather than discrete coloured particles.&lt;/p&gt;
+&lt;p&gt;I use this technique sparingly. Silvering is dramatic but can overwhelm the subtler colour effects. It works well for specific compositional accents—metallic highlights against coloured surrounds—but extensive silvering obscures the nanoparticle colours that make chromoskedasic distinctive.&lt;/p&gt;
+&lt;h3 id=&#34;step-8-rinse-and-fix-return-to-darkroom-or-shade&#34;&gt;Step 8: Rinse and Fix (Return to Darkroom or Shade)&lt;/h3&gt;
+&lt;p&gt;When the print reaches a satisfactory state, I rinse thoroughly in running water (3-5 minutes) to halt reactions, then move to fixation. At the moment, I use standard fixer, but I&amp;rsquo;ve been considering for colour preservation to use the thiocyanate fix:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5% sodium thiocyanate solution: 1 part&lt;/li&gt;
+&lt;li&gt;Water: 5 parts&lt;/li&gt;
+&lt;li&gt;Treatment time: approximately 20 seconds with agitation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This removes residual silver halide without fully stripping the colour-forming particles. Standard  fixer works but shifts colours toward grey—acceptable if you prefer more muted results or prioritise archival stability.&lt;/p&gt;
+&lt;h3 id=&#34;step-9-final-wash-and-dry&#34;&gt;Step 9: Final Wash and Dry&lt;/h3&gt;
+&lt;p&gt;Standard fiber-based print washing: 60-90 minutes in running water or equivalent archival wash sequence with water changes.&lt;/p&gt;
+&lt;p&gt;Dry prints face-up on screens. Do not squeegee—the altered surface marks easily.&lt;/p&gt;
+&lt;p&gt;Expect significant darkening on drying, roughly equivalent to one stop. If the wet print looks correct, the dry print will be too dark. Stop processing when the wet print appears somewhat lighter than your intended final result.&lt;/p&gt;
+&lt;h2 id=&#34;image-by-image-the-dc-photographs&#34;&gt;Image-by-Image: The DC Photographs&lt;/h2&gt;
+&lt;p&gt;Let me walk through specific images and their responses to treatment.&lt;/p&gt;
+&lt;h3 id=&#34;the-escalator-canopy-station&#34;&gt;The Escalator (Canopy Station)&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_2.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Metro escalator chromoskedasic print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Shot looking up an escalator toward a glass canopy entrance, this image presents strong vanishing-point composition with the structural grid of the canopy filling the upper two-thirds of the frame. Silhouetted figures on the escalator provide human scale and narrative suggestion.&lt;/p&gt;
+&lt;p&gt;The canopy area, predominantly highlight (sky through glass), took colour dramatically. The structural grid of the canopy framework remained largely black, preserving contrast and compositional structure. The glass panels between grid members shifted to warm amber with areas of deeper bronze where activator concentrated during treatment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What worked&lt;/strong&gt;: The geometric regularity of the canopy grid meant uneven colour development reads as variation in light transmission through different panels—a natural interpretation rather than processing artifact. The warm tones suggest late afternoon sunlight through the structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I might adjust&lt;/strong&gt;: The colour gradient runs warmer at centre and cooler at edges, which is compositionally backwards—warmth drawing attention to edges would better frame the composition. More consistent activator application, or edge-weighted application, would improve future versions.&lt;/p&gt;
+&lt;!-- ### The Platform (Vault Station)
+
+The iconic Metro station composition: coffered concrete vault receding toward tunnel darkness, platforms flanking the tracks, a train visible in the tunnel approach. High contrast between illuminated ceiling panels and dark platform/tunnel areas.
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Full platform chromoskedasic print&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+This image responded particularly well because each coffered ceiling panel transformed somewhat independently. The recessed portions of the coffers stayed darker; the projecting portions caught more light and more chemistry. The result suggests the ceiling panels are illuminated by coloured light—which, in a sense, they now are.
+
+The tunnel at centre, being nearly black in the negative, remained unchanged. This provides visual and conceptual anchor—the deep darkness of the tunnel mouth contrasting with the transformed colours of the station vault.
+
+**What worked**: Architectural regularity made inconsistent treatment an asset. The station remains readable as a specific place while taking on transformed quality—recognisable but estranged.
+
+**What I would adjust**: I over-silvered one area (upper left) where developer dripped. The metallic patch draws attention inappropriately. More careful brush control—or using squeeze bottles rather than brushes for developer—would prevent accidental application. --&gt;
+&lt;h3 id=&#34;the-washington-monument&#34;&gt;The Washington Monument&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_1.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Washington Monument&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;A simpler composition: the Monument filling most of the frame, shot from near its base looking upward, American flags on poles at the base. The marble shaft constitutes almost entirely highlight area against the bright sky.&lt;/p&gt;
+&lt;p&gt;This print demonstrates both potential and limitations when treating large continuous tonal areas. The Monument shaft developed rich bronze-amber colour, but with visible streaking where brush strokes deposited varying chemical amounts. The sky area, which I intended to push toward deeper amber, developed unevenly—some regions dark bronze, others remaining pale.&lt;/p&gt;
+&lt;p&gt;Conceptually, I find the print compelling despite (or because of) these technical imperfections. The Monument transformed from white marble icon to something resembling oxidized bronze or weathered metal. The streaking reads almost as weathering patterns on aged material. The American symbol rendered in tones of transformation and age carries meaning beyond the technical result.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What worked&lt;/strong&gt;: The central concept—Monument as transformed, patinated, alchemically altered—succeeds. Bronze tones feel appropriate for monumental sculpture, creating associative resonance even though the actual Monument is white marble.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I would adjust&lt;/strong&gt;: More even chemistry application. The streaking, while interesting, wasn&amp;rsquo;t intentional. Tray immersion rather than brush work would produce more uniform results on large continuous areas.&lt;/p&gt;
+&lt;h3 id=&#34;the-train&#34;&gt;The Train&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_4.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Metro train at platform&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Metro train at platform, shot from an angle showing multiple cars receding. The 7000-series trains (introduced 2014-present) feature stainless steel exteriors that photograph as bright metallic surfaces—extensive highlight area in the negative. The platform and tunnel provide dark framing.&lt;/p&gt;
+&lt;p&gt;The train cars developed wonderful colour variation—each window reflecting differently, each panel taking chemistry at slightly different rates. The overall effect transforms the train from stainless steel to bronze, as though the vehicle were made of aged metal rather than modern industrial material.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What worked&lt;/strong&gt;: Intentional combination of chromoskedasic colour (car bodies) created visual and material contrast. The composition holds together despite aggressive transformation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I would adjust&lt;/strong&gt;: The tunnel ceiling visible in the background remained too yellow/grey compared to the bronze train. Extending activator treatment to background areas would create more unified colour.&lt;/p&gt;
+&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons Learned&lt;/h2&gt;
+&lt;p&gt;After producing several dozen chromoskedasic prints, patterns have emerged:&lt;/p&gt;
+&lt;h3 id=&#34;on-image-selection&#34;&gt;On Image Selection&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Geometric structure matters more than subject&lt;/strong&gt;: Images with strong compositional bones survive aggressive colour transformation. Images relying on subtle tonal gradation become muddy and confused. Architecture, industrial subjects, and formal compositions work better than casual snapshots or organic subjects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significant highlight area is essential&lt;/strong&gt;: Chromoskedasic colour forms in highlight regions. Images predominantly dark don&amp;rsquo;t show effects clearly. Look for substantial bright areas—skies, illuminated surfaces, reflective materials—where transformation will be visible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High contrast helps&lt;/strong&gt;: Clear separation between shadows and highlights produces clearer results than middle-grey images where everything blends. The technique amplifies tonal distinctions rather than creating them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Regularity tolerates variation&lt;/strong&gt;: Repeating patterns (architectural grids, industrial repetition) accept uneven chemical effects because variations read as lighting differences. Unique forms show processing inconsistency more obviously.&lt;/p&gt;
+&lt;h3 id=&#34;on-chemistry&#34;&gt;On Chemistry&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Fresh stabilizer, aged activator&lt;/strong&gt;: Stabilizer works best fresh—thiocyanate concentration affects reaction efficiency. Activator works interestingly when aged—accumulated silver particles contribute to effects, particularly silvering. Save and reuse activator solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Temperature affects everything&lt;/strong&gt;: I work at ambient outdoor temperature, which varies seasonally. Warmer days (summer) produce faster, more intense effects; cooler days (spring, autumn) require longer treatment times and produce subtler results. Consistency requires temperature awareness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Activator is the danger zone&lt;/strong&gt;: Over-application of activator pushes results past good colour into muddy brown. Apply less than you think necessary; observe results; add more only if needed. You can always intensify; you cannot reverse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brush quality matters&lt;/strong&gt;: Cheap brushes shed bristles into chemistry and onto prints. Foam brushes provide broad coverage but lack precision. Quality calligraphy brushes hold fluid properly and allow controlled application. Invest in good tools.&lt;/p&gt;
+&lt;h3 id=&#34;on-process&#34;&gt;On Process&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Preparation prevents problems&lt;/strong&gt;: Once stabilizer touches the print, you&amp;rsquo;re committed. Have all materials ready before starting—chemistry mixed, brushes clean, rinse water available, working surface prepared. Scrambling mid-process causes errors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Work at sustainable pace&lt;/strong&gt;: The chemistry operates on minute timescales, not seconds. You have time to observe, think, and adjust. Rushing produces mistakes; patience produces control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Document your process&lt;/strong&gt;: Keep notes on exposure, development time, chemistry timing, ambient temperature. Results are difficult to reproduce exactly, but understanding what produced successes helps you work in productive ranges.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accept imperfection&lt;/strong&gt;: Chromoskedasic printing is inherently variable. Embrace the technique&amp;rsquo;s aleatory quality rather than fighting it. Perfect reproducibility isn&amp;rsquo;t achievable; interesting singular results are.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Make multiple prints&lt;/strong&gt;: Given variability, producing several prints from one negative and treating them differently yields better results than attempting to perfect a single print. Variation is the medium&amp;rsquo;s nature; work with it.&lt;/p&gt;
+&lt;h2 id=&#34;combining-with-other-techniques&#34;&gt;Combining with Other Techniques&lt;/h2&gt;
+&lt;p&gt;The DC prints represent straightforward chromoskedasic Sabattier treatment. Future work might combine the technique with other processes I&amp;rsquo;ve explored:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chromoskedasic + mordançage&lt;/strong&gt;: Applying mordançage chemistry after chromoskedasic treatment—or interleaving the processes—might produce lifted emulsion effects with colour. The different chemical systems could interact in unpredictable ways.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chromoskedasic + lith printing&lt;/strong&gt;: Lith-developed prints, with their infectious development and distinctive tonality, might respond differently to chromoskedasic treatment than conventionally developed prints. The irregular silver structures of lith development could nucleate colour formation differently.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chromoskedasic + kinetic enlarger movement&lt;/strong&gt;: Applying enlarger movement during initial exposure (producing motion blur), then chromoskedasic treatment during printing, would layer motion effects with colour effects—two transformations on the same image.&lt;/p&gt;
+&lt;p&gt;These combinations enter genuinely unexplored territory. The DC work established baseline competence; subsequent experimentation will push into hybrid territory.&lt;/p&gt;
+&lt;h2 id=&#34;resources-for-practitioners&#34;&gt;Resources for Practitioners&lt;/h2&gt;
+&lt;p&gt;For those beginning chromoskedasic work, these resources proved valuable:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Christina Z. Anderson&amp;rsquo;s materials&lt;/strong&gt;: Her book &lt;em&gt;The Experimental Darkroom&lt;/em&gt; (Routledge, 2022) provides the most comprehensive practical instruction available. Her articles through Freestyle Photographic Supplies remain accessible online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bridget Conn&amp;rsquo;s workshops and handouts&lt;/strong&gt;: Conn teaches chromoskedasic workshops and has developed excellent instructional materials covering both tray and brush methods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Freestyle Photographic Supplies&lt;/strong&gt;: They stock pre-mixed chromoskedasic chemistry and have historically supported the technique through educational materials.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Photrio forums&lt;/strong&gt;: The Alternative Processes section occasionally features chromoskedasic discussion. The community is small but knowledgeable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Start simple&lt;/strong&gt;: Begin with tray method on small paper (5×7 or 8×10) to learn how your materials respond before attempting brush control on larger formats. Expect first attempts to fail instructively.&lt;/p&gt;
+&lt;h2 id=&#34;what-these-prints-mean&#34;&gt;What These Prints Mean&lt;/h2&gt;
+&lt;p&gt;Beyond technical process, what do these transformed images of Washington accomplish?&lt;/p&gt;
+&lt;p&gt;The photographs began as documentation—record shots of architecture, transit infrastructure, civic monuments. Standard black and white captures of public spaces. The chromoskedasic treatment pushed them elsewhere: documentary became decorative, record became interpretation, photograph approached painting or printmaking in its relationship to subject.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/015-ChromoskedasicDC/final_group.jpeg&#34; align=&#34;right&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Group of DC chromoskedasic prints displayed together&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;The warm tones suggest age, patina, the passage of time. The Washington Monument in bronze-amber evokes oxidized metal rather than white marble—the monument as archaeological artifact, aged object, thing-that-was rather than thing-that-is. The Metro stations, designed to feel futuristic, become almost Victorian in these prints—steam-punk transit, retrofuture infrastructure, spaces from some alternate timeline.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s something appropriate about applying this alchemical process to images of the capital. Washington is a city built on transformation—political will converted into physical monument, abstract ideals made concrete in marble and granite and bronze. Chromoskedasic printing performs its own transformation, taking the silver-and-gelatin of photography and revealing unexpected colour through controlled chemistry. Both involve making materials speak in new registers through precise intervention.&lt;/p&gt;
+&lt;p&gt;Standing in the garden with chemistry and paper and afternoon light, watching amber tones develop across an image of the Monument, I&amp;rsquo;m participating in photography&amp;rsquo;s long tradition of intervention—the recognition that the camera captures a beginning, not an end. What happens between negative and final print has always been where photography meets craft, where technical process becomes artistic choice.&lt;/p&gt;
+&lt;p&gt;Chromoskedasic Sabattier printing offers one path through that territory. It&amp;rsquo;s demanding, unpredictable, and produces results impossible through any other means. For images that deserve transformation rather than mere reproduction, it offers something genuine: colour created from light and silver through physics alone, warm tones emerging from the structure of matter rather than the application of dyes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;h3 id=&#34;process-and-technique&#34;&gt;Process and Technique&lt;/h3&gt;
+&lt;p&gt;Anderson, Christina Z. &lt;em&gt;The Experimental Darkroom: Contemporary Uses of Traditional Black &amp;amp; White Photographic Processes&lt;/em&gt;. New York: Routledge, 2022.&lt;/p&gt;
+&lt;p&gt;Anderson, Christina Z. &amp;ldquo;Quick and Easy Chromoskedasic Sabatier.&amp;rdquo; Freestyle Photographic Supplies. &lt;a href=&#34;https://www.freestylephoto.biz/chromoskedasic-sabatier&#34;&gt;https://www.freestylephoto.biz/chromoskedasic-sabatier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jolly, William L. &lt;em&gt;Solarization Demystified&lt;/em&gt;. Buffalo, NY: William L. Jolly, 1997.&lt;/p&gt;
+&lt;p&gt;Lam, Dominic Man-Kit, and Bryant W. Rossiter. &amp;ldquo;Chromoskedasic Painting.&amp;rdquo; &lt;em&gt;Scientific American&lt;/em&gt; 265, no. 5 (November 1991): 80-85.&lt;/p&gt;
+&lt;h3 id=&#34;washington-metro-architecture&#34;&gt;Washington Metro Architecture&lt;/h3&gt;
+&lt;p&gt;Schrag, Zachary M. &lt;em&gt;The Great Society Subway: A History of the Washington Metro&lt;/em&gt;. Baltimore: Johns Hopkins University Press, 2006. [Comprehensive history of Metro planning, design, and construction.]&lt;/p&gt;
+&lt;p&gt;Weese, Harry, and Associates. &lt;em&gt;Washington Metropolitan Area Transit Authority Design Manual&lt;/em&gt;. Washington, DC: WMATA, 1976. [Original design guidelines establishing the Metro&amp;rsquo;s visual language.]&lt;/p&gt;
+&lt;p&gt;Forgey, Benjamin. &amp;ldquo;Metro at 25: How Architecture Transformed a City.&amp;rdquo; &lt;em&gt;Washington Post&lt;/em&gt;, March 25, 2001.&lt;/p&gt;
+&lt;h3 id=&#34;contemporary-chromoskedasic-practitioners&#34;&gt;Contemporary Chromoskedasic Practitioners&lt;/h3&gt;
+&lt;p&gt;Conn, Bridget. Workshop materials and artist website. &lt;a href=&#34;https://www.bridgetconnartstudio.net&#34;&gt;https://www.bridgetconnartstudio.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cook, Jan. &amp;ldquo;Fugue: A Dreamlike State&amp;rdquo; series. Analog Forever Magazine feature.&lt;/p&gt;
+&lt;p&gt;Whitehead, Ralph. &amp;ldquo;Making Rainbows from Silver.&amp;rdquo; Film Shooters Collective.&lt;/p&gt;
+&lt;h3 id=&#34;related-technical-resources&#34;&gt;Related Technical Resources&lt;/h3&gt;
+&lt;p&gt;Anchell, Stephen G. &lt;em&gt;The Darkroom Cookbook&lt;/em&gt;. 4th ed. New York: Routledge, 2016. [General darkroom chemistry reference.]&lt;/p&gt;
+&lt;p&gt;James, Christopher. &lt;em&gt;The Book of Alternative Photographic Processes&lt;/em&gt;. 3rd ed. Boston: Cengage Learning, 2015.&lt;/p&gt;
+&lt;h3 id=&#34;online-communities&#34;&gt;Online Communities&lt;/h3&gt;
+&lt;p&gt;Photrio.com. Alternative Processes forum. &lt;a href=&#34;https://www.photrio.com/forum/forums/alternative-processes.67/&#34;&gt;https://www.photrio.com/forum/forums/alternative-processes.67/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AlternativePhotography.com. Process guides and community. &lt;a href=&#34;https://www.alternativephotography.com&#34;&gt;https://www.alternativephotography.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>015 · The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry</title>
+      <link>http://localhost:1313/experiments/014-016-chromoskedasic/015-chromoskedasicscience/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/015-chromoskedasicscience/</guid>
+      <description>&lt;h1 id=&#34;the-science-of-colour-from-silver-mie-scattering-plasmons-and-counterintuitive-chemistry&#34;&gt;The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry&lt;/h1&gt;
+&lt;p&gt;In the previous post, I introduced chromoskedasic Sabattier printing as a technique that creates colour from black and white materials through physics and chemistry. Now we examine exactly how this works—why silver nanoparticles of specific sizes scatter specific wavelengths of light, and how darkroom chemistry produces those particles.&lt;/p&gt;
+&lt;p&gt;This is where my professional life intersects with my darkroom practice. The physics underlying chromoskedasic printing—surface plasmon resonance, Mie scattering, colloidal nanoparticle optics—connects directly to phenomena I encounter in quantum hardware research. The same principles that govern colour formation in these prints inform the design of plasmonic sensors and nanophotonic devices. Understanding the science doesn&amp;rsquo;t diminish the art; it reveals why this technique produces results achievable through no other means.&lt;/p&gt;
+&lt;h2 id=&#34;part-one-the-physics-of-structural-colour&#34;&gt;Part One: The Physics of Structural Colour&lt;/h2&gt;
+&lt;h3 id=&#34;beyond-rayleigh-when-particles-grow-large&#34;&gt;Beyond Rayleigh: When Particles Grow Large&lt;/h3&gt;
+&lt;p&gt;Most photographers have encountered Rayleigh scattering, even if not by name—it famously explains why the sky is blue. When light encounters particles much smaller than its wavelength, shorter wavelengths scatter more efficiently than longer ones. The mathematical relationship is steep: scattering intensity scales with the inverse fourth power of wavelength (I ∝ λ⁻⁴). Blue light, with its shorter wavelength (~450 nm), scatters roughly ten times more intensely than red light (~650 nm). Hence blue skies during the day and red sunsets when light traverses more atmosphere.&lt;/p&gt;
+&lt;p&gt;But Rayleigh scattering applies only when particles are truly small—roughly less than one-tenth the wavelength of light. For visible wavelengths (approximately 400-700 nm), this means particles smaller than about 40-70 nm. Above this threshold, the physics changes fundamentally.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-ChromoskedasicScience/scattering_regimes.png&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Diagram showing Rayleigh vs Mie scattering regimes&#34; /&gt;
+    &lt;figcaption&gt;Scattering behaviour depends on the ratio of particle diameter to wavelength. The Mie regime begins when particles approach the scale of visible light.&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;When particle diameter approaches or exceeds the wavelength of light, we enter the Mie scattering regime. Named after German physicist Gustav Mie, who published the complete mathematical solution in 1908, Mie theory describes the complex electromagnetic interactions between light waves and spherical particles of comparable size. The simple wavelength dependence of Rayleigh scattering gives way to intricate resonance phenomena where specific wavelengths interact strongly with particles of specific sizes.&lt;/p&gt;
+&lt;p&gt;Mie&amp;rsquo;s original paper, &amp;ldquo;Beiträge zur Optik trüber Medien, speziell kolloidaler Metallösungen&amp;rdquo; (Contributions to the Optics of Turbid Media, Especially Colloidal Metal Solutions), was motivated precisely by the colours of colloidal gold solutions—the same class of phenomena that underlies chromoskedasic printing. The theory he developed remains foundational to understanding light-matter interactions at the nanoscale.&lt;/p&gt;
+&lt;p&gt;If Rayleigh scattering explains why the sky is blue, Mie scattering explains why the clouds are white.&lt;/p&gt;
+&lt;!-- In the Mie regime, scattering efficiency depends on resonances between incident light and the particle&#39;s electromagnetic response. Different wavelengths resonate with different particle sizes. This is why colloidal suspensions of identical material can appear different colours depending on particle size distribution—the resonance conditions select for different wavelengths. --&gt;
+&lt;h3 id=&#34;surface-plasmon-resonance-the-heart-of-the-phenomenon&#34;&gt;Surface Plasmon Resonance: The Heart of the Phenomenon&lt;/h3&gt;
+&lt;p&gt;For metallic nanoparticles like silver, something particularly interesting occurs: localized surface plasmon resonance (LSPR). This effect dominates the optical properties of chromoskedasic prints and produces their distinctive metallic, iridescent character.&lt;/p&gt;
+&lt;p&gt;A plasmon is a collective oscillation of conduction electrons in a metal. In bulk metal, these oscillations propagate as waves along the surface (surface plasmon polaritons) or through the volume (bulk plasmons). In nanoparticles—where electrons are confined to a small volume—the oscillations become localized. The particle acts as a resonant cavity for electron oscillation, with resonance frequencies determined by particle geometry and surrounding medium.&lt;/p&gt;
+&lt;p&gt;When light of the right wavelength strikes a silver nanoparticle, it drives the conduction electrons to oscillate collectively. At the resonance frequency, this oscillation becomes extremely intense—the particle acts almost like a nanoscale antenna, concentrating electromagnetic energy at its surface. The resonance causes strong absorption and scattering at that specific wavelength, with scattering cross-sections that can exceed the particle&amp;rsquo;s geometric cross-section by factors of 10-40×.&lt;/p&gt;
+&lt;p&gt;The resonance wavelength depends on three primary factors:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Particle size&lt;/strong&gt;: Larger particles resonate at longer wavelengths. For spherical silver nanoparticles in gelatin, the approximate relationships are:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Particle Diameter&lt;/th&gt;
+          &lt;th&gt;Resonance Region&lt;/th&gt;
+          &lt;th&gt;Apparent Colour&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10-30 nm&lt;/td&gt;
+          &lt;td&gt;Blue-violet absorption&lt;/td&gt;
+          &lt;td&gt;Yellow&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30-50 nm&lt;/td&gt;
+          &lt;td&gt;Blue absorption&lt;/td&gt;
+          &lt;td&gt;Orange-yellow&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;50-70 nm&lt;/td&gt;
+          &lt;td&gt;Green absorption&lt;/td&gt;
+          &lt;td&gt;Amber-orange&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;70-100 nm&lt;/td&gt;
+          &lt;td&gt;Yellow-green absorption&lt;/td&gt;
+          &lt;td&gt;Bronze-brown&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;gt;100 nm&lt;/td&gt;
+          &lt;td&gt;Broad visible absorption&lt;/td&gt;
+          &lt;td&gt;Grey-brown&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;These ranges are approximate. In practice, particle shape, aggregation state, size distribution, and the local gelatin environment all influence the exact resonance position. The table provides a conceptual framework, not precise specifications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Particle shape&lt;/strong&gt;: Spherical particles show single resonance peaks. Elongated particles (ellipsoids, rods) show multiple resonances at different wavelengths corresponding to oscillation along different axes. Irregular particles show broadened, complex spectra. In chromoskedasic prints, particles form under rapid, non-equilibrium conditions and tend toward irregular shapes—broadening the colour response and contributing to the technique&amp;rsquo;s characteristic warm, complex tones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Surrounding medium&lt;/strong&gt;: The refractive index of the embedding medium shifts the resonance wavelength. Higher refractive index produces longer resonance wavelength (red-shift). Gelatin has a refractive index of approximately 1.5 (compared to 1.33 for water and 1.0 for air), causing significant red-shift of the plasmon resonance compared to silver nanoparticles in aqueous solution. This partly explains why chromoskedasic prints show predominantly warm tones—the gelatin matrix shifts resonances toward longer wavelengths.&lt;/p&gt;
+&lt;h3 id=&#34;why-warm-tones-dominate&#34;&gt;Why Warm Tones Dominate&lt;/h3&gt;
+&lt;p&gt;The characteristic amber-bronze-gold palette of chromoskedasic prints reflects fundamental physics rather than arbitrary chemistry.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-ChromoskedasicScience/silver_plasmon_spectrum.png&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Plot showing how silver nanoparticle plasmon resonance shifts with particle size&#34; /&gt;
+    &lt;figcaption&gt;Silver nanoparticle plasmon resonance red-shifts with increasing particle diameter. In gelatin, the shift is more pronounced than in aqueous solution.&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;Silver nanoparticles exhibit their primary surface plasmon resonance around 390-420 nm in vacuum or air—the boundary between ultraviolet and visible violet. In gelatin, this shifts to approximately 400-450 nm. Small silver particles therefore strongly absorb violet and blue light while transmitting and scattering longer wavelengths. The visual result is yellow.&lt;/p&gt;
+&lt;p&gt;As particles grow larger, the resonance shifts to longer wavelengths. Absorption moves through blue (producing orange appearance) toward green (producing red-brown appearance). But the resonance peak also broadens and weakens as particles grow. Very large particles—above roughly 150 nm—no longer show strong, sharp resonance. They scatter light more diffusely across the visible spectrum, appearing grey or metallic silver.&lt;/p&gt;
+&lt;p&gt;The chromoskedasic process produces particles predominantly in the 30-100 nm range, with size distributions that depend on processing conditions. This range corresponds directly to the warm colour palette: yellow, amber, orange, bronze, gold, russet brown. Cool tones (pure blue, green) require very small particles (under ~25 nm) that form only under conditions difficult to achieve with the rapid, aggressive chemistry involved.&lt;/p&gt;
+&lt;p&gt;The chemistry can push toward cooler or warmer within this range—more on this below—but the basic palette is constrained by physics. Chromoskedasic printing doesn&amp;rsquo;t offer the full spectral range of chromogenic colour or multi-toner combinations. It offers instead a distinctive warm palette with metallic character impossible through any other means.&lt;/p&gt;
+&lt;h3 id=&#34;the-quantum-connection&#34;&gt;The Quantum Connection&lt;/h3&gt;
+&lt;p&gt;For those familiar with quantum mechanics, surface plasmon resonance connects to deeper physics. The plasmon is a quantized collective excitation—a quasiparticle representing coherent oscillation of the electron gas. The resonance condition corresponds to the frequency at which photon energy matches the plasmon energy for a given particle geometry.&lt;/p&gt;
+&lt;!-- 
+The strong light-matter coupling at plasmon resonance has made silver and gold nanoparticles central to several active research areas:
+
+**Biosensing**: LSPR-based sensors detect molecular binding events through resonance wavelength shifts. A molecule adsorbing to a nanoparticle surface changes the local refractive index, shifting the resonance—detectable as colour change. This enables label-free detection with extraordinary sensitivity.
+
+**Photovoltaics**: Plasmonic nanoparticles embedded in solar cell absorber layers can enhance light capture through near-field concentration and scattering effects, improving efficiency.
+
+**Photothermal therapy**: Gold nanoparticles tuned to absorb near-infrared light (which penetrates tissue) can be targeted to tumours and illuminated externally, producing localised heating for cancer treatment.
+
+**SERS (Surface-Enhanced Raman Spectroscopy)**: The intense local fields near plasmonic nanoparticles enhance Raman scattering signals by factors of 10⁶-10¹⁰, enabling single-molecule detection. --&gt;
+&lt;p&gt;When making a chromoskedasic print, I&amp;rsquo;m working with the same physics. The darkroom becomes an informal nanofabrication facility; the developer tray, a colloidal synthesis reactor. The particles producing warm amber tones are the same scale as structures engineered for cutting-edge photonic applications.&lt;/p&gt;
+&lt;h2 id=&#34;part-two-the-chemistry-of-particle-formation&#34;&gt;Part Two: The Chemistry of Particle Formation&lt;/h2&gt;
+&lt;p&gt;Understanding the physics tells us what we want to achieve. The chemistry tells us how to achieve it.&lt;/p&gt;
+&lt;h3 id=&#34;the-standard-darkroom-why-it-doesnt-produce-colour&#34;&gt;The Standard Darkroom: Why It Doesn&amp;rsquo;t Produce Colour&lt;/h3&gt;
+&lt;p&gt;In conventional black and white processing, colour doesn&amp;rsquo;t appear because particle sizes fall outside the optimal range for visible plasmon resonance—and because particles form as interconnected networks rather than discrete colloidal particles.&lt;/p&gt;
+&lt;p&gt;During camera exposure, photons create latent image centres in silver halide crystals—clusters of a few silver atoms that mark where development should occur. These clusters are far too small (a few atoms) to show plasmon effects in the visible range.&lt;/p&gt;
+&lt;p&gt;During development, reducing agents (typically hydroquinone or Metol/phenidone compounds) convert silver ions to metallic silver at latent image sites. The developing silver particles grow through accretion, with new silver depositing onto existing nuclei. The particles that form are quite large by nanoparticle standards—typically 200-500 nm or more, with complex filamentary structures that interconnect to form conducting networks. These extended structures scatter light broadly across the visible spectrum, producing neutral grey-to-black tones. No resonance selectivity, no colour.&lt;/p&gt;
+&lt;p&gt;Fixation removes unexposed silver halide, leaving only the developed silver image. Particle size doesn&amp;rsquo;t change during fixation—thiosulfate fixer attacks silver halide (AgBr, AgCl) but not metallic silver (Ag⁰). The final image consists of large, interconnected silver particles that appear black in dense areas and grey where sparser.&lt;/p&gt;
+&lt;p&gt;The key insight: colour requires controlling particle formation—size, shape, and dispersion—during development, not modifying particles afterward. Once large filamentary structures have formed, they cannot be broken down into discrete nanoparticles. Chromoskedasic chemistry intervenes during the development/fixation process to redirect how silver precipitates.&lt;/p&gt;
+&lt;h3 id=&#34;the-counterintuitive-sequence-stabilizer-before-activator&#34;&gt;The Counterintuitive Sequence: Stabilizer Before Activator&lt;/h3&gt;
+&lt;p&gt;Chromoskedasic processing uses two primary solutions with names that seem to suggest the opposite of their functions:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stabilizer&lt;/strong&gt; (applied first): Despite its name, this doesn&amp;rsquo;t stabilize the image in the conventional photographic sense. It&amp;rsquo;s a thiocyanate-based solution that partially complexes silver ions, creating a metastable chemical state that prevents both normal development and normal fixation from proceeding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Activator&lt;/strong&gt; (applied second): This alkaline solution triggers controlled precipitation of silver as colloidal nanoparticles in the size range that produces visible colour.&lt;/p&gt;
+&lt;p&gt;The sequence defies normal darkroom logic. In standard processing, you develop (creating silver image) then fix (removing unexposed halide). Here, you partially develop, then apply something like a partial fix (stabilizer), then chemically activate to complete silver formation under controlled conditions. The fix-like step comes in the middle of development, not at the end.&lt;/p&gt;
+&lt;h3 id=&#34;stabilizer-chemistry-creating-the-metastable-state&#34;&gt;Stabilizer Chemistry: Creating the Metastable State&lt;/h3&gt;
+&lt;p&gt;The stabilizer contains ammonium or potassium thiocyanate (SCN⁻) at high concentration, buffered with acetic acid to an acidic pH.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Standard Stabilizer Formula&lt;/strong&gt; (after Anderson and Bean):&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Amount&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ammonium thiocyanate (NH₄SCN)&lt;/td&gt;
+          &lt;td&gt;200 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sodium metabisulfite (Na₂S₂O₅)&lt;/td&gt;
+          &lt;td&gt;70 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Acetic acid, 5%&lt;/td&gt;
+          &lt;td&gt;340 ml&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Water to total&lt;/td&gt;
+          &lt;td&gt;1000 ml&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Working dilution: 1:4 for tray work; approximately 20% for brush application.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alternative: Potassium thiocyanate formulation&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Amount&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Potassium thiocyanate (KSCN)&lt;/td&gt;
+          &lt;td&gt;200 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Water to total&lt;/td&gt;
+          &lt;td&gt;1000 ml&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Working concentration: ~20% solution.&lt;/p&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Critical safety note&lt;/strong&gt;: Keep potassium thiocyanate away from all acids. Contact generates hydrogen cyanide gas, which is immediately dangerous to life. The ammonium thiocyanate formulation with acetic acid is safer; if using potassium thiocyanate, work only in well-ventilated areas and never add acid.&lt;/p&gt;
+&lt;p&gt;When stabilizer contacts a partially developed print, the thiocyanate ions form complexes with silver:&lt;/p&gt;
+&lt;p&gt;Ag⁺ + 2SCN⁻ → [Ag(SCN)₂]⁻&lt;/p&gt;
+&lt;p&gt;These complexes are more stable than free silver ions but less stable than the silver thiosulfate complexes formed by conventional fixer. The acidic pH inhibits further development and slows oxidation reactions. The result is a metastable intermediate state—silver neither fully removed (as with fixer) nor fully developed (as with continued processing). The system is chemically poised, waiting for the next intervention.&lt;/p&gt;
+&lt;p&gt;The stabilizer also interacts with remaining silver halide crystals, partially converting them but not fully dissolving them. This preserves unreacted halide as a reservoir for subsequent colour formation.&lt;/p&gt;
+&lt;h3 id=&#34;activator-chemistry-triggering-controlled-precipitation&#34;&gt;Activator Chemistry: Triggering Controlled Precipitation&lt;/h3&gt;
+&lt;p&gt;The activator is dilute alkali:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Standard Activator Formula&lt;/strong&gt;:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Amount&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Potassium hydroxide (KOH)&lt;/td&gt;
+          &lt;td&gt;30-50 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cold water&lt;/td&gt;
+          &lt;td&gt;to 300-500 ml&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Working dilution: 2% for brush application; 10-20% for tray work.&lt;/p&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Safety note&lt;/strong&gt;: Dissolving KOH in water is strongly exothermic. Always add KOH to cold water slowly, never the reverse. The solution will heat significantly. Concentrated KOH causes severe chemical burns.&lt;/p&gt;
+&lt;p&gt;Sodium hydroxide (NaOH) can substitute but produces slower reactions and reportedly different (generally less intense) colour effects. Some practitioners report that ammonia solutions produce brownish, maroon, and yellow hues—attributed to the similar ionic radii of K⁺ and NH₄⁺.&lt;/p&gt;
+&lt;p&gt;When activator contacts the stabilized print, the pH jumps dramatically—from roughly 4-5 (acidic stabilizer) to 12-14 (strongly alkaline). This triggers several simultaneous processes:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thiocyanate complex destabilization&lt;/strong&gt;: At high pH, the silver-thiocyanate complexes become unstable, releasing silver ions back into solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Silver ion reduction&lt;/strong&gt;: Multiple reducing agents are present—residual developer, metabisulfite from stabilizer, organic compounds in gelatin. At high pH, these reduce silver ions to metallic silver. The reduction occurs rapidly at many sites simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nucleation and growth&lt;/strong&gt;: The released and newly-reduced silver precipitates as metallic particles. Rapid pH change drives fast nucleation, producing many small particles rather than fewer large ones. The competition between nucleation and growth—controlled by local chemistry—determines the final size distribution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Size-selective precipitation&lt;/strong&gt;: The alkaline conditions and residual thiocyanate moderate growth rates, preventing runaway aggregation into large filaments. Particles tend to stabilize in the 20-100 nm range rather than growing to the micron-scale structures of conventional development.&lt;/p&gt;
+&lt;p&gt;The result is a population of silver nanoparticles in the size range exhibiting visible surface plasmon resonance. The precise distribution—and therefore the colour—depends on timing, temperature, concentration, and application method.&lt;/p&gt;
+&lt;h3 id=&#34;why-light-matters-the-sabattier-component&#34;&gt;Why Light Matters: The Sabattier Component&lt;/h3&gt;
+&lt;p&gt;The &amp;ldquo;Sabattier&amp;rdquo; in &amp;ldquo;chromoskedasic Sabattier&amp;rdquo; indicates that light exposure during processing is essential for colour formation. This isn&amp;rsquo;t optional.&lt;/p&gt;
+&lt;p&gt;Light exposure serves multiple functions:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Latent image formation in highlights&lt;/strong&gt;: During partial development under safelight, shadow regions develop first (they received more camera exposure). Highlight regions retain unexposed silver halide. When room light strikes the print after stabilizer application, it exposes these remaining halides, creating new latent image centres throughout the previously unexposed areas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Photolytic reduction&lt;/strong&gt;: Light can directly reduce silver ions to metallic silver, especially in the presence of organic electron donors. This photolytic reduction produces very small initial particles—exactly the nucleation sites needed for controlled colour formation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multiplication of nucleation sites&lt;/strong&gt;: Room light creates numerous small nucleation centres rather than the few large latent image centres from camera exposure. More nuclei means smaller average particle size after growth—pushing results toward visible colour rather than grey fog.&lt;/p&gt;
+&lt;p&gt;Without light exposure during the chromoskedasic sequence, colour formation is weak or absent. The prints fog to grey rather than developing warm tones.&lt;/p&gt;
+&lt;h3 id=&#34;ph-as-the-primary-control-variable&#34;&gt;pH as the Primary Control Variable&lt;/h3&gt;
+&lt;p&gt;Within the constraints of the basic chemistry, pH provides the most direct control over colour:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More alkaline → warmer colours&lt;/strong&gt;: Higher activator concentration or longer activator contact favours larger particles and pushes toward red, brown, and bronze tones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More acidic → cooler colours&lt;/strong&gt;: Higher stabilizer proportion or shorter activator contact preserves smaller particles and can produce yellower tones, occasionally tending toward blue-green in highlight areas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Balanced conditions → golden yellow to amber&lt;/strong&gt;: Moderate chemistry produces the classic chromoskedasic palette.&lt;/p&gt;
+&lt;p&gt;In practice, I adjust colour primarily by controlling the ratio of stabilizer to activator application—both spatially (where on the print) and temporally (how long each acts before the other). More stabilizer time before activator intervention preserves smaller particles and cooler tones. Stronger activator or longer activator time warms the palette.&lt;/p&gt;
+&lt;h3 id=&#34;the-silvering-phenomenon&#34;&gt;The Silvering Phenomenon&lt;/h3&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-ChromoskedasicScience/silvering_detail.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Detail showing silvered area of a chromoskedasic print&#34; /&gt;
+    &lt;figcaption&gt;Silvering produces mirror-like metallic surfaces that shift colour with viewing angle—physically distinct from the coloured nanoparticle regions.&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;When paper developer enters the chromoskedasic process, affected areas can develop a mirror-like metallic sheen, shifting through blue, purple, grey, and silver depending on viewing angle. This &amp;ldquo;silvering out&amp;rdquo; is physically distinct from the coloured nanoparticle effects.&lt;/p&gt;
+&lt;p&gt;The chemistry involves physical development—silver plating out from solution onto existing nuclei rather than developing from latent image centres. Developer provides fresh reducing agent. The partially-processed silver and halide provide nucleation sites. Silver deposits in relatively large particles with high surface coverage, creating a nearly continuous metallic film rather than discrete scattered nanoparticles.&lt;/p&gt;
+&lt;p&gt;Continuous metallic films have different optical properties than discrete nanoparticles. Rather than resonant scattering at specific wavelengths, you get broadband reflection—the mirror-like appearance of bulk metal. The iridescent shifts occur because thin films also produce interference effects.&lt;/p&gt;
+&lt;p&gt;Silvering can be controlled:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To encourage silvering&lt;/strong&gt;: Paint working-strength developer onto specific areas. Move prints through developer → stabilizer → developer → stabilizer sequences. Use exhausted (aged) activator, which accumulates silver particles and promotes plating.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To prevent silvering&lt;/strong&gt;: Avoid developer contact during chromoskedasic treatment. Skip subsequent trays if satisfied with colour. Apply stabilizer as a final step.&lt;/p&gt;
+&lt;p&gt;Silvering works well as an accent—metallic highlights against coloured surrounds—but extensive silvering obscures the more subtle nanoparticle colours that make chromoskedasic distinctive.&lt;/p&gt;
+&lt;h2 id=&#34;part-three-paper-temperature-and-process-control&#34;&gt;Part Three: Paper, Temperature, and Process Control&lt;/h2&gt;
+&lt;h3 id=&#34;paper-selection-the-foundation-of-results&#34;&gt;Paper Selection: The Foundation of Results&lt;/h3&gt;
+&lt;p&gt;Paper choice substantially affects chromoskedasic outcomes. Key variables include silver content, gelatin properties, and surface characteristics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommended papers&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ilford Multigrade FB Warmtone (glossy)&lt;/strong&gt;: The consensus best choice. High silver content provides ample material for nanoparticle formation. The warmtone emulsion complements the technique&amp;rsquo;s natural palette. Glossy surface shows colours clearly without surface scatter dilution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ilford Multigrade IV FB Classic (glossy)&lt;/strong&gt;: Excellent results with slightly cooler base tonality than Warmtone. Good alternative when warmtone isn&amp;rsquo;t desired.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fomatone papers (131, 132, 532)&lt;/strong&gt;: Czech papers with high silver content and distinctive gelatin properties. Produce strong colour response with somewhat different palette than Ilford.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ilford Multigrade RC Pearl&lt;/strong&gt;: Among resin-coated papers, Pearl surface shows strongest metallic effects. Colour formation is possible but typically less dramatic than fiber-based papers.&lt;/p&gt;
+&lt;p&gt;Fiber-based papers generally outperform resin-coated for chromoskedasic work. The thicker, more robust gelatin layer in FB papers holds chemistry better and permits more complex particle formation dynamics. RC paper&amp;rsquo;s thin emulsion and sealed plastic base limit chemical interaction.&lt;/p&gt;
+&lt;p&gt;Surface finish matters for colour visibility. Glossy surfaces allow direct reflection of plasmon-scattered wavelengths. Matte surfaces scatter reflected light in all directions, diluting the resonant colour with diffuse white scatter. For maximum colour intensity, glossy is preferred.&lt;/p&gt;
+&lt;h3 id=&#34;temperature-effects&#34;&gt;Temperature Effects&lt;/h3&gt;
+&lt;p&gt;Temperature affects both chemistry and physics of the process.&lt;/p&gt;
+&lt;p&gt;Chemical kinetics accelerate with temperature. Reactions that require minutes at 20°C may complete in seconds at 35°C. The practical working range is approximately 24-40°C (75-105°F), with most practitioners working around 30-35°C.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warmer conditions produce&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster colour development&lt;/li&gt;
+&lt;li&gt;More intense final colours&lt;/li&gt;
+&lt;li&gt;Greater risk of over-processing and loss of control&lt;/li&gt;
+&lt;li&gt;Narrower timing windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cooler conditions produce&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slower, more controllable reactions&lt;/li&gt;
+&lt;li&gt;Subtler effects&lt;/li&gt;
+&lt;li&gt;Risk of incomplete activation if too cold&lt;/li&gt;
+&lt;li&gt;Wider timing tolerance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I work at 30-33°C for most chromoskedasic sessions—warm enough for reliable colour intensity while maintaining reasonable working time. In my outdoor workflow (discussed in the next post), ambient temperature varies seasonally, which noticeably affects results.&lt;/p&gt;
+&lt;h3 id=&#34;tray-method-versus-brush-method&#34;&gt;Tray Method versus Brush Method&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tray method&lt;/strong&gt;: All working chemicals combined in a single tray. The print moves from development through rinse into the combined chromoskedasic bath. This produces more uniform effects across the print surface, with less spatial control but greater consistency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tray formula&lt;/strong&gt; (per Megan Crawford&amp;rsquo;s method):&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Amount&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Warm water (~30°C)&lt;/td&gt;
+          &lt;td&gt;500 ml&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Working developer&lt;/td&gt;
+          &lt;td&gt;125 ml&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Activator stock (10% KOH)&lt;/td&gt;
+          &lt;td&gt;250 ml&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stabilizer stock&lt;/td&gt;
+          &lt;td&gt;125 ml&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Agitate for 30-60 seconds, then allow the print to sit in the tray, watching for colour development and silvering. Total time varies from 1-5 minutes depending on desired effect.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brush method&lt;/strong&gt;: Apply stabilizer and activator separately using brushes, controlling where each solution contacts the print. This permits selective colour control—different areas can receive different treatment—but requires more skill and produces more variation.&lt;/p&gt;
+&lt;p&gt;For brush work, I use a calligraphy brush (holds fluid, comes to a point) for detail application and a foam brush for broad coverage. Dedicate brushes to chromoskedasic work; they&amp;rsquo;ll accumulate silver with use and affect subsequent prints if used for other purposes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brush method sequence&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Under room light, apply dilute stabilizer (20%) to target areas&lt;/li&gt;
+&lt;li&gt;Observe colour shift—areas should move toward pale yellow within 30-90 seconds&lt;/li&gt;
+&lt;li&gt;Apply dilute activator (2-5% KOH) selectively&lt;/li&gt;
+&lt;li&gt;Observe colour development—treated areas shift toward amber, brown over 30-120 seconds&lt;/li&gt;
+&lt;li&gt;Optionally apply developer for localised silvering&lt;/li&gt;
+&lt;li&gt;Repeat and adjust until satisfied&lt;/li&gt;
+&lt;li&gt;Rinse thoroughly to arrest further change&lt;/li&gt;
+&lt;li&gt;Fix to complete processing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;fixing-the-archival-trade-off&#34;&gt;Fixing: The Archival Trade-off&lt;/h3&gt;
+&lt;p&gt;Standard fixer (sodium thiosulfate) removes unfixed silver halide—necessary for archival permanence—but also attacks the colour-forming nanoparticles, shifting colours toward grey.&lt;/p&gt;
+&lt;p&gt;Two approaches:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Standard fixer with accepted colour shift&lt;/strong&gt;: Use normal thiosulfate fixer. Blues and violets shift toward silvery grey with interesting fluorescence under oblique lighting. Warm tones shift toward grey-brown. Some practitioners prefer these more muted post-fix colours.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Colour-preserving thiocyanate fix&lt;/strong&gt; (after Jolly):&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Ratio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5% sodium thiocyanate solution&lt;/td&gt;
+          &lt;td&gt;1 part&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Water&lt;/td&gt;
+          &lt;td&gt;5 parts&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Treatment time&lt;/td&gt;
+          &lt;td&gt;~20 seconds&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This removes residual halide without fully attacking the colour-forming particles. Results preserve colours closer to their wet-print appearance. However, archival stability may be reduced compared to thorough thiosulfate fixation—a trade-off each practitioner must evaluate.&lt;/p&gt;
+&lt;p&gt;After fixing, wash prints thoroughly. Fiber-based prints require 60-120 minutes in running water or equivalent archival washing sequence. RC prints need minimum 5 minutes.&lt;/p&gt;
+&lt;p&gt;Prints darken approximately one stop when dry. Stop processing when the wet print appears slightly lighter than desired.&lt;/p&gt;
+&lt;h2 id=&#34;the-irreducible-variables&#34;&gt;The Irreducible Variables&lt;/h2&gt;
+&lt;p&gt;Despite understanding the physics and chemistry in detail, chromoskedasic printing remains irreducibly experimental. Some variables resist control:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Particle size distribution&lt;/strong&gt;: The chemistry produces a range of sizes, not monodisperse uniform particles. Each print has a slightly different distribution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Local concentration gradients&lt;/strong&gt;: Even with careful application, concentrations vary across the print. Diffusion, pooling, evaporation, and brush loading all create gradients.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gelatin batch variation&lt;/strong&gt;: Different paper batches have subtly different gelatin formulations, affecting nucleation and growth kinetics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image content feedback&lt;/strong&gt;: The existing silver distribution from camera exposure affects where and how colour forms. Dense shadow regions remain unchanged; sparse highlight regions transform dramatically. The chemistry responds to image content, creating content-dependent results that can&amp;rsquo;t be fully predicted.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Environmental fluctuations&lt;/strong&gt;: Temperature and humidity variations during processing influence reaction rates and equilibria.&lt;/p&gt;
+&lt;p&gt;These uncontrollable factors mean exact reproduction is essentially impossible. Two prints from the same negative, processed identically by the same hands, will differ. For practitioners accustomed to digital repeatability, this is frustrating. For those embracing analogue contingency, it&amp;rsquo;s intrinsic to the medium.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;h3 id=&#34;physics-of-nanoparticle-optics&#34;&gt;Physics of Nanoparticle Optics&lt;/h3&gt;
+&lt;p&gt;Mie, Gustav. &amp;ldquo;Beiträge zur Optik trüber Medien, speziell kolloidaler Metallösungen.&amp;rdquo; &lt;em&gt;Annalen der Physik&lt;/em&gt; 330, no. 3 (1908): 377-445. [Original theoretical treatment.]&lt;/p&gt;
+&lt;p&gt;Bohren, Craig F., and Donald R. Huffman. &lt;em&gt;Absorption and Scattering of Light by Small Particles&lt;/em&gt;. New York: Wiley, 1983. [Comprehensive textbook on Mie theory and light scattering.]&lt;/p&gt;
+&lt;p&gt;Kelly, K. Lance, Eduardo Coronado, Lin Lin Zhao, and George C. Schatz. &amp;ldquo;The Optical Properties of Metal Nanoparticles: The Influence of Size, Shape, and Dielectric Environment.&amp;rdquo; &lt;em&gt;Journal of Physical Chemistry B&lt;/em&gt; 107, no. 3 (2003): 668-677. [Excellent review of plasmonic nanoparticle optics.]&lt;/p&gt;
+&lt;p&gt;Kreibig, Uwe, and Michael Vollmer. &lt;em&gt;Optical Properties of Metal Clusters&lt;/em&gt;. Berlin: Springer, 1995. [Detailed treatment of metal nanoparticle optics.]&lt;/p&gt;
+&lt;h3 id=&#34;surface-plasmon-resonance&#34;&gt;Surface Plasmon Resonance&lt;/h3&gt;
+&lt;p&gt;Maier, Stefan A. &lt;em&gt;Plasmonics: Fundamentals and Applications&lt;/em&gt;. New York: Springer, 2007. [Modern textbook on plasmonics.]&lt;/p&gt;
+&lt;p&gt;Willets, Katherine A., and Richard P. Van Duyne. &amp;ldquo;Localized Surface Plasmon Resonance Spectroscopy and Sensing.&amp;rdquo; &lt;em&gt;Annual Review of Physical Chemistry&lt;/em&gt; 58 (2007): 267-297. [Review focused on LSPR sensing applications.]&lt;/p&gt;
+&lt;h3 id=&#34;silver-nanoparticle-chemistry&#34;&gt;Silver Nanoparticle Chemistry&lt;/h3&gt;
+&lt;p&gt;Paramelle, David, et al. &amp;ldquo;A Rapid Method to Estimate the Concentration of Citrate Capped Silver Nanoparticles from UV-visible Light Spectra.&amp;rdquo; &lt;em&gt;Analyst&lt;/em&gt; 139 (2014): 4855-4861. [Modern characterisation of silver nanoparticle optical properties.]&lt;/p&gt;
+&lt;p&gt;Henglein, Arnim. &amp;ldquo;Colloidal Silver Nanoparticles: Photochemical Preparation and Interaction with O₂, CCl₄, and Some Metal Ions.&amp;rdquo; &lt;em&gt;Chemistry of Materials&lt;/em&gt; 10 (1998): 444-450. [Silver nanoparticle chemistry.]&lt;/p&gt;
+&lt;h3 id=&#34;chromoskedasic-process&#34;&gt;Chromoskedasic Process&lt;/h3&gt;
+&lt;p&gt;Lam, Dominic Man-Kit, and Bryant W. Rossiter. &amp;ldquo;Chromoskedasic Painting.&amp;rdquo; &lt;em&gt;Scientific American&lt;/em&gt; 265, no. 5 (November 1991): 80-85.&lt;/p&gt;
+&lt;p&gt;Jolly, William L. &lt;em&gt;Solarization Demystified: Historical, Artistic and Technical Aspects of the Sabatier Effect&lt;/em&gt;. Buffalo, NY: William L. Jolly, 1997.&lt;/p&gt;
+&lt;p&gt;Anderson, Christina Z. &lt;em&gt;The Experimental Darkroom&lt;/em&gt;. New York: Routledge, 2022.&lt;/p&gt;
+&lt;p&gt;Anderson, Christina Z. &amp;ldquo;Chromoskedasic Printing Revisited.&amp;rdquo; &lt;em&gt;Photo Techniques&lt;/em&gt; (May/June 2010).&lt;/p&gt;
+&lt;h3 id=&#34;online-resources&#34;&gt;Online Resources&lt;/h3&gt;
+&lt;p&gt;AlternativePhotography.com. &amp;ldquo;Self-made Activator and Stabilizer for Chromoskedasic Painting.&amp;rdquo; &lt;a href=&#34;https://www.alternativephotography.com/self-made-activator-and-stabilizer-for-chromoskedasic-painting/&#34;&gt;https://www.alternativephotography.com/self-made-activator-and-stabilizer-for-chromoskedasic-painting/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photrio.com forums. &amp;ldquo;Chromoskedasic Activator and Stabilizer Formulas.&amp;rdquo; &lt;a href=&#34;https://www.photrio.com/forum/threads/chromoskedasic-activator-and-stabilizer-formulas.119551/&#34;&gt;https://www.photrio.com/forum/threads/chromoskedasic-activator-and-stabilizer-formulas.119551/&lt;/a&gt; [Community discussion of alternative formulations.]&lt;/p&gt;
+&lt;h3 id=&#34;further-reading-related-processes&#34;&gt;Further Reading: Related Processes&lt;/h3&gt;
+&lt;p&gt;Crawford, William. &lt;em&gt;The Keepers of Light&lt;/em&gt;. Dobbs Ferry, NY: Morgan &amp;amp; Morgan, 1979. [Historical photographic processes.]&lt;/p&gt;
+&lt;p&gt;James, Christopher. &lt;em&gt;The Book of Alternative Photographic Processes&lt;/em&gt;. 3rd ed. Boston: Cengage Learning, 2015.&lt;/p&gt;
+&lt;p&gt;Anchell, Stephen G., and Bill Troop. &lt;em&gt;The Film Developing Cookbook&lt;/em&gt;. Boston: Focal Press, 1998. [Development chemistry background.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>014 · Chromoskedasic Sabattier: Colour from Silver, Light from Scattering</title>
+      <link>http://localhost:1313/experiments/014-016-chromoskedasic/014-chromoskedasicintro/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/014-chromoskedasicintro/</guid>
+      <description>&lt;h1 id=&#34;chromoskedasic-sabattier-colour-from-silver-light-from-scattering&#34;&gt;Chromoskedasic Sabattier: Colour from Silver, Light from Scattering&lt;/h1&gt;
+&lt;p&gt;The print came out of the activator tray warm amber where it had been grey seconds before. Not stained amber, not toned amber—the silver itself had transformed, scattering light at wavelengths it had no business scattering. I tilted the wet paper and watched the colour shift, iridescent, metallic, impossible from materials that contained nothing but silver and gelatin.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_2.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro escalator&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;This is chromoskedasic Sabattier printing: a technique that creates colour from black and white materials through physics rather than chemistry. Unlike toning, where chemical compounds replace or coat the silver, chromoskedasic printing manipulates silver particle sizes until they scatter specific wavelengths of light. The phenomenon is called surface plasmon resonance, and it&amp;rsquo;s the same physics that makes colloidal gold appear ruby red and gives stained glass windows their glow. Centuries-old art, cutting-edge nanoscience, and darkroom practice converging in a tray of alkaline solution.&lt;/p&gt;
+&lt;p&gt;I first encountered chromoskedasic prints in Christina Z. Anderson&amp;rsquo;s work—warm bronze tones emerging from standard Ilford paper, colours that seemed to require dyes or pigments but contained neither. The prints had a metallic quality that shifted with viewing angle, almost holographic. For someone who spends their professional life thinking about quantum phenomena in superconducting systems, the underlying physics was irresistible. Here was a darkroom technique grounded in the same plasmonic effects I encounter in nanophotonics literature.&lt;/p&gt;
+&lt;p&gt;This post begins a three-part series exploring chromoskedasic Sabattier printing. Here I&amp;rsquo;ll cover history and context—what the process is, how it was discovered, and how it relates to the Sabattier and mordançage techniques I&amp;rsquo;ve written about elsewhere. The second post examines the physics and chemistry in depth: Mie scattering, surface plasmon resonance, and the counterintuitive chemical sequence that enables colour formation. The third documents my experiments applying the technique to photographs of Washington DC&amp;rsquo;s Metro system and monuments.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-chromoskedasic-printing&#34;&gt;What Is Chromoskedasic Printing?&lt;/h2&gt;
+&lt;p&gt;The name derives from Greek: &lt;em&gt;chroma&lt;/em&gt; (colour) and &lt;em&gt;skedasmos&lt;/em&gt; (scattering or dispersion). The term describes the physical mechanism directly—colour arising from the scattering of light by particles, not from selective absorption by dyes or pigments.&lt;/p&gt;
+&lt;p&gt;This distinction matters. In conventional colour photography—whether chromogenic prints, inkjet outputs, or oil paintings—colour arises through subtractive mixing. Dyes absorb specific wavelengths while transmitting others. Cyan dye absorbs red light; magenta absorbs green; yellow absorbs blue. The colour we perceive is what remains after absorption.&lt;/p&gt;
+&lt;p&gt;Chromoskedasic prints operate through an entirely different mechanism. The silver particles in the emulsion don&amp;rsquo;t absorb light selectively—they scatter it. When particles reach specific sizes (roughly 10-100 nanometers), they scatter certain wavelengths more efficiently than others due to resonance effects. The scattered light creates the appearance of colour, while transmitted light shows complementary colours.&lt;/p&gt;
+&lt;p&gt;This is structural colour—colour arising from physical structure rather than chemical pigmentation. It&amp;rsquo;s how peacock feathers achieve their iridescence without containing blue or green pigments, how morpho butterfly wings shimmer, how soap bubbles produce rainbow patterns from materials that are themselves colourless. The colour comes from the interaction between light waves and physical structures at scales comparable to visible wavelengths.&lt;/p&gt;
+&lt;p&gt;The practical result is prints with qualities impossible through conventional means: metallic sheens, colours that shift with viewing angle, warm amber and bronze tones emerging from paper containing nothing but silver and gelatin. The effect is genuinely unique—neither toned nor dyed nor painted, but structurally coloured through the physics of nanoscale light-matter interaction.&lt;/p&gt;
+&lt;h2 id=&#34;a-process-born-from-accident&#34;&gt;A Process Born from Accident&lt;/h2&gt;
+&lt;p&gt;Like many photographic discoveries, chromoskedasic printing emerged from a mistake that someone was curious enough to investigate rather than discard.&lt;/p&gt;
+&lt;p&gt;The story begins at the University of California, San Francisco in 1980. Dr. Dominic Man-Kit Lam, a scientist working on visual perception and photoreceptor biochemistry, was exploring the optical properties of silver halide systems. During experiments with partially processed photographic materials, he observed something unexpected: colours appearing on paper that should have remained purely monochrome.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/013-Chromoskedasic/lam_early_work.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Early chromoskedasic work by Dominic Man-Kit Lam&#34; /&gt;
+    &lt;figcaption&gt;Early chromoskedasic experiments produced colours that seemed impossible from black and white materials&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro car&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Rather than dismissing this as contamination or error, Lam investigated systematically. What conditions produced colour? What variables controlled the hue? What was the mechanism? Over the following years, working largely in isolation, he developed the technique into a reproducible process—though one he used primarily for his own artistic work rather than publishing detailed methodology.&lt;/p&gt;
+&lt;p&gt;The scientific explanation came from an unexpected source. In 1989, Bryant W. Rossiter, a research chemist at Eastman Kodak&amp;rsquo;s Research Laboratories in Rochester, New York, encountered Lam&amp;rsquo;s work and recognised the underlying physics. Rossiter understood that the colours weren&amp;rsquo;t chemical in origin—they arose from Mie scattering by colloidal silver particles suspended in the gelatin matrix. He had the physical chemistry background to explain why specific particle sizes produced specific colours, and the connection to broader work on colloidal metal optics.&lt;/p&gt;
+&lt;p&gt;Lam and Rossiter collaborated to document the phenomenon, resulting in their landmark 1991 article in &lt;em&gt;Scientific American&lt;/em&gt;: &amp;ldquo;Chromoskedasic Painting.&amp;rdquo; That paper established both the theoretical foundation and practical methodology. The colours arise from localized surface plasmon resonance in silver nanoparticles—collective oscillations of conduction electrons that resonate with incident light at wavelengths determined by particle size and shape. Particles around 20-40 nm produce yellows; 40-60 nm yields amber and orange; 60-100 nm creates bronze, brown, and russet tones.&lt;/p&gt;
+&lt;p&gt;The name &amp;ldquo;chromoskedasic&amp;rdquo; was coined by Lam and Rossiter to describe this mechanism precisely. Unlike &amp;ldquo;solarisation&amp;rdquo; (which technically refers to extreme overexposure reversal effects, often confused with Sabattier) or &amp;ldquo;Sabattier effect&amp;rdquo; (which describes tone reversal from mid-development fogging), &amp;ldquo;chromoskedasic&amp;rdquo; names the physical phenomenon: colour from scattering.&lt;/p&gt;
+&lt;h2 id=&#34;the-lineage-from-rochester-to-bozeman&#34;&gt;The Lineage: From Rochester to Bozeman&lt;/h2&gt;
+&lt;p&gt;Scientific discoveries require champions to survive. Without practitioners willing to teach, refine, and document a technique, even elegant processes disappear. Chromoskedasic printing nearly suffered this fate.&lt;/p&gt;
+&lt;p&gt;Following the 1991 &lt;em&gt;Scientific American&lt;/em&gt; article, interest briefly flared. Kodak, recognising commercial potential, developed the Ektamatic S-10 Stabilizer and A-10 Activator—chemistry specifically optimised for chromoskedasic work. Articles appeared in photography magazines. Workshops were offered. Then the analogue world contracted as digital imaging accelerated, and the technique faded into obscurity.&lt;/p&gt;
+&lt;p&gt;Dr. William L. Jolly kept the flame alive through the 1990s and early 2000s. Emeritus Professor of Chemistry at UC Berkeley, Jolly combined deep scientific understanding with serious photographic practice. He had published extensively on inorganic chemistry (his textbook &lt;em&gt;Modern Inorganic Chemistry&lt;/em&gt; went through multiple editions) and understood the electron transfer reactions underlying the process. His 1997 book &lt;em&gt;Solarization Demystified: Historical, Artistic and Technical Aspects of the Sabatier Effect&lt;/em&gt; devoted substantial chapters to chromoskedasic processing, including reformulated chemistry as the original Kodak products became scarce. Jolly continued experimenting and teaching until his death in 2014.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_1.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Washington Monument&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Christina Z. Anderson, Professor of Photography at Montana State University, became the technique&amp;rsquo;s most important contemporary advocate. Anderson studied alternative processes extensively, including direct instruction from Jolly, and has spent decades documenting and teaching historical and experimental techniques. Her books—&lt;em&gt;Gum Printing and Other Amazing Contact Printing Processes&lt;/em&gt; (2017), &lt;em&gt;Cyanotype: The Blueprint in Contemporary Practice&lt;/em&gt; (2019), and most comprehensively &lt;em&gt;The Experimental Darkroom&lt;/em&gt; (2022)—provide accessible instruction for processes otherwise poorly documented. For chromoskedasic printing specifically, she worked with Freestyle Photographic Supplies and master printer Alan Bean to develop modern chemical formulations after Kodak discontinued the Ektamatic products.&lt;/p&gt;
+&lt;p&gt;Today, a small but dedicated community practices chromoskedasic printing. Artists including Bridget Conn (who teaches workshops and has developed excellent instructional materials), Jan Cook, Jessica Hays, Frank Lopez, Sara Silks, and Ralph Whitehead have developed distinctive approaches. The process appears occasionally in alternative photography workshops and publications. But it remains genuinely obscure—far less known than cyanotype, platinum printing, gum bichromate, or even mordançage.&lt;/p&gt;
+&lt;h2 id=&#34;relationship-to-other-experimental-techniques&#34;&gt;Relationship to Other Experimental Techniques&lt;/h2&gt;
+&lt;p&gt;Understanding where chromoskedasic printing fits among experimental darkroom processes helps clarify what makes it distinctive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Standard Sabattier effect&lt;/strong&gt;: I&amp;rsquo;ve written elsewhere about the Sabattier effect—the technique where a print receives secondary light exposure partway through development, causing partial tone reversal and the distinctive Mackie lines at density boundaries. The effect was first documented in the 1850s (by H. de la Blanchère, among others) and named after Armand Sabatier, who described it in 1862. Chromoskedasic Sabattier incorporates this mid-process light exposure but adds chemical intervention that produces colour rather than simple tone reversal. The &amp;ldquo;Sabattier&amp;rdquo; in the name indicates that room-light exposure during processing is essential to colour formation—the light creates new latent image centres that participate in the colour-forming reactions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mordançage&lt;/strong&gt;: My mordançage work uses copper chloride, hydrogen peroxide, and glacial acetic acid to attack the developed silver image, weakening the gelatin matrix and allowing emulsion to lift and be physically manipulated. The chemistry is aggressive, and the process creates physical texture—veils of lifted emulsion, exposed paper base, three-dimensional sculptural effects. Chromoskedasic printing is gentler and aims for different results. It manipulates the state and size of silver particles to produce optical effects while leaving the print surface essentially intact. Where mordançage transforms photographs toward sculpture, chromoskedasic transforms them toward painting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toning&lt;/strong&gt;: Traditional toners—selenium, sepia, gold, iron blue—chemically convert silver particles or deposit other metals onto them. In selenium toning, for example, selenium replaces some of the silver, shifting colour toward purple-brown. In gold toning, gold deposits onto silver particles, shifting toward blue-black. The particle size remains similar; the chemistry changes. Chromoskedasic printing works through the opposite mechanism: the chemistry (silver in gelatin) remains fundamentally the same, but particle size changes. This is why chromoskedasic results look so different from toned prints—the colour mechanism is entirely distinct.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chemigrams&lt;/strong&gt;: Pierre Cordier&amp;rsquo;s chemigram process (developed from 1956 onward) applies developer, fixer, and other chemicals to photographic paper without camera exposure, creating abstract images through direct chemical interaction under room light. Chromoskedasic printing shares the concept of manipulating chemistry outside conventional processing sequences but works with camera-exposed images rather than purely abstract chemical marks.&lt;/p&gt;
+&lt;p&gt;The closest historical relatives might be the interference-based colour processes of the late 19th century—Gabriel Lippmann&amp;rsquo;s Nobel Prize-winning interference photography (1891-1908), which created colour through standing wave patterns in thick emulsions. These processes were abandoned as technically impractical for commercial use, but they operated on similar principles: engineering the physical structure of silver to interact with light in wavelength-selective ways, producing colour without dyes.&lt;/p&gt;
+&lt;h2 id=&#34;why-washington-dc&#34;&gt;Why Washington DC?&lt;/h2&gt;
+&lt;p&gt;For my chromoskedasic experiments, I chose photographs from Washington DC—specifically the Metro system and the monuments. The choice wasn&amp;rsquo;t arbitrary.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro platform&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The DC Metro stations, designed by architect Harry Weese and opened beginning in 1976, represent some of the most striking brutalist architecture in American public transit. The system&amp;rsquo;s visual signature—coffered concrete vaults that expand toward the platforms, dramatic escalators tunneling through indirect lighting, the interplay of geometric structure and controlled illumination—creates images with strong compositional bones and clear tonal separation.&lt;/p&gt;
+&lt;p&gt;These characteristics make Metro photographs particularly suited to chromoskedasic treatment. The process works by transforming highlight areas while leaving shadows largely unchanged; images with clear separation between light and dark show effects most dramatically. The repeating geometric elements—coffered ceiling panels, escalator handrails, platform edge markers—provide visual structure that survives significant transformation. Even when colours shift unexpectedly or develop unevenly, the underlying architecture holds the image together.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s also conceptual resonance. Washington is a city built on transformation—political will converted into physical monument, abstract democratic ideals made concrete (literally) in marble and granite. Chromoskedasic printing performs its own transformation, taking the silver-and-gelatin of black and white photography and revealing unexpected colour through physical restructuring. Both involve making materials speak in new ways through precise intervention.&lt;/p&gt;
+&lt;p&gt;The Metro system adds another layer. These are spaces of transit, of movement, of people flowing through engineered environments. The chromoskedasic process involves its own flows—chemistry moving across the print surface, silver particles nucleating and growing, colour emerging through controlled chemical instability. The frozen moments captured on film become unfrozen in the darkroom, transformed by reactions that refuse to stabilise until arrested.&lt;/p&gt;
+&lt;h2 id=&#34;what-makes-this-process-difficult&#34;&gt;What Makes This Process Difficult&lt;/h2&gt;
+&lt;p&gt;Chromoskedasic printing is genuinely challenging. Unlike many alternative processes where experience leads to predictable results, this technique involves so many interacting variables that complete control remains elusive even for experienced practitioners.&lt;/p&gt;
+&lt;p&gt;The primary difficulty is timing. The chemical sequence—stabilizer, then activator, with light exposure at specific stages—must occur within narrow windows. Insufficient stabilizer time and the subsequent chemistry fails to produce colour. Excessive stabilizer time overshoots into different, often unwanted effects. Temperature affects reaction rates. Solution age and exhaustion change behaviour. Even paper batch variations shift results.&lt;/p&gt;
+&lt;p&gt;Then there&amp;rsquo;s the interaction with image content. Different tonal regions respond differently. Shadow areas with dense, fully-developed silver remain largely unchanged—the particles are too large and too interconnected for the chemistry to restructure. Highlight areas with sparse silver distribution transform dramatically. Mid-tones fall somewhere between, their response depending on precise local conditions. Learning to predict how a given negative will transform requires many attempts.&lt;/p&gt;
+&lt;p&gt;The colour palette, while beautiful, is constrained compared to other processes. Warm tones dominate: yellows, ambers, bronzes, golds, occasional blue-violets at the edges. The full spectrum available through conventional toning or chromogenic processes isn&amp;rsquo;t accessible. Physics constrains what&amp;rsquo;s possible—silver nanoparticles only scatter certain wavelength ranges efficiently.&lt;/p&gt;
+&lt;p&gt;Finally, exact reproducibility is essentially impossible. You can develop consistent approaches that produce similar results, but precise reproduction of a specific print requires controlling variables that resist control. Each piece emerges from a unique confluence of chemistry, timing, temperature, and intervention. Some practitioners embrace this as integral to the medium&amp;rsquo;s character; others find it frustrating.&lt;/p&gt;
+&lt;h2 id=&#34;preview-what-comes-next&#34;&gt;Preview: What Comes Next&lt;/h2&gt;
+&lt;p&gt;In the second post of this series, I examine the physics and chemistry in detail. We&amp;rsquo;ll explore Mie scattering theory, surface plasmon resonance, and why silver nanoparticles produce specific colours at specific sizes. I&amp;rsquo;ll provide chemical formulations for stabilizer and activator, explain why the counterintuitive application sequence matters, and discuss how variables including pH, temperature, and paper choice affect results. For those with physics or chemistry background, I&amp;rsquo;ll connect the phenomenon to broader contexts in nanophotonics and colloidal science.&lt;/p&gt;
+&lt;p&gt;The third post documents my practical experience with the DC photographs. I&amp;rsquo;ll describe my specific workflow—which involves partial development in the darkroom followed by chromoskedasic treatment outdoors under natural light—discuss successes and failures, and offer observations that might help others attempting the technique.&lt;/p&gt;
+&lt;p&gt;What I hope to convey across this series is both technical depth and aesthetic potential. Chromoskedasic printing is grounded in serious physics — yet it produces results that feel almost alchemical: colour emerging from colourless materials, light itself becoming the pigment.&lt;/p&gt;
+&lt;p&gt;The experimental darkroom has always been where science meets art, where understanding chemistry and physics enables creative possibilities unavailable through intuition alone. Chromoskedasic Sabattier printing represents one of the most elegant examples of this intersection: a technique requiring knowledge of optics, electrochemistry, and colloid science, yet producing results that transcend technical explanation. The prints aren&amp;rsquo;t illustrations of physics—they&amp;rsquo;re physics made visible, light scattering rendered permanent in silver and gelatin.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;h3 id=&#34;primary-sources&#34;&gt;Primary Sources&lt;/h3&gt;
+&lt;p&gt;Lam, Dominic Man-Kit, and Bryant W. Rossiter. &amp;ldquo;Chromoskedasic Painting.&amp;rdquo; &lt;em&gt;Scientific American&lt;/em&gt; 265, no. 5 (November 1991): 80-85. [The foundational paper introducing the technique and explaining the physical mechanism. Available on JSTOR.]&lt;/p&gt;
+&lt;p&gt;Jolly, William L. &lt;em&gt;Solarization Demystified: Historical, Artistic and Technical Aspects of the Sabatier Effect&lt;/em&gt;. Buffalo, NY: William L. Jolly, 1997. [Comprehensive treatment including extensive chromoskedasic chapters with reformulated chemistry.]&lt;/p&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;p&gt;Anderson, Christina Z. &lt;em&gt;The Experimental Darkroom: Contemporary Uses of Traditional Black &amp;amp; White Photographic Processes&lt;/em&gt;. New York: Routledge, 2022. [Chapter 4 covers chromoskedasic printing with contemporary formulations and practical instruction.]&lt;/p&gt;
+&lt;p&gt;Anderson, Christina Z. &lt;em&gt;Experimental Photography Workbook&lt;/em&gt;. Self-published, earlier editions. [Predecessor to &lt;em&gt;The Experimental Darkroom&lt;/em&gt; with chromoskedasic coverage.]&lt;/p&gt;
+&lt;p&gt;Li, Vanessa Lok-wa, and Bryant W. Rossiter. &lt;em&gt;The Art and Artistry of Dominic Man-Kit Lam: Volume 1, Chromoskedasic Painting&lt;/em&gt;. Singapore: World Scientific, 2017. [Monograph on Lam&amp;rsquo;s artistic work with extensive reproductions.]&lt;/p&gt;
+&lt;h3 id=&#34;articles&#34;&gt;Articles&lt;/h3&gt;
+&lt;p&gt;Anderson, Christina Z. &amp;ldquo;Quick and Easy Chromoskedasic Sabatier.&amp;rdquo; &lt;em&gt;Photo Techniques&lt;/em&gt; (May/June 2010). [Practical introduction available through Freestyle Photographic Supplies website.]&lt;/p&gt;
+&lt;p&gt;Anderson, Christina Z. &amp;ldquo;Chromoskedasic Printing Revisited.&amp;rdquo; &lt;em&gt;Photo Techniques&lt;/em&gt; (May/June 2010). [Updated techniques and formulations.]&lt;/p&gt;
+&lt;p&gt;Bean, Alan. &amp;ldquo;The Black and White Corner: Chromoskedasic Painting.&amp;rdquo; &lt;em&gt;View Camera&lt;/em&gt; (September/October 1992): 40-43. [Early practical guide.]&lt;/p&gt;
+&lt;h3 id=&#34;online-resources&#34;&gt;Online Resources&lt;/h3&gt;
+&lt;p&gt;Freestyle Photographic Supplies. &amp;ldquo;Quick and Easy Chromoskedasic Sabatier.&amp;rdquo; &lt;a href=&#34;https://www.freestylephoto.biz/chromoskedasic-sabatier&#34;&gt;https://www.freestylephoto.biz/chromoskedasic-sabatier&lt;/a&gt; [Christina Z. Anderson&amp;rsquo;s practical guide.]&lt;/p&gt;
+&lt;p&gt;AlternativePhotography.com. &amp;ldquo;Chromoskedasic Sabattier: A Step-by-Step Guide.&amp;rdquo; &lt;a href=&#34;https://www.alternativephotography.com/chromoskedasic-sabattier-a-step-by-step-guide/&#34;&gt;https://www.alternativephotography.com/chromoskedasic-sabattier-a-step-by-step-guide/&lt;/a&gt; [Process walkthrough with images.]&lt;/p&gt;
+&lt;h3 id=&#34;related-scientific-literature&#34;&gt;Related Scientific Literature&lt;/h3&gt;
+&lt;p&gt;Mie, Gustav. &amp;ldquo;Beiträge zur Optik trüber Medien, speziell kolloidaler Metallösungen.&amp;rdquo; &lt;em&gt;Annalen der Physik&lt;/em&gt; 330, no. 3 (1908): 377-445. [Original theoretical treatment of light scattering by spherical particles.]&lt;/p&gt;
+&lt;p&gt;Paramelle, David, et al. &amp;ldquo;A Rapid Method to Estimate the Concentration of Citrate Capped Silver Nanoparticles from UV-visible Light Spectra.&amp;rdquo; &lt;em&gt;Analyst&lt;/em&gt; 139 (2014): 4855-4861. [Modern treatment of silver nanoparticle optical properties.]&lt;/p&gt;
+&lt;p&gt;Kelly, K. Lance, et al. &amp;ldquo;The Optical Properties of Metal Nanoparticles: The Influence of Size, Shape, and Dielectric Environment.&amp;rdquo; &lt;em&gt;Journal of Physical Chemistry B&lt;/em&gt; 107, no. 3 (2003): 668-677. [Comprehensive review of plasmonic nanoparticle optics.]&lt;/p&gt;
+&lt;h3 id=&#34;historical-context&#34;&gt;Historical Context&lt;/h3&gt;
+&lt;p&gt;Crawford, William. &lt;em&gt;The Keepers of Light: A History and Working Guide to Early Photographic Processes&lt;/em&gt;. Dobbs Ferry, NY: Morgan &amp;amp; Morgan, 1979. [Historical context for experimental photographic techniques.]&lt;/p&gt;
+&lt;p&gt;James, Christopher. &lt;em&gt;The Book of Alternative Photographic Processes&lt;/em&gt;. 3rd ed. Boston: Cengage Learning, 2015. [Comprehensive alternative process reference.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>013 · Chromatic Archaeology: Reading the Ruins of Colour Photography</title>
+      <link>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
+      <description>&lt;h1 id=&#34;chromatic-archaeology-reading-the-ruins-of-colour-photography&#34;&gt;Chromatic Archaeology: Reading the Ruins of Colour Photography&lt;/h1&gt;
+&lt;p&gt;A fully processed RA4 print presents itself as a unified surface—a seamless blend of cyan, magenta, and yellow that our eyes read as full colour. We accept this illusion so completely that we forget it&amp;rsquo;s an illusion at all. But what happens when we literally peel back that promise? These mordançage-treated RA4 prints aren&amp;rsquo;t just technical experiments—they&amp;rsquo;re archaeological excavations into the physical structure of colour photography itself. Each lifted layer, each chromatic bubble, each yellow-green chemical burn reveals something fundamental: colour photography has always been a construction, a careful stack of molecular approximations that only coheres when we don&amp;rsquo;t look too closely.&lt;/p&gt;
+&lt;h2 id=&#34;the-revelation-of-structure&#34;&gt;The Revelation of Structure&lt;/h2&gt;
+&lt;p&gt;When I first saw distinct colour layers separating—cyan peeling away from magenta like old paint from a wall—I realised I was witnessing something typically invisible: the actual architecture of colour photography. Intellectually, we understand that colour prints contain separate dye layers, but seeing them physically delaminate transforms theoretical knowledge into visceral understanding.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s like those anatomical models where transparent layers reveal muscles, organs, bones. Except here, we&amp;rsquo;re dissecting the anatomy of an image. The cyan layer, responsible for controlling red light, floats free. The magenta layer, modulating green, bubbles up. The yellow, so often invisible in its subtlety, suddenly appears as distinct clouds of colour.&lt;/p&gt;
+&lt;p&gt;The visible stratification exposes the fundamental arbitrariness of photographic colour. There&amp;rsquo;s nothing natural about dividing the visible spectrum into three dye layers. It&amp;rsquo;s a compromise, an engineering solution that works well enough that we&amp;rsquo;ve forgotten it&amp;rsquo;s a compromise at all. These mordançage prints make that compromise visible again.&lt;/p&gt;
+&lt;h2 id=&#34;reading-the-ruins&#34;&gt;Reading the Ruins&lt;/h2&gt;
+&lt;p&gt;Looking at these prints requires developing new visual literacy. We can&amp;rsquo;t read them as conventional photographs—representations of something that existed in front of the camera. Instead, we read them as palimpsests, as geological cross-sections, as maps of chemical events.&lt;/p&gt;
+&lt;p&gt;The lifted areas become negative spaces that reveal the polyethylene base—photography&amp;rsquo;s hidden substrate suddenly visible. The colour separations show the arbitrary divisions we use to construct &amp;ldquo;natural&amp;rdquo; colour. The chemical burns mark time&amp;rsquo;s passage not in years but in minutes of reaction.&lt;/p&gt;
+&lt;p&gt;This is photography that documents its own making and unmaking simultaneously. The image shows both what the camera captured and what the chemistry destroyed. Past and future collapse into a present that won&amp;rsquo;t hold still.&lt;/p&gt;
+&lt;h2 id=&#34;the-palette-of-destruction&#34;&gt;The Palette of Destruction&lt;/h2&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3a.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+The yellow-green chromatic tone that dominates these prints deserves special attention.
+ I think of it as the colour of photographic death. Just as leaves turn colours when dying that they never showed whilst alive, these prints reveal hues during their destruction that were impossible during their creation. The yellow-green isn&#39;t just chemical staining—it&#39;s the visual signature of molecular breakdown, of dyes decomposing, of chemistry consuming itself.
+&lt;p&gt;This expanded palette suggests vast unexplored territories in colour photography.
+What colours emerge only through destruction?&lt;/p&gt;
+&lt;h2 id=&#34;time-as-a-dimension&#34;&gt;Time as a Dimension&lt;/h2&gt;
+&lt;p&gt;Traditional photography freezes time—that&amp;rsquo;s its fundamental promise. These mordançage prints reject that promise entirely. They exist in continuous transformation, their chemistry still active, their colours still shifting. A print photographed today will look different tomorrow. The trapped chemistry continues its work, creating aureoles of colour that expand like slow explosions.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3b.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;The temporal dimension transforms them from photographs into performances. The image isn&amp;rsquo;t the final print—it&amp;rsquo;s the entire process of transformation. Watching a print change over days or weeks becomes part of experiencing the work. We&amp;rsquo;re not just viewing an image; we&amp;rsquo;re witnessing its ongoing decay.&lt;/p&gt;
+&lt;p&gt;This recalls the Japanese concept of &lt;em&gt;mono no aware&lt;/em&gt;—the pathos of things, the gentle sadness of transient beauty. These prints embody that aesthetic philosophy in chemical form. Their beauty is inseparable from their impermanence. They&amp;rsquo;re more beautiful because they&amp;rsquo;re dying.&lt;/p&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;the-honesty-of-instability&#34;&gt;The Honesty of Instability&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s something fundamentally honest about prints that refuse to stabilise. All colour photographs fade—that&amp;rsquo;s been true since the earliest chromogenic processes. Even the most archival contemporary materials will eventually succumb to entropy. These mordançage prints simply acknowledge that fate more openly, even celebrate it.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;Consider the history of colour photography&amp;rsquo;s false promises of permanence. Kodacolor prints from the 1940s have shifted dramatically. Ektachromes from various eras showed poor dark fading and colour shifts. Even modern RA4 prints, despite manufacturer claims, show measurable colour shifts within decades. Colour photography has chased archival stability for over a century and consistently struggled to achieve it.&lt;/p&gt;
+&lt;p&gt;These deliberately unstable prints suggest a different approach: embrace the impermanence. Make work that acknowledges its own mortality. Create images that perform their own decay. There&amp;rsquo;s more truth in a print that openly deteriorates than in one that pretends to permanence it can&amp;rsquo;t actually achieve.&lt;/p&gt;
+&lt;h2 id=&#34;chemical-terroir&#34;&gt;Chemical Terroir&lt;/h2&gt;
+&lt;p&gt;Each batch of prints develops its own character based on subtle variables—the exact temperature that day, the chemistry&amp;rsquo;s age, the specific paper batch, even the humidity in the darkroom. Like wine reflecting its terroir, these prints carry the signature of their specific moment of creation. This chemical variability builds on the kinetic darkroom experiments where movement during enlargement created unique prints—but here the uniqueness comes not from exposure technique but from chemical chaos itself.&lt;/p&gt;
+&lt;p&gt;This irreproducibility runs counter to photography&amp;rsquo;s supposed democratic reproducibility. An entire medium has been built on the premise that prints can be repeated, that editions can be matched. These prints reject that industrial logic. Each one is necessarily unique, carrying the chemical fingerprint of its specific moment of destruction.&lt;/p&gt;
+&lt;p&gt;The yellow-green pollution varies from print to print—sometimes spreading in circular aureoles, sometimes in directional streams, sometimes in explosive bursts. These patterns can&amp;rsquo;t be controlled, only influenced. The chemistry has its own agency, its own aesthetic decisions. The photographer becomes collaborator rather than author.&lt;/p&gt;
+&lt;h2 id=&#34;living-with-instability&#34;&gt;Living With Instability&lt;/h2&gt;
+&lt;p&gt;These prints present practical challenges that become part of their conceptual framework. Storage becomes performance—do I arrest the chemical reactions through extensive washing, or let them continue? Display becomes documentation—each viewing captures a specific moment in an ongoing transformation. Archiving becomes paradox—how do you preserve something designed to decay?&lt;/p&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_5.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+So far, I&#39;ve chosen to let the chemistry continue working. Some prints I&#39;ve washed thoroughly after initial documentation, effectively freezing them at a particular stage of degradation. Others remain unwashed, their evolution continuing in storage. After several weeks, the most aggressive reactions slow, though subtle shifts in colour and density continue for months.
+&lt;p&gt;The fragility matters too. These prints can&amp;rsquo;t be handled carelessly—lifted emulsion layers remain delicate, prone to further tearing or complete detachment. They exist in gallery spaces only with significant care, protected from touch, humidity extremes, and direct light. Their physical vulnerability reinforces their conceptual stance: impermanence made manifest.&lt;/p&gt;
+&lt;h2 id=&#34;digital-mediation-and-material-reality&#34;&gt;Digital Mediation and Material Reality&lt;/h2&gt;
+&lt;p&gt;Ironically, these supremely physical, unmistakably analogue prints often reach viewers as digital files. The photographs you&amp;rsquo;re seeing of these prints are digital captures of analogue destructions. There&amp;rsquo;s something poetic about using digital photography&amp;rsquo;s stability to document analogue photography&amp;rsquo;s instability.&lt;/p&gt;
+&lt;p&gt;But the digital documentation is necessarily incomplete. It can&amp;rsquo;t capture the dimensionality—the actual lifting of emulsion creates topographical variations that shift with viewing angle. It can&amp;rsquo;t capture the ongoing transformation—each digital capture freezes what refuses to be frozen. It can&amp;rsquo;t capture the chemical smell, the tackiness of incompletely dried emulsion, the fragility of layers barely holding together.&lt;/p&gt;
+&lt;p&gt;This gap between digital documentation and physical reality emphasises what we lose in photography&amp;rsquo;s digital migration. These prints insist on their materiality in ways that can&amp;rsquo;t be fully digitised. They&amp;rsquo;re photographs that resist photography.&lt;/p&gt;
+&lt;h2 id=&#34;toward-a-new-colour-aesthetic&#34;&gt;Toward a New Colour Aesthetic&lt;/h2&gt;
+&lt;p&gt;These experiments suggest possibilities for a new relationship with colour photography—one that acknowledges construction rather than assuming naturalism, embraces instability rather than pursuing permanence, celebrates accident alongside intention.&lt;/p&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_6.jpeg&#34; align=&#34;left&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+Imagine exhibitions where prints continue evolving throughout the show&#39;s run. Opening night viewers see different works than closing night viewers. The exhibition becomes durational, performative, unrepeatable.
+&lt;p&gt;Imagine editions where each print is deliberately unique—not through numbering but through chemical variation. The same negative yields infinite variations, each carrying its own chemical signature.&lt;/p&gt;
+&lt;p&gt;Imagine hybrid processes where controlled sections undergo mordançage whilst others remain stable, creating images that exist partially in transformation, partially in stasis. Time moves differently across the picture plane.&lt;/p&gt;
+&lt;h2 id=&#34;chemistry-as-revelation&#34;&gt;Chemistry as Revelation&lt;/h2&gt;
+&lt;p&gt;These RA4 mordançage experiments aren&amp;rsquo;t trying to solve a problem—archival instability isn&amp;rsquo;t a bug here but a feature. They&amp;rsquo;re not trying to improve colour photography—improvement implies we agree on what colour photography should do. Instead, they&amp;rsquo;re revealing what colour photography is: a precarious construction that has been naturalised through repetition and convention.&lt;/p&gt;
+&lt;p&gt;By forcing colour materials into conditions they weren&amp;rsquo;t designed to survive, we learn something essential about their nature. By watching them fail, we understand how they succeed. By seeing them come apart, we grasp how they&amp;rsquo;re put together.&lt;/p&gt;
+&lt;p&gt;Standing in the darkroom, watching colours separate and transform, smelling the acidic bite of chemistry doing things it shouldn&amp;rsquo;t, I&amp;rsquo;m reminded that experimental futures might not lie in new technologies but in deliberately misusing existing ones. Every established process contains the seeds of its own subversion. Every stable system can be destabilised to reveal new truths.&lt;/p&gt;
+&lt;p&gt;The twenty-first century has given us perfect digital colour, infinite reproducibility, absolute control. Perhaps what we need now is imperfect chemical colour, radical uniqueness, collaborative chaos. Perhaps we need photographs that admit what all photographs actually are: unstable negotiations between light and time, chemistry and chance, intention and accident.&lt;/p&gt;
+&lt;p&gt;The yellow-green stains spreading across these prints aren&amp;rsquo;t failures—they&amp;rsquo;re revelations. They show us colour photography with its mask removed, beautiful in its honesty about its own constructed nature. They remind us that every photograph, no matter how stable it appears, is actually a slow explosion of chemistry barely held in check.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers</title>
+      <link>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</guid>
+      <description>&lt;h1 id=&#34;breaking-ra4-apart-when-mordançage-meets-colour-layers&#34;&gt;Breaking RA4 Apart: When Mordançage Meets Colour Layers&lt;/h1&gt;
+&lt;p&gt;The conventional wisdom is clear: mordançage doesn&amp;rsquo;t work on colour materials. No silver, no reaction. Case closed. The chemistry textbooks are unequivocal—RA4 colour paper creates images through cyan, magenta, and yellow dyes, not metallic silver. After the bleach step strips away the developed silver, you&amp;rsquo;re left with pure chromogenic dyes suspended in gelatin. Nothing for copper ions to bite into.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_1.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;So why are these prints lifting? Why, after a few minutes in heated mordançage solution, does the emulsion begin to bubble and separate? Why can I peel entire colour layers away from the resin-coated base like removing cling film from a window?&lt;/p&gt;
+&lt;p&gt;These questions led me into uncharted chemical territory. What started as curiosity about whether mordançage could affect colour materials has become an exploration of RA4 paper&amp;rsquo;s hidden architecture—the adhesion layers, the gelatin matrices, the boundaries between cyan, magenta, and yellow that normally remain invisible until chemistry forces them apart.&lt;/p&gt;
+&lt;h2 id=&#34;the-impossible-chemistry&#34;&gt;The Impossible Chemistry&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s establish what shouldn&amp;rsquo;t be happening. In a standard RA4 process, the workflow runs: developer → bleach-fix (or separate bleach, then fix) → wash. The developer converts exposed silver halides to metallic silver whilst simultaneously creating colour dyes through chromogenic coupling. The bleach then oxidises that metallic silver to soluble silver salts, which the fixer removes entirely. What remains are pure dye clouds—no metallic silver in the final image.&lt;/p&gt;
+&lt;p&gt;Mordançage chemistry, as it is usually described, requires metallic silver to function. The copper(II) chloride needs something to oxidise. The reaction cascade that weakens gelatin depends on that initial electron transfer from silver to copper. Without silver, the chemistry should be inert. The solution should sit there, doing nothing.&lt;/p&gt;
+&lt;p&gt;Yet here I am, watching bubbles form across the surface of a fully processed Fuji Crystal Archive print. The emulsion swells, distorts, then begins to separate from the base.&lt;/p&gt;
+&lt;br&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_2.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;Sometimes it lifts in sheets. Sometimes in bubbles that burst to reveal the white polyethylene base beneath. Sometimes distinct colour layers separating from each other, cyan peeling away from magenta, yellow clouds floating free.&lt;/p&gt;
+&lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;the-alternative-hypothesis-beyond-silver-chemistry&#34;&gt;The Alternative Hypothesis: Beyond Silver Chemistry&lt;/h2&gt;
+&lt;p&gt;After some experimentation, I&amp;rsquo;m working with a different theory. What if the mordançage solution isn&amp;rsquo;t primarily attacking silver at all in these RA4 applications? What if we&amp;rsquo;re seeing something else entirely—a direct chemical assault on the adhesion layers and gelatin structure that has nothing to do with the classical mordançage mechanism?&lt;/p&gt;
+&lt;p&gt;Consider the brutal chemistry we&amp;rsquo;re deploying: concentrated hydrogen peroxide, glacial acetic acid, copper chloride, all held warm at roughly 35°C. Even without silver to oxidise, this cocktail remains seriously aggressive. The hydrogen peroxide alone, at 35% concentration, is a powerful oxidising agent that attacks organic materials. The glacial acetic acid drops the pH below 2, causing massive gelatin swelling. The warmth accelerates everything.&lt;/p&gt;
+&lt;p&gt;RA4 paper architecture differs fundamentally from traditional black and white papers. The emulsion isn&amp;rsquo;t just gelatin with silver halides—it&amp;rsquo;s a complex multilayer structure:&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/layerstack.png&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
+    &lt;figcaption&gt; Taken from &lt;a href=&#34;https://asset.fujifilm.com/www/us/files/2020-02/9251484a0eda6ebb4b47cc6fec73173a/Fujicolor_Crystal_Archive_Type-CA-Data-Specs.pdf&#34; target=&#34;_blank&#34;&gt;Fujifilm Crystal Archive Datasheet&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Supercoat&lt;/strong&gt;: Protective top layer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Red-sensitive layer&lt;/strong&gt;: Contains cyan dye couplers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interlayer&lt;/strong&gt;: Prevents the diffusion of developer-derived molecules into neighbouring layers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Green-sensitive layer&lt;/strong&gt;: Contains magenta dye couplers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interlayer&lt;/strong&gt;: Prevents the diffusion of developer-derived molecules into neighbouring layers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blue-sensitive layer&lt;/strong&gt;: Contains yellow dye couplers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adhesion layer&lt;/strong&gt;: Binds emulsion to resin-coated base&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resin coating&lt;/strong&gt;: Polyethylene layer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper base&lt;/strong&gt;: The actual paper fibre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each boundary between these layers represents a potential failure point when subjected to extreme chemical stress.&lt;/p&gt;
+&lt;p&gt;For these experiments, I use modern RC colour paper simply because it is what remains available; fibre-based colour papers are essentially unobtainable in regular darkroom practice. That scarcity makes the peculiar vulnerability of RA4-on-RC all the more interesting.&lt;/p&gt;
+&lt;h2 id=&#34;the-heated-assault-temperature-as-catalyst&#34;&gt;The Heated Assault: Temperature as Catalyst&lt;/h2&gt;
+&lt;p&gt;The breakthrough came with temperature. At room temperature, RA4 prints resist the mordançage solution almost completely. The emulsion might swell slightly, colours might shift, but the layers hold together. Raise the working temperature to somewhere around 35°C, and everything changes.&lt;/p&gt;
+&lt;p&gt;The warmth serves multiple functions. It accelerates chemical reactions—what might take hours at 20°C happens in minutes closer to 35°C. It increases molecular motion, allowing the aggressive chemistry to penetrate deeper into the emulsion structure. Most critically, it weakens the adhesion layers that bind everything together [web:10][file:4].&lt;/p&gt;
+&lt;p&gt;Modern RA4 papers use sophisticated adhesion promoters to lock the emulsion to the polyethylene base. These are typically titanium- or chromium-based compounds that create molecular bridges between the organic gelatin and the synthetic resin coating. They&amp;rsquo;re designed to survive normal processing chemistry. They&amp;rsquo;re not designed to survive concentrated hydrogen peroxide around 35°C whilst simultaneously being attacked by acid.&lt;/p&gt;
+&lt;h2 id=&#34;the-colour-layer-phenomenon&#34;&gt;The Colour Layer Phenomenon&lt;/h2&gt;
+&lt;p&gt;The most fascinating aspect of this process is the occasional visible separation of colour layers. In a normally processed RA4 print, the three dye layers exist as an integrated sandwich, impossible to distinguish or separate. But under extreme chemical stress, boundaries emerge.&lt;/p&gt;
+&lt;p&gt;When the emulsion lifts cleanly, I sometimes catch glimpses of pure cyan or magenta regions—evidence that the layers aren&amp;rsquo;t lifting uniformly. The chemical attack seems to preferentially weaken certain interlayer boundaries. My hypothesis: each layer has slightly different gelatin formulations, different hardening levels, different chemical vulnerabilities. The mordançage solution exploits these differences.&lt;/p&gt;
+&lt;p&gt;This selective attack creates the yellow–green chromatic effects visible in prints left to dry with residual chemistry. As the trapped solution continues working between partially separated layers, it creates colour shifts that would be impossible through normal colour processing. We&amp;rsquo;re seeing subtractive colour in reverse—not the removal of colour layers but their physical and chemical isolation from each other.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mechanical intervention&lt;/strong&gt;: Unlike traditional mordançage where the emulsion often lifts spontaneously, RA4 sometimes requires encouragement. A gentle scratch with a fingernail or brush can initiate lifting that then propagates across the print. The chemistry weakens the structure; mechanical force provides the failure point.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timing windows&lt;/strong&gt;: Too short, and nothing happens. Too long, and the entire emulsion dissolves into coloured soup. The sweet spot—typically around 4–7 minutes at roughly 35°C in fresh solution—yields controllable lifting with maintained colour integrity.&lt;/p&gt;
+&lt;h2 id=&#34;safety-escalation-this-isnt-standard-mordançage&#34;&gt;Safety Escalation: This Isn&amp;rsquo;t Standard Mordançage&lt;/h2&gt;
+&lt;p&gt;If regular mordançage demands respect, heated RA4 mordançage demands reverence. We&amp;rsquo;re combining multiple hazard vectors:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chemical hazards&lt;/strong&gt;: 35% hydrogen peroxide causes immediate chemical burns. Glacial acetic acid vapours even around 35°C are significantly more aggressive than at room temperature. Copper compounds remain toxic. On top of this, there is the unknown element of whatever compounds are released when RA4 chemistry breaks down under these conditions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thermal hazards&lt;/strong&gt;: Warmer chemistry increases vapour pressure. That means more aggressive fumes, faster evaporation, and increased respiratory risk. The warmed solution can cause thermal burns on top of chemical burns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unknown decomposition products&lt;/strong&gt;: We&amp;rsquo;re forcing colour chemistry into conditions it was never designed to experience. The chromogenic dyes, the colour couplers, the stabilisers—all of these might decompose into unexpected compounds. Without proper analytical work, we can&amp;rsquo;t know exactly what we&amp;rsquo;re creating.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required safety protocol&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fume hood or exceptional ventilation (mandatory—not optional)&lt;/li&gt;
+&lt;li&gt;Chemical splash goggles (sealed; vented lab specs are not enough)&lt;/li&gt;
+&lt;li&gt;Thick nitrile or neoprene gloves (latex will not suffice)&lt;/li&gt;
+&lt;li&gt;Chemical-resistant apron&lt;/li&gt;
+&lt;li&gt;Closed-toe shoes&lt;/li&gt;
+&lt;li&gt;Emergency shower or at least copious running water within reach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contemporary-context-a-technique-without-precedent&#34;&gt;Contemporary Context: A Technique Without Precedent&lt;/h2&gt;
+&lt;p&gt;Extensive research reveals no documented precedent for this specific technique. Elizabeth Opalenik, the modern master of mordançage, works exclusively with black and white materials. Christina Z. Anderson&amp;rsquo;s comprehensive guides don&amp;rsquo;t mention colour applications. The alternative process forums—APUG, Photrio, the various Facebook groups—contain no sustained discussions of RA4 mordançage, at least at the time of writing.&lt;/p&gt;
+&lt;p&gt;The closest parallel might be experiments in bleach-bypass C‑41 film, where retained silver enables mordançage-like effects on colour negatives. But even that works through traditional silver chemistry. What is happening here—attacking fully processed colour prints with no retained metallic silver—appears to be genuinely novel.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t entirely surprising. The overlap between colour darkroom workers and alternative process practitioners has historically been small. Colour processing&amp;rsquo;s complexity and temperature criticality discouraged experimentation. The materials cost more. The chemistry expires faster. Most alternative process artists gravitated towards black and white, where variables were more controllable and materials more forgiving.&lt;/p&gt;
+&lt;h2 id=&#34;the-imperfect-archive-trapped-chemistry-as-extended-reaction&#34;&gt;The Imperfect Archive: Trapped Chemistry as Extended Reaction&lt;/h2&gt;
+&lt;p&gt;The most striking effects emerged accidentally. Prints pulled from the chemistry and left to dry without complete rinsing continued evolving for hours, even days. The residual mordançage solution, trapped between partially separated layers, kept working. The yellow–green aureoles spreading across the prints weren&amp;rsquo;t stains—they were ongoing chemical reactions creating new chromogenic effects.&lt;/p&gt;
+&lt;figure class=&#34;inline end&#34; markdown&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+&lt;/figure&gt; 
+&lt;p&gt;This presents an archival nightmare but an artistic opportunity. These prints exist in slow-motion transformation. The trapped chemistry creates effects impossible to achieve through controlled processing—colour clouds that seem to breathe, boundaries that shift depending on humidity, images that refuse to stabilise.&lt;/p&gt;
+&lt;p&gt;One could attempt to arrest these reactions through extensive washing, but something would be lost. The ongoing instability is part of the work&amp;rsquo;s meaning—photographs that refuse to be fixed, colours that won&amp;rsquo;t be contained, images actively decomposing and recomposing themselves.&lt;/p&gt;
+&lt;h2 id=&#34;technical-observations-and-patterns&#34;&gt;Technical Observations and Patterns&lt;/h2&gt;
+&lt;p&gt;After dozens of prints, patterns emerge:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cyan lifts first&lt;/strong&gt;: The top layer seems most vulnerable to separation, which fits the known RA4 layer stack with the red-sensitive/cyan-forming layer nearest the surface.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edge effects dominate&lt;/strong&gt;: Like traditional mordançage, dramatic effects concentrate where chemistry can penetrate from multiple angles—edges, scratches, any break in the emulsion surface.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Colour density affects lifting&lt;/strong&gt;: Heavily exposed areas with maximum dye and gelatin density often lift earlier than highlights. Dense regions appear to provide more material for the swollen, weakened gelatin to lose its grip.&lt;/p&gt;
+&lt;h2 id=&#34;future-investigations&#34;&gt;Future Investigations&lt;/h2&gt;
+&lt;p&gt;This work opens numerous research directions:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chemical analysis&lt;/strong&gt;: Mass spectrometry or related techniques could identify what compounds form during the reaction. Are we seeing dye decomposition, altered couplers, or new chromogenic products? Understanding the chemistry could enable more precise control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alternative chemistry formulations&lt;/strong&gt;: If copper chloride isn&amp;rsquo;t essential in the absence of silver, what other oxidisers or catalysts might work? Could we achieve similar effects with completely different, possibly safer chemistry?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selective layer removal&lt;/strong&gt;: Can we develop techniques to remove specific colour layers whilst preserving others? Imagine removing only cyan to reveal the magenta–yellow image beneath.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hybrid processes&lt;/strong&gt;: What happens when we combine this with other alternative techniques? RA4 mordançage followed by toning? Sequential layer lifting with different chemistry between stages?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Digital hybrids&lt;/strong&gt;: These lifted colour layers could be scanned at various stages, creating digital composites impossible through purely photographic means.&lt;/p&gt;
+&lt;h2 id=&#34;the-larger-implications&#34;&gt;The Larger Implications&lt;/h2&gt;
+&lt;p&gt;This technique challenges fundamental assumptions about photographic processes. We&amp;rsquo;ve been told colour and alternative processes don&amp;rsquo;t mix—that chromogenic materials exist in a separate universe from historical techniques. Chemistry refuses those neat categories.&lt;/p&gt;
+&lt;p&gt;More broadly, this work suggests vast unexplored territory in experimental colour photography. Whilst the alt‑process community has exhaustively explored many historical black and white techniques, colour remains largely virgin territory for experimental manipulation. The complexity that once discouraged experimentation now offers rich possibilities for those willing to venture into unstable, unpredictable processes.&lt;/p&gt;
+&lt;p&gt;Working with RA4 mordançage means accepting imperfection, embracing accident, collaborating with chemistry that refuses complete control. The results can&amp;rsquo;t be precisely repeated. Each print emerges from a unique moment of chemical chaos—temperature, timing, mechanical intervention, and pure chance combining to create something that shouldn&amp;rsquo;t exist according to the textbooks.&lt;/p&gt;
+&lt;h2 id=&#34;why-this-matters-now&#34;&gt;Why This Matters Now&lt;/h2&gt;
+&lt;p&gt;In an era when colour photography means primarily digital capture and inkjet output, returning to chromogenic materials with experimental intent feels almost archaeological. We&amp;rsquo;re excavating the physical structure of colour photography itself—literally peeling apart the layers that create photographic colour.&lt;/p&gt;
+&lt;p&gt;This matters because it reveals colour photography as constructed rather than natural. When we can physically separate cyan from magenta, we see how arbitrary and artificial photographic colour has always been. The smooth colour gradients we accept as “realistic” are actually discontinuous layers of dye, only appearing continuous because they&amp;rsquo;re normally inseparable.&lt;/p&gt;
+&lt;p&gt;The technique also speaks to contemporary concerns about permanence and degradation. Whilst traditional photography prizes archival stability, these prints celebrate their own destruction. They&amp;rsquo;re photographs in active decomposition, images that refuse the stability we expect from colour prints. In a digital age of perfect preservation, there&amp;rsquo;s something compelling about photographs that insist on their own material transformation.&lt;/p&gt;
+&lt;p&gt;Standing in the darkroom, watching colour layers peel apart, I&amp;rsquo;m reminded that photography&amp;rsquo;s experimental future might lie not in new technologies but in misusing existing ones. Every established process contains potential for subversion. Every “impossible” reaction might just be waiting for someone willing to add heat, increase concentration, or simply refuse to accept that something can&amp;rsquo;t be done.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>011 · Kinetic Darkroom: When the Enlarger Moves Instead of the Camera</title>
       <link>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</guid>
       <description>&lt;h1 id=&#34;kinetic-darkroom-when-the-enlarger-moves-instead-of-the-camera&#34;&gt;Kinetic Darkroom: When the Enlarger Moves Instead of the Camera&lt;/h1&gt;
@@ -120,201 +935,22 @@
     </item>
     
     <item>
-      <title>012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers</title>
-      <link>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</guid>
-      <description>&lt;h1 id=&#34;breaking-ra4-apart-when-mordançage-meets-colour-layers&#34;&gt;Breaking RA4 Apart: When Mordançage Meets Colour Layers&lt;/h1&gt;
-&lt;p&gt;The conventional wisdom is clear: mordançage doesn&amp;rsquo;t work on colour materials. No silver, no reaction. Case closed. The chemistry textbooks are unequivocal—RA4 colour paper creates images through cyan, magenta, and yellow dyes, not metallic silver. After the bleach step strips away the developed silver, you&amp;rsquo;re left with pure chromogenic dyes suspended in gelatin. Nothing for copper ions to bite into.&lt;/p&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_1.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-&lt;p&gt;So why are these prints lifting? Why, after a few minutes in heated mordançage solution, does the emulsion begin to bubble and separate? Why can I peel entire colour layers away from the resin-coated base like removing cling film from a window?&lt;/p&gt;
-&lt;p&gt;These questions led me into uncharted chemical territory. What started as curiosity about whether mordançage could affect colour materials has become an exploration of RA4 paper&amp;rsquo;s hidden architecture—the adhesion layers, the gelatin matrices, the boundaries between cyan, magenta, and yellow that normally remain invisible until chemistry forces them apart.&lt;/p&gt;
-&lt;h2 id=&#34;the-impossible-chemistry&#34;&gt;The Impossible Chemistry&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s establish what shouldn&amp;rsquo;t be happening. In a standard RA4 process, the workflow runs: developer → bleach-fix (or separate bleach, then fix) → wash. The developer converts exposed silver halides to metallic silver whilst simultaneously creating colour dyes through chromogenic coupling. The bleach then oxidises that metallic silver to soluble silver salts, which the fixer removes entirely. What remains are pure dye clouds—no metallic silver in the final image.&lt;/p&gt;
-&lt;p&gt;Mordançage chemistry, as it is usually described, requires metallic silver to function. The copper(II) chloride needs something to oxidise. The reaction cascade that weakens gelatin depends on that initial electron transfer from silver to copper. Without silver, the chemistry should be inert. The solution should sit there, doing nothing.&lt;/p&gt;
-&lt;p&gt;Yet here I am, watching bubbles form across the surface of a fully processed Fuji Crystal Archive print. The emulsion swells, distorts, then begins to separate from the base.&lt;/p&gt;
-&lt;br&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_2.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-&lt;p&gt;Sometimes it lifts in sheets. Sometimes in bubbles that burst to reveal the white polyethylene base beneath. Sometimes distinct colour layers separating from each other, cyan peeling away from magenta, yellow clouds floating free.&lt;/p&gt;
-&lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
-&lt;br&gt;
-&lt;h2 id=&#34;the-alternative-hypothesis-beyond-silver-chemistry&#34;&gt;The Alternative Hypothesis: Beyond Silver Chemistry&lt;/h2&gt;
-&lt;p&gt;After some experimentation, I&amp;rsquo;m working with a different theory. What if the mordançage solution isn&amp;rsquo;t primarily attacking silver at all in these RA4 applications? What if we&amp;rsquo;re seeing something else entirely—a direct chemical assault on the adhesion layers and gelatin structure that has nothing to do with the classical mordançage mechanism?&lt;/p&gt;
-&lt;p&gt;Consider the brutal chemistry we&amp;rsquo;re deploying: concentrated hydrogen peroxide, glacial acetic acid, copper chloride, all held warm at roughly 35°C. Even without silver to oxidise, this cocktail remains seriously aggressive. The hydrogen peroxide alone, at 35% concentration, is a powerful oxidising agent that attacks organic materials. The glacial acetic acid drops the pH below 2, causing massive gelatin swelling. The warmth accelerates everything.&lt;/p&gt;
-&lt;p&gt;RA4 paper architecture differs fundamentally from traditional black and white papers. The emulsion isn&amp;rsquo;t just gelatin with silver halides—it&amp;rsquo;s a complex multilayer structure:&lt;/p&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/layerstack.png&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
-    &lt;figcaption&gt; Taken from &lt;a href=&#34;https://asset.fujifilm.com/www/us/files/2020-02/9251484a0eda6ebb4b47cc6fec73173a/Fujicolor_Crystal_Archive_Type-CA-Data-Specs.pdf&#34; target=&#34;_blank&#34;&gt;Fujifilm Crystal Archive Datasheet&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Supercoat&lt;/strong&gt;: Protective top layer&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Red-sensitive layer&lt;/strong&gt;: Contains cyan dye couplers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interlayer&lt;/strong&gt;: Prevents the diffusion of developer-derived molecules into neighbouring layers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Green-sensitive layer&lt;/strong&gt;: Contains magenta dye couplers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interlayer&lt;/strong&gt;: Prevents the diffusion of developer-derived molecules into neighbouring layers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Blue-sensitive layer&lt;/strong&gt;: Contains yellow dye couplers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Adhesion layer&lt;/strong&gt;: Binds emulsion to resin-coated base&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Resin coating&lt;/strong&gt;: Polyethylene layer&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper base&lt;/strong&gt;: The actual paper fibre&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Each boundary between these layers represents a potential failure point when subjected to extreme chemical stress.&lt;/p&gt;
-&lt;p&gt;For these experiments, I use modern RC colour paper simply because it is what remains available; fibre-based colour papers are essentially unobtainable in regular darkroom practice. That scarcity makes the peculiar vulnerability of RA4-on-RC all the more interesting.&lt;/p&gt;
-&lt;h2 id=&#34;the-heated-assault-temperature-as-catalyst&#34;&gt;The Heated Assault: Temperature as Catalyst&lt;/h2&gt;
-&lt;p&gt;The breakthrough came with temperature. At room temperature, RA4 prints resist the mordançage solution almost completely. The emulsion might swell slightly, colours might shift, but the layers hold together. Raise the working temperature to somewhere around 35°C, and everything changes.&lt;/p&gt;
-&lt;p&gt;The warmth serves multiple functions. It accelerates chemical reactions—what might take hours at 20°C happens in minutes closer to 35°C. It increases molecular motion, allowing the aggressive chemistry to penetrate deeper into the emulsion structure. Most critically, it weakens the adhesion layers that bind everything together [web:10][file:4].&lt;/p&gt;
-&lt;p&gt;Modern RA4 papers use sophisticated adhesion promoters to lock the emulsion to the polyethylene base. These are typically titanium- or chromium-based compounds that create molecular bridges between the organic gelatin and the synthetic resin coating. They&amp;rsquo;re designed to survive normal processing chemistry. They&amp;rsquo;re not designed to survive concentrated hydrogen peroxide around 35°C whilst simultaneously being attacked by acid.&lt;/p&gt;
-&lt;h2 id=&#34;the-colour-layer-phenomenon&#34;&gt;The Colour Layer Phenomenon&lt;/h2&gt;
-&lt;p&gt;The most fascinating aspect of this process is the occasional visible separation of colour layers. In a normally processed RA4 print, the three dye layers exist as an integrated sandwich, impossible to distinguish or separate. But under extreme chemical stress, boundaries emerge.&lt;/p&gt;
-&lt;p&gt;When the emulsion lifts cleanly, I sometimes catch glimpses of pure cyan or magenta regions—evidence that the layers aren&amp;rsquo;t lifting uniformly. The chemical attack seems to preferentially weaken certain interlayer boundaries. My hypothesis: each layer has slightly different gelatin formulations, different hardening levels, different chemical vulnerabilities. The mordançage solution exploits these differences.&lt;/p&gt;
-&lt;p&gt;This selective attack creates the yellow–green chromatic effects visible in prints left to dry with residual chemistry. As the trapped solution continues working between partially separated layers, it creates colour shifts that would be impossible through normal colour processing. We&amp;rsquo;re seeing subtractive colour in reverse—not the removal of colour layers but their physical and chemical isolation from each other.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mechanical intervention&lt;/strong&gt;: Unlike traditional mordançage where the emulsion often lifts spontaneously, RA4 sometimes requires encouragement. A gentle scratch with a fingernail or brush can initiate lifting that then propagates across the print. The chemistry weakens the structure; mechanical force provides the failure point.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Timing windows&lt;/strong&gt;: Too short, and nothing happens. Too long, and the entire emulsion dissolves into coloured soup. The sweet spot—typically around 4–7 minutes at roughly 35°C in fresh solution—yields controllable lifting with maintained colour integrity.&lt;/p&gt;
-&lt;h2 id=&#34;safety-escalation-this-isnt-standard-mordançage&#34;&gt;Safety Escalation: This Isn&amp;rsquo;t Standard Mordançage&lt;/h2&gt;
-&lt;p&gt;If regular mordançage demands respect, heated RA4 mordançage demands reverence. We&amp;rsquo;re combining multiple hazard vectors:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Chemical hazards&lt;/strong&gt;: 35% hydrogen peroxide causes immediate chemical burns. Glacial acetic acid vapours even around 35°C are significantly more aggressive than at room temperature. Copper compounds remain toxic. On top of this, there is the unknown element of whatever compounds are released when RA4 chemistry breaks down under these conditions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Thermal hazards&lt;/strong&gt;: Warmer chemistry increases vapour pressure. That means more aggressive fumes, faster evaporation, and increased respiratory risk. The warmed solution can cause thermal burns on top of chemical burns.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Unknown decomposition products&lt;/strong&gt;: We&amp;rsquo;re forcing colour chemistry into conditions it was never designed to experience. The chromogenic dyes, the colour couplers, the stabilisers—all of these might decompose into unexpected compounds. Without proper analytical work, we can&amp;rsquo;t know exactly what we&amp;rsquo;re creating.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Required safety protocol&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fume hood or exceptional ventilation (mandatory—not optional)&lt;/li&gt;
-&lt;li&gt;Chemical splash goggles (sealed; vented lab specs are not enough)&lt;/li&gt;
-&lt;li&gt;Thick nitrile or neoprene gloves (latex will not suffice)&lt;/li&gt;
-&lt;li&gt;Chemical-resistant apron&lt;/li&gt;
-&lt;li&gt;Closed-toe shoes&lt;/li&gt;
-&lt;li&gt;Emergency shower or at least copious running water within reach&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contemporary-context-a-technique-without-precedent&#34;&gt;Contemporary Context: A Technique Without Precedent&lt;/h2&gt;
-&lt;p&gt;Extensive research reveals no documented precedent for this specific technique. Elizabeth Opalenik, the modern master of mordançage, works exclusively with black and white materials. Christina Z. Anderson&amp;rsquo;s comprehensive guides don&amp;rsquo;t mention colour applications. The alternative process forums—APUG, Photrio, the various Facebook groups—contain no sustained discussions of RA4 mordançage, at least at the time of writing.&lt;/p&gt;
-&lt;p&gt;The closest parallel might be experiments in bleach-bypass C‑41 film, where retained silver enables mordançage-like effects on colour negatives. But even that works through traditional silver chemistry. What is happening here—attacking fully processed colour prints with no retained metallic silver—appears to be genuinely novel.&lt;/p&gt;
-&lt;p&gt;This isn&amp;rsquo;t entirely surprising. The overlap between colour darkroom workers and alternative process practitioners has historically been small. Colour processing&amp;rsquo;s complexity and temperature criticality discouraged experimentation. The materials cost more. The chemistry expires faster. Most alternative process artists gravitated towards black and white, where variables were more controllable and materials more forgiving.&lt;/p&gt;
-&lt;h2 id=&#34;the-imperfect-archive-trapped-chemistry-as-extended-reaction&#34;&gt;The Imperfect Archive: Trapped Chemistry as Extended Reaction&lt;/h2&gt;
-&lt;p&gt;The most striking effects emerged accidentally. Prints pulled from the chemistry and left to dry without complete rinsing continued evolving for hours, even days. The residual mordançage solution, trapped between partially separated layers, kept working. The yellow–green aureoles spreading across the prints weren&amp;rsquo;t stains—they were ongoing chemical reactions creating new chromogenic effects.&lt;/p&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-&lt;p&gt;This presents an archival nightmare but an artistic opportunity. These prints exist in slow-motion transformation. The trapped chemistry creates effects impossible to achieve through controlled processing—colour clouds that seem to breathe, boundaries that shift depending on humidity, images that refuse to stabilise.&lt;/p&gt;
-&lt;p&gt;One could attempt to arrest these reactions through extensive washing, but something would be lost. The ongoing instability is part of the work&amp;rsquo;s meaning—photographs that refuse to be fixed, colours that won&amp;rsquo;t be contained, images actively decomposing and recomposing themselves.&lt;/p&gt;
-&lt;h2 id=&#34;technical-observations-and-patterns&#34;&gt;Technical Observations and Patterns&lt;/h2&gt;
-&lt;p&gt;After dozens of prints, patterns emerge:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cyan lifts first&lt;/strong&gt;: The top layer seems most vulnerable to separation, which fits the known RA4 layer stack with the red-sensitive/cyan-forming layer nearest the surface.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edge effects dominate&lt;/strong&gt;: Like traditional mordançage, dramatic effects concentrate where chemistry can penetrate from multiple angles—edges, scratches, any break in the emulsion surface.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Colour density affects lifting&lt;/strong&gt;: Heavily exposed areas with maximum dye and gelatin density often lift earlier than highlights. Dense regions appear to provide more material for the swollen, weakened gelatin to lose its grip.&lt;/p&gt;
-&lt;h2 id=&#34;future-investigations&#34;&gt;Future Investigations&lt;/h2&gt;
-&lt;p&gt;This work opens numerous research directions:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Chemical analysis&lt;/strong&gt;: Mass spectrometry or related techniques could identify what compounds form during the reaction. Are we seeing dye decomposition, altered couplers, or new chromogenic products? Understanding the chemistry could enable more precise control.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Alternative chemistry formulations&lt;/strong&gt;: If copper chloride isn&amp;rsquo;t essential in the absence of silver, what other oxidisers or catalysts might work? Could we achieve similar effects with completely different, possibly safer chemistry?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Selective layer removal&lt;/strong&gt;: Can we develop techniques to remove specific colour layers whilst preserving others? Imagine removing only cyan to reveal the magenta–yellow image beneath.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hybrid processes&lt;/strong&gt;: What happens when we combine this with other alternative techniques? RA4 mordançage followed by toning? Sequential layer lifting with different chemistry between stages?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Digital hybrids&lt;/strong&gt;: These lifted colour layers could be scanned at various stages, creating digital composites impossible through purely photographic means.&lt;/p&gt;
-&lt;h2 id=&#34;the-larger-implications&#34;&gt;The Larger Implications&lt;/h2&gt;
-&lt;p&gt;This technique challenges fundamental assumptions about photographic processes. We&amp;rsquo;ve been told colour and alternative processes don&amp;rsquo;t mix—that chromogenic materials exist in a separate universe from historical techniques. Chemistry refuses those neat categories.&lt;/p&gt;
-&lt;p&gt;More broadly, this work suggests vast unexplored territory in experimental colour photography. Whilst the alt‑process community has exhaustively explored many historical black and white techniques, colour remains largely virgin territory for experimental manipulation. The complexity that once discouraged experimentation now offers rich possibilities for those willing to venture into unstable, unpredictable processes.&lt;/p&gt;
-&lt;p&gt;Working with RA4 mordançage means accepting imperfection, embracing accident, collaborating with chemistry that refuses complete control. The results can&amp;rsquo;t be precisely repeated. Each print emerges from a unique moment of chemical chaos—temperature, timing, mechanical intervention, and pure chance combining to create something that shouldn&amp;rsquo;t exist according to the textbooks.&lt;/p&gt;
-&lt;h2 id=&#34;why-this-matters-now&#34;&gt;Why This Matters Now&lt;/h2&gt;
-&lt;p&gt;In an era when colour photography means primarily digital capture and inkjet output, returning to chromogenic materials with experimental intent feels almost archaeological. We&amp;rsquo;re excavating the physical structure of colour photography itself—literally peeling apart the layers that create photographic colour.&lt;/p&gt;
-&lt;p&gt;This matters because it reveals colour photography as constructed rather than natural. When we can physically separate cyan from magenta, we see how arbitrary and artificial photographic colour has always been. The smooth colour gradients we accept as “realistic” are actually discontinuous layers of dye, only appearing continuous because they&amp;rsquo;re normally inseparable.&lt;/p&gt;
-&lt;p&gt;The technique also speaks to contemporary concerns about permanence and degradation. Whilst traditional photography prizes archival stability, these prints celebrate their own destruction. They&amp;rsquo;re photographs in active decomposition, images that refuse the stability we expect from colour prints. In a digital age of perfect preservation, there&amp;rsquo;s something compelling about photographs that insist on their own material transformation.&lt;/p&gt;
-&lt;p&gt;Standing in the darkroom, watching colour layers peel apart, I&amp;rsquo;m reminded that photography&amp;rsquo;s experimental future might lie not in new technologies but in misusing existing ones. Every established process contains potential for subversion. Every “impossible” reaction might just be waiting for someone willing to add heat, increase concentration, or simply refuse to accept that something can&amp;rsquo;t be done.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>013 · Chromatic Archaeology: Reading the Ruins of Colour Photography</title>
-      <link>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
-      <description>&lt;h1 id=&#34;chromatic-archaeology-reading-the-ruins-of-colour-photography&#34;&gt;Chromatic Archaeology: Reading the Ruins of Colour Photography&lt;/h1&gt;
-&lt;p&gt;A fully processed RA4 print presents itself as a unified surface—a seamless blend of cyan, magenta, and yellow that our eyes read as full colour. We accept this illusion so completely that we forget it&amp;rsquo;s an illusion at all. But what happens when we literally peel back that promise? These mordançage-treated RA4 prints aren&amp;rsquo;t just technical experiments—they&amp;rsquo;re archaeological excavations into the physical structure of colour photography itself. Each lifted layer, each chromatic bubble, each yellow-green chemical burn reveals something fundamental: colour photography has always been a construction, a careful stack of molecular approximations that only coheres when we don&amp;rsquo;t look too closely.&lt;/p&gt;
-&lt;h2 id=&#34;the-revelation-of-structure&#34;&gt;The Revelation of Structure&lt;/h2&gt;
-&lt;p&gt;When I first saw distinct colour layers separating—cyan peeling away from magenta like old paint from a wall—I realised I was witnessing something typically invisible: the actual architecture of colour photography. Intellectually, we understand that colour prints contain separate dye layers, but seeing them physically delaminate transforms theoretical knowledge into visceral understanding.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s like those anatomical models where transparent layers reveal muscles, organs, bones. Except here, we&amp;rsquo;re dissecting the anatomy of an image. The cyan layer, responsible for controlling red light, floats free. The magenta layer, modulating green, bubbles up. The yellow, so often invisible in its subtlety, suddenly appears as distinct clouds of colour.&lt;/p&gt;
-&lt;p&gt;The visible stratification exposes the fundamental arbitrariness of photographic colour. There&amp;rsquo;s nothing natural about dividing the visible spectrum into three dye layers. It&amp;rsquo;s a compromise, an engineering solution that works well enough that we&amp;rsquo;ve forgotten it&amp;rsquo;s a compromise at all. These mordançage prints make that compromise visible again.&lt;/p&gt;
-&lt;h2 id=&#34;reading-the-ruins&#34;&gt;Reading the Ruins&lt;/h2&gt;
-&lt;p&gt;Looking at these prints requires developing new visual literacy. We can&amp;rsquo;t read them as conventional photographs—representations of something that existed in front of the camera. Instead, we read them as palimpsests, as geological cross-sections, as maps of chemical events.&lt;/p&gt;
-&lt;p&gt;The lifted areas become negative spaces that reveal the polyethylene base—photography&amp;rsquo;s hidden substrate suddenly visible. The colour separations show the arbitrary divisions we use to construct &amp;ldquo;natural&amp;rdquo; colour. The chemical burns mark time&amp;rsquo;s passage not in years but in minutes of reaction.&lt;/p&gt;
-&lt;p&gt;This is photography that documents its own making and unmaking simultaneously. The image shows both what the camera captured and what the chemistry destroyed. Past and future collapse into a present that won&amp;rsquo;t hold still.&lt;/p&gt;
-&lt;h2 id=&#34;the-palette-of-destruction&#34;&gt;The Palette of Destruction&lt;/h2&gt;
-&lt;br&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3a.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-The yellow-green chromatic tone that dominates these prints deserves special attention.
- I think of it as the colour of photographic death. Just as leaves turn colours when dying that they never showed whilst alive, these prints reveal hues during their destruction that were impossible during their creation. The yellow-green isn&#39;t just chemical staining—it&#39;s the visual signature of molecular breakdown, of dyes decomposing, of chemistry consuming itself.
-&lt;p&gt;This expanded palette suggests vast unexplored territories in colour photography.
-What colours emerge only through destruction?&lt;/p&gt;
-&lt;h2 id=&#34;time-as-a-dimension&#34;&gt;Time as a Dimension&lt;/h2&gt;
-&lt;p&gt;Traditional photography freezes time—that&amp;rsquo;s its fundamental promise. These mordançage prints reject that promise entirely. They exist in continuous transformation, their chemistry still active, their colours still shifting. A print photographed today will look different tomorrow. The trapped chemistry continues its work, creating aureoles of colour that expand like slow explosions.&lt;/p&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3b.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-&lt;p&gt;The temporal dimension transforms them from photographs into performances. The image isn&amp;rsquo;t the final print—it&amp;rsquo;s the entire process of transformation. Watching a print change over days or weeks becomes part of experiencing the work. We&amp;rsquo;re not just viewing an image; we&amp;rsquo;re witnessing its ongoing decay.&lt;/p&gt;
-&lt;p&gt;This recalls the Japanese concept of &lt;em&gt;mono no aware&lt;/em&gt;—the pathos of things, the gentle sadness of transient beauty. These prints embody that aesthetic philosophy in chemical form. Their beauty is inseparable from their impermanence. They&amp;rsquo;re more beautiful because they&amp;rsquo;re dying.&lt;/p&gt;
-&lt;br&gt; 
-&lt;h2 id=&#34;the-honesty-of-instability&#34;&gt;The Honesty of Instability&lt;/h2&gt;
-&lt;p&gt;There&amp;rsquo;s something fundamentally honest about prints that refuse to stabilise. All colour photographs fade—that&amp;rsquo;s been true since the earliest chromogenic processes. Even the most archival contemporary materials will eventually succumb to entropy. These mordançage prints simply acknowledge that fate more openly, even celebrate it.&lt;/p&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-&lt;p&gt;Consider the history of colour photography&amp;rsquo;s false promises of permanence. Kodacolor prints from the 1940s have shifted dramatically. Ektachromes from various eras showed poor dark fading and colour shifts. Even modern RA4 prints, despite manufacturer claims, show measurable colour shifts within decades. Colour photography has chased archival stability for over a century and consistently struggled to achieve it.&lt;/p&gt;
-&lt;p&gt;These deliberately unstable prints suggest a different approach: embrace the impermanence. Make work that acknowledges its own mortality. Create images that perform their own decay. There&amp;rsquo;s more truth in a print that openly deteriorates than in one that pretends to permanence it can&amp;rsquo;t actually achieve.&lt;/p&gt;
-&lt;h2 id=&#34;chemical-terroir&#34;&gt;Chemical Terroir&lt;/h2&gt;
-&lt;p&gt;Each batch of prints develops its own character based on subtle variables—the exact temperature that day, the chemistry&amp;rsquo;s age, the specific paper batch, even the humidity in the darkroom. Like wine reflecting its terroir, these prints carry the signature of their specific moment of creation. This chemical variability builds on the kinetic darkroom experiments where movement during enlargement created unique prints—but here the uniqueness comes not from exposure technique but from chemical chaos itself.&lt;/p&gt;
-&lt;p&gt;This irreproducibility runs counter to photography&amp;rsquo;s supposed democratic reproducibility. An entire medium has been built on the premise that prints can be repeated, that editions can be matched. These prints reject that industrial logic. Each one is necessarily unique, carrying the chemical fingerprint of its specific moment of destruction.&lt;/p&gt;
-&lt;p&gt;The yellow-green pollution varies from print to print—sometimes spreading in circular aureoles, sometimes in directional streams, sometimes in explosive bursts. These patterns can&amp;rsquo;t be controlled, only influenced. The chemistry has its own agency, its own aesthetic decisions. The photographer becomes collaborator rather than author.&lt;/p&gt;
-&lt;h2 id=&#34;living-with-instability&#34;&gt;Living With Instability&lt;/h2&gt;
-&lt;p&gt;These prints present practical challenges that become part of their conceptual framework. Storage becomes performance—do I arrest the chemical reactions through extensive washing, or let them continue? Display becomes documentation—each viewing captures a specific moment in an ongoing transformation. Archiving becomes paradox—how do you preserve something designed to decay?&lt;/p&gt;
-&lt;br&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_5.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-So far, I&#39;ve chosen to let the chemistry continue working. Some prints I&#39;ve washed thoroughly after initial documentation, effectively freezing them at a particular stage of degradation. Others remain unwashed, their evolution continuing in storage. After several weeks, the most aggressive reactions slow, though subtle shifts in colour and density continue for months.
-&lt;p&gt;The fragility matters too. These prints can&amp;rsquo;t be handled carelessly—lifted emulsion layers remain delicate, prone to further tearing or complete detachment. They exist in gallery spaces only with significant care, protected from touch, humidity extremes, and direct light. Their physical vulnerability reinforces their conceptual stance: impermanence made manifest.&lt;/p&gt;
-&lt;h2 id=&#34;digital-mediation-and-material-reality&#34;&gt;Digital Mediation and Material Reality&lt;/h2&gt;
-&lt;p&gt;Ironically, these supremely physical, unmistakably analogue prints often reach viewers as digital files. The photographs you&amp;rsquo;re seeing of these prints are digital captures of analogue destructions. There&amp;rsquo;s something poetic about using digital photography&amp;rsquo;s stability to document analogue photography&amp;rsquo;s instability.&lt;/p&gt;
-&lt;p&gt;But the digital documentation is necessarily incomplete. It can&amp;rsquo;t capture the dimensionality—the actual lifting of emulsion creates topographical variations that shift with viewing angle. It can&amp;rsquo;t capture the ongoing transformation—each digital capture freezes what refuses to be frozen. It can&amp;rsquo;t capture the chemical smell, the tackiness of incompletely dried emulsion, the fragility of layers barely holding together.&lt;/p&gt;
-&lt;p&gt;This gap between digital documentation and physical reality emphasises what we lose in photography&amp;rsquo;s digital migration. These prints insist on their materiality in ways that can&amp;rsquo;t be fully digitised. They&amp;rsquo;re photographs that resist photography.&lt;/p&gt;
-&lt;h2 id=&#34;toward-a-new-colour-aesthetic&#34;&gt;Toward a New Colour Aesthetic&lt;/h2&gt;
-&lt;p&gt;These experiments suggest possibilities for a new relationship with colour photography—one that acknowledges construction rather than assuming naturalism, embraces instability rather than pursuing permanence, celebrates accident alongside intention.&lt;/p&gt;
-&lt;br&gt;
-&lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-Ra4Mordancage/ra_6.jpeg&#34; align=&#34;left&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-&lt;/figure&gt; 
-Imagine exhibitions where prints continue evolving throughout the show&#39;s run. Opening night viewers see different works than closing night viewers. The exhibition becomes durational, performative, unrepeatable.
-&lt;p&gt;Imagine editions where each print is deliberately unique—not through numbering but through chemical variation. The same negative yields infinite variations, each carrying its own chemical signature.&lt;/p&gt;
-&lt;p&gt;Imagine hybrid processes where controlled sections undergo mordançage whilst others remain stable, creating images that exist partially in transformation, partially in stasis. Time moves differently across the picture plane.&lt;/p&gt;
-&lt;h2 id=&#34;chemistry-as-revelation&#34;&gt;Chemistry as Revelation&lt;/h2&gt;
-&lt;p&gt;These RA4 mordançage experiments aren&amp;rsquo;t trying to solve a problem—archival instability isn&amp;rsquo;t a bug here but a feature. They&amp;rsquo;re not trying to improve colour photography—improvement implies we agree on what colour photography should do. Instead, they&amp;rsquo;re revealing what colour photography is: a precarious construction that has been naturalised through repetition and convention.&lt;/p&gt;
-&lt;p&gt;By forcing colour materials into conditions they weren&amp;rsquo;t designed to survive, we learn something essential about their nature. By watching them fail, we understand how they succeed. By seeing them come apart, we grasp how they&amp;rsquo;re put together.&lt;/p&gt;
-&lt;p&gt;Standing in the darkroom, watching colours separate and transform, smelling the acidic bite of chemistry doing things it shouldn&amp;rsquo;t, I&amp;rsquo;m reminded that experimental futures might not lie in new technologies but in deliberately misusing existing ones. Every established process contains the seeds of its own subversion. Every stable system can be destabilised to reveal new truths.&lt;/p&gt;
-&lt;p&gt;The twenty-first century has given us perfect digital colour, infinite reproducibility, absolute control. Perhaps what we need now is imperfect chemical colour, radical uniqueness, collaborative chaos. Perhaps we need photographs that admit what all photographs actually are: unstable negotiations between light and time, chemistry and chance, intention and accident.&lt;/p&gt;
-&lt;p&gt;The yellow-green stains spreading across these prints aren&amp;rsquo;t failures—they&amp;rsquo;re revelations. They show us colour photography with its mask removed, beautiful in its honesty about its own constructed nature. They remind us that every photograph, no matter how stable it appears, is actually a slow explosion of chemistry barely held in check.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>009 · Sabattier in the City of Lights</title>
-      <link>http://localhost:1313/experiments/010-sabattierincityoflights/010-sabattierincityoflights/</link>
+      <title>010 · Sabattier in the City of Lights</title>
+      <link>http://localhost:1313/experiments/010-sabattier/010-sabattierincityoflights/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/010-sabattierincityoflights/010-sabattierincityoflights/</guid>
+      <guid>http://localhost:1313/experiments/010-sabattier/010-sabattierincityoflights/</guid>
       <description>&lt;h1 id=&#34;sabattier-in-the-city-of-lights&#34;&gt;Sabattier in the City of Lights&lt;/h1&gt;
 &lt;p&gt;One of the great privileges of my work in quantum hardware is the opportunity to travel. This past year, a research trip brought me to Paris, and I brought my camera along to capture the city between conference sessions and lab visits. When I returned to the darkroom, I found myself drawn to experimenting with these Parisian images through the Sabattier effect.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 There&#39;s something fitting, perhaps even inevitable, about applying the Sabattier effect to photographs of Paris. A city famous for its light seemed to call for a process that uses light against itself—where a controlled re-exposure during development creates those characteristic tonal reversals and glowing edge effects. If Paris celebrates illumination, Sabattier subverts it.
 &lt;h2 id=&#34;the-history-of-an-accident&#34;&gt;The History of an Accident&lt;/h2&gt;
 &lt;p&gt;The Sabattier effect has one of photography&amp;rsquo;s most fitting origin stories: it was discovered repeatedly, almost always by accident. As far as I can tell, the phenomenon was first described in print by H. de la Blanchère in 1859, then again in 1860 by multiple researchers including L.M. Rutherford, C.A. Seely, and Count Schouwaloff. French zoologist Armand Sabatier published work on the process in 1860 and correctly described the phenomenon in 1862, though he couldn&amp;rsquo;t explain why it occurred. His name was misspelled with a double &amp;ldquo;t&amp;rdquo; in subsequent literature, which is why we now call it the &amp;ldquo;Sabattier effect&amp;rdquo; rather than &amp;ldquo;Sabatier effect&amp;rdquo;.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_8.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_8.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Throughout the 19th century, the effect was &amp;ldquo;discovered&amp;rdquo; many times by many photographers, as it tends to occur whenever a light is switched on inadvertently in the darkroom while a film or print is being developed. The technique remained largely a curiosity until Man Ray perfected it in the 1930s, reportedly after fellow artist Lee Miller accidentally exposed his film in the darkroom (coincidentally, Lee Miller was also the inspiration for Lee Smith in the recent Civil War movie). Man Ray quickly adopted the technique as a means to &amp;ldquo;escape from banality,&amp;rdquo; transforming darkroom accidents into intentional artistic practice, and to this date, is perhaps the most famous practitioner.&lt;/p&gt;
@@ -323,7 +959,7 @@ There&#39;s something fitting, perhaps even inevitable, about applying the Sabat
 &lt;h2 id=&#34;the-chemistry-of-reversal&#34;&gt;The Chemistry of Reversal&lt;/h2&gt;
 &lt;p&gt;Understanding what happens during Sabattier requires looking at the behavior of silver halide crystals. When photographic paper is first exposed in an enlarger, light strikes silver halide molecules, creating latent image centers—essentially activation sites that mark where silver will form during development. During normal development, these exposed centers transform into metallic silver while the developer simultaneously eliminates the centers of remaining unexposed silver halides.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_1.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_1.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The magic happens with the second exposure. When the partially developed print is flashed with light while still in the developer, the remaining unexposed silver halides—those that would normally stay clear—suddenly become exposed. These newly formed silver bodies are much larger than the silver centers formed during the first exposure, and they overpower them, causing tone reversal. Dark areas that were heavily developed remain relatively unchanged, while lighter areas that retained more unexposed silver halides undergo dramatic transformation.&lt;/p&gt;
@@ -331,35 +967,35 @@ There&#39;s something fitting, perhaps even inevitable, about applying the Sabat
 &lt;h2 id=&#34;why-sabattier-for-paris&#34;&gt;Why Sabattier for Paris&lt;/h2&gt;
 &lt;p&gt;Beyond the poetic connection between Paris as the City of Lights and a technique built on light intervention, there&amp;rsquo;s something conceptually appropriate about using Sabattier for this particular city. Paris isn&amp;rsquo;t just luminous—it&amp;rsquo;s a city of excess. Too rich in history, too dense with monuments, too saturated with cultural significance. The Sabattier process, which fundamentally involves &lt;em&gt;too much&lt;/em&gt; light, mirrors this overwhelming quality. Just as Sabattier embraces surplus light to create new forms, working with Paris photographs through this technique allows one to engage with the city&amp;rsquo;s overwhelming nature productively.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_2.jpeg&#34; align=&#34;right&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_2.jpeg&#34; align=&#34;right&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 I shot these images on a mix of film during walks through the city—mostly Kodak Double-X for these particular photographs—capturing early morning light along the Seine, the geometric patterns of Parisian architecture, metro stations emptied of crowds. They began as straightforward documentary photographs, the kind of images any photographer might make while exploring an iconic city. The transformation happened later, in the darkroom.
 &lt;h2 id=&#34;technical-approach-and-precise-control&#34;&gt;Technical Approach and Precise Control&lt;/h2&gt;
 &lt;p&gt;The Sabattier process rewards experimentation, but I wanted more precision than most historical accounts describe. I developed the prints in Adox chemistry, and rather than using a simple flash or room light, I performed the second exposure using a second enlarger. This approach allowed me precise control over both the timing and aperture—essentially controlling exactly how much light was introduced during the critical moment.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 My technique involved removing the partially developed prints from the developer tray and placing them in a dry tray for the second exposure, before resubmerging them in the developer. This prevented unwanted bubbling or chemical dilution during the flash exposure and gave me better control over the uniformity of the second exposure. The enlarger setup also meant I could vary the intensity by adjusting the aperture rather than relying on distance or timing alone.
 &lt;h2 id=&#34;from-street-photography-to-chemical-intervention&#34;&gt;From Street Photography to Chemical Intervention&lt;/h2&gt;
 &lt;p&gt;Not every print succeeded. Many ended up in the reject pile—too muddy, too chaotic, or simply uninteresting. But the successful ones revealed Paris in ways I hadn&amp;rsquo;t anticipated while standing on those streets with my camera. Architectural lines gained glowing halos from the Mackie line effect. The familiar cityscape became simultaneously itself and its negative, existing in an ambiguous space between light and dark.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_5.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_5.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;What emerges isn&amp;rsquo;t Paris as tourists see it, but Paris reimagined through chemical intervention—a city of lights transformed by light itself. The process doesn&amp;rsquo;t just depict the city&amp;rsquo;s luminosity; it performs an operation on it, pushing photographic materials beyond their intended limits to reveal something unexpected.&lt;/p&gt;
 &lt;h2 id=&#34;light-beyond-documentation&#34;&gt;Light Beyond Documentation&lt;/h2&gt;
 &lt;p&gt;These Sabattier prints don&amp;rsquo;t document Paris so much as &lt;em&gt;interpret&lt;/em&gt; the experience of being there. They capture something about the city&amp;rsquo;s relationship with light, but also something about the photographer&amp;rsquo;s relationship with both—the way travel compresses experience, the way darkroom work extends it, the way experimental processes can uncover dimensions invisible to straight photography.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The technique that Man Ray adopted to &amp;ldquo;escape from banality&amp;rdquo; in the 1930s still serves that purpose today. Paris will always be the City of Lights. Through Sabattier—a process born from accidents and perfected through intention—these photographs take the city&amp;rsquo;s luminous reputation and push it through one more transformation in the darkness of the darkroom.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_10.jpeg&#34; align=&#34;left&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_7.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-SabattierinCityOfLights/paris_saba_12.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_10.jpeg&#34; align=&#34;left&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_7.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_12.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 </description>
     </item>

@@ -7,17 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Sustainable Darkroom</title>
+      <link>http://localhost:1313/series/sustainable-darkroom/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/sustainable-darkroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromoskedasic Sabattier</title>
+      <link>http://localhost:1313/series/chromoskedasic-sabattier/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/chromoskedasic-sabattier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experimental Darkroom</title>
       <link>http://localhost:1313/series/experimental-darkroom/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/series/experimental-darkroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mordençage</title>
+      <link>http://localhost:1313/series/morden%C3%A7age/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/morden%C3%A7age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RA4 Mordençage</title>
+      <link>http://localhost:1313/series/ra4-morden%C3%A7age/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/ra4-morden%C3%A7age/</guid>
       <description></description>
     </item>
     
@@ -45,15 +81,6 @@
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/series/riso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mordençage</title>
-      <link>http://localhost:1313/series/morden%C3%A7age/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/series/morden%C3%A7age/</guid>
       <description></description>
     </item>
     
