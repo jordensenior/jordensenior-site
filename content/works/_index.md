@@ -19,7 +19,7 @@ A collection of photographic works, mordançage experiments, and mixed-media ins
 
 <br>
 <div class="work-preview">
-<img src="/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg" alt="Beneath the Surface installation" class="preview-image" />
+<img src="/notebook/005-008-beneaththesurface/afa_gallery.jpeg" alt="Beneath the Surface installation" class="preview-image" />
 <br>
 An exploration of consumer spaces through mordançage photography, exhibited in abandoned commercial spaces. The work examines the tension between aspiration and reality through chemically manipulated photographic prints.
 
@@ -64,7 +64,7 @@ An exploration transforming photographs of quantum systems into visceral represe
 
 <br>
 <div class="work-preview">
-<img src="/experiments/004-QuantumMordencageZine/stackofzines.jpeg" alt="Quantum Mordançage Zine" class="preview-image" />
+<img src="/notebook/004-quantummordencagezine/stackofzines.jpeg" alt="Quantum Mordançage Zine" class="preview-image" />
 <br>
 Limited-edition artist's zine exploring the intersection of quantum mechanics and photographic chemistry through mordançage processes. Hand-folded and distributed through alternative art networks.
 

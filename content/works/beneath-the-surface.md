@@ -33,22 +33,22 @@ The work was created under intense time pressure, with the entire process—from
 <div class="gallery-grid">
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg" alt="Installation view at Art for All Festival" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallery.jpeg" alt="Installation view at Art for All Festival" />
     <figcaption><em>Installation view showing the full gallery space</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg" alt="Wall installation detail" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallerywall.jpeg" alt="Wall installation detail" />
     <figcaption><em>Wall-mounted works showing mordançage treatments</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg" alt="Gallery wall with multiple works" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallerywall2.jpeg" alt="Gallery wall with multiple works" />
     <figcaption><em>Multiple works creating visual dialogue across the space</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg" alt="Table installation with prints" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallerytable.jpeg" alt="Table installation with prints" />
     <figcaption><em>Table installation</em></figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ The series emerged from an intense week-long creative sprint, beginning with pho
 - **Day 5-6:** Framing and installation
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg" alt="Prints drying in studio" />
+    <img src="/notebook/005-008-beneaththesurface/afa_drying1.jpeg" alt="Prints drying in studio" />
     <figcaption><em>Prints drying during the intensive production period</em></figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ The mordançage process involves treating developed silver gelatin prints with a
 The work was documented extensively during both production and exhibition phases. The intense timeline and alternative venue contributed to strong engagement from festival audiences, many of whom were experiencing mordançage processes for the first time.
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_developing.jpeg" alt="Film development process" />
+    <img src="/notebook/005-008-beneaththesurface/afa_developing.jpeg" alt="Film development process" />
     <figcaption><em>Behind-the-scenes documentation of the film development process</em></figcaption>
 </figure>
 
@@ -105,13 +105,13 @@ The work was documented extensively during both production and exhibition phases
 ## Gallery
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg" align="center" width="630px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_tunnel.jpeg" align="center" width="630px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_circle_colour.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_circle2.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_goblet.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_stairs.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_seeyou.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_hansasilta.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
 </figure>
 
 ---
@@ -123,7 +123,7 @@ The work was documented extensively during both production and exhibition phases
 
 This series connects to broader themes explored in my practice:
 
-- [Experiments: 005 - Beneath the Surface](/experiments/005-008-beneaththesurface/005-beneaththesurface/) - Series of blog posts about the project
+- [Experiments: 005 - Beneath the Surface](/notebook/005-008-beneaththesurface/005-beneaththesurface/) - Series of blog posts about the project
 - [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Conceptual expansion into print media
 
 ---

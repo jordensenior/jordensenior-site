@@ -40,17 +40,17 @@ The zine was produced using risograph printing at (If By Magic Oy)[https://ifbym
 <div class="gallery-grid">
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/riso_inks.jpeg" alt="Risograph printing inks" />
+    <img src="/notebook/004-quantummordencagezine/riso_inks.jpeg" alt="Risograph printing inks" />
     <figcaption><em>Risograph inks used in the printing process</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/riso_drying.jpeg" alt="Prints drying after risograph printing" />
+    <img src="/notebook/004-quantummordencagezine/riso_drying.jpeg" alt="Prints drying after risograph printing" />
     <figcaption><em>Freshly printed sheets drying before folding</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/riso_drying2.jpeg" alt="Additional drying documentation" />
+    <img src="/notebook/004-quantummordencagezine/riso_drying2.jpeg" alt="Additional drying documentation" />
     <figcaption><em>Production documentation showing the printing process</em></figcaption>
 </figure>
 
@@ -63,17 +63,17 @@ Each zine is individually hand-folded, making every copy slightly unique despite
 <div class="gallery-grid">
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg" alt="Initial folding stage" />
+    <img src="/notebook/004-quantummordencagezine/foldingzine_1.jpeg" alt="Initial folding stage" />
     <figcaption><em>Beginning stages of the hand-folding process</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg" alt="Folding process continuation" />
+    <img src="/notebook/004-quantummordencagezine/foldingzine_2.jpeg" alt="Folding process continuation" />
     <figcaption><em>Continuing the folding sequence</em></figcaption>
 </figure>
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg" alt="Completed folding" />
+    <img src="/notebook/004-quantummordencagezine/foldingzine_3.jpeg" alt="Completed folding" />
     <figcaption><em>Final stages before completion</em></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ The zine circulates through alternative art networks, including:
 - Events on alternative processes
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/stackofzines.jpeg" alt="Completed zine editions" />
+    <img src="/notebook/004-quantummordencagezine/stackofzines.jpeg" alt="Completed zine editions" />
     <figcaption><em>Finished edition ready for distribution through alternative networks</em></figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ The publication has found audiences among both photographers interested in alter
 This publication connects to broader themes in my practice:
 
 - [Beneath the Surface](/works/beneath-the-surface/) - Mordençage-based series
-- [Experiments blog](/experiments/) - Ongoing documentation of alternative process work
+- [Notebook](/notebook/) - Ongoing documentation of alternative process work
 
 ---
 

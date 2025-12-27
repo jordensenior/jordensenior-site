@@ -9,4 +9,4 @@ Photochemist · Light Manipulator · Rogue Developer
 
 —
 
-[experiments](/experiments/) · [works](/works/) · [about](/about/) · [contact](/contact/)
+[notebook](/notebook/) · [works](/works/) · [about](/about/) · [contact](/contact/)

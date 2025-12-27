@@ -90,7 +90,7 @@ This series connects to broader themes explored in my practice:
 
 - [Beneath the Surface](/works/beneath-the-surface/) - Consumer spaces through mordançage
 - [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Print publication expanding on these themes
-- [Experiments: Mordançage](/experiments/) - Ongoing technical explorations
+- [Notebook: Mordançage](/notebook/) - Ongoing technical explorations
 
 ---
 
