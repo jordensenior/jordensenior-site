@@ -2,76 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Jorden Senior</title>
-    <link>http://localhost:1313/series/</link>
+    <link>http://localhost:50172/series/</link>
     <description>Recent content in Series on Jorden Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:50172/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chromoskedasic Sabattier</title>
-      <link>http://localhost:1313/series/chromoskedasic-sabattier/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <title>Experimental Darkroom</title>
+      <link>http://localhost:50172/series/experimental-darkroom/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/chromoskedasic-sabattier/</guid>
+      <guid>http://localhost:50172/series/experimental-darkroom/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Experimental Darkroom</title>
-      <link>http://localhost:1313/series/experimental-darkroom/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <title>Lith Printing</title>
+      <link>http://localhost:50172/series/lith-printing/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/experimental-darkroom/</guid>
+      <guid>http://localhost:50172/series/lith-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromoskedasic Sabattier</title>
+      <link>http://localhost:50172/series/chromoskedasic-sabattier/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50172/series/chromoskedasic-sabattier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mordençage</title>
-      <link>http://localhost:1313/series/morden%C3%A7age/</link>
+      <link>http://localhost:50172/series/morden%C3%A7age/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/morden%C3%A7age/</guid>
+      <guid>http://localhost:50172/series/morden%C3%A7age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RA4 Mordençage</title>
-      <link>http://localhost:1313/series/ra4-morden%C3%A7age/</link>
+      <link>http://localhost:50172/series/ra4-morden%C3%A7age/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/ra4-morden%C3%A7age/</guid>
+      <guid>http://localhost:50172/series/ra4-morden%C3%A7age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1313/series/philosophy/</link>
+      <link>http://localhost:50172/series/philosophy/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/philosophy/</guid>
+      <guid>http://localhost:50172/series/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beneath the Surface</title>
-      <link>http://localhost:1313/series/beneath-the-surface/</link>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:50172/series/beneath-the-surface/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/beneath-the-surface/</guid>
+      <guid>http://localhost:50172/series/beneath-the-surface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riso</title>
-      <link>http://localhost:1313/series/riso/</link>
+      <link>http://localhost:50172/series/riso/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/riso/</guid>
+      <guid>http://localhost:50172/series/riso/</guid>
       <description></description>
     </item>
     

@@ -2,183 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:50172/</loc>
+    <lastmod>2026-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/notebook/</loc>
+    <lastmod>2026-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/notebook/017-019-lith/017-lithprintingchemistry/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/categories/analogue/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/categories/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/categories/darkroom/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/series/experimental-darkroom/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/series/lith-printing/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/tags/lith-printing/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/series/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/tags/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50172/notebook/014-016-chromoskedasic/016-chromoskedasicdc/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/014-016-chromoskedasic/016-chromoskedasicdc/</loc>
+    <loc>http://localhost:50172/series/chromoskedasic-sabattier/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/analogue/</loc>
+    <loc>http://localhost:50172/tags/chromoskedasic-sabattier/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:50172/categories/travel/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/chromoskedasic-sabattier/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/chromoskedasic-sabattier/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/darkroom/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/experimental-darkroom/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notebook/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/travel/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notebook/014-016-chromoskedasic/015-chromoskedasicscience/</loc>
+    <loc>http://localhost:50172/notebook/014-016-chromoskedasic/015-chromoskedasicscience/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/science/</loc>
+    <loc>http://localhost:50172/categories/science/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/014-016-chromoskedasic/014-chromoskedasicintro/</loc>
+    <loc>http://localhost:50172/notebook/014-016-chromoskedasic/014-chromoskedasicintro/</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/013-chromaticarchaeology/013-chromaticarchaeology/</loc>
+    <loc>http://localhost:50172/notebook/013-chromaticarchaeology/013-chromaticarchaeology/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/colour/</loc>
+    <loc>http://localhost:50172/categories/colour/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mordan%C3%A7age/</loc>
+    <loc>http://localhost:50172/tags/mordan%C3%A7age/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/morden%C3%A7age/</loc>
+    <loc>http://localhost:50172/series/morden%C3%A7age/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ra4/</loc>
+    <loc>http://localhost:50172/tags/ra4/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/ra4-morden%C3%A7age/</loc>
+    <loc>http://localhost:50172/series/ra4-morden%C3%A7age/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/012-ra4mordancage/012-ra4mordencage/</loc>
+    <loc>http://localhost:50172/notebook/012-ra4mordancage/012-ra4mordencage/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/experimental-darkroom/</loc>
+    <loc>http://localhost:50172/tags/experimental-darkroom/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/011-kineticdarkroom/011-kineticdarkroom/</loc>
+    <loc>http://localhost:50172/notebook/011-kineticdarkroom/011-kineticdarkroom/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/alternative-process/</loc>
+    <loc>http://localhost:50172/tags/alternative-process/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/enlarger-movement/</loc>
+    <loc>http://localhost:50172/tags/enlarger-movement/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/quantum_mordancage/</loc>
+    <loc>http://localhost:50172/works/quantum_mordancage/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/exhibition/</loc>
+    <loc>http://localhost:50172/categories/exhibition/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quantum/</loc>
+    <loc>http://localhost:50172/tags/quantum/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/010-sabattier/010-sabattierincityoflights/</loc>
+    <loc>http://localhost:50172/notebook/010-sabattier/010-sabattierincityoflights/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sabattier/</loc>
+    <loc>http://localhost:50172/tags/sabattier/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/009-timcarpenter/009-timcarpenter/</loc>
+    <loc>http://localhost:50172/notebook/009-timcarpenter/009-timcarpenter/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/book-review/</loc>
+    <loc>http://localhost:50172/tags/book-review/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/essay/</loc>
+    <loc>http://localhost:50172/categories/essay/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/philosophy/</loc>
+    <loc>http://localhost:50172/categories/philosophy/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/philosophy/</loc>
+    <loc>http://localhost:50172/series/philosophy/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tim-carpenter/</loc>
+    <loc>http://localhost:50172/tags/tim-carpenter/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/</loc>
+    <loc>http://localhost:50172/works/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/005-008-beneaththesurface/008-reexhibiting/</loc>
+    <loc>http://localhost:50172/notebook/005-008-beneaththesurface/008-reexhibiting/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/beneath-the-surface/</loc>
+    <loc>http://localhost:50172/series/beneath-the-surface/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/005-008-beneaththesurface/007-underpressure/</loc>
+    <loc>http://localhost:50172/notebook/005-008-beneaththesurface/007-underpressure/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/beneath-the-surface/</loc>
+    <loc>http://localhost:50172/works/beneath-the-surface/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/005-008-beneaththesurface/006-hanginginthemall/</loc>
+    <loc>http://localhost:50172/notebook/005-008-beneaththesurface/006-hanginginthemall/</loc>
     <lastmod>2025-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mordencage/</loc>
+    <loc>http://localhost:50172/tags/mordencage/</loc>
     <lastmod>2025-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/005-008-beneaththesurface/005-beneaththesurface/</loc>
+    <loc>http://localhost:50172/notebook/005-008-beneaththesurface/005-beneaththesurface/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/004-quantummordencagezine/004-quantummordencage/</loc>
+    <loc>http://localhost:50172/notebook/004-quantummordencagezine/004-quantummordencage/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/printmaking/</loc>
+    <loc>http://localhost:50172/categories/printmaking/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/riso/</loc>
+    <loc>http://localhost:50172/series/riso/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/risography/</loc>
+    <loc>http://localhost:50172/tags/risography/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/003-twoplateriso/003-preparingfortwoplateriso/</loc>
+    <loc>http://localhost:50172/notebook/003-twoplateriso/003-preparingfortwoplateriso/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/digital/</loc>
+    <loc>http://localhost:50172/categories/digital/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/002-introtoriso/002-introtoriso/</loc>
+    <loc>http://localhost:50172/notebook/002-introtoriso/002-introtoriso/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/history/</loc>
+    <loc>http://localhost:50172/tags/history/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notebook/001-mordencage/001-mordancage/</loc>
+    <loc>http://localhost:50172/notebook/001-mordencage/001-mordancage/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/morden%C3%A7age/</loc>
+    <loc>http://localhost:50172/tags/morden%C3%A7age/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/artist-book/</loc>
+    <loc>http://localhost:50172/categories/artist-book/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/publication/</loc>
+    <loc>http://localhost:50172/categories/publication/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/quantum-mordencage-zine/</loc>
+    <loc>http://localhost:50172/works/quantum-mordencage-zine/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/zine/</loc>
+    <loc>http://localhost:50172/tags/zine/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:50172/about/</loc>
   </url>
 </urlset>

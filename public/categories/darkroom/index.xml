@@ -2,26 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Darkroom on Jorden Senior</title>
-    <link>http://localhost:1313/categories/darkroom/</link>
+    <link>http://localhost:50172/categories/darkroom/</link>
     <description>Recent content in Darkroom on Jorden Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/darkroom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:50172/categories/darkroom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>017 · Lith Printing I: The Chemistry of Chaos</title>
+      <link>http://localhost:50172/notebook/017-019-lith/017-lithprintingchemistry/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50172/notebook/017-019-lith/017-lithprintingchemistry/</guid>
+      <description>&lt;h1 id=&#34;lith-printing-i-the-chemistry-of-chaos&#34;&gt;Lith Printing I: The Chemistry of Chaos&lt;/h1&gt;
+&lt;p&gt;The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn&amp;rsquo;t develop so much as erupt, shadows darkening visibly, racing toward black while I scrambled to snatch the print before it went too far.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/016-LithPrinting/lith_portrait_01.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Lith print showing characteristic warm highlights and gritty shadows&#34; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;This was at &lt;a href=&#34;https://www.mork.fi/&#34;&gt;Mörk&lt;/a&gt; in Helsinki, during a workshop led by &lt;a href=&#34;https://www.instagram.com/asmundlahaug/&#34;&gt;Åsmund Lahaug&lt;/a&gt; as part of the &lt;a href=&#34;https://www.nordicanalog.network/&#34;&gt;Nordic Analogue Network&lt;/a&gt; residency programme. Åsmund had warned us: lith printing doesn&amp;rsquo;t behave like conventional development. The chemistry follows different rules. But understanding those rules intellectually is one thing; watching them unfold in the tray is another entirely.&lt;/p&gt;
+&lt;p&gt;What I saw that afternoon—and what I&amp;rsquo;ve been exploring ever since—is a process that produces results impossible through any other means: creamy, grainless highlights sitting alongside high-contrast, textured shadows, warm colours emerging from black and white materials without toning, and a distinctive gritty aesthetic that feels simultaneously vintage and contemporary. The technique has become one of my most trusted ways of making prints, particularly using Moersch EasyLith chemistry with FomaTone 132 and FomaBrom 152—among the last papers still manufactured that will properly lith.&lt;/p&gt;
+&lt;p&gt;This post begins a three-part series on lith printing. Here I&amp;rsquo;ll examine the chemistry—what actually happens in the developer tray that makes lith so distinctive, why hydroquinone behaves unlike other developing agents, and how understanding the mechanism transforms mysterious alchemy into controllable craft. The second post covers practical control: exposure, the snatch point, temperature, and the characteristic effects like snowballs and peppercorns. The third documents materials currently available and my working process.&lt;/p&gt;
+&lt;h2 id=&#34;what-makes-lith-development-different&#34;&gt;What Makes Lith Development Different&lt;/h2&gt;
+&lt;p&gt;Every darkroom printer understands basic development: exposed silver halide crystals reduce to metallic silver in the presence of a developing agent, with the rate depending on exposure, developer activity, temperature, and time. More exposure means faster development. Longer development means more density. The relationship is essentially linear and predictable.&lt;/p&gt;
+&lt;p&gt;Lith development violates these assumptions fundamentally. The process is autocatalytic — development accelerates itself. The more silver reduces in a given area, the faster reduction proceeds in that area. Shadows don&amp;rsquo;t just develop; they explode. And while shadows race toward maximum black, highlights develop slowly, linearly, at a fraction of the pace. The result is extreme tonal separation achieved not through paper grade or contrast filtration, but through differential chemistry occurring simultaneously across the image.&lt;/p&gt;
+&lt;p&gt;This phenomenon is called infectious development, and understanding it requires looking at what happens to hydroquinone—the developing agent—as it works.&lt;/p&gt;
+&lt;h2 id=&#34;the-semiquinone-cascade&#34;&gt;The Semiquinone Cascade&lt;/h2&gt;
+&lt;p&gt;In conventional developers, hydroquinone oxidises to quinone as it reduces silver. Quinone is essentially inert—it doesn&amp;rsquo;t participate further in development. The reaction proceeds, products accumulate, and eventually the developer exhausts.&lt;/p&gt;
+&lt;p&gt;Lith development works differently because hydroquinone doesn&amp;rsquo;t oxidise directly to quinone. Instead, it passes through a transient intermediate state: the semiquinone radical. This partially oxidised molecule exists only briefly, but during its short lifetime it&amp;rsquo;s highly reactive—Wolfgang Moersch describes it as many times more aggressive than the original hydroquinone. The semiquinone is itself a powerful developing agent, far more active than the hydroquinone that produced it.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/016-LithPrinting/semiquinone_diagram.png&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Diagram showing hydroquinone to semiquinone to quinone oxidation pathway&#34; /&gt;
+    &lt;figcaption&gt;The semiquinone intermediate is key to infectious development. Unlike the direct oxidation pathway in conventional developers, lith chemistry passes through this highly reactive state.&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;Here&amp;rsquo;s what happens in the tray. In heavily exposed areas—your shadows—many silver halide crystals begin developing simultaneously. Each developing crystal generates semiquinone. As local semiquinone concentration builds, development accelerates exponentially. The more development occurs, the faster it proceeds. Tim Rudman captured this feedback loop precisely in his foundational work on lith printing: the darker a tone becomes, the faster it develops; the faster it develops, the darker it becomes, and so it develops even faster still.&lt;/p&gt;
+&lt;p&gt;Meanwhile, in lightly exposed areas—your highlights—few crystals develop. Little semiquinone accumulates locally. Development proceeds slowly, at a pace closer to conventional linear development. The highlights creep forward while the shadows race.&lt;/p&gt;
+&lt;p&gt;This differential is the source of lith printing&amp;rsquo;s characteristic look. Highlights remain soft, delicate, often warmly coloured. Shadows become dense, gritty, high-contrast. The tonal separation isn&amp;rsquo;t imposed by the paper or the enlarger filtration—it emerges from the chemistry itself, from the physics of how semiquinone radicals catalyse their own production.&lt;/p&gt;
+&lt;h2 id=&#34;why-hydroquinone-alone&#34;&gt;Why Hydroquinone Alone&lt;/h2&gt;
+&lt;p&gt;Conventional black and white developers typically combine multiple developing agents. Metol and hydroquinone (MQ developers) or phenidone and hydroquinone (PQ developers) work synergistically—the combination develops faster than either agent alone, a phenomenon called superadditivity. Most darkroom chemistry exploits this.&lt;/p&gt;
+&lt;p&gt;Lith developers use hydroquinone alone, or hydroquinone with minimal additions. The reason is precisely that semiquinone pathway. Other developing agents don&amp;rsquo;t produce the same autocatalytic intermediate. Metol oxidises directly. Phenidone actually suppresses infectious development—which is why papers containing phenidone in their emulsion (some Adox batches, for instance) won&amp;rsquo;t lith properly regardless of developer choice.&lt;/p&gt;
+&lt;p&gt;The hydroquinone must also be present in specific conditions. The developer needs to be highly alkaline (pH 11-12) for hydroquinone to be active, but the formulation must carefully control other components that might interfere with the semiquinone cascade.&lt;/p&gt;
+&lt;h2 id=&#34;the-role-of-sulfite-and-formaldehyde&#34;&gt;The Role of Sulfite and Formaldehyde&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s where lith chemistry becomes genuinely subtle. Conventional developers contain sodium sulfite as a preservative—it scavenges oxidation products, preventing aerial oxidation and extending developer life. But sulfite also scavenges semiquinone. In a high-sulfite developer, the autocatalytic cascade never develops because the intermediate gets neutralised as fast as it forms.&lt;/p&gt;
+&lt;p&gt;Traditional lith developers solve this problem with formaldehyde. This might seem counterintuitive—formaldehyde is primarily known as a preservative and hardener, not a development modifier. Its role in lith chemistry is indirect but essential: formaldehyde binds sulfite into a stable adduct called hydroxymethylsulfonate. This effectively locks up the sulfite, preventing it from scavenging semiquinone while retaining some antioxidant protection for the developer.&lt;/p&gt;
+&lt;p&gt;The formaldehyde-bisulfite adduct is remarkably stable—reportedly many orders of magnitude more stable than alternatives like acetone-bisulfite, according to practitioner research documented in community forums. This stability explains why formaldehyde works where other aldehydes fail, and why traditional lith developers (Kodalith, the original formulations) contained it despite the health concerns. The exact chemistry remains somewhat empirical; what matters practically is that formaldehyde enables the process while other aldehydes do not.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/016-LithPrinting/lith_landscape_01.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Lith print of landscape showing tonal separation&#34; /&gt;
+    &lt;figcaption&gt;The extreme tonal separation in lith prints—soft highlights against dense shadows—emerges from the chemistry itself, not from paper grade selection.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Modern formaldehyde-free developers, including the Moersch EasyLith I use, achieve similar results through different means: minimal sulfite levels, careful pH control, and formulations that simply accept shorter working life in exchange for avoiding formaldehyde entirely. This matters practically—heated formaldehyde fumes are problematic, and formaldehyde absorbs through skin. If you&amp;rsquo;re working with traditional developers, ventilation isn&amp;rsquo;t optional. With EasyLith or SE5 Master, health concerns diminish substantially.&lt;/p&gt;
+&lt;h2 id=&#34;bromide-dynamics-and-the-importance-of-old-brown&#34;&gt;Bromide Dynamics and the Importance of Old Brown&lt;/h2&gt;
+&lt;p&gt;As silver bromide crystals develop, they release bromide ions into solution. In conventional development, this bromide accumulation gradually restrains development—one reason why developers exhaust and development times extend with use.&lt;/p&gt;
+&lt;p&gt;In lith printing, bromide dynamics are more complex and more useful. Bromide restrains the infectious cascade, providing some control over the otherwise exponential acceleration. Bromide also affects image colour, shifting tones from pink-sepia toward yellow-sepia as concentration increases.&lt;/p&gt;
+&lt;p&gt;This is why experienced lith printers save their used developer. &amp;ldquo;Old Brown&amp;rdquo;—the oxidised, bromide-rich developer remaining after a printing session—isn&amp;rsquo;t waste to be discarded. It&amp;rsquo;s a valuable additive that improves results.&lt;/p&gt;
+&lt;p&gt;Fresh lith developer produces somewhat disappointing results: development is fast, colours are muted, the characteristic lith look is diminished. The chemistry needs to be &amp;ldquo;seasoned&amp;rdquo; with accumulated oxidation products and bromide. Adding ten to one hundred millilitres of Old Brown per litre of fresh working solution allows good results from the first print rather than sacrificing initial sheets to condition the developer.&lt;/p&gt;
+&lt;p&gt;I keep a dedicated bottle of Old Brown, topping it up after each session. The developer darkens progressively—hence the name—and develops increasingly complex chemistry that enhances the lith effect. Some practitioners maintain Old Brown stocks for months or even years, adding fresh developer as needed while preserving the accumulated character.&lt;/p&gt;
+&lt;h2 id=&#34;why-extreme-dilution-is-essential&#34;&gt;Why Extreme Dilution Is Essential&lt;/h2&gt;
+&lt;p&gt;Lith developers are used at dilutions that would seem absurd for conventional work. Where a typical film developer might be diluted 1:1 to 1:9, lith developers run at 1:20 to 1:40 or beyond. This isn&amp;rsquo;t about economy—it&amp;rsquo;s functionally necessary for the process to work.&lt;/p&gt;
+&lt;p&gt;At normal concentration, development would complete in seconds. The semiquinone cascade would fire immediately upon immersion, shadows would race to maximum density before you could react, and the entire process would be essentially uncontrollable. There would be no snatch point—just instant development.&lt;/p&gt;
+&lt;p&gt;Extreme dilution slows everything enough to allow observation and intervention. Development times of six to twelve minutes become standard. You can watch the image emerge, monitor the acceleration phase, and make decisions about when to stop. The snatch point—perhaps the most critical variable in lith printing—only exists because dilution creates the time window for it.&lt;/p&gt;
+&lt;p&gt;Wolfgang Moersch recommends 1:20 to 1:25 as a starting point with EasyLith (for instance, 20ml Part A plus 20ml Part B plus 800ml water). More exposure requires more dilution; less exposure allows stronger concentration. You can push beyond 1:30, but developer behaviour changes significantly—each additional print causes more variation, and very dilute developers may not achieve proper maximum black before exhausting.&lt;/p&gt;
+&lt;p&gt;The relationship between dilution and development time is roughly proportional. Double the dilution approximately doubles development time. This becomes a practical tool: if development is happening too fast to control, increase dilution; if prints are taking unreasonably long (more than fifteen to twenty minutes), concentrate slightly.&lt;/p&gt;
+&lt;h2 id=&#34;the-induction-period-patience-before-the-storm&#34;&gt;The Induction Period: Patience Before the Storm&lt;/h2&gt;
+&lt;p&gt;One of the most disorienting aspects of lith printing for newcomers is the induction period—the interval between immersing the paper and seeing any image at all. In conventional development, the image appears within seconds. In lith development, you might wait two to five minutes seeing essentially nothing.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t a sign of problems. The induction period reflects the time required for semiquinone concentration to build to active levels. Development is occurring, but slowly and invisibly. The latent image centres are reducing silver, generating semiquinone, establishing the conditions for the cascade to come.&lt;/p&gt;
+&lt;p&gt;Then highlights emerge, faint and ghostly. Midtones follow. The image becomes recognisable but remains light, underdeveloped by conventional standards. And then—if you&amp;rsquo;re watching carefully—you notice the shadows beginning to move. Development is accelerating. The cascade is engaging. From here, events proceed quickly.&lt;/p&gt;
+&lt;p&gt;The practical advice: don&amp;rsquo;t panic during the induction period, and don&amp;rsquo;t increase developer concentration thinking something is wrong. Patience during induction is rewarded with proper lith characteristics. Rushing—whether by strengthening developer or raising temperature—produces faster development but weaker lith effects.&lt;/p&gt;
+&lt;h2 id=&#34;what-the-chemistry-means-for-practice&#34;&gt;What the Chemistry Means for Practice&lt;/h2&gt;
+&lt;p&gt;Understanding the semiquinone cascade, bromide dynamics, and dilution effects transforms lith printing from trial-and-error experimentation into directed practice. The chemistry explains observations that would otherwise seem arbitrary:&lt;/p&gt;
+&lt;p&gt;Why does more exposure produce lower contrast? Because heavily exposed highlights develop more, generating more semiquinone locally, reducing the differential between highlight and shadow development rates.&lt;/p&gt;
+&lt;p&gt;Why do longer development times produce cooler, grainier results? Because extended development allows silver grains to grow larger, and larger grains scatter light differently (appearing cooler) while becoming more visually distinct (grainier).&lt;/p&gt;
+&lt;p&gt;Why does Old Brown improve results? Because accumulated bromide moderates the cascade while accumulated oxidation products enhance colour.&lt;/p&gt;
+&lt;p&gt;Why must you snatch quickly once shadows start moving? Because the exponential nature of infectious development means seconds matter—the feedback loop accelerates continuously until you physically intervene.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/016-LithPrinting/lith_detail_grain.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Detail showing lith grain structure&#34; /&gt;
+    &lt;figcaption&gt;The distinctive grain of lith printing—visible texture in the shadows—results from the uneven, explosive nature of infectious development.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The chemistry also explains why lith printing requires specific papers. The emulsion must contain chlorobromide or bromide silver (not just chloride), and it must be free of incorporated developing agents like phenidone that would suppress the semiquinone pathway. Many modern papers fail one or both requirements, which is why the list of lithable papers has shrunk dramatically since the technique&amp;rsquo;s heyday.&lt;/p&gt;
+&lt;h2 id=&#34;from-understanding-to-control&#34;&gt;From Understanding to Control&lt;/h2&gt;
+&lt;p&gt;When Åsmund first explained infectious development during that workshop at Mörk, the mechanism made intellectual sense but felt abstract. It was only after making prints—watching that strange delayed emergence, feeling the sudden acceleration, learning through many snatched-too-early and snatched-too-late attempts—that the chemistry became real. The equations describe something you can see happening, something you learn to read and anticipate.&lt;/p&gt;
+&lt;p&gt;In the second post of this series, I&amp;rsquo;ll move from chemistry to control: how exposure affects contrast (counterintuitively), what the snatch point actually looks like, how temperature changes the game, and how to manage—or encourage—the characteristic effects like snowballs and peppercorns that make lith prints distinctive.&lt;/p&gt;
+&lt;p&gt;The chemistry is foundational, but practice is where it becomes craft. Understanding why infectious development works is the beginning. Learning to work with it—to ride the cascade rather than fight it—takes time in the darkroom, prints in the tray, and the willingness to let controlled chaos produce images impossible through any other means.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;p&gt;Rudman, Tim. &lt;em&gt;The Master Photographer&amp;rsquo;s Lith Printing Course&lt;/em&gt;. Argentum, 1998. [The foundational text on lith printing technique; establishes the conceptual framework still used today.]&lt;/p&gt;
+&lt;p&gt;Rudman, Tim. &lt;em&gt;The Photographer&amp;rsquo;s Toning Book: The Definitive Guide&lt;/em&gt;. Amphoto, 2002. [Comprehensive treatment of toning including lith print toning.]&lt;/p&gt;
+&lt;h3 id=&#34;technical-documentation&#34;&gt;Technical Documentation&lt;/h3&gt;
+&lt;p&gt;Moersch, Wolfgang. &amp;ldquo;Lithprinting Guide (Lessons 1-6).&amp;rdquo; Moersch Photochemie, revised January 2023. &lt;a href=&#34;https://www.moersch-photochemie.de/wp-content/uploads/2023/03/Lith-Anleitung-Lessons-1-6-ENGLISH.pdf&#34;&gt;https://www.moersch-photochemie.de/wp-content/uploads/2023/03/Lith-Anleitung-Lessons-1-6-ENGLISH.pdf&lt;/a&gt; [Comprehensive technical guide to lith printing with Moersch chemistry.]&lt;/p&gt;
+&lt;p&gt;Moersch, Wolfgang. &amp;ldquo;EasyLith Technical Data Sheet.&amp;rdquo; Moersch Photochemie. &lt;a href=&#34;https://www.moersch-photochemie.de/&#34;&gt;https://www.moersch-photochemie.de/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;scientific-literature&#34;&gt;Scientific Literature&lt;/h3&gt;
+&lt;p&gt;Austin, J.B. &amp;ldquo;The Theory of Infectious Development.&amp;rdquo; &lt;em&gt;Journal of Photographic Science&lt;/em&gt; 22 (1974): 156-162. [Academic treatment of the semiquinone mechanism.]&lt;/p&gt;
+&lt;p&gt;Mason, L.F.A. &lt;em&gt;Photographic Processing Chemistry&lt;/em&gt;. 2nd ed. Focal Press, 1975. [General reference on photographic chemistry including oxidation pathways.]&lt;/p&gt;
+&lt;h3 id=&#34;online-resources&#34;&gt;Online Resources&lt;/h3&gt;
+&lt;p&gt;Unblinking Eye. &amp;ldquo;Lith Printing.&amp;rdquo; &lt;a href=&#34;https://unblinkingeye.com/Articles/Lith/lith.html&#34;&gt;https://unblinkingeye.com/Articles/Lith/lith.html&lt;/a&gt; [Historical overview and technical discussion.]&lt;/p&gt;
+&lt;p&gt;AlternativePhotography.com. &amp;ldquo;The Lithprint Process.&amp;rdquo; &lt;a href=&#34;https://www.alternativephotography.com/the-lithprint-process/&#34;&gt;https://www.alternativephotography.com/the-lithprint-process/&lt;/a&gt; [Accessible introduction with practical guidance.]&lt;/p&gt;
+&lt;p&gt;EMULSIVE. &amp;ldquo;A Practical Guide to Lith Printing.&amp;rdquo; &lt;a href=&#34;https://emulsive.org/articles/darkroom/darkroom-printing/a-practical-guide-to-lith-printing&#34;&gt;https://emulsive.org/articles/darkroom/darkroom-printing/a-practical-guide-to-lith-printing&lt;/a&gt; [Contemporary practical guide.]&lt;/p&gt;
+&lt;h3 id=&#34;community-and-network&#34;&gt;Community and Network&lt;/h3&gt;
+&lt;p&gt;Nordic Analogue Network. &lt;a href=&#34;https://www.nordicanalog.network/&#34;&gt;https://www.nordicanalog.network/&lt;/a&gt; [Darkroom exchange residency connecting Scandinavian analog communities.]&lt;/p&gt;
+&lt;p&gt;Mörk (Finnish Darkroom Association). &lt;a href=&#34;https://www.mork.fi/&#34;&gt;https://www.mork.fi/&lt;/a&gt; [Community darkroom in Helsinki.]&lt;/p&gt;
+&lt;p&gt;Lith Printing Group (Facebook). [Active community for questions and print sharing.]&lt;/p&gt;
+&lt;p&gt;Photrio.com Alternative Processes Forum. &lt;a href=&#34;https://www.photrio.com/forum/forums/alternative-processes.67/&#34;&gt;https://www.photrio.com/forum/forums/alternative-processes.67/&lt;/a&gt; [Technical discussions and paper compatibility research.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>016 · Chromoskedasic DC: Colour Alchemy in the US Capital</title>
-      <link>http://localhost:1313/experiments/014-016-chromoskedasic/016-chromoskedasicdc/</link>
+      <link>http://localhost:50172/notebook/014-016-chromoskedasic/016-chromoskedasicdc/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/016-chromoskedasicdc/</guid>
+      <guid>http://localhost:50172/notebook/014-016-chromoskedasic/016-chromoskedasicdc/</guid>
       <description>&lt;h1 id=&#34;chromoskedasic-dc-colour-alchemy-in-the-capital&#34;&gt;Chromoskedasic DC: Colour Alchemy in the Capital&lt;/h1&gt;
 &lt;p&gt;The previous two posts laid the foundation: what chromoskedasic printing is, its history and lineage, and the physics and chemistry that enable colour formation from silver nanoparticles. Now we turn to practice. This post documents my experiments applying the technique to photographs from Washington DC—the workflow I developed, the successes and failures, and the lessons extracted from several dozen attempts.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;right&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro Platform&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;right&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro Platform&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;My workflow differs from standard approaches in one significant way: I perform the chromoskedasic treatment outdoors under natural daylight rather than under room light in the darkroom. This emerged from practical necessity—inadequate darkroom ventilation for extended chemical sessions—but proved to offer certain advantages. I&amp;rsquo;ll discuss the reasoning and results throughout.&lt;/p&gt;
@@ -30,7 +127,7 @@
 &lt;p&gt;The Washington Metro system, designed by architect Harry Weese and constructed between 1969 and 2001, represents one of America&amp;rsquo;s most ambitious public architecture projects of the late twentieth century. The system serves the District of Columbia and surrounding Maryland and Virginia suburbs through 98 stations spanning six lines and over 120 miles of track.&lt;/p&gt;
 &lt;p&gt;Weese&amp;rsquo;s design established a distinctive visual vocabulary: coffered concrete vaults that widen toward the platforms, indirect lighting casting gradients across curved surfaces, dramatically long escalators connecting platform levels to the surface. The stations draw on brutalist precedents—raw concrete, expressed structure, monumental scale—while achieving an elegance unusual in public infrastructure. The coffered vault design, beyond its aesthetic impact, serves acoustic and structural functions, controlling reverberation while spanning wide platform areas without intermediate supports.&lt;/p&gt;
 &lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/015-ChromoskedasicDC/dc_platform.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro platform&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/015-ChromoskedasicDC/dc_platform.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro platform&#34; /&gt;
     &lt;figcaption&gt;The coffered vault structure creates strong geometric patterns that anchor the composition even as colours transform unpredictably.&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 &lt;p&gt;Photographically, Metro stations present high-contrast scenes with clear geometric structure. The controlled lighting creates deep shadows and bright highlights with definite separation rather than continuous gradation. The repeating architectural elements—coffered ceiling panels, escalator handrails, platform edge tiles—provide visual rhythm that survives substantial image transformation.&lt;/p&gt;
@@ -91,7 +188,7 @@
 &lt;p&gt;Let me walk through specific images and their responses to treatment.&lt;/p&gt;
 &lt;h3 id=&#34;the-escalator-canopy-station&#34;&gt;The Escalator (Canopy Station)&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_2.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Metro escalator chromoskedasic print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_2.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Metro escalator chromoskedasic print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Shot looking up an escalator toward a glass canopy entrance, this image presents strong vanishing-point composition with the structural grid of the canopy filling the upper two-thirds of the frame. Silhouetted figures on the escalator provide human scale and narrative suggestion.&lt;/p&gt;
@@ -103,7 +200,7 @@
 The iconic Metro station composition: coffered concrete vault receding toward tunnel darkness, platforms flanking the tracks, a train visible in the tunnel approach. High contrast between illuminated ceiling panels and dark platform/tunnel areas.
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Full platform chromoskedasic print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Full platform chromoskedasic print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -116,7 +213,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 **What I would adjust**: I over-silvered one area (upper left) where developer dripped. The metallic patch draws attention inappropriately. More careful brush control—or using squeeze bottles rather than brushes for developer—would prevent accidental application. --&gt;
 &lt;h3 id=&#34;the-washington-monument&#34;&gt;The Washington Monument&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_1.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Washington Monument&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_1.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Washington Monument&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;A simpler composition: the Monument filling most of the frame, shot from near its base looking upward, American flags on poles at the base. The marble shaft constitutes almost entirely highlight area against the bright sky.&lt;/p&gt;
@@ -126,7 +223,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 &lt;p&gt;&lt;strong&gt;What I would adjust&lt;/strong&gt;: More even chemistry application. The streaking, while interesting, wasn&amp;rsquo;t intentional. Tray immersion rather than brush work would produce more uniform results on large continuous areas.&lt;/p&gt;
 &lt;h3 id=&#34;the-train&#34;&gt;The Train&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_4.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Metro train at platform&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_4.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Metro train at platform&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Metro train at platform, shot from an angle showing multiple cars receding. The 7000-series trains (introduced 2014-present) feature stainless steel exteriors that photograph as bright metallic surfaces—extensive highlight area in the negative. The platform and tunnel provide dark framing.&lt;/p&gt;
@@ -168,7 +265,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 &lt;p&gt;Beyond technical process, what do these transformed images of Washington accomplish?&lt;/p&gt;
 &lt;p&gt;The photographs began as documentation—record shots of architecture, transit infrastructure, civic monuments. Standard black and white captures of public spaces. The chromoskedasic treatment pushed them elsewhere: documentary became decorative, record became interpretation, photograph approached painting or printmaking in its relationship to subject.&lt;/p&gt;
 &lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/015-ChromoskedasicDC/final_group.jpeg&#34; align=&#34;right&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Group of DC chromoskedasic prints displayed together&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/015-ChromoskedasicDC/final_group.jpeg&#34; align=&#34;right&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Group of DC chromoskedasic prints displayed together&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 &lt;p&gt;The warm tones suggest age, patina, the passage of time. The Washington Monument in bronze-amber evokes oxidized metal rather than white marble—the monument as archaeological artifact, aged object, thing-that-was rather than thing-that-is. The Metro stations, designed to feel futuristic, become almost Victorian in these prints—steam-punk transit, retrofuture infrastructure, spaces from some alternate timeline.&lt;/p&gt;
@@ -201,10 +298,10 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
     
     <item>
       <title>015 · The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry</title>
-      <link>http://localhost:1313/experiments/014-016-chromoskedasic/015-chromoskedasicscience/</link>
+      <link>http://localhost:50172/notebook/014-016-chromoskedasic/015-chromoskedasicscience/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/015-chromoskedasicscience/</guid>
+      <guid>http://localhost:50172/notebook/014-016-chromoskedasic/015-chromoskedasicscience/</guid>
       <description>&lt;h1 id=&#34;the-science-of-colour-from-silver-mie-scattering-plasmons-and-counterintuitive-chemistry&#34;&gt;The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry&lt;/h1&gt;
 &lt;p&gt;In the previous post, I introduced chromoskedasic Sabattier printing as a technique that creates colour from black and white materials through physics and chemistry. Now we examine exactly how this works—why silver nanoparticles of specific sizes scatter specific wavelengths of light, and how darkroom chemistry produces those particles.&lt;/p&gt;
 &lt;p&gt;This is where my professional life intersects with my darkroom practice. The physics underlying chromoskedasic printing—surface plasmon resonance, Mie scattering, colloidal nanoparticle optics—connects directly to phenomena I encounter in quantum hardware research. The same principles that govern colour formation in these prints inform the design of plasmonic sensors and nanophotonic devices. Understanding the science doesn&amp;rsquo;t diminish the art; it reveals why this technique produces results achievable through no other means.&lt;/p&gt;
@@ -213,7 +310,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 &lt;p&gt;Most photographers have encountered Rayleigh scattering, even if not by name—it famously explains why the sky is blue. When light encounters particles much smaller than its wavelength, shorter wavelengths scatter more efficiently than longer ones. The mathematical relationship is steep: scattering intensity scales with the inverse fourth power of wavelength (I ∝ λ⁻⁴). Blue light, with its shorter wavelength (~450 nm), scatters roughly ten times more intensely than red light (~650 nm). Hence blue skies during the day and red sunsets when light traverses more atmosphere.&lt;/p&gt;
 &lt;p&gt;But Rayleigh scattering applies only when particles are truly small—roughly less than one-tenth the wavelength of light. For visible wavelengths (approximately 400-700 nm), this means particles smaller than about 40-70 nm. Above this threshold, the physics changes fundamentally.&lt;/p&gt;
 &lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-ChromoskedasicScience/scattering_regimes.png&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Diagram showing Rayleigh vs Mie scattering regimes&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-ChromoskedasicScience/scattering_regimes.png&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Diagram showing Rayleigh vs Mie scattering regimes&#34; /&gt;
     &lt;figcaption&gt;Scattering behaviour depends on the ratio of particle diameter to wavelength. The Mie regime begins when particles approach the scale of visible light.&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 &lt;p&gt;When particle diameter approaches or exceeds the wavelength of light, we enter the Mie scattering regime. Named after German physicist Gustav Mie, who published the complete mathematical solution in 1908, Mie theory describes the complex electromagnetic interactions between light waves and spherical particles of comparable size. The simple wavelength dependence of Rayleigh scattering gives way to intricate resonance phenomena where specific wavelengths interact strongly with particles of specific sizes.&lt;/p&gt;
@@ -268,7 +365,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 &lt;h3 id=&#34;why-warm-tones-dominate&#34;&gt;Why Warm Tones Dominate&lt;/h3&gt;
 &lt;p&gt;The characteristic amber-bronze-gold palette of chromoskedasic prints reflects fundamental physics rather than arbitrary chemistry.&lt;/p&gt;
 &lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-ChromoskedasicScience/silver_plasmon_spectrum.png&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Plot showing how silver nanoparticle plasmon resonance shifts with particle size&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-ChromoskedasicScience/silver_plasmon_spectrum.png&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Plot showing how silver nanoparticle plasmon resonance shifts with particle size&#34; /&gt;
     &lt;figcaption&gt;Silver nanoparticle plasmon resonance red-shifts with increasing particle diameter. In gelatin, the shift is more pronounced than in aqueous solution.&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 &lt;p&gt;Silver nanoparticles exhibit their primary surface plasmon resonance around 390-420 nm in vacuum or air—the boundary between ultraviolet and visible violet. In gelatin, this shifts to approximately 400-450 nm. Small silver particles therefore strongly absorb violet and blue light while transmitting and scattering longer wavelengths. The visual result is yellow.&lt;/p&gt;
@@ -401,7 +498,7 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
 &lt;p&gt;In practice, I adjust colour primarily by controlling the ratio of stabilizer to activator application—both spatially (where on the print) and temporally (how long each acts before the other). More stabilizer time before activator intervention preserves smaller particles and cooler tones. Stronger activator or longer activator time warms the palette.&lt;/p&gt;
 &lt;h3 id=&#34;the-silvering-phenomenon&#34;&gt;The Silvering Phenomenon&lt;/h3&gt;
 &lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-ChromoskedasicScience/silvering_detail.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Detail showing silvered area of a chromoskedasic print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-ChromoskedasicScience/silvering_detail.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Detail showing silvered area of a chromoskedasic print&#34; /&gt;
     &lt;figcaption&gt;Silvering produces mirror-like metallic surfaces that shift colour with viewing angle—physically distinct from the coloured nanoparticle regions.&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 &lt;p&gt;When paper developer enters the chromoskedasic process, affected areas can develop a mirror-like metallic sheen, shifting through blue, purple, grey, and silver depending on viewing angle. This &amp;ldquo;silvering out&amp;rdquo; is physically distinct from the coloured nanoparticle effects.&lt;/p&gt;
@@ -550,14 +647,14 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
     
     <item>
       <title>014 · Chromoskedasic Sabattier: Colour from Silver, Light from Scattering</title>
-      <link>http://localhost:1313/experiments/014-016-chromoskedasic/014-chromoskedasicintro/</link>
+      <link>http://localhost:50172/notebook/014-016-chromoskedasic/014-chromoskedasicintro/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/014-016-chromoskedasic/014-chromoskedasicintro/</guid>
+      <guid>http://localhost:50172/notebook/014-016-chromoskedasic/014-chromoskedasicintro/</guid>
       <description>&lt;h1 id=&#34;chromoskedasic-sabattier-colour-from-silver-light-from-scattering&#34;&gt;Chromoskedasic Sabattier: Colour from Silver, Light from Scattering&lt;/h1&gt;
 &lt;p&gt;The print came out of the activator tray warm amber where it had been grey seconds before. Not stained amber, not toned amber—the silver itself had transformed, scattering light at wavelengths it had no business scattering. I tilted the wet paper and watched the colour shift, iridescent, metallic, impossible from materials that contained nothing but silver and gelatin.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_2.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro escalator&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_2.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro escalator&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;This is chromoskedasic Sabattier printing: a technique that creates colour from black and white materials through physics rather than chemistry. Unlike toning, where chemical compounds replace or coat the silver, chromoskedasic printing manipulates silver particle sizes until they scatter specific wavelengths of light. The phenomenon is called surface plasmon resonance, and it&amp;rsquo;s the same physics that makes colloidal gold appear ruby red and gives stained glass windows their glow. Centuries-old art, cutting-edge nanoscience, and darkroom practice converging in a tray of alkaline solution.&lt;/p&gt;
@@ -573,11 +670,11 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
 &lt;p&gt;Like many photographic discoveries, chromoskedasic printing emerged from a mistake that someone was curious enough to investigate rather than discard.&lt;/p&gt;
 &lt;p&gt;The story begins at the University of California, San Francisco in 1980. Dr. Dominic Man-Kit Lam, a scientist working on visual perception and photoreceptor biochemistry, was exploring the optical properties of silver halide systems. During experiments with partially processed photographic materials, he observed something unexpected: colours appearing on paper that should have remained purely monochrome.&lt;/p&gt;
 &lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/013-Chromoskedasic/lam_early_work.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Early chromoskedasic work by Dominic Man-Kit Lam&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/013-Chromoskedasic/lam_early_work.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Early chromoskedasic work by Dominic Man-Kit Lam&#34; /&gt;
     &lt;figcaption&gt;Early chromoskedasic experiments produced colours that seemed impossible from black and white materials&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro car&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro car&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Rather than dismissing this as contamination or error, Lam investigated systematically. What conditions produced colour? What variables controlled the hue? What was the mechanism? Over the following years, working largely in isolation, he developed the technique into a reproducible process—though one he used primarily for his own artistic work rather than publishing detailed methodology.&lt;/p&gt;
@@ -589,7 +686,7 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
 &lt;p&gt;Following the 1991 &lt;em&gt;Scientific American&lt;/em&gt; article, interest briefly flared. Kodak, recognising commercial potential, developed the Ektamatic S-10 Stabilizer and A-10 Activator—chemistry specifically optimised for chromoskedasic work. Articles appeared in photography magazines. Workshops were offered. Then the analogue world contracted as digital imaging accelerated, and the technique faded into obscurity.&lt;/p&gt;
 &lt;p&gt;Dr. William L. Jolly kept the flame alive through the 1990s and early 2000s. Emeritus Professor of Chemistry at UC Berkeley, Jolly combined deep scientific understanding with serious photographic practice. He had published extensively on inorganic chemistry (his textbook &lt;em&gt;Modern Inorganic Chemistry&lt;/em&gt; went through multiple editions) and understood the electron transfer reactions underlying the process. His 1997 book &lt;em&gt;Solarization Demystified: Historical, Artistic and Technical Aspects of the Sabatier Effect&lt;/em&gt; devoted substantial chapters to chromoskedasic processing, including reformulated chemistry as the original Kodak products became scarce. Jolly continued experimenting and teaching until his death in 2014.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_1.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Washington Monument&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_1.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of Washington Monument&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Christina Z. Anderson, Professor of Photography at Montana State University, became the technique&amp;rsquo;s most important contemporary advocate. Anderson studied alternative processes extensively, including direct instruction from Jolly, and has spent decades documenting and teaching historical and experimental techniques. Her books—&lt;em&gt;Gum Printing and Other Amazing Contact Printing Processes&lt;/em&gt; (2017), &lt;em&gt;Cyanotype: The Blueprint in Contemporary Practice&lt;/em&gt; (2019), and most comprehensively &lt;em&gt;The Experimental Darkroom&lt;/em&gt; (2022)—provide accessible instruction for processes otherwise poorly documented. For chromoskedasic printing specifically, she worked with Freestyle Photographic Supplies and master printer Alan Bean to develop modern chemical formulations after Kodak discontinued the Ektamatic products.&lt;/p&gt;
@@ -604,7 +701,7 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
 &lt;h2 id=&#34;why-washington-dc&#34;&gt;Why Washington DC?&lt;/h2&gt;
 &lt;p&gt;For my chromoskedasic experiments, I chose photographs from Washington DC—specifically the Metro system and the monuments. The choice wasn&amp;rsquo;t arbitrary.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro platform&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/014-016-Chromoskedasic/chromo_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Chromoskedasic print of DC Metro platform&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The DC Metro stations, designed by architect Harry Weese and opened beginning in 1976, represent some of the most striking brutalist architecture in American public transit. The system&amp;rsquo;s visual signature—coffered concrete vaults that expand toward the platforms, dramatic escalators tunneling through indirect lighting, the interplay of geometric structure and controlled illumination—creates images with strong compositional bones and clear tonal separation.&lt;/p&gt;
@@ -650,10 +747,10 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
     
     <item>
       <title>013 · Chromatic Archaeology: Reading the Ruins of Colour Photography</title>
-      <link>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</link>
+      <link>http://localhost:50172/notebook/013-chromaticarchaeology/013-chromaticarchaeology/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
+      <guid>http://localhost:50172/notebook/013-chromaticarchaeology/013-chromaticarchaeology/</guid>
       <description>&lt;h1 id=&#34;chromatic-archaeology-reading-the-ruins-of-colour-photography&#34;&gt;Chromatic Archaeology: Reading the Ruins of Colour Photography&lt;/h1&gt;
 &lt;p&gt;A fully processed RA4 print presents itself as a unified surface—a seamless blend of cyan, magenta, and yellow that our eyes read as full colour. We accept this illusion so completely that we forget it&amp;rsquo;s an illusion at all. But what happens when we literally peel back that promise? These mordançage-treated RA4 prints aren&amp;rsquo;t just technical experiments—they&amp;rsquo;re archaeological excavations into the physical structure of colour photography itself. Each lifted layer, each chromatic bubble, each yellow-green chemical burn reveals something fundamental: colour photography has always been a construction, a careful stack of molecular approximations that only coheres when we don&amp;rsquo;t look too closely.&lt;/p&gt;
 &lt;h2 id=&#34;the-revelation-of-structure&#34;&gt;The Revelation of Structure&lt;/h2&gt;
@@ -667,7 +764,7 @@ The strong light-matter coupling at plasmon resonance has made silver and gold n
 &lt;h2 id=&#34;the-palette-of-destruction&#34;&gt;The Palette of Destruction&lt;/h2&gt;
 &lt;br&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3a.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_3a.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 The yellow-green chromatic tone that dominates these prints deserves special attention.
  I think of it as the colour of photographic death. Just as leaves turn colours when dying that they never showed whilst alive, these prints reveal hues during their destruction that were impossible during their creation. The yellow-green isn&#39;t just chemical staining—it&#39;s the visual signature of molecular breakdown, of dyes decomposing, of chemistry consuming itself.
@@ -676,7 +773,7 @@ What colours emerge only through destruction?&lt;/p&gt;
 &lt;h2 id=&#34;time-as-a-dimension&#34;&gt;Time as a Dimension&lt;/h2&gt;
 &lt;p&gt;Traditional photography freezes time—that&amp;rsquo;s its fundamental promise. These mordançage prints reject that promise entirely. They exist in continuous transformation, their chemistry still active, their colours still shifting. A print photographed today will look different tomorrow. The trapped chemistry continues its work, creating aureoles of colour that expand like slow explosions.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3b.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_3b.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 &lt;p&gt;The temporal dimension transforms them from photographs into performances. The image isn&amp;rsquo;t the final print—it&amp;rsquo;s the entire process of transformation. Watching a print change over days or weeks becomes part of experiencing the work. We&amp;rsquo;re not just viewing an image; we&amp;rsquo;re witnessing its ongoing decay.&lt;/p&gt;
 &lt;p&gt;This recalls the Japanese concept of &lt;em&gt;mono no aware&lt;/em&gt;—the pathos of things, the gentle sadness of transient beauty. These prints embody that aesthetic philosophy in chemical form. Their beauty is inseparable from their impermanence. They&amp;rsquo;re more beautiful because they&amp;rsquo;re dying.&lt;/p&gt;
@@ -684,7 +781,7 @@ What colours emerge only through destruction?&lt;/p&gt;
 &lt;h2 id=&#34;the-honesty-of-instability&#34;&gt;The Honesty of Instability&lt;/h2&gt;
 &lt;p&gt;There&amp;rsquo;s something fundamentally honest about prints that refuse to stabilise. All colour photographs fade—that&amp;rsquo;s been true since the earliest chromogenic processes. Even the most archival contemporary materials will eventually succumb to entropy. These mordançage prints simply acknowledge that fate more openly, even celebrate it.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 &lt;p&gt;Consider the history of colour photography&amp;rsquo;s false promises of permanence. Kodacolor prints from the 1940s have shifted dramatically. Ektachromes from various eras showed poor dark fading and colour shifts. Even modern RA4 prints, despite manufacturer claims, show measurable colour shifts within decades. Colour photography has chased archival stability for over a century and consistently struggled to achieve it.&lt;/p&gt;
 &lt;p&gt;These deliberately unstable prints suggest a different approach: embrace the impermanence. Make work that acknowledges its own mortality. Create images that perform their own decay. There&amp;rsquo;s more truth in a print that openly deteriorates than in one that pretends to permanence it can&amp;rsquo;t actually achieve.&lt;/p&gt;
@@ -696,7 +793,7 @@ What colours emerge only through destruction?&lt;/p&gt;
 &lt;p&gt;These prints present practical challenges that become part of their conceptual framework. Storage becomes performance—do I arrest the chemical reactions through extensive washing, or let them continue? Display becomes documentation—each viewing captures a specific moment in an ongoing transformation. Archiving becomes paradox—how do you preserve something designed to decay?&lt;/p&gt;
 &lt;br&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_5.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_5.jpeg&#34; align=&#34;right&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 So far, I&#39;ve chosen to let the chemistry continue working. Some prints I&#39;ve washed thoroughly after initial documentation, effectively freezing them at a particular stage of degradation. Others remain unwashed, their evolution continuing in storage. After several weeks, the most aggressive reactions slow, though subtle shifts in colour and density continue for months.
 &lt;p&gt;The fragility matters too. These prints can&amp;rsquo;t be handled carelessly—lifted emulsion layers remain delicate, prone to further tearing or complete detachment. They exist in gallery spaces only with significant care, protected from touch, humidity extremes, and direct light. Their physical vulnerability reinforces their conceptual stance: impermanence made manifest.&lt;/p&gt;
@@ -708,7 +805,7 @@ So far, I&#39;ve chosen to let the chemistry continue working. Some prints I&#39
 &lt;p&gt;These experiments suggest possibilities for a new relationship with colour photography—one that acknowledges construction rather than assuming naturalism, embraces instability rather than pursuing permanence, celebrates accident alongside intention.&lt;/p&gt;
 &lt;br&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_6.jpeg&#34; align=&#34;left&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_6.jpeg&#34; align=&#34;left&#34; width=&#34;275px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 Imagine exhibitions where prints continue evolving throughout the show&#39;s run. Opening night viewers see different works than closing night viewers. The exhibition becomes durational, performative, unrepeatable.
 &lt;p&gt;Imagine editions where each print is deliberately unique—not through numbering but through chemical variation. The same negative yields infinite variations, each carrying its own chemical signature.&lt;/p&gt;
@@ -724,14 +821,14 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
     
     <item>
       <title>012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers</title>
-      <link>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</link>
+      <link>http://localhost:50172/notebook/012-ra4mordancage/012-ra4mordencage/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/012-ra4mordancage/012-ra4mordencage/</guid>
+      <guid>http://localhost:50172/notebook/012-ra4mordancage/012-ra4mordencage/</guid>
       <description>&lt;h1 id=&#34;breaking-ra4-apart-when-mordançage-meets-colour-layers&#34;&gt;Breaking RA4 Apart: When Mordançage Meets Colour Layers&lt;/h1&gt;
 &lt;p&gt;The conventional wisdom is clear: mordançage doesn&amp;rsquo;t work on colour materials. No silver, no reaction. Case closed. The chemistry textbooks are unequivocal—RA4 colour paper creates images through cyan, magenta, and yellow dyes, not metallic silver. After the bleach step strips away the developed silver, you&amp;rsquo;re left with pure chromogenic dyes suspended in gelatin. Nothing for copper ions to bite into.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_1.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_1.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 &lt;p&gt;So why are these prints lifting? Why, after a few minutes in heated mordançage solution, does the emulsion begin to bubble and separate? Why can I peel entire colour layers away from the resin-coated base like removing cling film from a window?&lt;/p&gt;
 &lt;p&gt;These questions led me into uncharted chemical territory. What started as curiosity about whether mordançage could affect colour materials has become an exploration of RA4 paper&amp;rsquo;s hidden architecture—the adhesion layers, the gelatin matrices, the boundaries between cyan, magenta, and yellow that normally remain invisible until chemistry forces them apart.&lt;/p&gt;
@@ -741,7 +838,7 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
 &lt;p&gt;Yet here I am, watching bubbles form across the surface of a fully processed Fuji Crystal Archive print. The emulsion swells, distorts, then begins to separate from the base.&lt;/p&gt;
 &lt;br&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_2.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_2.jpeg&#34; align=&#34;left&#34; width=&#34;400px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 &lt;p&gt;Sometimes it lifts in sheets. Sometimes in bubbles that burst to reveal the white polyethylene base beneath. Sometimes distinct colour layers separating from each other, cyan peeling away from magenta, yellow clouds floating free.&lt;/p&gt;
 &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
@@ -751,7 +848,7 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
 &lt;p&gt;Consider the brutal chemistry we&amp;rsquo;re deploying: concentrated hydrogen peroxide, glacial acetic acid, copper chloride, all held warm at roughly 35°C. Even without silver to oxidise, this cocktail remains seriously aggressive. The hydrogen peroxide alone, at 35% concentration, is a powerful oxidising agent that attacks organic materials. The glacial acetic acid drops the pH below 2, causing massive gelatin swelling. The warmth accelerates everything.&lt;/p&gt;
 &lt;p&gt;RA4 paper architecture differs fundamentally from traditional black and white papers. The emulsion isn&amp;rsquo;t just gelatin with silver halides—it&amp;rsquo;s a complex multilayer structure:&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/layerstack.png&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/layerstack.png&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
     &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
     &lt;figcaption&gt; Taken from &lt;a href=&#34;https://asset.fujifilm.com/www/us/files/2020-02/9251484a0eda6ebb4b47cc6fec73173a/Fujicolor_Crystal_Archive_Type-CA-Data-Specs.pdf&#34; target=&#34;_blank&#34;&gt;Fujifilm Crystal Archive Datasheet&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -799,7 +896,7 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
 &lt;h2 id=&#34;the-imperfect-archive-trapped-chemistry-as-extended-reaction&#34;&gt;The Imperfect Archive: Trapped Chemistry as Extended Reaction&lt;/h2&gt;
 &lt;p&gt;The most striking effects emerged accidentally. Prints pulled from the chemistry and left to dry without complete rinsing continued evolving for hours, even days. The residual mordançage solution, trapped between partially separated layers, kept working. The yellow–green aureoles spreading across the prints weren&amp;rsquo;t stains—they were ongoing chemical reactions creating new chromogenic effects.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/012-RA4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/012-RA4Mordancage/ra_3c.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt; 
 &lt;p&gt;This presents an archival nightmare but an artistic opportunity. These prints exist in slow-motion transformation. The trapped chemistry creates effects impossible to achieve through controlled processing—colour clouds that seem to breathe, boundaries that shift depending on humidity, images that refuse to stabilise.&lt;/p&gt;
 &lt;p&gt;One could attempt to arrest these reactions through extensive washing, but something would be lost. The ongoing instability is part of the work&amp;rsquo;s meaning—photographs that refuse to be fixed, colours that won&amp;rsquo;t be contained, images actively decomposing and recomposing themselves.&lt;/p&gt;
@@ -829,17 +926,17 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
     
     <item>
       <title>011 · Kinetic Darkroom: When the Enlarger Moves Instead of the Camera</title>
-      <link>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</link>
+      <link>http://localhost:50172/notebook/011-kineticdarkroom/011-kineticdarkroom/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/011-kineticdarkroom/011-kineticdarkroom/</guid>
+      <guid>http://localhost:50172/notebook/011-kineticdarkroom/011-kineticdarkroom/</guid>
       <description>&lt;h1 id=&#34;kinetic-darkroom-when-the-enlarger-moves-instead-of-the-camera&#34;&gt;Kinetic Darkroom: When the Enlarger Moves Instead of the Camera&lt;/h1&gt;
 &lt;p&gt;These three prints come from the same negative—a straightforward street scene shot on scooters in bright daylight. The first is a straight print, capturing the scene as it was. The second fragments into parallel realities through lateral movement. The third dissolves into pure motion, figures bleeding into their own shadows.&lt;/p&gt;
 &lt;p&gt;This is intentional enlarger movement: the darkroom&amp;rsquo;s answer to ICM (intentional camera movement), executed not during capture but during printing. Same control over abstraction, entirely different physics.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_03.jpeg&#34; align=&#34;left&#34; width=&#34;295px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_02.jpeg&#34; align=&#34;left&#34; width=&#34;305px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_01.jpeg&#34; align=&#34;left&#34; width=&#34;305px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/011-KineticDarkroom/kd_03.jpeg&#34; align=&#34;left&#34; width=&#34;295px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/011-KineticDarkroom/kd_02.jpeg&#34; align=&#34;left&#34; width=&#34;305px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/011-KineticDarkroom/kd_01.jpeg&#34; align=&#34;left&#34; width=&#34;305px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
 &lt;p&gt;Same negative, different prints. Left - moving the paper to make multiple exposures. Right upper - regular print. Right lower - zooming out the enlarger head mid-exposure&lt;/p&gt;
@@ -856,8 +953,8 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
 &lt;p&gt;Lotte Jacobi took it further with her &amp;ldquo;Light Pictures&amp;rdquo; (1946-1951), using handheld torches covered in fabric, drawing with light directly onto photographic paper. Man Ray discovered that moving objects during photogram exposure created &amp;ldquo;ambiguous and refracted&amp;rdquo; qualities. Yet none of these pioneers documented systematic enlarger movement as a technique.&lt;/p&gt;
 &lt;p&gt;Jerry Uelsmann came closest to codifying kinetic darkroom work, though his method involved moving paper between multiple enlargers rather than moving the enlargers themselves. His setup—up to twelve enlargers loaded with different negatives—allowed complex composites through sequential exposure as he physically carried paper from station to station.&lt;/p&gt;
 &lt;figure class=&#34;inline end&#34; markdown&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_05.jpeg&#34; align=&#34;left&#34; width=&#34;296px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/011-KineticDarkroom/kd_04.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/011-KineticDarkroom/kd_05.jpeg&#34; align=&#34;left&#34; width=&#34;296px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/011-KineticDarkroom/kd_04.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;the-physics-of-projection-movement&#34;&gt;The Physics of Projection Movement&lt;/h2&gt;
@@ -936,16 +1033,16 @@ Imagine exhibitions where prints continue evolving throughout the show&#39;s run
     
     <item>
       <title>Entangled Shadows: Mordançage at the Edge of Coherence</title>
-      <link>http://localhost:1313/works/quantum_mordancage/</link>
+      <link>http://localhost:50172/works/quantum_mordancage/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/works/quantum_mordancage/</guid>
+      <guid>http://localhost:50172/works/quantum_mordancage/</guid>
       <description>&lt;h1 id=&#34;entangled-shadows-mordançage-at-the-edge-of-coherence&#34;&gt;Entangled Shadows: Mordançage at the Edge of Coherence&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt; · &lt;em&gt;Exhibition Series&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Medium:&lt;/strong&gt; Mordançage and lith printing on photographic paper&lt;br&gt;
 &lt;strong&gt;Dimensions:&lt;/strong&gt; Variable, approximately 20 works&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_0.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_0.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -953,7 +1050,7 @@ A unique artistic exploration transforming photographs of quantum systems into v
 &lt;hr&gt;
 &lt;h2 id=&#34;exhibition-history&#34;&gt;Exhibition History&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_10.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_10.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;strong&gt;ROTLICHT Festival 2025&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Atelierhaus, Academy of Fine Arts Vienna, Austria&lt;/strong&gt; · &lt;em&gt;November 21-30, 2025&lt;/em&gt;&lt;br&gt;
@@ -988,39 +1085,39 @@ Winner of the international Open Call for the main exhibition at ROTLICHT Festiv
 &lt;h2 id=&#34;related-works&#34;&gt;Related Works&lt;/h2&gt;
 &lt;p&gt;This series connects to broader themes explored in my practice:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/beneath-the-surface/&#34;&gt;Beneath the Surface&lt;/a&gt; - Consumer spaces through mordançage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Print publication expanding on these themes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/experiments/&#34;&gt;Experiments: Mordançage&lt;/a&gt; - Ongoing technical explorations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/beneath-the-surface/&#34;&gt;Beneath the Surface&lt;/a&gt; - Consumer spaces through mordançage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Print publication expanding on these themes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/experiments/&#34;&gt;Experiments: Mordançage&lt;/a&gt; - Ongoing technical explorations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;For more information about this work or inquiries about exhibitions, please &lt;a href=&#34;mailto:contact@jordensenior.com&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_11.jpeg&#34; align=&#34;left&#34; width=&#34;625px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_8.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_4.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_3.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_11.jpeg&#34; align=&#34;left&#34; width=&#34;625px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_8.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_4.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_3.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>010 · Sabattier in the City of Lights</title>
-      <link>http://localhost:1313/experiments/010-sabattier/010-sabattierincityoflights/</link>
+      <link>http://localhost:50172/notebook/010-sabattier/010-sabattierincityoflights/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/010-sabattier/010-sabattierincityoflights/</guid>
+      <guid>http://localhost:50172/notebook/010-sabattier/010-sabattierincityoflights/</guid>
       <description>&lt;h1 id=&#34;sabattier-in-the-city-of-lights&#34;&gt;Sabattier in the City of Lights&lt;/h1&gt;
 &lt;p&gt;One of the great privileges of my work in quantum hardware is the opportunity to travel. This past year, a research trip brought me to Paris, and I brought my camera along to capture the city between conference sessions and lab visits. When I returned to the darkroom, I found myself drawn to experimenting with these Parisian images through the Sabattier effect.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 There&#39;s something fitting, perhaps even inevitable, about applying the Sabattier effect to photographs of Paris. A city famous for its light seemed to call for a process that uses light against itself—where a controlled re-exposure during development creates those characteristic tonal reversals and glowing edge effects. If Paris celebrates illumination, Sabattier subverts it.
 &lt;h2 id=&#34;the-history-of-an-accident&#34;&gt;The History of an Accident&lt;/h2&gt;
 &lt;p&gt;The Sabattier effect has one of photography&amp;rsquo;s most fitting origin stories: it was discovered repeatedly, almost always by accident. As far as I can tell, the phenomenon was first described in print by H. de la Blanchère in 1859, then again in 1860 by multiple researchers including L.M. Rutherford, C.A. Seely, and Count Schouwaloff. French zoologist Armand Sabatier published work on the process in 1860 and correctly described the phenomenon in 1862, though he couldn&amp;rsquo;t explain why it occurred. His name was misspelled with a double &amp;ldquo;t&amp;rdquo; in subsequent literature, which is why we now call it the &amp;ldquo;Sabattier effect&amp;rdquo; rather than &amp;ldquo;Sabatier effect&amp;rdquo;.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_8.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_8.jpeg&#34; align=&#34;right&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Throughout the 19th century, the effect was &amp;ldquo;discovered&amp;rdquo; many times by many photographers, as it tends to occur whenever a light is switched on inadvertently in the darkroom while a film or print is being developed. The technique remained largely a curiosity until Man Ray perfected it in the 1930s, reportedly after fellow artist Lee Miller accidentally exposed his film in the darkroom (coincidentally, Lee Miller was also the inspiration for Lee Smith in the recent Civil War movie). Man Ray quickly adopted the technique as a means to &amp;ldquo;escape from banality,&amp;rdquo; transforming darkroom accidents into intentional artistic practice, and to this date, is perhaps the most famous practitioner.&lt;/p&gt;
@@ -1029,7 +1126,7 @@ There&#39;s something fitting, perhaps even inevitable, about applying the Sabat
 &lt;h2 id=&#34;the-chemistry-of-reversal&#34;&gt;The Chemistry of Reversal&lt;/h2&gt;
 &lt;p&gt;Understanding what happens during Sabattier requires looking at the behavior of silver halide crystals. When photographic paper is first exposed in an enlarger, light strikes silver halide molecules, creating latent image centers—essentially activation sites that mark where silver will form during development. During normal development, these exposed centers transform into metallic silver while the developer simultaneously eliminates the centers of remaining unexposed silver halides.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_1.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_1.jpeg&#34; align=&#34;left&#34; width=&#34;280px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The magic happens with the second exposure. When the partially developed print is flashed with light while still in the developer, the remaining unexposed silver halides—those that would normally stay clear—suddenly become exposed. These newly formed silver bodies are much larger than the silver centers formed during the first exposure, and they overpower them, causing tone reversal. Dark areas that were heavily developed remain relatively unchanged, while lighter areas that retained more unexposed silver halides undergo dramatic transformation.&lt;/p&gt;
@@ -1037,45 +1134,45 @@ There&#39;s something fitting, perhaps even inevitable, about applying the Sabat
 &lt;h2 id=&#34;why-sabattier-for-paris&#34;&gt;Why Sabattier for Paris&lt;/h2&gt;
 &lt;p&gt;Beyond the poetic connection between Paris as the City of Lights and a technique built on light intervention, there&amp;rsquo;s something conceptually appropriate about using Sabattier for this particular city. Paris isn&amp;rsquo;t just luminous—it&amp;rsquo;s a city of excess. Too rich in history, too dense with monuments, too saturated with cultural significance. The Sabattier process, which fundamentally involves &lt;em&gt;too much&lt;/em&gt; light, mirrors this overwhelming quality. Just as Sabattier embraces surplus light to create new forms, working with Paris photographs through this technique allows one to engage with the city&amp;rsquo;s overwhelming nature productively.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_2.jpeg&#34; align=&#34;right&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_2.jpeg&#34; align=&#34;right&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 I shot these images on a mix of film during walks through the city—mostly Kodak Double-X for these particular photographs—capturing early morning light along the Seine, the geometric patterns of Parisian architecture, metro stations emptied of crowds. They began as straightforward documentary photographs, the kind of images any photographer might make while exploring an iconic city. The transformation happened later, in the darkroom.
 &lt;h2 id=&#34;technical-approach-and-precise-control&#34;&gt;Technical Approach and Precise Control&lt;/h2&gt;
 &lt;p&gt;The Sabattier process rewards experimentation, but I wanted more precision than most historical accounts describe. I developed the prints in Adox chemistry, and rather than using a simple flash or room light, I performed the second exposure using a second enlarger. This approach allowed me precise control over both the timing and aperture—essentially controlling exactly how much light was introduced during the critical moment.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_4.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 My technique involved removing the partially developed prints from the developer tray and placing them in a dry tray for the second exposure, before resubmerging them in the developer. This prevented unwanted bubbling or chemical dilution during the flash exposure and gave me better control over the uniformity of the second exposure. The enlarger setup also meant I could vary the intensity by adjusting the aperture rather than relying on distance or timing alone.
 &lt;h2 id=&#34;from-street-photography-to-chemical-intervention&#34;&gt;From Street Photography to Chemical Intervention&lt;/h2&gt;
 &lt;p&gt;Not every print succeeded. Many ended up in the reject pile—too muddy, too chaotic, or simply uninteresting. But the successful ones revealed Paris in ways I hadn&amp;rsquo;t anticipated while standing on those streets with my camera. Architectural lines gained glowing halos from the Mackie line effect. The familiar cityscape became simultaneously itself and its negative, existing in an ambiguous space between light and dark.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_5.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_5.jpeg&#34; align=&#34;right&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;What emerges isn&amp;rsquo;t Paris as tourists see it, but Paris reimagined through chemical intervention—a city of lights transformed by light itself. The process doesn&amp;rsquo;t just depict the city&amp;rsquo;s luminosity; it performs an operation on it, pushing photographic materials beyond their intended limits to reveal something unexpected.&lt;/p&gt;
 &lt;h2 id=&#34;light-beyond-documentation&#34;&gt;Light Beyond Documentation&lt;/h2&gt;
 &lt;p&gt;These Sabattier prints don&amp;rsquo;t document Paris so much as &lt;em&gt;interpret&lt;/em&gt; the experience of being there. They capture something about the city&amp;rsquo;s relationship with light, but also something about the photographer&amp;rsquo;s relationship with both—the way travel compresses experience, the way darkroom work extends it, the way experimental processes can uncover dimensions invisible to straight photography.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_3.jpeg&#34; align=&#34;left&#34; width=&#34;350px&#34; style=&#34;margin:10px;&#34; alt=&#34;Sabattier print&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The technique that Man Ray adopted to &amp;ldquo;escape from banality&amp;rdquo; in the 1930s still serves that purpose today. Paris will always be the City of Lights. Through Sabattier—a process born from accidents and perfected through intention—these photographs take the city&amp;rsquo;s luminous reputation and push it through one more transformation in the darkness of the darkroom.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_10.jpeg&#34; align=&#34;left&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_7.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/010-Sabattier/paris_saba_12.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_10.jpeg&#34; align=&#34;left&#34; width=&#34;290px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_7.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/010-Sabattier/paris_saba_12.jpeg&#34; align=&#34;right&#34; width=&#34;315px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>008 · Re-exhibiting at Pimiö 25</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/008-reexhibiting/</link>
+      <link>http://localhost:50172/notebook/005-008-beneaththesurface/008-reexhibiting/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/008-reexhibiting/</guid>
+      <guid>http://localhost:50172/notebook/005-008-beneaththesurface/008-reexhibiting/</guid>
       <description>&lt;h1 id=&#34;re-exhibiting-under-the-surface-new-contexts-at-pimiö-25&#34;&gt;Re-exhibiting Under the Surface: New Contexts at Pimiö 25&lt;/h1&gt;
 &lt;p&gt;This month, a selection of my mordançage works finds new life in the Pimiö’25 group exhibition at Galleria West, Helsinki. Returning to these prints in a different space and format has sparked fresh perspectives—both in terms of what I show and how the work interacts with viewers and fellow artists.&lt;/p&gt;
 &lt;h2 id=&#34;re-exhibiting-in-a-new-context&#34;&gt;Re-exhibiting in a New Context&lt;/h2&gt;
@@ -1084,14 +1181,14 @@ My technique involved removing the partially developed prints from the developer
 &lt;h2 id=&#34;selecting-the-prints&#34;&gt;Selecting the Prints&lt;/h2&gt;
 &lt;p&gt;In the original exhibition, the works unfolded across four walls within a space devoted solely to my practice, allowing the prints to dialogue deeply with each other around a common theme and narrative.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/kaapeli_pileofprints.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Pile of Prints ready to be hung&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/kaapeli_pileofprints.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Pile of Prints ready to be hung&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;For Pimiö’25, I had to reduce that field significantly—down to a single wall—shaping a tighter, more focused selection. This shift also meant moving from a solo environment to sharing space with a broad range of analog and experimental artists. The prints no longer speak only to each other but also engage in a dynamic conversation with very different approaches, subjects, and techniques.&lt;/p&gt;
 &lt;p&gt;Selecting which works to bring into this new setting involved balancing cohesion within my own story while considering how they would resonate alongside diverse practices.&lt;/p&gt;
 &lt;h2 id=&#34;adapting-format-and-layout&#34;&gt;Adapting Format and Layout&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/kaapeli_wall.jpeg&#34; align=&#34;right&#34; width=&#34;320px&#34; style=&#34;margin:10px;&#34; alt=&#34;Prints hung without frames&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/kaapeli_wall.jpeg&#34; align=&#34;right&#34; width=&#34;320px&#34; style=&#34;margin:10px;&#34; alt=&#34;Prints hung without frames&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Unlike the original solo exhibition, where works were displayed on both walls and tables, all pieces in Pimiö’25 are hung exclusively on walls.&lt;/p&gt;
@@ -1110,15 +1207,15 @@ My technique involved removing the partially developed prints from the developer
     
     <item>
       <title>007 · Time, Speed, and Improvisation</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/007-underpressure/</link>
+      <link>http://localhost:50172/notebook/005-008-beneaththesurface/007-underpressure/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/007-underpressure/</guid>
+      <guid>http://localhost:50172/notebook/005-008-beneaththesurface/007-underpressure/</guid>
       <description>&lt;h1 id=&#34;time-speed-and-improvisation-making-under-pressure-at-art-for-all&#34;&gt;Time, Speed, and Improvisation: Making Under Pressure at Art for All&lt;/h1&gt;
 &lt;p&gt;The Art for All festival demanded an intense burst of creation. While I&amp;rsquo;m naturally quite prolific in the darkroom, often generating creative bursts with many prints in a session, this project pushed that approach to an entirely different level. In about a week, I shot two rolls of film at the mall, developed them, printed around 50 images, mordançaged my favorites, framed, and installed everything. The compressed timeline forced me to embrace risk, chance, and improvisation more deeply than usual.&lt;/p&gt;
 &lt;h2 id=&#34;under-pressure-when-natural-energy-meets-necessity&#34;&gt;Under Pressure: When Natural Energy Meets Necessity&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_developing.jpeg&#34; align=&#34;left&#34; width=&#34;270px&#34; style=&#34;margin:16px;&#34; alt=&#34;Negatives developing&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_developing.jpeg&#34; align=&#34;left&#34; width=&#34;270px&#34; style=&#34;margin:16px;&#34; alt=&#34;Negatives developing&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;There&amp;rsquo;s a reason &amp;ldquo;Under Pressure&amp;rdquo; feels like the perfect soundtrack to this experience—sometimes the most direct description is the most accurate. Working literally under pressure in a dead mall space, surrounded by empty storefronts and the remnants of consumer culture, I found myself collaborating with forces beyond my control: the unpredictable mordançage process, scavenged framing materials, impossible deadlines. Like Queen and Bowie&amp;rsquo;s exploration of finding something beautiful despite crushing external forces, this project became about discovering what emerges when your natural creative process gets amplified by necessity.&lt;/p&gt;
@@ -1126,7 +1223,7 @@ My technique involved removing the partially developed prints from the developer
 &lt;/blockquote&gt;
 &lt;p&gt;From just two rolls of film, I made about 50 prints—far beyond my usual experimental bursts. This volume served multiple purposes: selecting favorites, ensuring I had backups for additional mordançage treatments if needed, but most importantly, it allowed the narrative to emerge organically during the printing process itself. I was discovering what the images were trying to say as I worked, understanding which ones wanted to be paired together, how different treatments might serve the evolving story. About 20 prints ultimately received the slow, careful mordançage treatment, chosen not just for their individual merit but for how they contributed to the larger conversation happening across the room.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Prints Drying&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Prints Drying&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The &amp;ldquo;people on streets&amp;rdquo; weren&amp;rsquo;t shoppers anymore, but the traces of lives and commerce embedded in the spaces I was photographing, while I raced to transform those images into something that could activate an entire room with roughly 20 works—about 10 on the walls and 10 more on tables.&lt;/p&gt;
@@ -1136,7 +1233,7 @@ My technique involved removing the partially developed prints from the developer
 &lt;h2 id=&#34;the-clock-as-creative-catalyst&#34;&gt;The Clock as Creative Catalyst&lt;/h2&gt;
 &lt;p&gt;The pressure of the deadline pressed down heavily—echoing the song&amp;rsquo;s opening: &amp;ldquo;Pressure pushing down on me, pressing down on you.&amp;rdquo;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_drying2.jpeg&#34; align=&#34;right&#34; width=&#34;310px&#34; style=&#34;margin:10px;&#34; alt=&#34;Prints drying&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_drying2.jpeg&#34; align=&#34;right&#34; width=&#34;310px&#34; style=&#34;margin:10px;&#34; alt=&#34;Prints drying&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;This tension sharpened every decision in the darkroom. Each print had to matter. Every mordançage carried risk and intention. Yet rather than stalling progress, this pressure honed my focus and opened paths to unexpected creative discoveries. 
 &lt;p&gt;Working with analog materials under such constraints altered my usual working rhythm. There was little room to pause or second-guess. Mistakes shifted from obstacles into opportunities—sometimes embraced, sometimes repurposed. Time itself became a tactile element influencing the work&amp;rsquo;s visual and conceptual makeup.&lt;/p&gt;
@@ -1149,7 +1246,7 @@ My technique involved removing the partially developed prints from the developer
 &lt;p&gt;This experience showed me that time isn&amp;rsquo;t just a limitation—it&amp;rsquo;s a creative force in its own right, shaping both the material and conceptual fabric of art. Improvisation emerged not as a fallback but as a powerful method of discovery and fresh insight. The project embodied the tension at the heart of &amp;ldquo;Under Pressure&amp;rdquo;: finding grace and meaning despite impossible circumstances, creating something lasting while racing against the clock in spaces abandoned by commerce.&lt;/p&gt;
 &lt;p&gt;Moving forward, I&amp;rsquo;m excited to explore how this tension between speed and contemplation, between natural creative momentum and external pressure, continues to inform my work. The dead mall may have been empty of shoppers, but it was full of creative possibility—a space where pressure and improvisation transformed constraint into breakthrough. Sometimes the most direct path to discovery is through the crucible of impossible deadlines and imperfect materials, where the only option is to trust the process and let the work become what it needs to be.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:20px;&#34; alt=&#34;Hung Prints in Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:20px;&#34; alt=&#34;Hung Prints in Gallery&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
@@ -1157,10 +1254,10 @@ My technique involved removing the partially developed prints from the developer
     
     <item>
       <title>Beneath the Surface</title>
-      <link>http://localhost:1313/works/beneath-the-surface/</link>
+      <link>http://localhost:50172/works/beneath-the-surface/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/works/beneath-the-surface/</guid>
+      <guid>http://localhost:50172/works/beneath-the-surface/</guid>
       <description>&lt;h1 id=&#34;beneath-the-surface&#34;&gt;Beneath the Surface&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt; · &lt;em&gt;Exhibition Series&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Medium:&lt;/strong&gt; Mordançage photography on photographic paper, mixed media&lt;br&gt;
@@ -1177,19 +1274,19 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;p&gt;The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.&lt;/p&gt;
 &lt;div class=&#34;gallery-grid&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg&#34; alt=&#34;Installation view at Art for All Festival&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg&#34; alt=&#34;Installation view at Art for All Festival&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Installation view showing the full gallery space&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; alt=&#34;Wall installation detail&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; alt=&#34;Wall installation detail&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Wall-mounted works showing mordançage treatments&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg&#34; alt=&#34;Gallery wall with multiple works&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg&#34; alt=&#34;Gallery wall with multiple works&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Multiple works creating visual dialogue across the space&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg&#34; alt=&#34;Table installation with prints&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg&#34; alt=&#34;Table installation with prints&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Table installation&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -1205,7 +1302,7 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;li&gt;&lt;strong&gt;Day 5-6:&lt;/strong&gt; Framing and installation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg&#34; alt=&#34;Prints drying in studio&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg&#34; alt=&#34;Prints drying in studio&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Prints drying during the intensive production period&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h3 id=&#34;technical-notes&#34;&gt;Technical Notes&lt;/h3&gt;
@@ -1220,19 +1317,19 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;h2 id=&#34;documentation-and-reception&#34;&gt;Documentation and Reception&lt;/h2&gt;
 &lt;p&gt;The work was documented extensively during both production and exhibition phases. The intense timeline and alternative venue contributed to strong engagement from festival audiences, many of whom were experiencing mordançage processes for the first time.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_developing.jpeg&#34; alt=&#34;Film development process&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_developing.jpeg&#34; alt=&#34;Film development process&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Behind-the-scenes documentation of the film development process&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg&#34; align=&#34;center&#34; width=&#34;630px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg&#34; align=&#34;center&#34; width=&#34;630px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;hr&gt;
 &lt;br&gt;
@@ -1240,8 +1337,8 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;h2 id=&#34;related-works&#34;&gt;Related Works&lt;/h2&gt;
 &lt;p&gt;This series connects to broader themes explored in my practice:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;Experiments: 005 - Beneath the Surface&lt;/a&gt; - Series of blog posts about the project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Conceptual expansion into print media&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;Experiments: 005 - Beneath the Surface&lt;/a&gt; - Series of blog posts about the project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Conceptual expansion into print media&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;For more information about this work or inquiries about exhibitions, please &lt;a href=&#34;mailto:contact@jordensenior.com&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
@@ -1250,23 +1347,23 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
     
     <item>
       <title>006 · Hanging in the Mall</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/006-hanginginthemall/</link>
+      <link>http://localhost:50172/notebook/005-008-beneaththesurface/006-hanginginthemall/</link>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/006-hanginginthemall/</guid>
+      <guid>http://localhost:50172/notebook/005-008-beneaththesurface/006-hanginginthemall/</guid>
       <description>&lt;h1 id=&#34;hanging-in-the-mall-exhibiting-fragile-prints-in-easton-hansakäytävä&#34;&gt;Hanging in the Mall: Exhibiting Fragile Prints in Easton Hansakäytävä&lt;/h1&gt;
-&lt;p&gt;Following from &lt;a href=&#34;http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;the introduction to the series and the creation of the mordançage prints&lt;/a&gt;, the next crucial phase was bringing these fragile works into the physical space of Easton Hansakäytävä for the Art for All festival.&lt;/p&gt;
+&lt;p&gt;Following from &lt;a href=&#34;http://localhost:50172/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;the introduction to the series and the creation of the mordançage prints&lt;/a&gt;, the next crucial phase was bringing these fragile works into the physical space of Easton Hansakäytävä for the Art for All festival.&lt;/p&gt;
 &lt;h2 id=&#34;sourcing-and-assembling-materials&#34;&gt;Sourcing and Assembling Materials&lt;/h2&gt;
 &lt;p&gt;As detailed in the first post, the frames came from the local SPR Kontti thrift outlet, with passepartouts, fishing wire, nails, pins, and paper labels all sourced from shops within the mall. This patchwork of scavenged materials became part of the exhibition’s narrative—improvised, resourceful, and grounded in place.&lt;/p&gt;
 &lt;h2 id=&#34;installation-process-and-challenges&#34;&gt;Installation Process and Challenges&lt;/h2&gt;
 &lt;p&gt;Installing delicate mordançage prints in a mall setting came with its own unique hurdles. Unlike a darkroom or professional gallery, I had no access to standard framing tools or ideal materials. For instance, a cardboard box doubled as a cutting board since I lacked a proper self-healing mat. Passepartout cutting relied on a simple craft knife found at a hardware store, and there were no leveling devices to ensure perfectly straight hangs.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg&#34; align=&#34;left&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Gallery&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The time pressure made things even more intense—some prints were still drying when framing began, demanding speed over precision. The whole process required constant improvisation, balancing care for fragile prints with the reality of limited tools, materials, and time. This constraint-driven creativity became part of the exhibition’s spirit, mirroring the themes of vulnerability and making do.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;diverse-presentations&#34;&gt;Diverse Presentations&lt;/h2&gt;
@@ -1278,14 +1375,14 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;p&gt;The installation’s quiet fragility contrasted with the brisk commercial bustle of Easton. The exhibition unfolded inside a former office space, once a book club discussion room — a place of gathering and conversation, now transformed into a site for visual dialogue. The hum of shoppers and ordinary mall life filtered in, creating spontaneous moments of connection, with shifting reflections and textures brought alive in the unforgiving fluorescent lighting.&lt;/p&gt;
 &lt;p&gt;Large-format digital reproductions acted as bold invitations from the corridor, bringing visitors in. Additional digital prints inside highlighted how much detail and presence is lost in translation from physical print to high-res reproduction, silently commenting on themes of presence and absence.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Gallery wall&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Gallery wall&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;experiments-with-display-and-interaction&#34;&gt;Experiments with Display and Interaction&lt;/h2&gt;
 &lt;p&gt;In addition to prints on walls and tables, I experimented with suspending photos on the ceiling—actually images captured as reflections on the mall corridor’s ceiling, a conceptual nod to surfaces above us often overlooked. Unfortunately, this subtle gesture went mostly unnoticed; very few visitors looked up. Perhaps placing a mirror would have helped draw eyes upward and completed the experience.&lt;/p&gt;
 &lt;p&gt;I also hoped visitors would naturally pick up and engage with the unframed prints laid out on tables, inviting a tactile, intimate encounter with the photographic material. Yet, most were far more comfortable handling the smaller framed 4x5” prints instead. This could be a reflection of cultural conditioning—people tend to perceive framed objects as ‘complete’ artworks and unframed photos as less formal or vulnerable, thus hesitating to touch.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Fortunately, as I was present during most of the festival, I could encourage and guide visitors toward more interactive appreciation, emphasizing the materiality and process behind the work. This approach aligns with the practice of artists like Daido Moriyama, who deliberately place unframed photos in exhibitions to explore how format influences viewers’ engagement.&lt;/p&gt;
@@ -1304,15 +1401,15 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
     
     <item>
       <title>005 · Beneath the Surface</title>
-      <link>http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/</link>
+      <link>http://localhost:50172/notebook/005-008-beneaththesurface/005-beneaththesurface/</link>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/</guid>
+      <guid>http://localhost:50172/notebook/005-008-beneaththesurface/005-beneaththesurface/</guid>
       <description>&lt;h1 id=&#34;beneath-the-surface-mordançage-prints-for-art-for-all&#34;&gt;Beneath the Surface: Mordançage Prints for Art for All&lt;/h1&gt;
 &lt;p&gt;Exhibiting fragile, alternative darkroom prints in a bustling shopping mall is a kind of quiet subversion. For Art for All’s “Success &amp;amp; Glory” festival at Easton Hansakäytävä, I set out to create photographs of the mall itself—its passageways, materials, overlooked corners—and transform those images using mordançage, a process that destabilizes photographic surface and exposes hidden structure.
 &lt;br&gt;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle1.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle1.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Gallery&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;the-one-week-challenge&#34;&gt;The One-Week Challenge&lt;/h2&gt;
@@ -1320,14 +1417,14 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;br&gt;
 &lt;h2 id=&#34;making-with-found-and-local-materials&#34;&gt;Making With Found and Local Materials&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_coolman.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_coolman.jpeg&#34; align=&#34;left&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Frames were sourced from the local SPR Kontti, Finnish Red Cross’s thrift outlet, while passepartouts, fishing wire, nails, pins for hanging, and paper for labels came from nearby stores in the mall. And yes, powering through this frenzied week required serious fuel—a heartfelt shout-out to the awesome matcha from Matcha Crew, which kept the caffeine jitters just about balanced with zen calm. Definitely the unofficial elixir of mordançage marathons.&lt;/p&gt;
 &lt;p&gt;The exhibition took place in an old office space within Easton mall, which reportedly once served as a book club discussion room.
 Apparently, people used to gather there to debate books at length—though nowadays, who even reads anymore? Maybe the room awaits its quiet resurrection by new readers or perhaps just naps.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_peeloff.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_peeloff.jpeg&#34; align=&#34;right&#34; width=&#34;250px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery table&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;mordançage-process&#34;&gt;Mordançage Process&lt;/h2&gt;
@@ -1345,28 +1442,28 @@ Darkroom processes like mordançage are about timing, risk, and the impossibilit
 &lt;figure&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg&#34; align=&#34;center&#34; width=&#34;630px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg&#34; align=&#34;center&#34; width=&#34;630px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>004 · Quantum Mordençage</title>
-      <link>http://localhost:1313/experiments/004-quantummordencagezine/004-quantummordencage/</link>
+      <link>http://localhost:50172/notebook/004-quantummordencagezine/004-quantummordencage/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/004-quantummordencagezine/004-quantummordencage/</guid>
+      <guid>http://localhost:50172/notebook/004-quantummordencagezine/004-quantummordencage/</guid>
       <description>&lt;h1 id=&#34;quantum-mordançage-when-chemistry-meets-coherence&#34;&gt;Quantum Mordançage: When Chemistry Meets Coherence&lt;/h1&gt;
 &lt;p&gt;Sometimes you have to break things to see what&amp;rsquo;s underneath. In quantum computing, we spend all our time trying to maintain coherence—keeping qubits isolated, stable, controlled. But what if instead of preserving that delicate quantum state, you deliberately disrupted it? What if the disruption itself could reveal something about quantum behavior that our instruments miss?&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s the premise behind my latest project: photographing quantum computing hardware, then attacking those photographs with mordançage until the emulsion buckles and lifts, searching for traces of quantum coherence in the chemical chaos.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Folded Zine&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg&#34; align=&#34;center&#34; width=&#34;600px&#34; style=&#34;margin:16px;&#34; alt=&#34;Folded Zine&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;the-mad-scientist-proposition&#34;&gt;The mad scientist proposition&lt;/h2&gt;
@@ -1386,7 +1483,7 @@ Darkroom processes like mordançage are about timing, risk, and the impossibilit
 &lt;p&gt;The time-based series shows the same image at different stages of chemical intervention: 60 seconds, 120 seconds, 180 seconds, suggesting the quantum decay emerging and escalating with time (of course, this to be compared with the real qubit decay times in the order of microseconds)&lt;/p&gt;
 &lt;h2 id=&#34;from-darkroom-to-risograph&#34;&gt;From darkroom to Risograph&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:16px;&#34; alt=&#34;Folded Zine&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:16px;&#34; alt=&#34;Folded Zine&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The original mordançage prints are unique objects—you can&amp;rsquo;t reproduce that specific buckling, that exact crystallization pattern. But I wanted to share the work, make it distributable. Enter Risograph printing.&lt;/p&gt;
@@ -1400,7 +1497,7 @@ Darkroom processes like mordançage are about timing, risk, and the impossibilit
 &lt;h2 id=&#34;the-zine-as-quantum-object&#34;&gt;The zine as quantum object&lt;/h2&gt;
 &lt;p&gt;The final form: an zine using &amp;ldquo;magic&amp;rdquo; folding— folded and cut to create a 8-page zine from a single A3 sheet.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:16px;&#34; alt=&#34;Folded Zine&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:16px;&#34; alt=&#34;Folded Zine&#34; /&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Inside: the time-series progression of mordançage destroying/revealing the quantum hardware. Lab notebook aesthetics—typewriter fonts, hand annotations, timestamps. The kind of documentation you&amp;rsquo;d find if someone was actually trying to photograph quantum states and slowly going mad from the impossibility.&lt;/p&gt;
@@ -1431,10 +1528,10 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
     
     <item>
       <title>001 · A Brief History of Mordençage</title>
-      <link>http://localhost:1313/experiments/001-mordencage/001-mordancage/</link>
+      <link>http://localhost:50172/notebook/001-mordencage/001-mordancage/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiments/001-mordencage/001-mordancage/</guid>
+      <guid>http://localhost:50172/notebook/001-mordencage/001-mordancage/</guid>
       <description>&lt;!--- ![Collapse](slide1.jpg) ---&gt; 
 &lt;h1 id=&#34;mordançage-the-chemistry-and-craft-of-photographic-emulsion-manipulation&#34;&gt;Mordançage: The Chemistry and Craft of Photographic Emulsion Manipulation&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;ve ever wanted to literally peel apart a photograph and rebuild it with your hands, mordançage might be the most fun way to do it. This historic alternative process doesn&amp;rsquo;t just alter images – it transforms them into three-dimensional objects through a dance of copper ions, hydrogen peroxide, and carefully controlled chaos.&lt;/p&gt;

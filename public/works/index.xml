@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Jorden Senior</title>
-    <link>http://localhost:1313/works/</link>
+    <link>http://localhost:50172/works/</link>
     <description>Recent content in Works on Jorden Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:50172/works/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Entangled Shadows: Mordançage at the Edge of Coherence</title>
-      <link>http://localhost:1313/works/quantum_mordancage/</link>
+      <link>http://localhost:50172/works/quantum_mordancage/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/works/quantum_mordancage/</guid>
+      <guid>http://localhost:50172/works/quantum_mordancage/</guid>
       <description>&lt;h1 id=&#34;entangled-shadows-mordançage-at-the-edge-of-coherence&#34;&gt;Entangled Shadows: Mordançage at the Edge of Coherence&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt; · &lt;em&gt;Exhibition Series&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Medium:&lt;/strong&gt; Mordançage and lith printing on photographic paper&lt;br&gt;
 &lt;strong&gt;Dimensions:&lt;/strong&gt; Variable, approximately 20 works&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_0.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_0.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;div style=&#34;clear:both;&#34;&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -31,7 +31,7 @@ A unique artistic exploration transforming photographs of quantum systems into v
 &lt;hr&gt;
 &lt;h2 id=&#34;exhibition-history&#34;&gt;Exhibition History&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_10.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_10.jpeg&#34; align=&#34;right&#34; width=&#34;600px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;strong&gt;ROTLICHT Festival 2025&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Atelierhaus, Academy of Fine Arts Vienna, Austria&lt;/strong&gt; · &lt;em&gt;November 21-30, 2025&lt;/em&gt;&lt;br&gt;
@@ -66,28 +66,28 @@ Winner of the international Open Call for the main exhibition at ROTLICHT Festiv
 &lt;h2 id=&#34;related-works&#34;&gt;Related Works&lt;/h2&gt;
 &lt;p&gt;This series connects to broader themes explored in my practice:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/beneath-the-surface/&#34;&gt;Beneath the Surface&lt;/a&gt; - Consumer spaces through mordançage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Print publication expanding on these themes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/experiments/&#34;&gt;Experiments: Mordançage&lt;/a&gt; - Ongoing technical explorations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/beneath-the-surface/&#34;&gt;Beneath the Surface&lt;/a&gt; - Consumer spaces through mordançage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Print publication expanding on these themes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/experiments/&#34;&gt;Experiments: Mordançage&lt;/a&gt; - Ongoing technical explorations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;For more information about this work or inquiries about exhibitions, please &lt;a href=&#34;mailto:contact@jordensenior.com&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_11.jpeg&#34; align=&#34;left&#34; width=&#34;625px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_8.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_4.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/works/exhibitions/rotlicht_3.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_11.jpeg&#34; align=&#34;left&#34; width=&#34;625px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_6.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_8.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_4.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/works/exhibitions/rotlicht_3.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>Beneath the Surface</title>
-      <link>http://localhost:1313/works/beneath-the-surface/</link>
+      <link>http://localhost:50172/works/beneath-the-surface/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/works/beneath-the-surface/</guid>
+      <guid>http://localhost:50172/works/beneath-the-surface/</guid>
       <description>&lt;h1 id=&#34;beneath-the-surface&#34;&gt;Beneath the Surface&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt; · &lt;em&gt;Exhibition Series&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Medium:&lt;/strong&gt; Mordançage photography on photographic paper, mixed media&lt;br&gt;
@@ -104,19 +104,19 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;p&gt;The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.&lt;/p&gt;
 &lt;div class=&#34;gallery-grid&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg&#34; alt=&#34;Installation view at Art for All Festival&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg&#34; alt=&#34;Installation view at Art for All Festival&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Installation view showing the full gallery space&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; alt=&#34;Wall installation detail&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg&#34; alt=&#34;Wall installation detail&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Wall-mounted works showing mordançage treatments&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg&#34; alt=&#34;Gallery wall with multiple works&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg&#34; alt=&#34;Gallery wall with multiple works&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Multiple works creating visual dialogue across the space&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg&#34; alt=&#34;Table installation with prints&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg&#34; alt=&#34;Table installation with prints&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Table installation&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -132,7 +132,7 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;li&gt;&lt;strong&gt;Day 5-6:&lt;/strong&gt; Framing and installation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg&#34; alt=&#34;Prints drying in studio&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_drying1.jpeg&#34; alt=&#34;Prints drying in studio&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Prints drying during the intensive production period&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h3 id=&#34;technical-notes&#34;&gt;Technical Notes&lt;/h3&gt;
@@ -147,19 +147,19 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;h2 id=&#34;documentation-and-reception&#34;&gt;Documentation and Reception&lt;/h2&gt;
 &lt;p&gt;The work was documented extensively during both production and exhibition phases. The intense timeline and alternative venue contributed to strong engagement from festival audiences, many of whom were experiencing mordançage processes for the first time.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_developing.jpeg&#34; alt=&#34;Film development process&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_developing.jpeg&#34; alt=&#34;Film development process&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Behind-the-scenes documentation of the film development process&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg&#34; align=&#34;center&#34; width=&#34;630px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg&#34; align=&#34;center&#34; width=&#34;630px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg&#34; align=&#34;right&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg&#34; align=&#34;left&#34; width=&#34;300px&#34; style=&#34;margin:10px;&#34; alt=&#34;Gallery&#34; /&gt;
 &lt;/figure&gt;
 &lt;hr&gt;
 &lt;br&gt;
@@ -167,8 +167,8 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;h2 id=&#34;related-works&#34;&gt;Related Works&lt;/h2&gt;
 &lt;p&gt;This series connects to broader themes explored in my practice:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;Experiments: 005 - Beneath the Surface&lt;/a&gt; - Series of blog posts about the project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Conceptual expansion into print media&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/experiments/005-008-beneaththesurface/005-beneaththesurface/&#34;&gt;Experiments: 005 - Beneath the Surface&lt;/a&gt; - Series of blog posts about the project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/quantum-mordencage-zine/&#34;&gt;Quantum Mordançage Zine&lt;/a&gt; - Conceptual expansion into print media&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;For more information about this work or inquiries about exhibitions, please &lt;a href=&#34;mailto:contact@jordensenior.com&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
@@ -177,10 +177,10 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
     
     <item>
       <title>Quantum Mordançage Zine</title>
-      <link>http://localhost:1313/works/quantum-mordencage-zine/</link>
+      <link>http://localhost:50172/works/quantum-mordencage-zine/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/works/quantum-mordencage-zine/</guid>
+      <guid>http://localhost:50172/works/quantum-mordencage-zine/</guid>
       <description>&lt;h1 id=&#34;quantum-mordançage-zine&#34;&gt;Quantum Mordançage Zine&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt; · &lt;em&gt;Limited Edition Artist&amp;rsquo;s Zine&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Medium:&lt;/strong&gt; Risograph printing, hand-folded&lt;br&gt;
@@ -199,15 +199,15 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;p&gt;The zine was produced using risograph printing at (If By Magic Oy)[https://ifbymagic.space/], chosen for its mechanical unpredictability that mirrors the chance elements in both quantum mechanics and mordançage chemistry.&lt;/p&gt;
 &lt;div class=&#34;gallery-grid&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/riso_inks.jpeg&#34; alt=&#34;Risograph printing inks&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/riso_inks.jpeg&#34; alt=&#34;Risograph printing inks&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Risograph inks used in the printing process&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/riso_drying.jpeg&#34; alt=&#34;Prints drying after risograph printing&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/riso_drying.jpeg&#34; alt=&#34;Prints drying after risograph printing&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Freshly printed sheets drying before folding&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/riso_drying2.jpeg&#34; alt=&#34;Additional drying documentation&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/riso_drying2.jpeg&#34; alt=&#34;Additional drying documentation&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Production documentation showing the printing process&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -215,15 +215,15 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;p&gt;Each zine is individually hand-folded, making every copy slightly unique despite being printed from the same masters. This manual process reinforces the handmade, alternative nature of the publication.&lt;/p&gt;
 &lt;div class=&#34;gallery-grid&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg&#34; alt=&#34;Initial folding stage&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg&#34; alt=&#34;Initial folding stage&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Beginning stages of the hand-folding process&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg&#34; alt=&#34;Folding process continuation&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg&#34; alt=&#34;Folding process continuation&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Continuing the folding sequence&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg&#34; alt=&#34;Completed folding&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg&#34; alt=&#34;Completed folding&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Final stages before completion&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -246,7 +246,7 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;li&gt;Events on alternative processes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/experiments/004-QuantumMordencageZine/stackofzines.jpeg&#34; alt=&#34;Completed zine editions&#34; /&gt;
+    &lt;img src=&#34;http://localhost:50172/experiments/004-QuantumMordencageZine/stackofzines.jpeg&#34; alt=&#34;Completed zine editions&#34; /&gt;
     &lt;figcaption&gt;&lt;em&gt;Finished edition ready for distribution through alternative networks&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;The publication has found audiences among both photographers interested in alternative processes and readers engaged with experimental photographic art.&lt;/p&gt;
@@ -261,8 +261,8 @@ Solo exhibition featuring approximately 20 mordançage prints installed in empty
 &lt;h2 id=&#34;related-works&#34;&gt;Related Works&lt;/h2&gt;
 &lt;p&gt;This publication connects to broader themes in my practice:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/works/beneath-the-surface/&#34;&gt;Beneath the Surface&lt;/a&gt; - Mordençage-based series&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/experiments/&#34;&gt;Experiments blog&lt;/a&gt; - Ongoing documentation of alternative process work&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/works/beneath-the-surface/&#34;&gt;Beneath the Surface&lt;/a&gt; - Mordençage-based series&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50172/experiments/&#34;&gt;Experiments blog&lt;/a&gt; - Ongoing documentation of alternative process work&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; For information about obtaining a copy or questions about the publication, please &lt;a href=&#34;mailto:contact@jordensenior.com&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;

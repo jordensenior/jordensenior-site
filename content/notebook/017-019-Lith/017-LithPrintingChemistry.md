@@ -3,12 +3,13 @@ title: "017 · Lith Printing I: The Chemistry of Chaos"
 # image: "/experiments/016-LithPrinting/lith_portrait_01.jpeg"
 description: "Understanding infectious development—the autocatalytic chemistry that makes lith printing unlike anything else in the darkroom"
 author: "Jorden Senior"
-date: "2025-12-29"
+date: "2025-12-27"
 tags: ["Lith Printing",]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
 aliases: ["lith-printing-chemistry"]
 toc: true
+live: false
 ---
 
 # Lith Printing I: The Chemistry of Chaos
@@ -20,7 +21,7 @@ The first time I watched a lith print develop, I thought something had gone wron
     <figcaption></figcaption>
 </figure>
 
-This was at [Mörk](https://www.mork.fi/) in Helsinki, during a workshop led by [Åsmund Lahaug](https://www.instagram.com/asmundlahaug/) as part of the [Nordic Analogue Network](https://www.nordicanalog.network/) residency programme. Åsmund had warned us: lith printing doesn't behave like conventional development. The chemistry follows different rules. But understanding those rules intellectually is one thing; watching them unfold in the tray is another entirely.
+This was at [Mörk](https://pimiotaiteilijat.fi/en/) in Helsinki, during a workshop led by [Åsmund Lahaug](https://www.instagram.com/aaklahaug/) as part of the [Nordic Analogue Network](https://www.nordicanalognetwork.com/) residency programme. Åsmund had warned us: lith printing doesn't behave like conventional development. The chemistry follows different rules. But understanding those rules intellectually is one thing; watching them unfold in the tray is another entirely.
 
 What I saw that afternoon—and what I've been exploring ever since—is a process that produces results impossible through any other means: creamy, grainless highlights sitting alongside high-contrast, textured shadows, warm colours emerging from black and white materials without toning, and a distinctive gritty aesthetic that feels simultaneously vintage and contemporary. The technique has become one of my most trusted ways of making prints, particularly using Moersch EasyLith chemistry with FomaTone 132 and FomaBrom 152—among the last papers still manufactured that will properly lith.
 
@@ -167,9 +168,9 @@ EMULSIVE. "A Practical Guide to Lith Printing." https://emulsive.org/articles/da
 
 ### Community and Network
 
-Nordic Analogue Network. https://www.nordicanalog.network/ [Darkroom exchange residency connecting Scandinavian analog communities.]
+Nordic Analogue Network. https://www.nordicanalognetwork.com/ [Darkroom exchange residency connecting Scandinavian analog communities.]
 
-Mörk (Finnish Darkroom Association). https://www.mork.fi/ [Community darkroom in Helsinki.]
+Mörk (Finnish Darkroom Association). https://pimiotaiteilijat.fi/en/ [Community darkroom in Helsinki.]
 
 Lith Printing Group (Facebook). [Active community for questions and print sharing.]
 
