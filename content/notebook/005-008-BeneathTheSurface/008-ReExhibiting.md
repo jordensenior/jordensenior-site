@@ -29,7 +29,7 @@ In contrast, the group exhibition at Pimiö’25 takes place in a traditional ga
 
 In the original exhibition, the works unfolded across four walls within a space devoted solely to my practice, allowing the prints to dialogue deeply with each other around a common theme and narrative. 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/kaapeli_pileofprints.jpeg" align="center" width="600px" style="margin:10px;" alt="Pile of Prints ready to be hung" />
+    <img src="/notebook/005-008-beneaththesurface/kaapeli_pileofprints.jpeg" align="center" width="600px" style="margin:10px;" alt="Pile of Prints ready to be hung" />
     <figcaption></figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Selecting which works to bring into this new setting involved balancing cohesion
 ## Adapting Format and Layout
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/kaapeli_wall.jpeg" align="right" width="320px" style="margin:10px;" alt="Prints hung without frames" />
+    <img src="/notebook/005-008-beneaththesurface/kaapeli_wall.jpeg" align="right" width="320px" style="margin:10px;" alt="Prints hung without frames" />
     <figcaption></figcaption>
 </figure>
 

@@ -20,9 +20,9 @@ This is intentional enlarger movement: the darkroom's answer to ICM (intentional
 
 
 <figure class="inline end" markdown>
-    <img src="/experiments/011-KineticDarkroom/kd_03.jpeg" align="left" width="295px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/011-KineticDarkroom/kd_02.jpeg" align="left" width="305px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/011-KineticDarkroom/kd_01.jpeg" align="left" width="305px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/011-kineticdarkroom/kd_03.jpeg" align="left" width="295px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/011-kineticdarkroom/kd_02.jpeg" align="left" width="305px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/011-kineticdarkroom/kd_01.jpeg" align="left" width="305px" style="margin:10px;" alt="Gallery" />
 </figure>
 <div style="clear:both;"></div>
 
@@ -54,8 +54,8 @@ Jerry Uelsmann came closest to codifying kinetic darkroom work, though his metho
 
 
 <figure class="inline end" markdown>
-    <img src="/experiments/011-KineticDarkroom/kd_05.jpeg" align="left" width="296px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/011-KineticDarkroom/kd_04.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/011-kineticdarkroom/kd_05.jpeg" align="left" width="296px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/011-kineticdarkroom/kd_04.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
 </figure>
 <div style="clear:both;"></div>
 

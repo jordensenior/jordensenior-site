@@ -18,7 +18,7 @@ toc: true
 Exhibiting fragile, alternative darkroom prints in a bustling shopping mall is a kind of quiet subversion. For Art for All’s “Success & Glory” festival at Easton Hansakäytävä, I set out to create photographs of the mall itself—its passageways, materials, overlooked corners—and transform those images using mordançage, a process that destabilizes photographic surface and exposes hidden structure.
 <br>
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_circle1.jpeg" align="center" width="600px" style="margin:16px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_circle1.jpeg" align="center" width="600px" style="margin:16px;" alt="Gallery" />
     <figcaption></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The schedule was ruthless: shoot, develop, mordançage, frame, and hang, all wit
 ## Making With Found and Local Materials
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_coolman.jpeg" align="left" width="250px" style="margin:10px;" alt="Gallery table" />
+    <img src="/notebook/005-008-beneaththesurface/afa_coolman.jpeg" align="left" width="250px" style="margin:10px;" alt="Gallery table" />
     <figcaption></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The exhibition took place in an old office space within Easton mall, which repor
 Apparently, people used to gather there to debate books at length—though nowadays, who even reads anymore? Maybe the room awaits its quiet resurrection by new readers or perhaps just naps.
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_peeloff.jpeg" align="right" width="250px" style="margin:10px;" alt="Gallery table" />
+    <img src="/notebook/005-008-beneaththesurface/afa_peeloff.jpeg" align="right" width="250px" style="margin:10px;" alt="Gallery table" />
     <figcaption></figcaption>
 </figure>
 
@@ -81,13 +81,13 @@ Darkroom processes like mordançage are about timing, risk, and the impossibilit
 </figure>
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_tunnel.jpeg" align="center" width="630px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_circle_colour.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_circle2.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_goblet.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_stairs.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_seeyou.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
-    <img src="/experiments/005-008-BeneathTheSurface/afa_hansasilta.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_tunnel.jpeg" align="center" width="630px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_circle_colour.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_circle2.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_goblet.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_stairs.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_seeyou.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_hansasilta.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
 </figure>
 
 

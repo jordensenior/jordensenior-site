@@ -1,6 +1,6 @@
 ---
 title: "018 · Lith Printing III: Materials, Workflow, and the Contemporary Printer"
-image: "/experiments/018-LithMaterials/fomatone_print_01.jpeg"
+image: "/notebook/018-LithMaterials/fomatone_print_01.jpeg"
 description: "Papers still available for lith printing in 2025, EasyLith chemistry, practical workflow, and finding community in the Nordic analog scene"
 author: "Jorden Senior"
 date: "2026-12-28"
@@ -16,7 +16,7 @@ toc: true
 The classic lith papers are gone. Sterling Lith, Forte Polywarmtone, Kodak Ektalure, the old Agfa Brovira—papers that defined the technique for decades—have all been discontinued. What remains is a short list of currently manufactured papers that still work, chemistry from a handful of dedicated suppliers, and a community of practitioners who share knowledge about batch variations, workarounds, and alternative approaches.
 
 <figure>
-    <img src="/experiments/018-LithMaterials/fomatone_print_01.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print on FomaTone 132" />
+    <img src="/notebook/018-LithMaterials/fomatone_print_01.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print on FomaTone 132" />
     <figcaption>FomaTone 132 remains one of the most reliable papers for lith printing in current production.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The colour palette runs from reddish-yellow highlights to greenish-black shadows
 A significant caveat: Foma's emulsion has changed over the years, and certain production batches have been problematic. Papers manufactured between approximately late 2022 and 2023 (various batch numbers in that period) were reported as unlithable or severely compromised—the emulsion changes apparently interfered with infectious development. The community tracked this through forums and social media, comparing batch numbers and results.
 
 <figure>
-    <img src="/experiments/018-LithMaterials/batch_numbers.jpeg" align="left" width="280px" style="margin:10px;" alt="Foma paper batch number location" />
+    <img src="/notebook/018-LithMaterials/batch_numbers.jpeg" align="left" width="280px" style="margin:10px;" alt="Foma paper batch number location" />
     <figcaption>Check batch numbers before purchasing Foma papers. Current batches (0796+) are reported as working properly.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ If you encounter old paper stock—at estate sales, darkroom closures, or forgot
 Moersch EasyLith, manufactured by Wolfgang Moersch's Moersch Photochemie in Germany, is the developer I use for virtually all my lith printing. It's a two-part formaldehyde-free concentrate that produces consistent results across different papers with minimal fuss.
 
 <figure>
-    <img src="/experiments/018-LithMaterials/easylith_kit.jpeg" align="right" width="280px" style="margin:10px;" alt="Moersch EasyLith kit" />
+    <img src="/notebook/018-LithMaterials/easylith_kit.jpeg" align="right" width="280px" style="margin:10px;" alt="Moersch EasyLith kit" />
     <figcaption>Moersch EasyLith: the pre-tuned two-part concentrate that handles most lith printing needs.</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ This baseline approach gets me in the correct range for first prints. Fine-tunin
 **Developer immersion:** Slide paper into developer face-down. After ten to fifteen seconds, turn face-up. Keep paper moving gently throughout development—continuous agitation isn't necessary, but periodic movement ensures even development.
 
 <figure>
-    <img src="/experiments/018-LithMaterials/development_stages.jpeg" align="left" width="350px" style="margin:10px;" alt="Lith development stages from induction to snatch" />
+    <img src="/notebook/018-LithMaterials/development_stages.jpeg" align="left" width="350px" style="margin:10px;" alt="Lith development stages from induction to snatch" />
     <figcaption>Development progresses through distinct phases: induction (no visible image), slow development (highlights and midtones emerge), and acceleration (shadows darken rapidly).</figcaption>
 </figure>
 
@@ -222,7 +222,7 @@ His technical documentation—available at moersch-photochemie.de—provides det
 ### Nordic Analogue Network and Mörk
 
 <figure>
-    <img src="/experiments/018-LithMaterials/mork_darkroom.jpeg" align="right" width="350px" style="margin:10px;" alt="Mörk darkroom in Helsinki" />
+    <img src="/notebook/018-LithMaterials/mork_darkroom.jpeg" align="right" width="350px" style="margin:10px;" alt="Mörk darkroom in Helsinki" />
     <figcaption>Mörk, operated by the Finnish Darkroom Association, provides community darkroom infrastructure in Helsinki.</figcaption>
 </figure>
 
@@ -259,7 +259,7 @@ The colour, first. Warm cream highlights against cool black shadows, achieved wi
 The texture. That characteristic pepper grain, the visible evidence of infectious development spreading through the emulsion. The prints have physical presence—not just tonality but surface, not just image but object.
 
 <figure>
-    <img src="/experiments/018-LithMaterials/final_print_display.jpeg" align="left" width="350px" style="margin:10px;" alt="Finished lith prints displayed" />
+    <img src="/notebook/018-LithMaterials/final_print_display.jpeg" align="left" width="350px" style="margin:10px;" alt="Finished lith prints displayed" />
     <figcaption></figcaption>
 </figure>
 

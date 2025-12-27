@@ -1,6 +1,6 @@
 ---
 title: "015 · The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry"
-# image: "/experiments/014-016-Chromoskedasic/chromo_4.jpeg"
+# image: "/notebook/014-016-chromoskedasic/chromo_4.jpeg"
 description: "The physics and chemistry behind chromoskedasic Sabattier printing—why silver nanoparticles produce colour through light scattering"
 author: "Jorden Senior"
 date: "2025-12-23"
@@ -27,7 +27,7 @@ Most photographers have encountered Rayleigh scattering, even if not by name—i
 But Rayleigh scattering applies only when particles are truly small—roughly less than one-tenth the wavelength of light. For visible wavelengths (approximately 400-700 nm), this means particles smaller than about 40-70 nm. Above this threshold, the physics changes fundamentally.
 
 <!-- <figure>
-    <img src="/experiments/014-ChromoskedasicScience/scattering_regimes.png" align="right" width="350px" style="margin:10px;" alt="Diagram showing Rayleigh vs Mie scattering regimes" />
+    <img src="/notebook/014-ChromoskedasicScience/scattering_regimes.png" align="right" width="350px" style="margin:10px;" alt="Diagram showing Rayleigh vs Mie scattering regimes" />
     <figcaption>Scattering behaviour depends on the ratio of particle diameter to wavelength. The Mie regime begins when particles approach the scale of visible light.</figcaption>
 </figure> -->
 
@@ -69,7 +69,7 @@ These ranges are approximate. In practice, particle shape, aggregation state, si
 The characteristic amber-bronze-gold palette of chromoskedasic prints reflects fundamental physics rather than arbitrary chemistry.
 
 <!-- <figure>
-    <img src="/experiments/014-ChromoskedasicScience/silver_plasmon_spectrum.png" align="left" width="300px" style="margin:10px;" alt="Plot showing how silver nanoparticle plasmon resonance shifts with particle size" />
+    <img src="/notebook/014-ChromoskedasicScience/silver_plasmon_spectrum.png" align="left" width="300px" style="margin:10px;" alt="Plot showing how silver nanoparticle plasmon resonance shifts with particle size" />
     <figcaption>Silver nanoparticle plasmon resonance red-shifts with increasing particle diameter. In gelatin, the shift is more pronounced than in aqueous solution.</figcaption>
 </figure> -->
 
@@ -215,7 +215,7 @@ In practice, I adjust colour primarily by controlling the ratio of stabilizer to
 ### The Silvering Phenomenon
 
 <!-- <figure>
-    <img src="/experiments/014-ChromoskedasicScience/silvering_detail.jpeg" align="right" width="280px" style="margin:10px;" alt="Detail showing silvered area of a chromoskedasic print" />
+    <img src="/notebook/014-ChromoskedasicScience/silvering_detail.jpeg" align="right" width="280px" style="margin:10px;" alt="Detail showing silvered area of a chromoskedasic print" />
     <figcaption>Silvering produces mirror-like metallic surfaces that shift colour with viewing angle—physically distinct from the coloured nanoparticle regions.</figcaption>
 </figure> -->
 

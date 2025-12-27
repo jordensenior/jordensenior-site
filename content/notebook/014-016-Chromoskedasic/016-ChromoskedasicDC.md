@@ -1,6 +1,6 @@
 ---
 title: "016 · Chromoskedasic DC: Colour Alchemy in the US Capital"
-# image: "/experiments/014-016-Chromoskedasic/chromo_3.jpeg"
+# image: "/notebook/014-016-chromoskedasic/chromo_3.jpeg"
 description: "Applying chromoskedasic Sabattier printing to photographs of Washington DC's Metro system and monuments—workflow, results, and lessons learned"
 author: "Jorden Senior"
 date: "2025-12-24"
@@ -17,7 +17,7 @@ toc: true
 The previous two posts laid the foundation: what chromoskedasic printing is, its history and lineage, and the physics and chemistry that enable colour formation from silver nanoparticles. Now we turn to practice. This post documents my experiments applying the technique to photographs from Washington DC—the workflow I developed, the successes and failures, and the lessons extracted from several dozen attempts.
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_3.jpeg" align="right" width="400px" style="margin:10px;" alt="Chromoskedasic print of DC Metro Platform" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_3.jpeg" align="right" width="400px" style="margin:10px;" alt="Chromoskedasic print of DC Metro Platform" />
     <figcaption></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The Washington Metro system, designed by architect Harry Weese and constructed b
 Weese's design established a distinctive visual vocabulary: coffered concrete vaults that widen toward the platforms, indirect lighting casting gradients across curved surfaces, dramatically long escalators connecting platform levels to the surface. The stations draw on brutalist precedents—raw concrete, expressed structure, monumental scale—while achieving an elegance unusual in public infrastructure. The coffered vault design, beyond its aesthetic impact, serves acoustic and structural functions, controlling reverberation while spanning wide platform areas without intermediate supports.
 
 <!-- <figure>
-    <img src="/experiments/015-ChromoskedasicDC/dc_platform.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro platform" />
+    <img src="/notebook/015-ChromoskedasicDC/dc_platform.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro platform" />
     <figcaption>The coffered vault structure creates strong geometric patterns that anchor the composition even as colours transform unpredictably.</figcaption>
 </figure> -->
 
@@ -145,7 +145,7 @@ Let me walk through specific images and their responses to treatment.
 ### The Escalator (Canopy Station)
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_2.jpeg" align="right" width="350px" style="margin:10px;" alt="Metro escalator chromoskedasic print" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_2.jpeg" align="right" width="350px" style="margin:10px;" alt="Metro escalator chromoskedasic print" />
     <figcaption></figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ The canopy area, predominantly highlight (sky through glass), took colour dramat
 The iconic Metro station composition: coffered concrete vault receding toward tunnel darkness, platforms flanking the tracks, a train visible in the tunnel approach. High contrast between illuminated ceiling panels and dark platform/tunnel areas.
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_3.jpeg" align="left" width="400px" style="margin:10px;" alt="Full platform chromoskedasic print" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_3.jpeg" align="left" width="400px" style="margin:10px;" alt="Full platform chromoskedasic print" />
     <figcaption></figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 ### The Washington Monument
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_1.jpeg" align="right" width="280px" style="margin:10px;" alt="Chromoskedasic print of Washington Monument" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_1.jpeg" align="right" width="280px" style="margin:10px;" alt="Chromoskedasic print of Washington Monument" />
     <figcaption></figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ Conceptually, I find the print compelling despite (or because of) these technica
 ### The Train
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_4.jpeg" align="left" width="400px" style="margin:10px;" alt="Chromoskedasic print of Metro train at platform" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_4.jpeg" align="left" width="400px" style="margin:10px;" alt="Chromoskedasic print of Metro train at platform" />
     <figcaption></figcaption>
 </figure>
 
@@ -275,7 +275,7 @@ Beyond technical process, what do these transformed images of Washington accompl
 The photographs began as documentation—record shots of architecture, transit infrastructure, civic monuments. Standard black and white captures of public spaces. The chromoskedasic treatment pushed them elsewhere: documentary became decorative, record became interpretation, photograph approached painting or printmaking in its relationship to subject.
 
 <!-- <figure>
-    <img src="/experiments/015-ChromoskedasicDC/final_group.jpeg" align="right" width="400px" style="margin:10px;" alt="Group of DC chromoskedasic prints displayed together" />
+    <img src="/notebook/015-ChromoskedasicDC/final_group.jpeg" align="right" width="400px" style="margin:10px;" alt="Group of DC chromoskedasic prints displayed together" />
     <figcaption></figcaption>
 </figure> -->
 

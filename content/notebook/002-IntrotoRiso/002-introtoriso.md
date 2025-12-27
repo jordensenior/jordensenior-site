@@ -22,7 +22,7 @@ toc: true
 
 Lately I've been in the Riso rabbit hole. Partly because I've been printing at [If By Magic](https://ifbymagic.space/) here in Helsinki (Robin's workshops are the kind that make you want to stay late and keep experimenting), and partly because my friend [Ro](https://roantia.design/) made a gorgeous calendar from Riso-printed photographs. There's a particular feeling when you hold a Riso print: the soft matte surface, the way the ink sits on the paper, the tiny quirks in registration that make each copy its own object. Regular digital printing doesn't quite do that.
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/riso_drying.jpeg" align="left" width="200px" style="margin:16px;" alt="Zines drying" />
+    <img src="/notebook/004-quantummordencagezine/riso_drying.jpeg" align="left" width="200px" style="margin:16px;" alt="Zines drying" />
     <figcaption></figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Two realities photographers should plan for:
 ## The inks (plant oils, transparency, and what that means for photos)
 
 Here's what's actually true about Riso inks: RISO moved from traditional oils to vegetable-oil systems, notably developing rice-bran-oil inks for their duplicators (they were the world's first in that category). The rice bran version is interesting—it's sourced in Japan, cutting transport emissions by 87% compared to imported soy, and the leftover bran becomes fertilizer or animal feed.<figure>
-    <img src="/experiments/004-QuantumMordencageZine/riso_inks.jpeg" align="right" width="300px" style="margin:16px;" alt="Riso ink drums" />
+    <img src="/notebook/004-quantummordencagezine/riso_inks.jpeg" align="right" width="300px" style="margin:16px;" alt="Riso ink drums" />
     <figcaption></figcaption>
 </figure>
 

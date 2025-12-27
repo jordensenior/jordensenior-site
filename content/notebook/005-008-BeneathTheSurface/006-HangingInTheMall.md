@@ -14,7 +14,7 @@ toc: true
 
 # Hanging in the Mall: Exhibiting Fragile Prints in Easton Hansakäytävä
 
-Following from [the introduction to the series and the creation of the mordançage prints](/experiments/005-008-beneaththesurface/005-beneaththesurface/), the next crucial phase was bringing these fragile works into the physical space of Easton Hansakäytävä for the Art for All festival.  
+Following from [the introduction to the series and the creation of the mordançage prints](/notebook/005-008-beneaththesurface/005-beneaththesurface/), the next crucial phase was bringing these fragile works into the physical space of Easton Hansakäytävä for the Art for All festival.  
 
 ## Sourcing and Assembling Materials
 
@@ -24,14 +24,14 @@ As detailed in the first post, the frames came from the local SPR Kontti thrift 
 
 Installing delicate mordançage prints in a mall setting came with its own unique hurdles. Unlike a darkroom or professional gallery, I had no access to standard framing tools or ideal materials. For instance, a cardboard box doubled as a cutting board since I lacked a proper self-healing mat. Passepartout cutting relied on a simple craft knife found at a hardware store, and there were no leveling devices to ensure perfectly straight hangs.
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallery.jpeg" align="left" width="600px" style="margin:16px;" alt="Gallery" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallery.jpeg" align="left" width="600px" style="margin:16px;" alt="Gallery" />
     <figcaption></figcaption>
 </figure>
 
 The time pressure made things even more intense—some prints were still drying when framing began, demanding speed over precision. The whole process required constant improvisation, balancing care for fragile prints with the reality of limited tools, materials, and time. This constraint-driven creativity became part of the exhibition’s spirit, mirroring the themes of vulnerability and making do.
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerytable.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery table" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallerytable.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery table" />
     <figcaption></figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ The installation’s quiet fragility contrasted with the brisk commercial bustle
 Large-format digital reproductions acted as bold invitations from the corridor, bringing visitors in. Additional digital prints inside highlighted how much detail and presence is lost in translation from physical print to high-res reproduction, silently commenting on themes of presence and absence.
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall2.jpeg" align="center" width="600px" style="margin:16px;" alt="Gallery wall" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallerywall2.jpeg" align="center" width="600px" style="margin:16px;" alt="Gallery wall" />
     <figcaption></figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ In addition to prints on walls and tables, I experimented with suspending photos
 I also hoped visitors would naturally pick up and engage with the unframed prints laid out on tables, inviting a tactile, intimate encounter with the photographic material. Yet, most were far more comfortable handling the smaller framed 4x5” prints instead. This could be a reflection of cultural conditioning—people tend to perceive framed objects as ‘complete’ artworks and unframed photos as less formal or vulnerable, thus hesitating to touch.
 
 <figure>
-    <img src="/experiments/005-008-BeneathTheSurface/afa_gallerywall.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery table" />
+    <img src="/notebook/005-008-beneaththesurface/afa_gallerywall.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery table" />
     <figcaption></figcaption>
 </figure>
 

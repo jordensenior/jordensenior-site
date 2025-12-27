@@ -1,6 +1,6 @@
 ---
 title: "012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers"
-# image: "/experiments/012-RA4Mordancage/ra_1.jpeg"
+# image: "/notebook/012-ra4mordancage/ra_1.jpeg"
 description: "Pushing mordançage chemistry into forbidden territory—lifting colour emulsion layers from fully processed RA4 prints"
 author: "Jorden Senior"
 date: "2025-12-20"
@@ -20,7 +20,7 @@ toc: true
 The conventional wisdom is clear: mordançage doesn't work on colour materials. No silver, no reaction. Case closed. The chemistry textbooks are unequivocal—RA4 colour paper creates images through cyan, magenta, and yellow dyes, not metallic silver. After the bleach step strips away the developed silver, you're left with pure chromogenic dyes suspended in gelatin. Nothing for copper ions to bite into.
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-RA4Mordancage/ra_1.jpeg" align="right" width="250px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/012-ra4mordancage/ra_1.jpeg" align="right" width="250px" style="margin:10px;" alt="Gallery" />
 </figure> 
 
 So why are these prints lifting? Why, after a few minutes in heated mordançage solution, does the emulsion begin to bubble and separate? Why can I peel entire colour layers away from the resin-coated base like removing cling film from a window?
@@ -42,7 +42,7 @@ Yet here I am, watching bubbles form across the surface of a fully processed Fuj
 <br>
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-RA4Mordancage/ra_2.jpeg" align="left" width="400px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/012-ra4mordancage/ra_2.jpeg" align="left" width="400px" style="margin:10px;" alt="Gallery" />
 </figure> 
 
 Sometimes it lifts in sheets. Sometimes in bubbles that burst to reveal the white polyethylene base beneath. Sometimes distinct colour layers separating from each other, cyan peeling away from magenta, yellow clouds floating free.
@@ -59,7 +59,7 @@ Consider the brutal chemistry we're deploying: concentrated hydrogen peroxide, g
 RA4 paper architecture differs fundamentally from traditional black and white papers. The emulsion isn't just gelatin with silver halides—it's a complex multilayer structure:
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-RA4Mordancage/layerstack.png" align="left" width="600px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/012-ra4mordancage/layerstack.png" align="left" width="600px" style="margin:10px;" alt="Gallery" />
     <div style="clear:both;"></div>
     <figcaption> Taken from <a href="https://asset.fujifilm.com/www/us/files/2020-02/9251484a0eda6ebb4b47cc6fec73173a/Fujicolor_Crystal_Archive_Type-CA-Data-Specs.pdf" target="_blank">Fujifilm Crystal Archive Datasheet</a></figcaption>
 </figure>
@@ -131,7 +131,7 @@ This isn't entirely surprising. The overlap between colour darkroom workers and 
 The most striking effects emerged accidentally. Prints pulled from the chemistry and left to dry without complete rinsing continued evolving for hours, even days. The residual mordançage solution, trapped between partially separated layers, kept working. The yellow–green aureoles spreading across the prints weren't stains—they were ongoing chemical reactions creating new chromogenic effects.
 
 <figure class="inline end" markdown>
-    <img src="/experiments/012-RA4Mordancage/ra_3c.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
+    <img src="/notebook/012-ra4mordancage/ra_3c.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
 </figure> 
 
 This presents an archival nightmare but an artistic opportunity. These prints exist in slow-motion transformation. The trapped chemistry creates effects impossible to achieve through controlled processing—colour clouds that seem to breathe, boundaries that shift depending on humidity, images that refuse to stabilise.

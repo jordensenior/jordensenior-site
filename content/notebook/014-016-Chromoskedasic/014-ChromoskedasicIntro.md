@@ -1,6 +1,6 @@
 ---
 title: "014 · Chromoskedasic Sabattier: Colour from Silver, Light from Scattering"
-# image: "/experiments/014-016-Chromoskedasic/chromo_2.jpeg"
+# image: "/notebook/014-016-chromoskedasic/chromo_2.jpeg"
 description: "An introduction to chromoskedasic Sabattier printing—creating colour from black and white materials through physics alone"
 author: "Jorden Senior"
 date: "2025-12-22"
@@ -17,7 +17,7 @@ toc: true
 The print came out of the activator tray warm amber where it had been grey seconds before. Not stained amber, not toned amber—the silver itself had transformed, scattering light at wavelengths it had no business scattering. I tilted the wet paper and watched the colour shift, iridescent, metallic, impossible from materials that contained nothing but silver and gelatin.
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_2.jpeg" align="right" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro escalator" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_2.jpeg" align="right" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro escalator" />
     <figcaption></figcaption>
 </figure>
 
@@ -46,13 +46,13 @@ Like many photographic discoveries, chromoskedasic printing emerged from a mista
 The story begins at the University of California, San Francisco in 1980. Dr. Dominic Man-Kit Lam, a scientist working on visual perception and photoreceptor biochemistry, was exploring the optical properties of silver halide systems. During experiments with partially processed photographic materials, he observed something unexpected: colours appearing on paper that should have remained purely monochrome.
 
 <!-- <figure>
-    <img src="/experiments/013-Chromoskedasic/lam_early_work.jpeg" align="left" width="280px" style="margin:10px;" alt="Early chromoskedasic work by Dominic Man-Kit Lam" />
+    <img src="/notebook/013-Chromoskedasic/lam_early_work.jpeg" align="left" width="280px" style="margin:10px;" alt="Early chromoskedasic work by Dominic Man-Kit Lam" />
     <figcaption>Early chromoskedasic experiments produced colours that seemed impossible from black and white materials</figcaption>
 </figure> -->
 
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_4.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro car" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_4.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro car" />
     <figcaption></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Following the 1991 *Scientific American* article, interest briefly flared. Kodak
 Dr. William L. Jolly kept the flame alive through the 1990s and early 2000s. Emeritus Professor of Chemistry at UC Berkeley, Jolly combined deep scientific understanding with serious photographic practice. He had published extensively on inorganic chemistry (his textbook *Modern Inorganic Chemistry* went through multiple editions) and understood the electron transfer reactions underlying the process. His 1997 book *Solarization Demystified: Historical, Artistic and Technical Aspects of the Sabatier Effect* devoted substantial chapters to chromoskedasic processing, including reformulated chemistry as the original Kodak products became scarce. Jolly continued experimenting and teaching until his death in 2014.
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_1.jpeg" align="right" width="300px" style="margin:10px;" alt="Chromoskedasic print of Washington Monument" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_1.jpeg" align="right" width="300px" style="margin:10px;" alt="Chromoskedasic print of Washington Monument" />
     <figcaption></figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ The closest historical relatives might be the interference-based colour processe
 For my chromoskedasic experiments, I chose photographs from Washington DC—specifically the Metro system and the monuments. The choice wasn't arbitrary.
 
 <figure>
-    <img src="/experiments/014-016-Chromoskedasic/chromo_3.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro platform" />
+    <img src="/notebook/014-016-chromoskedasic/chromo_3.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro platform" />
     <figcaption></figcaption>
 </figure>
 

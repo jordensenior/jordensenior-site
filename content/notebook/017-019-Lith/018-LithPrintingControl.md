@@ -1,6 +1,6 @@
 ---
 title: "017 · Lith Printing II: Control Through Contradiction"
-image: "/experiments/017-LithControl/lith_highcontrast_01.jpeg"
+image: "/notebook/017-LithControl/lith_highcontrast_01.jpeg"
 description: "Mastering the variables that control lith printing—exposure, the snatch point, temperature, and the distinctive effects that define the medium"
 author: "Jorden Senior"
 date: "2026-12-27"
@@ -16,7 +16,7 @@ toc: true
 The rules of lith printing often invert what conventional darkroom experience teaches. More exposure produces lower contrast. Longer development produces cooler colours. The highlights are fixed at the moment of exposure; the shadows at the moment you snatch. Each variable operates somewhat independently, giving you a control range that Tim Rudman described as spanning six or seven equivalent paper grades from a single material—a remarkable claim, but one that repeated practice bears out.
 
 <figure>
-    <img src="/experiments/017-LithControl/lith_highcontrast_01.jpeg" align="right" width="350px" style="margin:10px;" alt="High contrast lith print with pale highlights and dense blacks" />
+    <img src="/notebook/017-LithControl/lith_highcontrast_01.jpeg" align="right" width="350px" style="margin:10px;" alt="High contrast lith print with pale highlights and dense blacks" />
     <figcaption>High contrast lith: underexposure forces extended development, creating extreme tonal separation.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ In lith printing, exposure primarily controls contrast. The relationship runs op
 The mechanism connects to infectious development. When you significantly overexpose (three to four stops beyond normal), highlights and midtones receive substantial exposure. They begin developing earlier and generate semiquinone locally. By the time shadows start their exponential acceleration, highlights have already developed considerable density. You snatch earlier, before infectious development creates extreme separation. The result: more tonal information throughout the scale, softer gradation, a creamier overall appearance.
 
 <figure>
-    <img src="/experiments/017-LithControl/lith_lowcontrast_01.jpeg" align="left" width="350px" style="margin:10px;" alt="Low contrast lith print with rich midtones and soft transitions" />
+    <img src="/notebook/017-LithControl/lith_lowcontrast_01.jpeg" align="left" width="350px" style="margin:10px;" alt="Low contrast lith print with rich midtones and soft transitions" />
     <figcaption>Low contrast lith: heavy overexposure develops highlights substantially before snatching, preserving midtone detail.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ At twenty degrees Celsius (sixty-eight Fahrenheit), development times run five t
 Raising temperature to thirty to forty degrees (eighty-six to one hundred four Fahrenheit) dramatically accelerates development. Times compress to two to six minutes. The snatch window narrows. But heated development also produces more colour—the shorter development time means smaller grain size at the moment of snatching, which translates to warmer tones. Some practitioners deliberately work warm, accepting the reduced control window in exchange for enhanced colour.
 
 <figure>
-    <img src="/experiments/017-LithControl/lith_warm_vs_cool.jpeg" align="right" width="300px" style="margin:10px;" alt="Comparison of warm-developed and cool-developed lith prints" />
+    <img src="/notebook/017-LithControl/lith_warm_vs_cool.jpeg" align="right" width="300px" style="margin:10px;" alt="Comparison of warm-developed and cool-developed lith prints" />
     <figcaption>Temperature affects both development time and colour. Warmer development (left) produces richer colour; cooler development (right) yields harder tones.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ Prevention methods, ranked by effectiveness:
 **EasyLith FT Special**: Moersch developed this variant specifically for FomaTone, containing development retarders that help prevent snowballing. Worth considering if standard EasyLith produces consistent problems with your paper batch.
 
 <figure>
-    <img src="/experiments/017-LithControl/snowball_example.jpeg" align="left" width="280px" style="margin:10px;" alt="Example of snowball defects in lith print" />
+    <img src="/notebook/017-LithControl/snowball_example.jpeg" align="left" width="280px" style="margin:10px;" alt="Example of snowball defects in lith print" />
     <figcaption>Snowball defects in highlight areas. These undeveloped spots result from uneven developer penetration.</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ Several factors shift the palette:
 **A:B ratio:** More A than B increases colour; more B than A reduces it.
 
 <figure>
-    <img src="/experiments/017-LithControl/colour_progression.jpeg" align="right" width="350px" style="margin:10px;" alt="Series showing lith colour progression with development time" />
+    <img src="/notebook/017-LithControl/colour_progression.jpeg" align="right" width="350px" style="margin:10px;" alt="Series showing lith colour progression with development time" />
     <figcaption>Colour shifts with development time. Shorter development (left) produces warmer highlights; extended development (right) introduces cooler shadow tones.</figcaption>
 </figure>
 

@@ -18,7 +18,7 @@ Sometimes you have to break things to see what's underneath. In quantum computin
 That's the premise behind my latest project: photographing quantum computing hardware, then attacking those photographs with mordançage until the emulsion buckles and lifts, searching for traces of quantum coherence in the chemical chaos.
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/foldingzine_1.jpeg" align="center" width="600px" style="margin:16px;" alt="Folded Zine" />
+    <img src="/notebook/004-quantummordencagezine/foldingzine_1.jpeg" align="center" width="600px" style="margin:16px;" alt="Folded Zine" />
     <figcaption></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ I photographed the prototypes of superconducting quantum computers. Not glamour 
 
 ## Mordançage as methodology
 
-For those unfamiliar: mordançage is a darkroom process that physically lifts the emulsion from its paper base - see [my previous post explaining the process](https://www.jordensenior.com/experiments/001-mordencage/001-mordancage/)
+For those unfamiliar: mordançage is a darkroom process that physically lifts the emulsion from its paper base - see [my previous post explaining the process](https://www.jordensenior.com/notebook/001-mordencage/001-mordancage/)
 
 Why mordançage specifically? Because it mirrors quantum decoherence. A stable system (the photograph) subjected to environmental disruption (the chemistry) undergoes irreversible change. The original information is still there, but transformed, distorted, partially lost. Like a quantum state collapsing, but frozen mid-process.
 
@@ -51,7 +51,7 @@ The time-based series shows the same image at different stages of chemical inter
 ## From darkroom to Risograph
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/foldingzine_2.jpeg" align="right" width="300px" style="margin:16px;" alt="Folded Zine" />
+    <img src="/notebook/004-quantummordencagezine/foldingzine_2.jpeg" align="right" width="300px" style="margin:16px;" alt="Folded Zine" />
     <figcaption></figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ The Riso's registration drift adds another layer of uncertainty. Each print vari
 The final form: an zine using "magic" folding— folded and cut to create a 8-page zine from a single A3 sheet. 
 
 <figure>
-    <img src="/experiments/004-QuantumMordencageZine/foldingzine_3.jpeg" align="left" width="300px" style="margin:16px;" alt="Folded Zine" />
+    <img src="/notebook/004-quantummordencagezine/foldingzine_3.jpeg" align="left" width="300px" style="margin:16px;" alt="Folded Zine" />
     <figcaption></figcaption>
 </figure>
 
