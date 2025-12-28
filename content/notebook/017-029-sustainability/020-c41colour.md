@@ -3,7 +3,7 @@ title: "020 · Colour's Complications: C-41 and What It Costs"
 image: "/darkroom/sustainable/c41-chemistry.jpeg"
 description: "Colour negative processing adds real environmental concerns beyond black-and-white—but silver remains the dominant issue"
 author: "Jorden Senior"
-date: "2026-01-13"
+date: "2026-01-06"
 tags: ["Sustainability", "C-41", "Colour Processing", "Environmental", "Home Development"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

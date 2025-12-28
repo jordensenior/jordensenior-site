@@ -3,7 +3,7 @@ title: "017 · The Caffenol Question: What Botanical Developers Actually Offer"
 image: "/darkroom/sustainable/caffenol-setup.jpeg"
 description: "Examining the environmental claims around coffee, wine, and plant-based film developers—what the chemistry says, what the toxicology shows, and why the conversation might be missing the point"
 author: "Jorden Senior"
-date: "2026-01-06"
+date: "2025-12-30"
 tags: ["Sustainability", "Caffenol", "Alternative Chemistry", "Botanical Developers", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

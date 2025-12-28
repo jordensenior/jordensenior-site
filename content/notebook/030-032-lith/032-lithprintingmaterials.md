@@ -3,7 +3,7 @@ title: "032 · Lith Printing III: Materials, Workflow, and the Contemporary Prin
 image: "/notebook/018-LithMaterials/fomatone_print_01.jpeg"
 description: "Papers still available for lith printing in 2025, EasyLith chemistry, practical workflow, and finding community in the Nordic analog scene"
 author: "Jorden Senior"
-date: "2026-12-28"
+date: "2026-02-07"
 tags: ["Lith Printing", "Darkroom", "Experimental Darkroom", "EasyLith", "Fomatone", "FomaBrom", "Nordic Analogue Network"]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
@@ -14,7 +14,7 @@ live: true
 
 # Lith Printing III: Materials, Workflow, and the Contemporary Printer
 
-**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](../031-LithPrintingControl)
+**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](../031-lithprintingcontrol)
 
 ---
 

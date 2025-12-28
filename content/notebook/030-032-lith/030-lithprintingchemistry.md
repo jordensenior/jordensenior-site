@@ -3,7 +3,7 @@ title: "030 · Lith Printing I: The Chemistry of Chaos"
 # image: "/notebook/016-LithPrinting/lith_portrait_01.jpeg"
 description: "Understanding infectious development—the autocatalytic chemistry that makes lith printing unlike anything else in the darkroom"
 author: "Jorden Senior"
-date: "2025-12-27"
+date: "2026-02-03"
 tags: ["Lith Printing",]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
@@ -14,7 +14,7 @@ live: true
 
 # Lith Printing I: The Chemistry of Chaos
 
-**Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](../031-LithPrintingControl)
+**Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](../031-lithprintingcontrol)
 
 ---
 

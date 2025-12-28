@@ -3,7 +3,7 @@ title: "025 · Chromoskedasic Sabattier: The Workshop Sludge Problem"
 image: "/darkroom/sustainable/chromo-metallic-print.jpeg"
 description: "A process that produces stunning metallic colours—and some of the nastiest waste I've seen in a darkroom"
 author: "Jorden Senior"
-date: "2026-01-24"
+date: "2026-01-17"
 tags: ["Sustainability", "Chromoskedasic Sabattier", "Alternative Process", "Environmental Impact"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

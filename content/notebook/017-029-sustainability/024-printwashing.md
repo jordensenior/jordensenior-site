@@ -3,7 +3,7 @@ title: "024 · The Wash Question: Where Darkroom Water Actually Goes"
 image: "/darkroom/sustainable/print-washing-setup.jpeg"
 description: "Film washing is solved. Print washing is where the water goes—and where the biggest sustainability gains remain"
 author: "Jorden Senior"
-date: "2026-01-22"
+date: "2026-01-15"
 tags: ["Sustainability", "Print Washing", "Water Efficiency", "Archival Processing", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

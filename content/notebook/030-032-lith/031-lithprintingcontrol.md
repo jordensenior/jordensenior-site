@@ -3,7 +3,7 @@ title: "031 · Lith Printing II: Control Through Contradiction"
 image: "/notebook/017-LithControl/lith_highcontrast_01.jpeg"
 description: "Mastering the variables that control lith printing—exposure, the snatch point, temperature, and the distinctive effects that define the medium"
 author: "Jorden Senior"
-date: "2026-12-27"
+date: "2026-02-05"
 tags: ["Lith Printing", "Darkroom", "Experimental Darkroom", "Contrast Control", "Snatch Point"]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
@@ -14,7 +14,7 @@ live: true
 
 # Lith Printing II: Control Through Contradiction
 
-**Part 2 of 3** in the Lith Printing series | [← Previous: Part 1](../030-LithPrintingChemistry) | [Next: Part 3 →](../032-LithPrintingMaterials)
+**Part 2 of 3** in the Lith Printing series | [← Previous: Part 1](../030-lithprintingchemistry) | [Next: Part 3 →](../032-lithprintingmaterials)
 
 ---
 

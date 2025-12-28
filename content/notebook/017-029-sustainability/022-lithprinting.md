@@ -3,7 +3,7 @@ title: "022 · Experimental Methods: Lith Printing's Surprising Profile"
 image: "/darkroom/sustainable/lith-print.jpeg"
 description: "Moving beyond standard processing to examine lith printing—where extreme dilution creates an unexpectedly favourable environmental story"
 author: "Jorden Senior"
-date: "2026-01-17"
+date: "2026-01-10"
 tags: ["Sustainability", "Lith Printing", "Experimental", "Toning", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
