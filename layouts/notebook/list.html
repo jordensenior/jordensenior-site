@@ -6,6 +6,15 @@
 
   <section>
     {{ range (.Paginator 25).Pages.GroupByDate "2006" }}
+      {{/* Check if this year has any live posts before displaying the year header */}}
+      {{ $hasLivePosts := false }}
+      {{ range .Pages }}
+        {{ if eq .Params.live true }}
+          {{ $hasLivePosts = true }}
+        {{ end }}
+      {{ end }}
+
+      {{ if $hasLivePosts }}
       <hr class="p-0 pt-4 m-0" />
       <section class="flex flex-col md:flex-row items-start items-baseline">
         <div class="md:pl-4 pb-2 md:sticky top-0 order-1 pr-6">
@@ -30,6 +39,7 @@
           {{ end }}
         </ul>
       </section>
+      {{ end }}
     {{ end }}
   </section>
 </article>
