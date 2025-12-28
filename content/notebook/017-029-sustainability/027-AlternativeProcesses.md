@@ -1,17 +1,20 @@
 ---
-title: "Bonus: Alternative Processes—A Sustainability Overview"
+title: "027 · Alternative Processes—A Sustainability Overview"
 image: "/darkroom/sustainable/cyanotype-leaves.jpeg"
 description: "A brief survey of non-silver processes and their environmental profiles—from genuinely sustainable to surprisingly problematic"
 author: "Jorden Senior"
-date: "2026-12-26"
+date: "2026-02-03"
 tags: ["Sustainability", "Alternative Processes", "Cyanotype", "Anthotype", "Van Dyke"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["alternative-processes-sustainability", "cyanotype-anthotype-vandyke"]
 toc: true
+live: true
 ---
 
-# Bonus: Alternative Processes—A Sustainability Overview
+# Alternative Processes—A Sustainability Overview
+
+**Part 11 of 13** in the Sustainable Darkroom series | [← Previous: Part 10](../026-Synthesis) | [Next: Part 12 →](../028-FilmManufacturing)
 
 The silver gelatin process dominates this series because it dominates my practice. But there's a whole world of alternative photographic processes—some predating silver gelatin, some developed alongside it, some genuinely more sustainable.
 

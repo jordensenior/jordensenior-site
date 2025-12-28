@@ -1,17 +1,20 @@
 ---
-title: "End of Life: Disposal, Creative Reuse, and Getting Value from 'Waste'"
+title: "029 · End of Life: Disposal, Creative Reuse, and Getting Value from 'Waste'"
 image: "/darkroom/sustainable/expired-materials.jpeg"
 description: "Before you throw it away, consider: old film, fogged paper, and failed prints often have creative second lives. And when disposal is necessary, here's how to do it responsibly."
 author: "Jorden Senior"
-date: "2026-12-26"
+date: "2026-02-03"
 tags: ["Sustainability", "Disposal", "Creative Reuse", "Expired Film", "Lith Printing", "Lumen Prints", "Mordançage"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["disposal-photographic-materials", "expired-film-use", "creative-reuse-darkroom"]
 toc: true
+live: true
 ---
 
 # End of Life: Disposal, Creative Reuse, and Getting Value from "Waste"
+
+**Part 13 of 13** in the Sustainable Darkroom series | [← Previous: Part 12](../028-FilmManufacturing)
 
 This series has focused on the use phase of darkroom materials—how to work with chemistry responsibly, recover silver, minimise water use. But sustainability also means thinking about the full lifecycle, including what happens when materials reach the end of their intended use.
 

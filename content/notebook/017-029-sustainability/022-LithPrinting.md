@@ -1,17 +1,20 @@
 ---
-title: "Experimental Methods: Lith Printing's Surprising Profile"
+title: "022 · Experimental Methods: Lith Printing's Surprising Profile"
 image: "/darkroom/sustainable/lith-print.jpeg"
 description: "Moving beyond standard processing to examine lith printing—where extreme dilution creates an unexpectedly favourable environmental story"
 author: "Jorden Senior"
-date: "2026-12-26"
+date: "2026-01-20"
 tags: ["Sustainability", "Lith Printing", "Experimental", "Toning", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["lith-printing", "experimental-sustainability"]
 toc: true
+live: true
 ---
 
 # Experimental Methods: Lith Printing's Surprising Profile
+
+**Part 6 of 13** in the Sustainable Darkroom series | [← Previous: Part 5](../021-RA4Printing) | [Next: Part 7 →](../023-Mordancage)
 
 The previous five posts examined standard processing—B&W film development, fixer management, C-41, RA-4. This post and the next move into experimental territory: processes I use regularly that don't fit the standard workflow.
 

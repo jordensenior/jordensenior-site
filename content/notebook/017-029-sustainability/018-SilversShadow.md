@@ -1,17 +1,20 @@
 ---
-title: "Silver's Shadow: The Real Environmental Crisis in Your Darkroom"
+title: "018 · Silver's Shadow: The Real Environmental Crisis in Your Darkroom"
 image: "/darkroom/sustainable/fixer-disposal.jpeg"
 description: "Why the developer-versus-developer debate misses the point entirely—fixer contains silver at concentrations a million times higher than lethal thresholds for aquatic life"
 author: "Jorden Senior"
-date: "2026-12-25"
+date: "2026-01-06"
 tags: ["Sustainability", "Fixer", "Silver Recovery", "Environmental", "Heavy Metals"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["silver-shadow", "fixer-problem"]
 toc: true
+live: true
 ---
 
 # Silver's Shadow: The Real Environmental Crisis in Your Darkroom
+
+**Part 2 of 13** in the Sustainable Darkroom series | [← Previous: Part 1](../017-CaffenolQuestion) | [Next: Part 3 →](../019-DefensiblePractice)
 
 The previous post in this series examined botanical developers—caffenol, wine, tea, juniper—and what they actually offer environmentally. The conclusion was measured: real but limited advantages, primarily around disposal toxicity, with poorly quantified lifecycle trade-offs.
 

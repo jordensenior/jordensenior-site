@@ -1,17 +1,20 @@
 ---
-title: "Colour's Complications: C-41 and What It Costs"
+title: "020 · Colour's Complications: C-41 and What It Costs"
 image: "/darkroom/sustainable/c41-chemistry.jpeg"
 description: "Colour negative processing adds real environmental concerns beyond black-and-white—but silver remains the dominant issue"
 author: "Jorden Senior"
-date: "2026-12-26"
+date: "2026-01-20"
 tags: ["Sustainability", "C-41", "Colour Processing", "Environmental", "Home Development"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["c41-colour", "colour-processing-sustainability"]
 toc: true
+live: true
 ---
 
 # Colour's Complications: C-41 and What It Costs
+
+**Part 4 of 13** in the Sustainable Darkroom series | [← Previous: Part 3](../019-DefensiblePractice) | [Next: Part 5 →](../021-RA4Printing)
 
 The first three posts in this series focused on black-and-white processing. That's where most of the sustainability discourse lives—caffenol versus Rodinal, botanical developers, fixer recovery. But I also process colour, and it seemed dishonest to write about sustainable darkroom practice without addressing it.
 

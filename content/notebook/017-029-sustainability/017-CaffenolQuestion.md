@@ -1,17 +1,20 @@
 ---
-title: "The Caffenol Question: What Botanical Developers Actually Offer"
+title: "017 · The Caffenol Question: What Botanical Developers Actually Offer"
 image: "/darkroom/sustainable/caffenol-setup.jpeg"
 description: "Examining the environmental claims around coffee, wine, and plant-based film developers—what the chemistry says, what the toxicology shows, and why the conversation might be missing the point"
 author: "Jorden Senior"
-date: "2026-12-25"
+date: "2026-01-06"
 tags: ["Sustainability", "Caffenol", "Alternative Chemistry", "Botanical Developers", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["caffenol-question", "botanical-developers"]
 toc: true
+live: true
 ---
 
 # The Caffenol Question: What Botanical Developers Actually Offer
+
+**Part 1 of 13** in the Sustainable Darkroom series | [Next: Part 2 →](../018-SilversShadow)
 
 The first time I developed film in coffee, I felt like I was getting away with something. Instant coffee, vitamin C, washing soda—chemicals you could theoretically consume, though I wouldn't recommend it—mixed in a measuring jug and poured into a tank. The image that emerged was sharp, contrasty, with a grain structure reminiscent of Rodinal. It felt subversive: photography reduced to kitchen ingredients, industrial chemistry bypassed entirely.
 

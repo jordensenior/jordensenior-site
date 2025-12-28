@@ -2,8 +2,8 @@
 title: "Sustainable Darkroom: A 13-Part Investigation"
 description: "A comprehensive examination of environmental sustainability in analogue photography—from botanical developers to silver recovery, water efficiency to film manufacturing supply chains"
 author: "Jorden Senior"
-date: "2026-12-26"
-live: false
+date: "2026-02-03"
+live: true
 tags: ["Sustainability", "Environmental", "Darkroom"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
@@ -27,47 +27,47 @@ This index provides reading paths through the 13-part series, organized both seq
 
 ### Core Environmental Issues (Parts 1-3)
 
-**[Part 1: The Caffenol Question](/notebook/020-022-sustainability/blog-part1-caffenol-question-revised/)**
+**[Part 1: The Caffenol Question](/notebook/017-029-sustainability/017-CaffenolQuestion/)**
 Examining environmental claims around coffee, wine, and plant-based film developers. What the chemistry says, what the toxicology shows, and why the conversation might be missing the point.
 
-**[Part 2: Silver's Shadow](/notebook/020-022-sustainability/blog-part2-silvers-shadow-revised/)**
+**[Part 2: Silver's Shadow](/notebook/017-029-sustainability/018-SilversShadow/)**
 Why the developer debate misses the real crisis: fixer contains silver at concentrations a million times higher than lethal thresholds for aquatic life. The chemistry, toxicology, and regulatory context of darkroom silver discharge.
 
-**[Part 3: A Defensible Practice](/notebook/020-022-sustainability/blog-part3-defensible-practice-revised/)**
+**[Part 3: A Defensible Practice](/notebook/017-029-sustainability/019-DefensiblePractice/)**
 Practical interventions ranked by actual environmental impact. Silver recovery, water efficiency, and the hierarchy of what actually matters for sustainable darkroom work.
 
 ### Process-Specific Investigations (Parts 4-9)
 
-**[Part 4: C41 Colour Film Development](/notebook/020-022-sustainability/blog-part4-c41-colour/)**
+**[Part 4: C41 Colour Film Development](/notebook/017-029-sustainability/020-C41Colour/)**
 The environmental profile of colour film chemistry—higher temperatures, more complex chemistry, and why home C41 processing may be more sustainable than sending film to labs.
 
-**[Part 5: RA4 Colour Printing](/notebook/020-022-sustainability/blog-part5-ra4-printing/)**
+**[Part 5: RA4 Colour Printing](/notebook/017-029-sustainability/021-RA4Printing/)**
 Examining colour printing chemistry, paper choices, and the trade-offs between longevity and environmental impact in chromogenic prints.
 
-**[Part 6: Lith Printing](/notebook/020-022-sustainability/blog-part6-lith-printing/)**
+**[Part 6: Lith Printing](/notebook/017-029-sustainability/022-LithPrinting/)**
 Low-silver consumption, extreme dilution, and why lith printing might be one of the most sustainable darkroom processes—if you can accept its unpredictability.
 
-**[Part 7: Mordançage](/notebook/020-022-sustainability/blog-part7-mordancage/)**
+**[Part 7: Mordançage](/notebook/017-029-sustainability/023-Mordancage/)**
 The environmental profile of copper chloride, hydrogen peroxide, and glacial acetic acid chemistry. Hazards, disposal challenges, and why this sculptural process demands serious safety protocols.
 
-**[Part 8: Print Washing](/notebook/020-022-sustainability/blog-part8-print-washing/)**
+**[Part 8: Print Washing](/notebook/017-029-sustainability/024-PrintWashing/)**
 Water consumption in archival print washing, the trade-offs between permanence and resource use, and practical strategies for reducing water waste without compromising print longevity.
 
-**[Part 9: Chromoskedasic Printing](/notebook/020-022-sustainability/blog-part9-chromoskedasic/)**
+**[Part 9: Chromoskedasic Printing](/notebook/017-029-sustainability/025-Chromoskedasic/)**
 Creating colour from silver nanoparticles through structural colour. The environmental implications of formaldehyde-free thiocyanate chemistry and activator systems.
 
 ### Systemic Analysis (Parts 10-13)
 
-**[Part 10: Synthesis](/notebook/020-022-sustainability/blog-part10-synthesis/)**
+**[Part 10: Synthesis](/notebook/017-029-sustainability/026-Synthesis/)**
 Consolidating nine posts of research into a practical decision framework for darkroom sustainability. Priorities, trade-offs, and how to make informed choices.
 
-**[Part 11: Alternative Processes](/notebook/020-022-sustainability/blog-part11-alternative-processes/)**
+**[Part 11: Alternative Processes](/notebook/017-029-sustainability/027-AlternativeProcesses/)**
 Examining the environmental profile of cyanotype, Van Dyke brown, platinum/palladium, and other historic processes. Why "historical" doesn't automatically mean "sustainable."
 
-**[Part 12: Film Manufacturing](/notebook/020-022-sustainability/blog-part12-film-manufacturing/)**
+**[Part 12: Film Manufacturing](/notebook/017-029-sustainability/028-FilmManufacturing/)**
 Investigating the upstream environmental costs of film production—silver mining, gelatin sourcing, industrial chemistry, and the supply chain impacts rarely discussed in sustainability conversations.
 
-**[Part 13: End of Life](/notebook/020-022-sustainability/blog-part13-end-of-life/)**
+**[Part 13: End of Life](/notebook/017-029-sustainability/029-EndOfLife/)**
 Disposal, creative reuse, and getting value from "waste." Old film, fogged paper, and failed prints often have creative second lives—and when disposal is necessary, how to do it responsibly.
 
 ---

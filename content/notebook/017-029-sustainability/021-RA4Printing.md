@@ -1,17 +1,20 @@
 ---
-title: "The Colour Print Question: RA-4 and Its Alternatives"
+title: "021 · The Colour Print Question: RA-4 and Its Alternatives"
 image: "/darkroom/sustainable/ra4-drum-processing.jpeg"
 description: "Comparing RA-4 colour printing with scanning and digital output—which is actually more sustainable?"
 author: "Jorden Senior"
-date: "2026-12-26"
+date: "2026-01-20"
 tags: ["Sustainability", "RA-4", "Colour Printing", "Digital Printing", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["ra4-printing", "colour-print-sustainability"]
 toc: true
+live: true
 ---
 
 # The Colour Print Question: RA-4 and Its Alternatives
+
+**Part 5 of 13** in the Sustainable Darkroom series | [← Previous: Part 4](../020-C41Colour) | [Next: Part 6 →](../022-LithPrinting)
 
 I do both RA-4 colour printing and scanning with digital output. The RA-4 work happens in a rotary drum processor with Adox chemistry and Fuji paper; the digital path runs through a scanner and an inkjet printer. Each has its satisfactions and frustrations. But which is actually more sustainable?
 
