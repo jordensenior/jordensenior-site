@@ -14,6 +14,10 @@ live: false
 
 # Lith Printing I: The Chemistry of Chaos
 
+**Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](../018-LithPrintingControl)
+
+---
+
 The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn't develop so much as erupt, shadows darkening visibly, racing toward black while I scrambled to snatch the print before it went too far.
 
 <figure>

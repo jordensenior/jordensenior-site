@@ -14,6 +14,10 @@ toc: true
 
 # Hanging in the Mall: Exhibiting Fragile Prints in Easton Hansakäytävä
 
+**Part 2 of 4** in the Beneath the Surface series | [← Previous: Part 1](../005-BeneathTheSurface) | [Next: Part 3 →](../007-UnderPressure)
+
+---
+
 Following from [the introduction to the series and the creation of the mordançage prints](/notebook/005-008-beneaththesurface/005-beneaththesurface/), the next crucial phase was bringing these fragile works into the physical space of Easton Hansakäytävä for the Art for All festival.  
 
 ## Sourcing and Assembling Materials

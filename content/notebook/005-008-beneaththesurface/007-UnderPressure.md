@@ -14,6 +14,10 @@ toc: true
 
 # Time, Speed, and Improvisation: Making Under Pressure at Art for All
 
+**Part 3 of 4** in the Beneath the Surface series | [← Previous: Part 2](../006-HangingInTheMall) | [Next: Part 4 →](../008-ReExhibiting)
+
+---
+
 The Art for All festival demanded an intense burst of creation. While I'm naturally quite prolific in the darkroom, often generating creative bursts with many prints in a session, this project pushed that approach to an entirely different level. In about a week, I shot two rolls of film at the mall, developed them, printed around 50 images, mordançaged my favorites, framed, and installed everything. The compressed timeline forced me to embrace risk, chance, and improvisation more deeply than usual.
 
 ## Under Pressure: When Natural Energy Meets Necessity

@@ -14,6 +14,10 @@ toc: true
 
 # Chromoskedasic Sabattier: Colour from Silver, Light from Scattering
 
+**Part 1 of 3** in the Chromoskedasic Sabattier series | [Next: Part 2 →](../015-ChromoskedasicScience)
+
+---
+
 The print came out of the activator tray warm amber where it had been grey seconds before. Not stained amber, not toned amber—the silver itself had transformed, scattering light at wavelengths it had no business scattering. I tilted the wet paper and watched the colour shift, iridescent, metallic, impossible from materials that contained nothing but silver and gelatin.
 
 <figure>

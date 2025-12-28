@@ -14,6 +14,9 @@ toc: true
 
 # Beneath the Surface: Mordançage Prints for Art for All
 
+**Part 1 of 4** in the Beneath the Surface series | [Next: Part 2 →](../006-HangingInTheMall)
+
+---
 
 Exhibiting fragile, alternative darkroom prints in a bustling shopping mall is a kind of quiet subversion. For Art for All’s “Success & Glory” festival at Easton Hansakäytävä, I set out to create photographs of the mall itself—its passageways, materials, overlooked corners—and transform those images using mordançage, a process that destabilizes photographic surface and exposes hidden structure.
 <br>

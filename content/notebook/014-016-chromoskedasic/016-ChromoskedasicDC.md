@@ -14,6 +14,10 @@ toc: true
 
 # Chromoskedasic DC: Colour Alchemy in the Capital
 
+**Part 3 of 3** in the Chromoskedasic Sabattier series | [← Previous: Part 2](../015-ChromoskedasicScience)
+
+---
+
 The previous two posts laid the foundation: what chromoskedasic printing is, its history and lineage, and the physics and chemistry that enable colour formation from silver nanoparticles. Now we turn to practice. This post documents my experiments applying the technique to photographs from Washington DC—the workflow I developed, the successes and failures, and the lessons extracted from several dozen attempts.
 
 <figure>

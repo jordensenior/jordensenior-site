@@ -13,6 +13,10 @@ toc: true
 
 # Lith Printing II: Control Through Contradiction
 
+**Part 2 of 3** in the Lith Printing series | [← Previous: Part 1](../017-LithPrintingChemistry) | [Next: Part 3 →](../019-LithPrintingMaterials)
+
+---
+
 The rules of lith printing often invert what conventional darkroom experience teaches. More exposure produces lower contrast. Longer development produces cooler colours. The highlights are fixed at the moment of exposure; the shadows at the moment you snatch. Each variable operates somewhat independently, giving you a control range that Tim Rudman described as spanning six or seven equivalent paper grades from a single material—a remarkable claim, but one that repeated practice bears out.
 
 <figure>

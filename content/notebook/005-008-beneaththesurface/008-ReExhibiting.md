@@ -14,7 +14,11 @@ toc: true
 
 # Re-exhibiting Under the Surface: New Contexts at Pimiö 25
 
-This month, a selection of my mordançage works finds new life in the Pimiö’25 group exhibition at Galleria West, Helsinki. Returning to these prints in a different space and format has sparked fresh perspectives—both in terms of what I show and how the work interacts with viewers and fellow artists.
+**Part 4 of 4** in the Beneath the Surface series | [← Previous: Part 3](../007-UnderPressure)
+
+---
+
+This month, a selection of my mordançage works finds new life in the Pimiö'25 group exhibition at Galleria West, Helsinki. Returning to these prints in a different space and format has sparked fresh perspectives—both in terms of what I show and how the work interacts with viewers and fellow artists.
 
 ## Re-exhibiting in a New Context
 

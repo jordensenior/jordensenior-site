@@ -14,6 +14,10 @@ toc: true
 
 # The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry
 
+**Part 2 of 3** in the Chromoskedasic Sabattier series | [← Previous: Part 1](../014-ChromoskedasicIntro) | [Next: Part 3 →](../016-ChromoskedasicDC)
+
+---
+
 In the previous post, I introduced chromoskedasic Sabattier printing as a technique that creates colour from black and white materials through physics and chemistry. Now we examine exactly how this works—why silver nanoparticles of specific sizes scatter specific wavelengths of light, and how darkroom chemistry produces those particles.
 
 This is where my professional life intersects with my darkroom practice. The physics underlying chromoskedasic printing—surface plasmon resonance, Mie scattering, colloidal nanoparticle optics—connects directly to phenomena I encounter in quantum hardware research. The same principles that govern colour formation in these prints inform the design of plasmonic sensors and nanophotonic devices. Understanding the science doesn't diminish the art; it reveals why this technique produces results achievable through no other means.

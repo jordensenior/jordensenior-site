@@ -13,6 +13,10 @@ toc: true
 
 # Lith Printing III: Materials, Workflow, and the Contemporary Printer
 
+**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](../018-LithPrintingControl)
+
+---
+
 The classic lith papers are gone. Sterling Lith, Forte Polywarmtone, Kodak Ektalure, the old Agfa Brovira—papers that defined the technique for decades—have all been discontinued. What remains is a short list of currently manufactured papers that still work, chemistry from a handful of dedicated suppliers, and a community of practitioners who share knowledge about batch variations, workarounds, and alternative approaches.
 
 <figure>
