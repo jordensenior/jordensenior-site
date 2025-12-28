@@ -20,49 +20,6 @@
             <li class="py-2 flex">
               <span class="font-serif pr-4 flex-shrink-0">{{ $p.Date.Format "01-02" }}</span>
               <div class="font-serif font-medium w-full">
-
-                {{/* IMAGE DISPLAY - Temporarily disabled for cleaner navigation, but preserved for future use
-                {{ $p := . }}
-                {{/* Try to fetch a processable image from the page bundle first */}}
-                {{ $img := cond (isset $p.Params "image") ($p.Resources.GetMatch $p.Params.image) nil }}
-
-
-                {{ if $img }}
-                  <a href="{{ $p.RelPermalink }}" class="block">
-                    <div class="h-20 md:h-24 overflow-hidden rounded shadow bg-gray-100 mb-2">
-                      <img
-                        src="{{ .RelPermalink }}"
-                        alt="{{ $p.Title }}"
-                        loading="lazy" decoding="async"
-                      />
-                    </div>
-                  </a>
-                {{ else }}
-                  {{/* Fallback to front-matter URL in /static/images with CSS crop */}}
-                  {{ with $p.Params.image }}
-                    <a href="{{ $p.RelPermalink }}" class="block">
-                      <div class="h-20 md:h-24 overflow-hidden rounded shadow bg-gray-100 mb-2">
-                        <img
-                          src="{{ . | relURL }}"
-                          alt="{{ $p.Title }}"
-                          class="h-full object-cover"
-                          loading="lazy" decoding="async"
-						  width="150px"
-						  align="right"
-						  style="margin-left:02px; filter: grayscale(100%) sepia(50%)
-						  hue-rotate(90deg) saturate(150%) brightness(1.2) contrast(90%)
-						  opacity(80%) blur(0px);"
-                        />
-                      </div>
-                    </a>
-                  {{ else }}
-                    <a href="{{ $p.RelPermalink }}" class="block">
-                      <div class="w-full h-20 md:h-24 bg-gray-200 rounded shadow mb-2"></div>
-                    </a>
-                  {{ end }}
-                {{ end }}
-                END OF IMAGE DISPLAY BLOCK */}}
-
                 <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
                 {{ with $p.Description }}
                   <div class="pl-4 text-gray-600 font-light">{{ . }}</div>
