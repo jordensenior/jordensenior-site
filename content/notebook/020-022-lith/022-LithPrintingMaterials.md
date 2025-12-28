@@ -1,5 +1,5 @@
 ---
-title: "018 · Lith Printing III: Materials, Workflow, and the Contemporary Printer"
+title: "022 · Lith Printing III: Materials, Workflow, and the Contemporary Printer"
 image: "/notebook/018-LithMaterials/fomatone_print_01.jpeg"
 description: "Papers still available for lith printing in 2025, EasyLith chemistry, practical workflow, and finding community in the Nordic analog scene"
 author: "Jorden Senior"
@@ -13,7 +13,7 @@ toc: true
 
 # Lith Printing III: Materials, Workflow, and the Contemporary Printer
 
-**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](../018-LithPrintingControl)
+**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](../021-LithPrintingControl)
 
 ---
 
