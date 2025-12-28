@@ -1,6 +1,6 @@
 ---
 title: "015 · The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry"
-# image: "/notebook/014-016-chromoskedasic/chromo_4.jpeg"
+image: "/notebook/014-016-chromoskedasic/chromo_4.jpeg"
 description: "The physics and chemistry behind chromoskedasic Sabattier printing—why silver nanoparticles produce colour through light scattering"
 author: "Jorden Senior"
 date: "2025-12-23"

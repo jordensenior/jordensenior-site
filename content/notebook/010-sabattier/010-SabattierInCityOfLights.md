@@ -1,6 +1,6 @@
 ---
 title: "010 · Sabattier in the City of Lights"
-# image: "/notebook/010-sabattier/paris_saba_1.jpeg"
+image: "/notebook/010-sabattier/paris_saba_1.jpeg"
 description: "Exploring Paris through the Sabattier effect"
 author: "Jorden Senior"
 date: "2025-10-02"

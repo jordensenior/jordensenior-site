@@ -1,6 +1,6 @@
 ---
 title: "014 · Chromoskedasic Sabattier: Colour from Silver, Light from Scattering"
-# image: "/notebook/014-016-chromoskedasic/chromo_2.jpeg"
+image: "/notebook/014-016-chromoskedasic/chromo_2.jpeg"
 description: "An introduction to chromoskedasic Sabattier printing—creating colour from black and white materials through physics alone"
 author: "Jorden Senior"
 date: "2025-12-22"

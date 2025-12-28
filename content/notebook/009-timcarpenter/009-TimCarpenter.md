@@ -1,6 +1,6 @@
 ---
 title: "009 · Finding Mortality Through the Lens"
-# image: "experiments/009-TimCarpenter/timcarpenter.jpeg"
+image: "/notebook/009-timcarpenter/timcarpenter.jpeg"
 description: "Reflections on Tim Carpenters 'To Photograph is to Learn How to Die'"
 author: "Jorden Senior"
 date: "2025-09-06"

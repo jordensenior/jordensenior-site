@@ -1,6 +1,6 @@
 ---
 title: "012 · Breaking RA4 Apart: When Mordançage Meets Colour Layers"
-# image: "/notebook/012-ra4mordancage/ra_1.jpeg"
+image: "/notebook/012-ra4mordancage/ra_1.jpeg"
 description: "Pushing mordançage chemistry into forbidden territory—lifting colour emulsion layers from fully processed RA4 prints"
 author: "Jorden Senior"
 date: "2025-12-20"

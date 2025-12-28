@@ -1,6 +1,6 @@
 ---
 title: "016 · Chromoskedasic DC: Colour Alchemy in the US Capital"
-# image: "/notebook/014-016-chromoskedasic/chromo_3.jpeg"
+image: "/notebook/014-016-chromoskedasic/chromo_3.jpeg"
 description: "Applying chromoskedasic Sabattier printing to photographs of Washington DC's Metro system and monuments—workflow, results, and lessons learned"
 author: "Jorden Senior"
 date: "2025-12-24"

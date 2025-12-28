@@ -21,6 +21,7 @@
               <span class="font-serif pr-4 flex-shrink-0">{{ $p.Date.Format "01-02" }}</span>
               <div class="font-serif font-medium w-full">
 
+                {{/* IMAGE DISPLAY - Temporarily disabled for cleaner navigation, but preserved for future use
                 {{ $p := . }}
                 {{/* Try to fetch a processable image from the page bundle first */}}
                 {{ $img := cond (isset $p.Params "image") ($p.Resources.GetMatch $p.Params.image) nil }}
@@ -60,6 +61,7 @@
                     </a>
                   {{ end }}
                 {{ end }}
+                END OF IMAGE DISPLAY BLOCK */}}
 
                 <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
                 {{ with $p.Description }}
