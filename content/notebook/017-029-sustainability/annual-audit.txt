@@ -1,0 +1,315 @@
+# Annual Practice Audit Worksheet
+
+## Purpose
+
+Calculate your actual darkroom environmental footprint. This worksheet helps you understand where your impacts lie and identify opportunities for improvement.
+
+**Period:** __________ to __________
+
+---
+
+## Section 1: Film Processing
+
+### Volume
+
+| Film Type | Rolls Processed | Silver per Roll | Total Silver |
+|-----------|:---------------:|:---------------:|:------------:|
+| 35mm B&W | | × 1g = | g |
+| 35mm Colour | | × 1.5g = | g |
+| 120 B&W | | × 1.5g = | g |
+| 120 Colour | | × 2g = | g |
+| 4×5 B&W | | × 2g = | g |
+| 4×5 Colour | | × 3g = | g |
+| Other: ________ | | × ___g = | g |
+| **TOTAL FILM** | **______** rolls | | **______** g |
+
+### Chemistry Used
+
+| Chemistry | Volume Used | Notes |
+|-----------|:-----------:|-------|
+| Developer (concentrate) | L | |
+| Fixer (concentrate) | L | |
+| Stop bath | L | Or water stop ☐ |
+
+### Water Used (Film)
+
+Rolls processed: ______ × 2 litres (Ilford method) = **______ litres**
+
+Or if using running water: ______ × ______ litres = **______ litres**
+
+---
+
+## Section 2: Printing
+
+### Paper Used
+
+| Paper Type | Sheets/Area | Silver Content | Total Silver |
+|------------|:-----------:|:--------------:|:------------:|
+| RC 8×10 | sheets | × 0.08g = | g |
+| RC 11×14 | sheets | × 0.15g = | g |
+| FB 8×10 | sheets | × 0.15g = | g |
+| FB 11×14 | sheets | × 0.30g = | g |
+| FB 16×20 | sheets | × 0.50g = | g |
+| Other: ________ | | × ___g = | g |
+| **TOTAL PAPER** | | | **______** g |
+
+*Note: ~60% of paper silver goes to fixer; ~40% stays in print*
+
+**Silver to fixer from printing:** Total × 0.6 = **______ g**
+
+### Chemistry Used
+
+| Chemistry | Volume Used | Notes |
+|-----------|:-----------:|-------|
+| Developer (working solution) | L | |
+| Stop bath | L | Or water stop ☐ |
+| Fixer (working solution) | L | |
+
+### Water Used (Printing)
+
+**RC paper sessions:** ______ × 5 litres = ______ litres
+
+**FB paper sessions (with HCA):** ______ × 15 litres = ______ litres
+
+**FB paper sessions (no HCA):** ______ × 50 litres = ______ litres
+
+**Total printing water:** **______ litres**
+
+---
+
+## Section 3: Colour Processing
+
+### C-41 Film
+
+| Item | Quantity | Notes |
+|------|:--------:|-------|
+| Rolls processed | | |
+| Kit(s) used | | Brand: |
+| Developer volume | L | |
+| Blix volume | L | |
+
+### RA-4 Printing
+
+| Item | Quantity | Notes |
+|------|:--------:|-------|
+| Prints made | | |
+| Kit(s) used | | Brand: |
+| Developer volume | L | |
+| Blix volume | L | |
+
+**Silver in colour blix:** Approximately ______ g
+*(Estimate: 1.5g per C-41 roll + 0.05g per RA-4 8×10 print)*
+
+---
+
+## Section 4: Experimental/Alternative Processes
+
+### Lith Printing
+
+| Item | Quantity |
+|------|:--------:|
+| Prints made | |
+| Developer used (working solution) | L |
+| Fixer used | L |
+
+*Note: Lith uses ~30% less hydroquinone per print than standard*
+
+### Toning
+
+| Toner | Volume Used | Still in Use? |
+|-------|:-----------:|:-------------:|
+| Selenium | ml | ☐ Yes ☐ Exhausted |
+| Sepia/sulfide | ml | ☐ Yes ☐ Exhausted |
+| Gold | ml | ☐ Yes ☐ Exhausted |
+| Other: | ml | ☐ Yes ☐ Exhausted |
+
+### Mordançage
+
+| Item | Quantity |
+|------|:--------:|
+| Prints made | |
+| Bleach batches mixed | |
+| Bleach still in use from previous year? | ☐ Yes ☐ No |
+
+*If reusing bleach: copper burden is amortised across all prints*
+
+### Chromoskedasic Sabattier
+
+| Item | Quantity |
+|------|:--------:|
+| Prints made | |
+| Stabiliser used | ml |
+| Activator used | ml |
+| Method | ☐ Brush ☐ Tray |
+
+### Cyanotype / Other Alt Process
+
+| Process | Prints Made | Notes |
+|---------|:-----------:|-------|
+| | | |
+| | | |
+
+---
+
+## Section 5: Silver Recovery
+
+### Recovery Method
+
+☐ Steel wool displacement
+☐ Electrolytic recovery  
+☐ Professional collection
+☐ Hazardous waste (no recovery)
+☐ None (fixer down drain) ← *This is the problem*
+
+### Recovery Volume
+
+| Source | Volume Treated | Estimated Silver |
+|--------|:--------------:|:----------------:|
+| B&W fixer | L | g |
+| Colour blix | L | g |
+| **TOTAL RECOVERED** | **L** | **______ g** |
+
+### Silver Sludge Collected
+
+Weight of dried sludge: ______ g
+
+Estimated silver content (20–30%): ______ g
+
+Disposed/sold to refiner: ☐ Yes ☐ Not yet
+
+---
+
+## Section 6: Waste Disposed
+
+### Hazardous Waste
+
+| Waste Type | Volume/Quantity | Disposal Method |
+|------------|:---------------:|-----------------|
+| Exhausted fixer (after recovery) | L | |
+| Colour chemistry | L | |
+| Selenium toner | ml | |
+| Mordançage bleach | ml | |
+| Chromo chemistry | ml | |
+| Other: | | |
+
+### Drain Disposal
+
+| Item | Volume | Properly Treated? |
+|------|:------:|:-----------------:|
+| Oxidised B&W developer | L | ☐ Diluted |
+| Neutralised stop bath | L | ☐ Neutralised |
+| Wash water | L | ☐ N/A |
+
+### Recycled
+
+| Material | Quantity |
+|----------|:--------:|
+| Metal film canisters | |
+| Plastic canisters | |
+| Cardboard packaging | kg |
+| Chemical bottles | |
+
+---
+
+## Section 7: Summary Calculations
+
+### Total Silver Handled
+
+| Source | Silver (g) |
+|--------|:----------:|
+| Film processing | |
+| B&W printing (to fixer) | |
+| Colour processing | |
+| **TOTAL** | **______ g** |
+
+### Silver Recovery Rate
+
+Silver recovered: ______ g ÷ Total handled: ______ g = **______ %**
+
+*Target: >95%*
+
+### Total Water Used
+
+| Use | Litres |
+|-----|:------:|
+| Film washing | |
+| Print washing | |
+| Other | |
+| **TOTAL** | **______** L |
+
+**Context:** Average shower = 65 litres. Your darkroom used the equivalent of **______** showers.
+
+### Comparison to Benchmarks
+
+| Metric | Your Value | Sustainable Target |
+|--------|:----------:|:------------------:|
+| Silver recovery rate | % | >95% |
+| Water per film roll | L | <3 L |
+| Water per FB print session | L | <20 L |
+| Fixer down drain | L | 0 L |
+
+---
+
+## Section 8: Year-over-Year Comparison
+
+| Metric | Last Year | This Year | Change |
+|--------|:---------:|:---------:|:------:|
+| Rolls processed | | | |
+| Prints made | | | |
+| Silver handled (g) | | | |
+| Silver recovered (%) | | | |
+| Water used (L) | | | |
+| Hazardous waste (L) | | | |
+
+---
+
+## Section 9: Improvement Goals
+
+### What Went Well
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+### Areas for Improvement
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+### Goals for Next Year
+
+☐ _______________________________________________________________
+
+☐ _______________________________________________________________
+
+☐ _______________________________________________________________
+
+---
+
+## Section 10: Context
+
+### Your Darkroom vs. Other Activities
+
+| Activity | Annual CO₂ Equivalent |
+|----------|:---------------------:|
+| Your darkroom (estimated) | ~5–20 kg |
+| One transatlantic flight | ~1,000–2,000 kg |
+| One year of driving (avg) | ~2,000–4,000 kg |
+| Household electricity (avg) | ~1,500–3,000 kg |
+
+*Darkroom photography, practiced responsibly, is a minor environmental activity.*
+
+### The 80% Rule
+
+If your silver recovery rate is >95%, you've addressed approximately 80% of your darkroom's environmental impact.
+
+If your silver recovery rate is 0%, silver is your priority—everything else is secondary.
+
+---
+
+**Completed by:** _________________________ **Date:** __________
+
+---
+
+*Sustainable Darkroom series*

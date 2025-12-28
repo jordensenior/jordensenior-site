@@ -3,7 +3,7 @@ title: "028 · The Upstream Cost—Film Manufacturing, Sourcing, and the Rebrand
 image: "/darkroom/sustainable/film-factory.jpeg"
 description: "The environmental impact of darkroom photography begins before you open the box. What do we know about film manufacturing, and does where you buy matter?"
 author: "Jorden Senior"
-date: "2026-02-03"
+date: "2026-01-31"
 tags: ["Sustainability", "Film Manufacturing", "Environmental Impact", "Silver", "Supply Chain", "Sourcing"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

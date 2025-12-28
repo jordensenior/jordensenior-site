@@ -3,7 +3,7 @@ title: "021 · The Colour Print Question: RA-4 and Its Alternatives"
 image: "/darkroom/sustainable/ra4-drum-processing.jpeg"
 description: "Comparing RA-4 colour printing with scanning and digital output—which is actually more sustainable?"
 author: "Jorden Senior"
-date: "2026-01-20"
+date: "2026-01-15"
 tags: ["Sustainability", "RA-4", "Colour Printing", "Digital Printing", "Environmental"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

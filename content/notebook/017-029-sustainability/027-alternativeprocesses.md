@@ -3,7 +3,7 @@ title: "027 · Alternative Processes—A Sustainability Overview"
 image: "/darkroom/sustainable/cyanotype-leaves.jpeg"
 description: "A brief survey of non-silver processes and their environmental profiles—from genuinely sustainable to surprisingly problematic"
 author: "Jorden Senior"
-date: "2026-02-03"
+date: "2026-01-29"
 tags: ["Sustainability", "Alternative Processes", "Cyanotype", "Anthotype", "Van Dyke"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
