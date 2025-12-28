@@ -1,6 +1,7 @@
 ---
 title: "Series Overview"
 description: "A guide to the experimental darkroom notebook series"
+live: false
 ---
 
 # Series Overview

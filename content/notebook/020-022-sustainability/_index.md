@@ -3,6 +3,7 @@ title: "Sustainable Darkroom: A 13-Part Investigation"
 description: "A comprehensive examination of environmental sustainability in analogue photography—from botanical developers to silver recovery, water efficiency to film manufacturing supply chains"
 author: "Jorden Senior"
 date: "2026-12-26"
+live: false
 tags: ["Sustainability", "Environmental", "Darkroom"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
