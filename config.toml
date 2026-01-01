@@ -1,6 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Jorden Senior"
 baseURL = "https://www.jordensenior.com"
+buildFuture = true
 copyright = "Copyright © 2025"
 disqusShortname = "JordenSenior"
 enableInlineShortcodes = true
