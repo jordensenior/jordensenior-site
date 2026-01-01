@@ -1,10 +1,10 @@
 ---
 title: "019 · A Defensible Practice: How to Run a Darkroom You Can Live With"
-image: "/darkroom/sustainable/silver-recovery-setup.jpeg"
+image: ""
 description: "Practical interventions ranked by actual environmental impact—silver recovery, water efficiency, and the hierarchy of what actually matters"
 author: "Jorden Senior"
 date: "2026-01-03"
-tags: ["Sustainability", "Silver Recovery", "Water Efficiency", "Practical Darkroom", "Environmental"]
+tags: ["Sustainability"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["defensible-practice", "sustainable-darkroom-practical"]

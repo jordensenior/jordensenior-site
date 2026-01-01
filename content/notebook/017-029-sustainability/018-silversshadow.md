@@ -1,10 +1,10 @@
 ---
 title: "018 · Silver's Shadow: The Real Environmental Crisis in Your Darkroom"
-image: "/darkroom/sustainable/fixer-disposal.jpeg"
+image: ""
 description: "Why the developer-versus-developer debate misses the point entirely—fixer contains silver at concentrations a million times higher than lethal thresholds for aquatic life"
 author: "Jorden Senior"
 date: "2026-01-01"
-tags: ["Sustainability", "Fixer", "Silver Recovery", "Environmental", "Heavy Metals"]
+tags: ["Sustainability"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["silver-shadow", "fixer-problem"]
