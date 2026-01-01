@@ -1,6 +1,6 @@
 ---
 title: "017 · The Caffenol Question: What Botanical Developers Actually Offer"
-image: "/darkroom/sustainable/caffenol-setup.jpeg"
+image: ""
 description: "Examining the environmental claims around coffee, wine, and plant-based film developers—what the chemistry says, what the toxicology shows, and why the conversation might be missing the point"
 author: "Jorden Senior"
 date: "2025-12-30"
@@ -14,7 +14,7 @@ live: true
 
 # The Caffenol Question: What Botanical Developers Actually Offer
 
-**Part 1 of 13** in the Sustainable Darkroom series | [Next: Part 2 →](../018-SilversShadow)
+<!-- **Part 1 of 13** in the Sustainable Darkroom series | [Next: Part 2 →](../018-SilversShadow) -->
 
 The first time I developed film in coffee, I felt like I was getting away with something. Instant coffee, vitamin C, washing soda—chemicals you could theoretically consume, though I wouldn't recommend it—mixed in a measuring jug and poured into a tank. The image that emerged was sharp, contrasty, with a grain structure reminiscent of Rodinal. It felt subversive: photography reduced to kitchen ingredients, industrial chemistry bypassed entirely.
 
@@ -34,17 +34,17 @@ Photographic development requires a reducing agent—a molecule willing to donat
 
 This is precisely the mechanism by which hydroquinone, metol, and other synthetic developers work.[^1] The difference is sourcing: hydroquinone is synthesised industrially, while plant polyphenols containing the same functional groups occur naturally in coffee, tea, wine, oak galls, and dozens of other botanical sources.
 
-Electrochemistry research confirms this isn't folk chemistry. Peer-reviewed studies on silver nanoparticle synthesis demonstrate that tannic acid spontaneously reduces silver ions at room temperature—the same chemistry that occurs in your developing tank.[^2] Caffeic acid, the actual developing agent in coffee (not caffeine, despite the name), exhibits pH-dependent oxidation with formal potential shifting at approximately -59 mV per pH unit.[^3] This explains why botanical developers require strongly alkaline conditions (pH >10) to function effectively: at high pH, the oxidation potential drops enough for spontaneous silver reduction.
+Electrochemistry research confirms this isn't folk chemistry. Peer-reviewed studies on silver nanoparticle synthesis demonstrate that tannic acid spontaneously reduces silver ions at room temperature—the same chemistry that occurs in your developing tank.[^2] Caffeic acid, the actual developing agent in coffee (not caffeine, despite the name) exhibits pH-dependent oxidation[^3], which explains why botanical developers sometimes require strongly alkaline conditions (pH >10) to function effectively.
 
 The active compounds map predictably to their plant sources:
 
 - **Gallic acid** (3,4,5-trihydroxybenzoic acid): oak galls, tea, sumac, grape seeds
 - **Caffeic acid** (3,4-dihydroxycinnamic acid): coffee, wine, many plants
 - **Catechins** (flavan-3-ols with catechol groups): tea, particularly green tea
-- **Tannic acid** (polygalloyl glucose ester): oak galls, tea, sumac
+- **Tannic acid** (polygalloyl glucose ester): oak galls, tea, red wine
 - **Pyrogallol** (1,2,3-trihydroxybenzene): derived from gallic acid via heating[^4]
 
-Tannic acid alone contains 25 phenolic hydroxyl groups, of which 20 ortho-dihydroxyphenyl groups can participate in electron donation.[^2] It's not surprising these compounds work—they're doing the same chemistry as synthetic developers, just with molecules assembled by plants rather than industrial processes.
+It's not surprising these compounds work—they're doing the same chemistry as synthetic developers, just with molecules assembled by plants rather than industrial processes.
 
 ## The Toxicology Differential Is Real and Substantial
 
@@ -85,7 +85,7 @@ None of this appears in the measuring jug when you mix your caffenol. The enviro
 
 Now, this critique applies to all photographic chemistry—synthetic developers have their own supply chain impacts. The question is whether caffenol's supply chain is actually better or worse than alternatives.
 
-The honest answer: we don't know. **No peer-reviewed lifecycle assessment compares botanical versus synthetic photographic developers.** The research simply doesn't exist. We're comparing acute aquatic toxicity (where botanical developers excel) while ignoring production impacts, transportation, packaging, and end-of-life considerations (where the comparison is unclear).
+The honest answer: we don't know. **As far as I can tell, no peer-reviewed lifecycle assessment compares botanical versus synthetic photographic developers.** - the research simply doesn't exist (although please correct me if I'm wrong here!). We're comparing acute aquatic toxicity (where botanical developers excel) while ignoring production impacts, transportation, packaging, and end-of-life considerations (where the comparison is unclear).
 
 One important exception: if you're making caffenol from **spent coffee grounds**—post-consumer waste collected from local cafés—the calculation genuinely changes. You're using material that would otherwise enter the waste stream, adding no new agricultural demand. The vitamin C and washing soda still carry embedded impacts, but the primary ingredient becomes effectively carbon-neutral. This is legitimate sustainability, not greenwashing.
 
@@ -148,7 +148,7 @@ What's missing:
 - Standardised biodegradability testing for spent developer solutions
 - Systematic comparison of silver recovery efficiency from different developer chemistries
 
-The sustainability claims around botanical developers rest on acute toxicology data (solid), practitioner experience (extensive but unsystematised), and lifecycle assumptions (untested). For someone trained in physics, accustomed to peer review and reproducible methodology, this evidence base feels thin. The promise is real; the documentation lags behind.
+The sustainability claims around botanical developers rest on acute toxicology data (solid), practitioner experience (extensive but unsystematised), and lifecycle assumptions (untested). 
 
 ## Beyond Chemistry: Material Unity
 

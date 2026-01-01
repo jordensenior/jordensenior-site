@@ -14,7 +14,8 @@ live: true
 
 # Silver's Shadow: The Real Environmental Crisis in Your Darkroom
 
-**Part 2 of 13** in the Sustainable Darkroom series | [← Previous: Part 1](../017-CaffenolQuestion) | [Next: Part 3 →](../019-DefensiblePractice)
+**Part 2 of 13** in the Sustainable Darkroom series | [← Previous: Part 1](../017-CaffenolQuestion) 
+<!-- | [Next: Part 3 →](../019-DefensiblePractice)  -->
 
 The previous post in this series examined botanical developers—caffenol, wine, tea, juniper—and what they actually offer environmentally. The conclusion was measured: real but limited advantages, primarily around disposal toxicity, with poorly quantified lifecycle trade-offs.
 
@@ -101,13 +102,13 @@ This isn't just my analysis. Industry data confirms fixer's dominant role in pho
 
 Kodak Publication H24.06, the most comprehensive effluent characterisation for photographic processing, provides comparative data for motion picture processing:[^15]
 
-| Process | BOD₅ (mg/L) | COD (mg/L) | Silver (mg/L) |
-|---------|-------------|------------|---------------|
-| D-96 B&W Negative | 14,000 | 10,000 | 3,000–5,000 |
-| D-97 B&W Print | 5,600 | 8,500 | 2,000–4,000 |
-| ECN-2 Colour Negative | 1,300–1,700 | 3,200–3,500 | 500–1,500 |
+| Process | BOD₅ (mg/L) | Silver (mg/L) |
+|---------|-------------|---------------|
+| D-96 B&W Negative | 14,000 | 3,000–5,000 |
+| D-97 B&W Print | 5,600 | 2,000–4,000 |
+| ECN-2 Colour Negative | 1,300–1,700 | 500–1,500 |
 
-Note that fixer contributes **more than half of biochemical oxygen demand** in black-and-white processing effluent. The BOD₅ values of 5,600–14,000 mg/L represent **5–50 times stronger** waste than typical municipal sewage (200–300 mg/L). Processing chemistry places genuine stress on treatment systems.
+Where Kodak specifically notes that fixer may contribute **more than half of biochemical oxygen demand BOD₅** in black-and-white processing waste. The BOD₅ values of 5,600–14,000 mg of oxygen consumed per litre represent **5–50 times stronger** waste than typical municipal sewage (200–300 mg/L). Processing chemistry places genuine stress on treatment systems.
 
 But the silver content is what triggers regulatory classification. Under US RCRA regulations, any waste containing ≥5 mg/L silver is classified as hazardous waste (D011).[^11] Virtually all spent fixer exceeds this threshold by **600–2,400×**. The developer, whatever its chemical composition, rarely triggers hazardous waste classification.
 
@@ -143,13 +144,10 @@ If you genuinely care about minimising your darkroom's environmental impact, the
 **1. Silver management (non-negotiable)**
 Whatever developer you choose—caffenol, Rodinal, D-76, Xtol—you must address the silver in your fixer. Without silver recovery, your darkroom releases persistent heavy metal contamination regardless of how "green" your developer is.
 
-**2. Water efficiency (important)**
-Washing uses enormous water volumes, and wash water carries residual fixer (and thus residual silver) into the drain. Reducing wash volumes reduces both water consumption and silver discharge.
-
-**3. Fixer efficiency (worthwhile)**
+**2. Fixer efficiency (worthwhile)**
 Extending fixer life through two-bath fixing or careful capacity management reduces the volume of silver-laden waste generated.
 
-**4. Developer choice (marginal)**
+**3. Developer choice (marginal)**
 Lower-toxicity developers are preferable—ascorbic acid over hydroquinone, phenidone over metol—but the magnitude of benefit is small compared to items 1–3.
 
 The discourse around sustainable darkroom practice has this hierarchy inverted. We debate caffenol versus Rodinal while ignoring fixer. Photographers feel virtuous about "natural" developers while—in jurisdictions with lax enforcement—pouring heavy metals down the drain. It's a kind of environmental theatre that lets people feel responsible without addressing the actual problem.
@@ -177,7 +175,7 @@ The next post in this series covers practical silver recovery methods for the ho
 
 I've focused on environmental harm rather than legal compliance, because the two don't always align—and because regulatory frameworks vary enormously.
 
-In some places (including where I'm based), spent fixer is unambiguously classified as hazardous waste, and municipal collection points exist to handle it. In others, home darkroom operators face little practical enforcement—wastewater authorities don't monitor individual households, and the volumes are small compared to commercial processors. Someone could pour spent fixer down the drain their entire photographic life and probably never face consequences.
+In some places (including where I'm based in Finland), spent fixer is unambiguously classified as hazardous waste, and municipal collection points exist to handle it. In others, home darkroom operators face little practical enforcement—wastewater authorities don't monitor individual households, and the volumes are small compared to commercial processors. Someone could pour spent fixer down the drain their entire photographic life and probably never face consequences.
 
 But legality and ethics are different questions. The silver still reaches the environment. The aquatic toxicity remains what it is. The fact that no one is watching doesn't change the chemistry.
 
