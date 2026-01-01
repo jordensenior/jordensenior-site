@@ -1,10 +1,10 @@
 ---
 title: "020 · Colour's Complications: C-41 and What It Costs"
-image: "/darkroom/sustainable/c41-chemistry.jpeg"
+image: ""
 description: "Colour negative processing adds real environmental concerns beyond black-and-white—but silver remains the dominant issue"
 author: "Jorden Senior"
 date: "2026-01-06"
-tags: ["Sustainability", "C-41", "Colour Processing", "Environmental", "Home Development"]
+tags: ["Sustainability", "C-41"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["c41-colour", "colour-processing-sustainability"]
@@ -14,11 +14,12 @@ live: true
 
 # Colour's Complications: C-41 and What It Costs
 
-**Part 4 of 13** in the Sustainable Darkroom series | [← Previous: Part 3](../019-DefensiblePractice) | [Next: Part 5 →](../021-RA4Printing)
+**Part 4** in the Sustainable Darkroom series | [← Previous: Part 3](../019-DefensiblePractice) 
+<!-- | [Next: Part 5 →](../021-RA4Printing) -->
 
 The first three posts in this series focused on black-and-white processing. That's where most of the sustainability discourse lives—caffenol versus Rodinal, botanical developers, fixer recovery. But I also process colour, and it seemed dishonest to write about sustainable darkroom practice without addressing it.
 
-I'm primarily a B&W shooter, but once a month or so I process some colour—more in the brighter months when the light and colour are worth capturing, less so in the Finnish winter. I've been trying to batch my colour processing to minimise chemistry waste, but honestly, I'm too impatient. I tend to develop a roll the same week I shoot it. When that doesn't happen, I hand it to a commercial lab—especially for C-41, where the process was designed for industrial throughput anyway. B&W I keep at home for the control over developer choice and the aesthetic flexibility that brings.
+I'm primarily a B&W shooter, but once a month or so I process some colour—more in the brighter months when the light and colour are worth capturing, less so in the Finnish winter (at least - recent winters where it's been mostly shades of grey). I've been trying to batch my colour processing to minimise chemistry waste, but honestly, I'm too impatient. I tend to develop a roll the same week I shoot it. When that doesn't happen, I hand it to a commercial lab—especially for C-41, where the process was designed for industrial throughput anyway. B&W I keep at home for the control over developer choice and the aesthetic flexibility that brings.
 
 This post examines C-41 colour negative development: what's in it, how it compares environmentally to black-and-white, and whether any of the available home kits are meaningfully better than others. I'll also address a question that's been nagging me: is it actually more sustainable to just let the lab do it?
 
@@ -44,7 +45,7 @@ The developer is classified as "very toxic to aquatic life" on safety data sheet
 
 ### The Bleach and Fix (or Blix)
 
-After development, the silver image must be removed—unlike black-and-white, where the metallic silver *is* the image, in colour the silver is just a catalyst for dye formation and becomes waste.
+After development, the silver must be removed—unlike black-and-white, where the metallic silver *is* the image, in colour the silver is just a catalyst for dye formation and becomes waste.
 
 **Separate bleach and fix:**
 - Bleach: Ammonium ferric EDTA oxidises metallic silver back to silver halide
@@ -77,7 +78,7 @@ EDTA itself has low acute toxicity to aquatic organisms, but its environmental p
 
 **3. Temperature and energy**
 
-C-41 requires processing at 38°C ± 0.3°C. Maintaining this temperature precision requires either a water bath or a sous vide circulator, both of which consume energy. The tight tolerance also means more potential for failed batches—chemistry that doesn't quite work because temperature drifted, producing waste without usable negatives.
+C-41 requires processing at 38°C ± 0.5°C. Maintaining this temperature precision requires either a water bath or a sous vide circulator, both of which consume energy. The tight tolerance also means more potential for failed batches—chemistry that doesn't quite work because temperature drifted, producing waste without usable negatives.
 
 Black-and-white processing tolerates temperature variations of several degrees; C-41 does not.
 
@@ -104,7 +105,7 @@ I use CineStill Cs41 because it's what's readily available to me. But I wanted t
 - Single-part developer (simpler mixing)
 - Separate bleach and fix allows for silver recovery from fix only
 
-**Tetenal Colortec** (when available)
+**Tetenal Colortec** 
 - Three-part developer concentrate
 - Separate bleach and fix or combined blix depending on kit
 - Long track record, professional-grade results
@@ -145,7 +146,7 @@ I continue to use CineStill because it's available, the flexible temperature ran
 
 ## Would Lab Processing Be More Sustainable?
 
-This is a question I've been wrestling with, especially given my impatient habit of developing rolls one at a time rather than batching.
+This is a question I've been wrestling with, especially given my impatient habit of developing rolls immediately rather than batching.
 
 **Arguments for lab processing:**
 
@@ -165,7 +166,7 @@ Home processing eliminates the lab's facility footprint—heating, lighting, equ
 
 **My current compromise:**
 
-For C-41, I increasingly lean toward lab processing when I can't batch. My lab is walkable and (I believe) responsible. The industrial efficiency argument is strong, and the chemistry is standardised anyway—I'm not making aesthetic choices about colour developer the way I do with B&W.
+For C-41, I increasingly lean toward lab processing when I can't batch. I'm in the fortunate position that there are at least 4 local labs, including one on the street where I live, and I believe they are responsible (except for the one who for inexplicable reasons, sends film from [Finland to Spain](https://kamerastore.com/en/pages/sending-your-film-to-us) to be developed...). The industrial efficiency argument is strong, and the chemistry is standardised anyway—I'm not making aesthetic choices about colour developer the way I do with B&W.
 
 For B&W, I continue to process at home because developer choice matters to how my negatives look, and the environmental profile of B&W chemistry is more manageable.
 
@@ -198,7 +199,7 @@ But it's not dramatically worse. The silver burden is similar (actually higher p
 
 If you're already practising responsible B&W processing (silver recovery, efficient washing, proper disposal), extending those practices to C-41 addresses most of the additional concern. The CD-4 and EDTA are genuine issues, but they're secondary to the heavy metal problem that dominates both processes.
 
-Process C-41 at home if you want to. Wear gloves, ensure ventilation, recover silver or dispose of chemistry properly. The environmental cost is real but manageable—and significantly lower than sending film to labs that may not practice silver recovery at all.
+Process C-41 at home if you want to. Wear gloves, ensure ventilation, recover silver or dispose of chemistry properly. The environmental cost is real but manageable—and significantly lower than sending film to labs that may not practice silver recovery at all (or send them halfway across Europe to be developed).
 
 ---
 

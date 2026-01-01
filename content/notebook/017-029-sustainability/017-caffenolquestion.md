@@ -14,7 +14,7 @@ live: true
 
 # The Caffenol Question: What Botanical Developers Actually Offer
 
-**Part 1 of 13** in the Sustainable Darkroom series | [Next: Part 2 →](../018-SilversShadow)
+**Part 1** in the Sustainable Darkroom series | [Next: Part 2 →](../018-SilversShadow)
 
 The first time I developed film in coffee, I felt like I was getting away with something. Instant coffee, vitamin C, washing soda—chemicals you could theoretically consume, though I wouldn't recommend it—mixed in a measuring jug and poured into a tank. The image that emerged was sharp, contrasty, with a grain structure reminiscent of Rodinal. It felt subversive: photography reduced to kitchen ingredients, industrial chemistry bypassed entirely.
 
