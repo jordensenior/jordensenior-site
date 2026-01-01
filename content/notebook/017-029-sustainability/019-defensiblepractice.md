@@ -64,9 +64,9 @@ The reaction is spontaneous at room temperature. Silver plates out onto the stee
 6. When silver is depleted, decant the liquid (now safe for drain disposal) and retain the silver sludge
 7. Accumulate sludge until you have enough to sell to a refiner or dispose as hazardous waste (dramatically reduced volume)
 
-**Effectiveness:** 95–99% silver removal when properly maintained.[^3] Final effluent typically contains <5 mg/L silver, meeting most discharge limits.
+**Effectiveness:** 95–99% silver removal when properly maintained.[^3] 
 
-**Cost:** Steel wool is pennies. No ongoing chemical costs.
+**Cost:** Steel wool is cheap. No ongoing chemical costs.
 
 **Limitations:** Produces iron-laden effluent (not toxic, but may affect plumbing); requires outdoor or well-ventilated space due to H₂S generation; takes a week per batch.
 
@@ -100,7 +100,7 @@ Passing current through spent fixer plates silver onto a cathode, producing high
 - High recovery efficiency
 
 **Disadvantages:**
-- Equipment cost ($500–2,000+)
+- Equipment cost (€500–2,000+)
 - Requires power supply and monitoring
 - Generates chlorine gas at anode (ventilation critical)
 - Not cost-effective at home darkroom volumes
@@ -111,7 +111,7 @@ Electrolytic recovery makes sense for community darkrooms processing hundreds of
 
 Let me be direct about this: **silver recovery at home darkroom scales is not profitable**.
 
-At current silver prices (~$30/oz), a litre of exhausted fixer at 5 g/L contains roughly **$5 worth of silver**. The steel wool method costs almost nothing, but the time involved exceeds minimum wage if you're counting. Metallic replacement cartridges cost more than you'll recover in years of hobby processing.
+At current silver prices (~€2/g), a litre of exhausted fixer at 5 g/L contains roughly **€10 worth of silver**. The steel wool method costs almost nothing, but the time involved exceeds minimum wage if you're counting. Metallic replacement cartridges cost more than you'll recover in years of hobby processing.
 
 The point isn't profit. The point is **not poisoning waterways**. Do silver recovery because it's the right thing to do, not because you'll get rich. The value proposition is ethical, not economic.
 
@@ -138,8 +138,6 @@ This geometric progression (5-10-20) isn't arbitrary. Research on diffusion kine
 
 Independent testing with residual hypo indicators confirms the Ilford method achieves **no detectable residual fixer** when followed correctly. Archival quality equals or exceeds continuous washing at a fraction of the water consumption.
 
-I've used this method for years. My negatives, some now over a decade old, show no signs of degradation. The method works.
-
 ### Wash Aid: Further Reduction
 
 Adding a **hypo clearing agent** (sodium sulfite or sodium metabisulfite solution, typically 2%) between fixing and washing accelerates thiosulfate removal from the emulsion.[^10]
@@ -160,12 +158,12 @@ Wash aids are particularly important for **fibre-based paper**, where fixer pene
 Washing prints—particularly fibre-based prints—consumes far more water than film processing. A single 8×10 fibre print can require 40–60 litres under standard protocols.
 
 **Efficient print washing:**
-1. Use RC paper when archival longevity isn't critical (30 seconds wash, ~4 litres)
+1. Use RC paper when archival longevity isn't critical - i.e, test prints (30 seconds wash, ~4 litres)
 2. Implement wash aid for fibre prints (reduces wash time by 80%)
 3. Use sequential water changes rather than continuous flow
 4. Print in batches to amortise wash water across multiple prints
 
-I'll be honest: I've largely moved to RC paper for work that doesn't require extreme archival properties. The water savings are substantial, and modern RC papers have addressed most of the delamination concerns that gave the format a bad reputation in the 1970s–80s.[^12]
+I'll be honest: I've largely moved to RC paper for work that doesn't require extreme archival properties, for test prints, and work where fibre is the only option. The water savings are substantial, and modern RC papers have addressed most of the delamination concerns that gave the format a bad reputation in the 1970s–80s.[^12]
 
 ## Fixer Efficiency: Extending Chemical Life
 
@@ -192,7 +190,7 @@ Testing lets you run fixer to actual exhaustion rather than arbitrary roll count
 
 ### A Note on Rapid Fixer
 
-As mentioned at the start, this post assumes you're using rapid fixer (ammonium thiosulfate)—products like Ilford Rapid Fixer, Kodak Rapid Fixer, or similar. This isn't arbitrary preference.
+As mentioned at the start, this post assumes you're using rapid fixer (ammonium thiosulfate)—products like Ilford Rapid Fixer, Adox Rapid Fixer, or similar. This isn't arbitrary preference.
 
 Ammonium thiosulfate offers significant advantages over sodium thiosulfate:[^15]
 
@@ -206,13 +204,13 @@ From a sustainability perspective, faster fixing and faster washing means less t
 
 ## Developer Handling: The Minor Optimisations
 
-Developer choice is the least impactful intervention, but that doesn't mean it's irrelevant.
+Developer choice is the least impactful intervention, but that doesn't mean it's irrelevant. Of course, choice of developer also impacts the aesthetics, which to my mind, is a more important consideration. But anyway, this is a blog about sustainability, so let's rank by that. 
 
 ### Preferred Developer Types
 
 Ranked by environmental profile:
 
-1. **Ascorbic acid-based (Xtol, Eco-Pro, Flic Film Black White and Green):** Food-safe reducing agent, minimal aquatic toxicity, drain-safe disposal.[^17] Excellent image quality with fine grain and good shadow detail.
+1. **Ascorbic acid-based (Xtol, Eco-Pro, etc):** Food-safe reducing agent, minimal aquatic toxicity, drain-safe disposal.[^17] Excellent image quality with fine grain and good shadow detail.
 
 2. **Phenidone-vitamin C developers (POTA variants, Gainer formulas):** Phenidone is moderately toxic but used at very low concentrations (~0.1 g/L).[^18] Combined with ascorbic acid, these offer good performance with minimal environmental burden.
 
@@ -278,7 +276,7 @@ But it can be made defensible.
 
 Implement silver recovery. Use the Ilford wash method. Choose lower-toxicity developers. Extend fixer life. Test rather than guess. These interventions, collectively, reduce darkroom environmental impact by an order of magnitude compared to standard practice.
 
-Is it worth doing? I think so. The alternative—claiming sustainability through developer choice while ignoring silver and water—is environmental theatre. Better to acknowledge real impacts and address them genuinely than to perform virtue through purchasing decisions.
+Is it worth doing? I think so. The alternative—claiming sustainability through developer choice while ignoring silver and water—is, in my opinion, environmental theatre. Better to acknowledge real impacts and address them genuinely than to perform virtue through purchasing decisions.
 
 The most sustainable darkroom is one that confronts its impacts honestly and minimises what can be minimised. That's what defensible practice looks like.
 
@@ -291,7 +289,7 @@ The most sustainable darkroom is one that confronts its impacts honestly and min
 **Materials:**
 - 5-litre plastic container with lid
 - Fine steel wool (grade 0000), approximately 50g per batch
-- Silver test strips or potassium chromate solution
+- Silver test strips or potassium chromate solution (optional)
 - Well-ventilated outdoor location
 
 **Process:**
