@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# Colour's Complications: C-41 and What It Costs
+# Colours Complications: C-41 and What It Costs
 
 **Part 4** in the Sustainable Darkroom series | [← Previous: Part 3](../019-DefensiblePractice) 
 <!-- | [Next: Part 5 →](../021-RA4Printing) -->
@@ -25,7 +25,7 @@ This post examines C-41 colour negative development: what's in it, how it compar
 
 The short answer: C-41 has genuinely worse chemistry than B&W in some respects, but silver remains the dominant environmental concern. If you're recovering silver from your blix or fixer, you're addressing the biggest problem regardless of colour versus monochrome.
 
-## What's Actually in C-41 Chemistry?
+## Whats Actually in C-41 Chemistry?
 
 C-41 is a standardised process—unlike black-and-white, where you can choose between dozens of developers with different formulations, all C-41 developers use essentially the same active chemistry.[^1] The standardisation exists because colour negative film contains integral dye couplers that must react with specific colour developing agents to produce the final image.
 
@@ -191,7 +191,7 @@ If I had to rank the environmental interventions for C-41 processing:
 4. **Efficient temperature control** — reduces energy waste
 5. **Kit choice** — marginal differences
 
-## The Honest Assessment
+## My Honest Assessment
 
 C-41 home processing is environmentally worse than B&W processing. The developer is more toxic, the bleach introduces persistent chemicals, and temperature requirements increase energy use.
 
