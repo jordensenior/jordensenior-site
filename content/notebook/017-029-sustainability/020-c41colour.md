@@ -206,7 +206,7 @@ Process C-41 at home if you want to. Wear gloves, ensure ventilation, recover si
 ## References
 
 [^1]: Kodak. "Using KODAK FLEXICOLOR Chemicals: Process C-41." Publication Z-131. Rochester, NY: Eastman Kodak Company, 2000.
-
+ 
 [^2]: ECHA Registration Dossier. "4-(N-Ethyl-N-2-hydroxyethyl)-2-methylphenylenediamine sulfate (CD-4)." European Chemicals Agency, 2023. Skin sensitiser Category 1.
 
 [^3]: Flic Film. "Safety Data Sheet: C41 Developer - Part A." 2021. Available: freestylephoto.com/static/pdf/msds/flicfilm/FLIC_FILM_ECO_C41_SDS.pdf
