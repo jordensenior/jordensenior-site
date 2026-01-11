@@ -38,15 +38,23 @@
   object-fit: contain;
 }
 
-/* Fix apostrophe spacing in headings - CJK fonts add extra space after quotes */
+/* Fix apostrophe spacing in headings */
+/* The issue is HTML entity &#39; being rendered with CJK font spacing */
 h1, h2, h3, h4, h5, h6 {
-  font-feature-settings: "kern" 1, "halt" 1, "palt" 1, "chws" 0;
+  /* Use font-family to prioritize Latin fonts for punctuation only via unicode-range */
+  font-variant-ligatures: common-ligatures;
   text-rendering: optimizeLegibility;
-  font-variant-east-asian: proportional-width;
-  letter-spacing: normal;
-  word-spacing: normal;
-  /* Force use of Western font for Latin characters and punctuation */
-  font-family: Georgia, "Times New Roman", serif, "Source Han Serif SC", "Noto Serif CJK SC";
+}
+
+/* Override CJK font for basic Latin and punctuation in headings */
+@font-face {
+  font-family: 'Heading Latin Override';
+  src: local('Georgia'), local('Times New Roman');
+  unicode-range: U+0020-007F; /* Basic Latin including apostrophe */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Heading Latin Override', inherit;
 }
 
 /* Fix table of contents direction for Western text */
