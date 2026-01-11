@@ -41,12 +41,12 @@
 /* Apostrophe spacing fix moved to config.toml - using straight quotes instead of curly */
 
 /* Fix table of contents direction for Western text in page content */
-.c-rich-text details.toc nav ul {
-  direction: ltr !important;
-}
-
+details.toc nav ul,
+details.toc nav ul ul,
+.c-rich-text details.toc nav ul,
 .c-rich-text details.toc nav ul ul {
   direction: ltr !important;
+  unicode-bidi: normal !important;
 }
 
 /* Gallery Grid Styles */
