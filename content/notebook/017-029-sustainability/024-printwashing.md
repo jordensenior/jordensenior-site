@@ -1,10 +1,10 @@
 ---
 title: "024 · The Wash Question: Where Darkroom Water Actually Goes"
-image: "/darkroom/sustainable/print-washing-setup.jpeg"
+image: ""
 description: "Film washing is solved. Print washing is where the water goes—and where the biggest sustainability gains remain"
 author: "Jorden Senior"
-date: "2026-01-15"
-tags: ["Sustainability", "Print Washing", "Water Efficiency", "Archival Processing", "Environmental"]
+date: "2026-01-12"
+tags: ["Sustainability"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["print-washing", "water-efficient-darkroom"]
@@ -14,7 +14,8 @@ live: true
 
 # The Wash Question: Where Darkroom Water Actually Goes
 
-**Part 8 of 13** in the Sustainable Darkroom series | [← Previous: Part 7](../023-mordancage) | [Next: Part 9 →](../025-chromoskedasic)
+**Part 8 ** in the Sustainable Darkroom series | [← Previous: Part 7](../023-mordancage) 
+<!-- | [Next: Part 9 →](../025-chromoskedasic) -->
 
 Film washing is a solved problem. The Ilford method—fill, invert 5 times, drain; fill, invert 10 times, drain; fill, invert 20 times, drain—uses 1.5–2 litres per roll and achieves archival permanence. I described this in Part 3. In a rotary drum, it's even simpler: the same sequential water changes, the same geometric progression, the same result. My film development uses less water than a single toilet flush.
 

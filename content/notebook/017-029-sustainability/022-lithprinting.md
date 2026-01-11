@@ -14,8 +14,7 @@ live: true
 
 # Experimental Methods: Lith Printing's Surprising Profile
 
-**Part 6** in the Sustainable Darkroom series | [← Previous: Part 5](../021-ra4printing) 
-<!-- | [Next: Part 7 →](../023-mordancage) -->
+**Part 6** in the Sustainable Darkroom series | [← Previous: Part 5](../021-ra4printing) | [Next: Part 7 →](../023-mordancage)
 
 The previous five posts examined standard processing—B&W film development, fixer management, C-41, RA-4. This post and the next move into experimental territory: processes I use regularly that don't fit the standard workflow.
 

@@ -1,10 +1,10 @@
 ---
 title: "023 · Mordançage: The Honest Assessment of an Unsustainable Process"
-image: "/darkroom/sustainable/mordancage-print.jpeg"
+image: ""
 description: "Copper chloride, hydrogen peroxide, and the reality that some processes can't be made green—only less bad"
 author: "Jorden Senior"
-date: "2026-01-13"
-tags: ["Sustainability", "Mordançage", "Experimental", "Copper", "Environmental"]
+date: "2026-01-11"
+tags: ["Sustainability", "Mordançage"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["mordancage", "mordancage-sustainability"]
@@ -14,7 +14,7 @@ live: true
 
 # Mordançage: The Honest Assessment of an Unsustainable Process
 
-**Part 7 of 13** in the Sustainable Darkroom series | [← Previous: Part 6](../022-lithprinting) | [Next: Part 8 →](../024-printwashing)
+**Part 7** in the Sustainable Darkroom series | [← Previous: Part 6](../022-lithprinting) | [Next: Part 8 →](../024-printwashing)
 
 This is the post where I have to be honest about a process I love that I can't really defend environmentally.
 
