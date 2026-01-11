@@ -7,4 +7,13 @@
     {{.TableOfContents}}
 </div>
 </details>
+<script>
+// Remove question marks from TOC links to fix RTL display issue
+document.addEventListener('DOMContentLoaded', function() {
+    const tocLinks = document.querySelectorAll('details.toc a');
+    tocLinks.forEach(link => {
+        link.textContent = link.textContent.replace(/\?/g, '');
+    });
+});
+</script>
 {{ end }}
