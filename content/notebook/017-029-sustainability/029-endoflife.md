@@ -14,7 +14,7 @@ live: true
 
 # End of Life: Disposal, Creative Reuse, and Getting Value from "Waste"
 
-**Part 13 of 13** in the Sustainable Darkroom series | [← Previous: Part 12](../028-FilmManufacturing)
+**Part 13 of 13** in the Sustainable Darkroom series | [← Previous: Part 12](../028-filmmanufacturing)
 
 This series has focused on the use phase of darkroom materials—how to work with chemistry responsibly, recover silver, minimise water use. But sustainability also means thinking about the full lifecycle, including what happens when materials reach the end of their intended use.
 

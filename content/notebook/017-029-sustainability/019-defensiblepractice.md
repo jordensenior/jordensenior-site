@@ -14,7 +14,7 @@ live: true
 
 # A Defensible Practice: How to Run a Darkroom You Can Live With
 
-**Part 3** in the Sustainable Darkroom series | [← Previous: Part 2](../018-SilversShadow) | [Next: Part 4 →](../020-C41Colour)
+**Part 3** in the Sustainable Darkroom series | [← Previous: Part 2](../018-silversshadow) | [Next: Part 4 →](../020-c41colour)
 
 I've spent two posts explaining why the sustainability conversation around analogue photography is often pointed in the wrong direction. Botanical developers offer genuine but limited advantages. Silver in fixer represents the overwhelming majority of environmental concern. The hierarchy of impact is clear: silver management >> water efficiency >> fixer efficiency >> developer choice.
 

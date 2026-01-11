@@ -38,19 +38,23 @@
   object-fit: contain;
 }
 
-/* Remove all apostrophe spacing fixes - they're not working */
-/* The real issue is the theme's CJK font stack treats apostrophes with wide spacing */
-/* A simpler approach: just tighten spacing universally in headings */
-h1, h2, h3, h4, h5, h6 {
-  word-spacing: -0.08em !important;
+/* Fix apostrophe spacing in page content headings */
+/* Override CJK font for Latin text and punctuation */
+.c-rich-text h1,
+.c-rich-text h2,
+.c-rich-text h3,
+.c-rich-text h4,
+.c-rich-text h5,
+.c-rich-text h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
 }
 
-/* Fix table of contents direction for Western text */
-details.toc nav ul {
+/* Fix table of contents direction for Western text in page content */
+.c-rich-text details.toc nav ul {
   direction: ltr !important;
 }
 
-details.toc nav ul ul {
+.c-rich-text details.toc nav ul ul {
   direction: ltr !important;
 }
 

@@ -14,7 +14,7 @@ live: true
 
 # Synthesis: A Framework for Sustainable Darkroom Practice
 
-**Part 10 of 13** in the Sustainable Darkroom series | [← Previous: Part 9](../025-Chromoskedasic) | [Next: Part 11 →](../027-AlternativeProcesses)
+**Part 10 of 13** in the Sustainable Darkroom series | [← Previous: Part 9](../025-chromoskedasic) | [Next: Part 11 →](../027-alternativeprocesses)
 
 This series began with a simple question: is caffenol more sustainable than commercial developer? The answer—no, probably not—opened a larger investigation into what sustainability actually means for darkroom photography.
 

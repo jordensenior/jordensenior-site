@@ -14,7 +14,7 @@ live: true
 
 # Colours Complications: C-41 and What It Costs
 
-**Part 4** in the Sustainable Darkroom series | [← Previous: Part 3](../019-DefensiblePractice) | [Next: Part 5 →](../021-RA4Printing)
+**Part 4** in the Sustainable Darkroom series | [← Previous: Part 3](../019-defensiblepractice) | [Next: Part 5 →](../021-ra4printing)
 
 The first three posts in this series focused on black-and-white processing. That's where most of the sustainability discourse lives—caffenol versus Rodinal, botanical developers, fixer recovery. But I also process colour, and it seemed dishonest to write about sustainable darkroom practice without addressing it.
 
