@@ -40,9 +40,19 @@
 
 /* Fix apostrophe spacing in headings - CJK fonts add extra space after quotes */
 h1, h2, h3, h4, h5, h6 {
-  font-feature-settings: "kern" 1, "halt" 1;
+  font-feature-settings: "kern" 1, "halt" 1, "palt" 1;
   text-rendering: optimizeLegibility;
   font-variant-east-asian: proportional-width;
+  letter-spacing: -0.01em;
+}
+
+/* Fix table of contents direction for Western text */
+details.toc nav ul {
+  direction: ltr !important;
+}
+
+details.toc nav ul ul {
+  direction: ltr !important;
 }
 
 /* Gallery Grid Styles */
