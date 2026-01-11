@@ -172,7 +172,7 @@ Whether this constitutes "sustainability" in any measurable sense is unclear—I
 
 That's not nothing. It might even be more important than the toxicology.
 
-## So What Do Botanical Developers Actually Offer?
+## So What Do Botanical Developers Actually Offer
 
 Having spent several thousand words complicating the picture, let me try to synthesise.
 

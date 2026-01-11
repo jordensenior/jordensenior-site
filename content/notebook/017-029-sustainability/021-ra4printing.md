@@ -21,7 +21,7 @@ I do both RA-4 colour printing and scanning with digital output. The RA-4 work h
 
 This post examines RA-4 printing specifically, then compares it with the digital alternative. There's also a question that came up during research that deserves attention: if you're printing black-and-white images, is RA-4 onto colour paper more sustainable than traditional B&W printing?
 
-## What's in RA-4 Chemistry?
+## What's in RA-4 Chemistry
 
 RA-4 is to colour printing what C-41 is to colour film development: a standardised process using specific chemistry that must interact with the paper's integral dye couplers.[^1]
 
@@ -61,7 +61,7 @@ I process RA-4 in a rotary drum (Jobo-style), which has significant implications
 
 The trade-off is equipment cost and complexity. Tray processing requires essentially no equipment beyond the trays; rotary processing requires a drum and some form of roller base or processor.
 
-## RA-4 for Black-and-White Images?
+## RA-4 for Black-and-White Images
 
 This question arose during research: if you're making black-and-white prints, is RA-4 onto colour paper more sustainable than traditional silver gelatin printing?
 

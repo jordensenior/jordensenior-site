@@ -259,7 +259,7 @@ Whether this helps or hurts the rebranding ecosystem remains to be seen. It migh
 
 ---
 
-## Sourcing Considerations: Does Location Matter?
+## Sourcing Considerations: Does Location Matter
 
 For a European photographer concerned about sustainability, does it matter where film comes from?
 
@@ -434,7 +434,7 @@ An 8×10 inch print (0.05 m²) contains roughly 0.1–0.2g silver (fibre) or 0.0
 
 ---
 
-## What Can We Do?
+## What Can We Do
 
 The upstream impacts are largely outside individual control—we can't change how Kodak manufactures Portra. But some choices matter:
 

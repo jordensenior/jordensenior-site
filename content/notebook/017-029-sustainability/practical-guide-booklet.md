@@ -322,7 +322,7 @@ Developed from research by Ilford, this method achieves archival washing with ~2
 **Total time:** ~4 minutes
 **Archival quality:** Meets ISO 18917 standards
 
-### Why 5-10-20?
+### Why 5-10-20
 
 Each cycle removes roughly half the remaining thiosulfate. The increasing inversions compensate:
 

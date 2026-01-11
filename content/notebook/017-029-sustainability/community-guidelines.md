@@ -262,7 +262,7 @@ Silver recovery is not optional in this space.
 
 ---
 
-## Questions?
+## Questions
 
 **Darkroom manager:** _________________
 
