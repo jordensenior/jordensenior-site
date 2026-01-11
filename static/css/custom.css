@@ -38,23 +38,11 @@
   object-fit: contain;
 }
 
-/* Fix apostrophe spacing in headings */
-/* The issue is HTML entity &#39; being rendered with CJK font spacing */
+/* Remove all apostrophe spacing fixes - they're not working */
+/* The real issue is the theme's CJK font stack treats apostrophes with wide spacing */
+/* A simpler approach: just tighten spacing universally in headings */
 h1, h2, h3, h4, h5, h6 {
-  /* Use font-family to prioritize Latin fonts for punctuation only via unicode-range */
-  font-variant-ligatures: common-ligatures;
-  text-rendering: optimizeLegibility;
-}
-
-/* Override CJK font for basic Latin and punctuation in headings */
-@font-face {
-  font-family: 'Heading Latin Override';
-  src: local('Georgia'), local('Times New Roman');
-  unicode-range: U+0020-007F; /* Basic Latin including apostrophe */
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Heading Latin Override', inherit;
+  word-spacing: -0.08em !important;
 }
 
 /* Fix table of contents direction for Western text */
