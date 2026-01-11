@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.jordensenior.com/sitemap.xml
+Sitemap: https://jordensenior.com/sitemap.xml
