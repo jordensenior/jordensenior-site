@@ -18,6 +18,11 @@ style = "monokailight"
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.goldmark.extensions.typographer]
+apostrophe = '&rsquo;'
+leftDoubleQuote = '&ldquo;'
+rightDoubleQuote = '&rdquo;'
+
 [markup.tableOfContents]
 startLevel = 1
 endLevel = 2
