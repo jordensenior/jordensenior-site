@@ -512,7 +512,7 @@ Total: ~10–15 litres, ~20 minutes
 
 # Conclusion: Proportionality, Not Perfection
 
-## Should You Feel Guilty
+## Should You Feel Guilty?
 
 **No—if you're practicing responsibly.**
 

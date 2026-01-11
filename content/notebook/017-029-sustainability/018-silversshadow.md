@@ -115,7 +115,7 @@ The EPA's 1997 *Preliminary Data Summary of the Photoprocessing Industry* conclu
 
 Nearly thirty years later, this assessment remains accurate. The organic chemistry of photographic processing is manageable. The silver isn't.
 
-## Is There a "Green Fixer"
+## Is There a "Green Fixer"?
 
 Given all this, a reasonable question: can we fix the fixer? If botanical developers offer lower-toxicity alternatives to hydroquinone, perhaps there's an equivalent for thiosulfate?
 

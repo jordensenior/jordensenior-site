@@ -24,7 +24,7 @@ This post examines C-41 colour negative development: what's in it, how it compar
 
 The short answer: C-41 has genuinely worse chemistry than B&W in some respects, but silver remains the dominant environmental concern. If you're recovering silver from your blix or fixer, you're addressing the biggest problem regardless of colour versus monochrome.
 
-## Whats Actually in C-41 Chemistry
+## Whats Actually in C-41 Chemistry?
 
 C-41 is a standardised process—unlike black-and-white, where you can choose between dozens of developers with different formulations, all C-41 developers use essentially the same active chemistry.[^1] The standardisation exists because colour negative film contains integral dye couplers that must react with specific colour developing agents to produce the final image.
 
@@ -143,7 +143,7 @@ If you're choosing a C-41 kit primarily for environmental reasons:
 
 I continue to use CineStill because it's available, the flexible temperature range suits my workflow, and I take my spent blix to hazardous waste collection. If I were setting up silver recovery at home, I would switch to a separate bleach/fix system.
 
-## Would Lab Processing Be More Sustainable
+## Would Lab Processing Be More Sustainable?
 
 This is a question I've been wrestling with, especially given my impatient habit of developing rolls immediately rather than batching.
 
@@ -171,7 +171,7 @@ For B&W, I continue to process at home because developer choice matters to how m
 
 If you're processing C-41 at home, batch your rolls. If you're processing them one at a time like I often do, and you have access to a trustworthy lab within walking or cycling distance, that might actually be the more sustainable choice.
 
-## Is C-41 Worse Than B&W
+## Is C-41 Worse Than B&W?
 
 Yes, in several respects:
 

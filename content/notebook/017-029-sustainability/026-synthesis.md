@@ -132,7 +132,7 @@ Here's how the processes I've covered compare:
 - **Secondary concern:** Waste volume depends entirely on method
 - **Assessment:** Brush application is sustainable; tray method generates significant hazardous waste.
 
-## The "Should I Feel Guilty" Question
+## The "Should I Feel Guilty?" Question
 
 Let me address something that underlies this entire series: should darkroom photographers feel guilty about environmental impact?
 

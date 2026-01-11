@@ -47,7 +47,7 @@ Same principle, adapted for rotation:
 
 ---
 
-### Why 5-10-20
+### Why 5-10-20?
 
 Each cycle removes a percentage of remaining fixer. The geometric progression compensates:
 

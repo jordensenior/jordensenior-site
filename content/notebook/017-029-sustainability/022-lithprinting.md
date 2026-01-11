@@ -27,7 +27,7 @@ What I will examine:
 
 These processes have genuine environmental considerations—but they're not always worse than standard methods. Lith printing, in particular, has a surprisingly favourable profile.
 
-## What Is Lith Printing
+## What Is Lith Printing?
 
 Lith printing uses highly diluted, low-sulfite developers to produce distinctive results: high contrast, coloured tones (from pink through brown to olive), and characteristic grain. The technique exploits "infectious development"—a runaway reaction where the oxidation products of hydroquinone become developing agents themselves, accelerating shadow density while highlights remain delicate.[^1]
 
@@ -37,7 +37,7 @@ I use Moersch Easy Lith FT, though the principles apply to any lith developer (M
 
 ## The Chemistry of Lith Development
 
-### What's in the developer
+### What's in the developer?
 
 Lith developers are remarkably simple:[^2]
 
