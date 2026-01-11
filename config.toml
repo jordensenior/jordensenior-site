@@ -19,7 +19,7 @@ style = "monokailight"
 unsafe = true
 
 [markup.goldmark.extensions.typographer]
-apostrophe = '&rsquo;'
+apostrophe = "'"
 leftDoubleQuote = '&ldquo;'
 rightDoubleQuote = '&rdquo;'
 
