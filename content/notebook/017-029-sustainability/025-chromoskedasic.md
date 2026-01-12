@@ -1,10 +1,10 @@
 ---
 title: "025 · Chromoskedasic Sabattier: The Workshop Sludge Problem"
-image: "/darkroom/sustainable/chromo-metallic-print.jpeg"
+image: ""
 description: "A process that produces stunning metallic colours—and some of the nastiest waste I've seen in a darkroom"
 author: "Jorden Senior"
-date: "2026-01-17"
-tags: ["Sustainability", "Chromoskedasic Sabattier", "Alternative Process", "Environmental Impact"]
+date: "2026-01-15"
+tags: ["Sustainability", "Chromoskedasic Sabattier"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["chromoskedasic-sabattier", "chromo-printing"]
@@ -14,7 +14,8 @@ live: true
 
 # Chromoskedasic Sabattier: The Workshop Sludge Problem
 
-**Part 9 of 13** in the Sustainable Darkroom series | [← Previous: Part 8](../024-printwashing) | [Next: Part 10 →](../026-synthesis)
+**Part 9** in the Sustainable Darkroom series | [← Previous: Part 8](../024-printwashing) 
+<!-- | [Next: Part 10 →](../026-synthesis) -->
 
 Chromoskedasic sabattier—"chromo" for short—produces some of the most visually striking prints in darkroom photography. Metallic sheens, iridescent colours emerging from black-and-white paper, golds and coppers and blues that shift depending on viewing angle. The effect relies on Mie scattering: silver particles of varying sizes scatter different wavelengths of light, producing colour without any dyes or pigments.
 

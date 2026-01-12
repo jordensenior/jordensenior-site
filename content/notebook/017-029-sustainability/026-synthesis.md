@@ -1,10 +1,10 @@
 ---
 title: "026 · Synthesis: A Framework for Sustainable Darkroom Practice"
-image: "/darkroom/sustainable/darkroom-overview.jpeg"
+image: ""
 description: "Consolidating nine posts of research into a practical decision framework for darkroom sustainability"
 author: "Jorden Senior"
-date: "2026-01-20"
-tags: ["Sustainability", "Darkroom", "Summary", "Framework"]
+date: "2026-01-17"
+tags: ["Sustainability", "Darkroom"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
 aliases: ["sustainable-darkroom-synthesis", "darkroom-sustainability-framework"]
@@ -14,7 +14,8 @@ live: true
 
 # Synthesis: A Framework for Sustainable Darkroom Practice
 
-**Part 10 of 13** in the Sustainable Darkroom series | [← Previous: Part 9](../025-chromoskedasic) | [Next: Part 11 →](../027-alternativeprocesses)
+**Part 10 ** in the Sustainable Darkroom series | [← Previous: Part 9](../025-chromoskedasic)
+ <!-- | [Next: Part 11 →](../027-alternativeprocesses) -->
 
 This series began with a simple question: is caffenol more sustainable than commercial developer? The answer—no, probably not—opened a larger investigation into what sustainability actually means for darkroom photography.
 
