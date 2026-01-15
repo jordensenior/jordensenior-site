@@ -3,7 +3,7 @@ title: "026 · Synthesis: A Framework for Sustainable Darkroom Practice"
 image: ""
 description: "Consolidating nine posts of research into a practical decision framework for darkroom sustainability"
 author: "Jorden Senior"
-date: "2026-01-17"
+date: "2026-01-16"
 tags: ["Sustainability", "Darkroom"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]
