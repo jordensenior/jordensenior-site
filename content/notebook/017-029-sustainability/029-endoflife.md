@@ -3,7 +3,7 @@ title: "029 · End of Life: Disposal, Creative Reuse, and Getting Value from 'Wa
 image: ""
 description: "Before you throw it away, consider: old film, fogged paper, and failed prints often have creative second lives. And when disposal is necessary, here's how to do it responsibly."
 author: "Jorden Senior"
-date: "2026-01-20"
+date: "2026-01-19"
 tags: ["Sustainability"]
 categories: ["Darkroom", "Analogue"]
 series: ["Sustainable Darkroom"]

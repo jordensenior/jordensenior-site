@@ -14,7 +14,7 @@ live: true
 
 # Silver's Shadow: The Real Environmental Crisis in Your Darkroom
 
-**Part 2** in the Sustainable Darkroom series | [← Previous: Part 1](../017-caffenolquestion) | [Next: Part 3 →](../019-defensiblepractice) 
+**Part 2 of 13** in the Sustainable Darkroom series | [← Previous: Part 1](../017-caffenolquestion) | [Next: Part 3 →](../019-defensiblepractice) 
 
 The previous post in this series examined botanical developers—caffenol, wine, tea, juniper—and what they actually offer environmentally. The conclusion was measured: real but limited advantages, primarily around disposal toxicity, with poorly quantified lifecycle trade-offs.
 

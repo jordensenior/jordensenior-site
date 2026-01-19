@@ -14,7 +14,7 @@ live: true
 
 # The Upstream Cost—Film Manufacturing, Sourcing, and the Rebranding Ecosystem
 
- **Part 12** in the Sustainable Darkroom series | [← Previous: Part 11](../027-alternativeprocesses) <!--| [Next: Part 13 →](../029-endoflife) -->
+ **Part 12 of 13** in the Sustainable Darkroom series | [← Previous: Part 11](../027-alternativeprocesses) | [Next: Part 13 →](../029-endoflife)
 
 This series has focused on what happens in the darkroom—the chemicals we use, the water we consume, the waste we generate. But the environmental impact of film photography begins long before we open a box of film or a pack of paper.
 

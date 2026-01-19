@@ -14,7 +14,7 @@ live: true
 
 # Mordançage: The Honest Assessment of an Unsustainable Process
 
-**Part 7** in the Sustainable Darkroom series | [← Previous: Part 6](../022-lithprinting) | [Next: Part 8 →](../024-printwashing)
+**Part 7 of 13** in the Sustainable Darkroom series | [← Previous: Part 6](../022-lithprinting) | [Next: Part 8 →](../024-printwashing)
 
 This is the post where I have to be honest about a process I love that I can't really defend environmentally.
 
