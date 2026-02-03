@@ -1,9 +1,9 @@
 ---
-title: "030 · Lith Printing I: The Chemistry of Chaos"
-# image: "/notebook/016-LithPrinting/lith_portrait_01.jpeg"
+title: "030 · Lith Printing: The Chemistry of Chaos"
+image: "/"
 description: "Understanding infectious development—the autocatalytic chemistry that makes lith printing unlike anything else in the darkroom"
 author: "Jorden Senior"
-date: "2026-02-03"
+date: "2026-02-01"
 tags: ["Lith Printing",]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
@@ -12,16 +12,16 @@ toc: true
 live: true
 ---
 
-# Lith Printing I: The Chemistry of Chaos
+# Lith Printing: The Chemistry of Chaos
 
-**Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](../031-lithprintingcontrol)
+<!-- **Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](../031-lithprintingcontrol) -->
 
 ---
 
 The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn't develop so much as erupt, shadows darkening visibly, racing toward black while I scrambled to snatch the print before it went too far.
 
 <figure>
-    <img src="/notebook/016-LithPrinting/lith_portrait_01.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print showing characteristic warm highlights and gritty shadows" />
+    <img src="/notebook/030-032-lith/lith_acidsquad.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print showing characteristic warm highlights and gritty shadows" />
     <figcaption></figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Lith development works differently because hydroquinone doesn't oxidise directly
     <figcaption>The semiquinone intermediate is key to infectious development. Unlike the direct oxidation pathway in conventional developers, lith chemistry passes through this highly reactive state.</figcaption>
 </figure> -->
 
-Here's what happens in the tray. In heavily exposed areas—your shadows—many silver halide crystals begin developing simultaneously. Each developing crystal generates semiquinone. As local semiquinone concentration builds, development accelerates exponentially. The more development occurs, the faster it proceeds. Tim Rudman captured this feedback loop precisely in his foundational work on lith printing: the darker a tone becomes, the faster it develops; the faster it develops, the darker it becomes, and so it develops even faster still.
+In heavily exposed areas—your shadows—many silver halide crystals begin developing simultaneously. Each developing crystal generates semiquinone. As local semiquinone concentration builds, development accelerates exponentially. The more development occurs, the faster it proceeds. Tim Rudman captured this feedback loop precisely in his foundational work on lith printing: the darker a tone becomes, the faster it develops; the faster it develops, the darker it becomes, and so it develops even faster still.
 
 Meanwhile, in lightly exposed areas—your highlights—few crystals develop. Little semiquinone accumulates locally. Development proceeds slowly, at a pace closer to conventional linear development. The highlights creep forward while the shadows race.
 
@@ -73,7 +73,7 @@ Traditional lith developers solve this problem with formaldehyde. This might see
 The formaldehyde-bisulfite adduct is remarkably stable—reportedly many orders of magnitude more stable than alternatives like acetone-bisulfite, according to practitioner research documented in community forums. This stability explains why formaldehyde works where other aldehydes fail, and why traditional lith developers (Kodalith, the original formulations) contained it despite the health concerns. The exact chemistry remains somewhat empirical; what matters practically is that formaldehyde enables the process while other aldehydes do not.
 
 <figure>
-    <img src="/notebook/016-LithPrinting/lith_landscape_01.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print of landscape showing tonal separation" />
+    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print of landscape showing tonal separation" />
     <figcaption>The extreme tonal separation in lith prints—soft highlights against dense shadows—emerges from the chemistry itself, not from paper grade selection.</figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ Why does Old Brown improve results? Because accumulated bromide moderates the ca
 Why must you snatch quickly once shadows start moving? Because the exponential nature of infectious development means seconds matter—the feedback loop accelerates continuously until you physically intervene.
 
 <figure>
-    <img src="/notebook/016-LithPrinting/lith_detail_grain.jpeg" align="left" width="300px" style="margin:10px;" alt="Detail showing lith grain structure" />
+    <img src="//notebook/030-032-lith/lith_tampere.jpeg" align="left" width="300px" style="margin:10px;" alt="Detail showing lith grain structure" />
     <figcaption>The distinctive grain of lith printing—visible texture in the shadows—results from the uneven, explosive nature of infectious development.</figcaption>
 </figure>
 

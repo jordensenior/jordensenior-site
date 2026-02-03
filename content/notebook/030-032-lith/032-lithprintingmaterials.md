@@ -1,10 +1,10 @@
 ---
 title: "032 · Lith Printing III: Materials, Workflow, and the Contemporary Printer"
-image: "/notebook/018-LithMaterials/fomatone_print_01.jpeg"
+image: ""
 description: "Papers still available for lith printing in 2025, EasyLith chemistry, practical workflow, and finding community in the Nordic analog scene"
 author: "Jorden Senior"
-date: "2026-02-07"
-tags: ["Lith Printing", "Darkroom", "Experimental Darkroom", "EasyLith", "Fomatone", "FomaBrom", "Nordic Analogue Network"]
+date: "2026-02-05"
+tags: ["Lith Printing", "Darkroom", ]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
 aliases: ["lith-printing-materials"]
@@ -21,7 +21,7 @@ live: true
 The classic lith papers are gone. Sterling Lith, Forte Polywarmtone, Kodak Ektalure, the old Agfa Brovira—papers that defined the technique for decades—have all been discontinued. What remains is a short list of currently manufactured papers that still work, chemistry from a handful of dedicated suppliers, and a community of practitioners who share knowledge about batch variations, workarounds, and alternative approaches.
 
 <figure>
-    <img src="/notebook/018-LithMaterials/fomatone_print_01.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print on FomaTone 132" />
+    <img src="/notebook/030-032-lith/lith_watch.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print on FomaTone 132" />
     <figcaption>FomaTone 132 remains one of the most reliable papers for lith printing in current production.</figcaption>
 </figure>
 
@@ -38,11 +38,11 @@ FomaTone 132, manufactured by Foma Bohemia in the Czech Republic, is the paper I
 The colour palette runs from reddish-yellow highlights to greenish-black shadows—warmly coloured even with relatively short development times. FomaTone rewards overexposure with creamy, detailed highlights. It handles both high-contrast and low-contrast approaches well.
 
 A significant caveat: Foma's emulsion has changed over the years, and certain production batches have been problematic. Papers manufactured between approximately late 2022 and 2023 (various batch numbers in that period) were reported as unlithable or severely compromised—the emulsion changes apparently interfered with infectious development. The community tracked this through forums and social media, comparing batch numbers and results.
-
+<!-- 
 <figure>
     <img src="/notebook/018-LithMaterials/batch_numbers.jpeg" align="left" width="280px" style="margin:10px;" alt="Foma paper batch number location" />
     <figcaption>Check batch numbers before purchasing Foma papers. Current batches (0796+) are reported as working properly.</figcaption>
-</figure>
+</figure> -->
 
 The good news: Foma responded to community feedback and adjusted their emulsion. Current batches (reported as 0796 and later) are working properly again according to community testing. However, old stock from problematic batches may still be sitting on retailer shelves. Before purchasing, ask about batch numbers or check box markings. The lith community on Photrio and Facebook maintains ongoing documentation of which batches work—this information is practitioner-reported rather than manufacturer-confirmed, but it's been reliable in my experience.
 
@@ -77,11 +77,11 @@ If you encounter old paper stock—at estate sales, darkroom closures, or forgot
 ### Moersch EasyLith: My Standard Developer
 
 Moersch EasyLith, manufactured by Wolfgang Moersch's Moersch Photochemie in Germany, is the developer I use for virtually all my lith printing. It's a two-part formaldehyde-free concentrate that produces consistent results across different papers with minimal fuss.
-
+<!-- 
 <figure>
     <img src="/notebook/018-LithMaterials/easylith_kit.jpeg" align="right" width="280px" style="margin:10px;" alt="Moersch EasyLith kit" />
     <figcaption>Moersch EasyLith: the pre-tuned two-part concentrate that handles most lith printing needs.</figcaption>
-</figure>
+</figure> -->
 
 **Part A** contains hydroquinone (the developing agent). **Part B** contains alkali activator and restrainers. The two parts are mixed in equal quantities, then diluted heavily with water.
 
@@ -149,9 +149,14 @@ This baseline approach gets me in the correct range for first prints. Fine-tunin
 
 **Developer immersion:** Slide paper into developer face-down. After ten to fifteen seconds, turn face-up. Keep paper moving gently throughout development—continuous agitation isn't necessary, but periodic movement ensures even development.
 
-<figure>
+<!-- <figure>
     <img src="/notebook/018-LithMaterials/development_stages.jpeg" align="left" width="350px" style="margin:10px;" alt="Lith development stages from induction to snatch" />
     <figcaption>Development progresses through distinct phases: induction (no visible image), slow development (highlights and midtones emerge), and acceleration (shadows darken rapidly).</figcaption>
+</figure> -->
+
+<figure>
+    <img src="/notebook/030-032-lith/lith_signs.jpeg" align="left" width="350px" style="margin:10px;" alt="" />
+    <figcaption></figcaption>
 </figure>
 
 **Monitor with safelight torch:** I use a bright amber safelight torch to inspect shadow development, holding it at an angle to reveal emerging density. The key is watching your most important shadow area—where you need detail, not just maximum black.
@@ -224,20 +229,6 @@ Wolfgang Moersch, the German master printer and chemist behind Moersch Photochem
 
 His technical documentation—available at moersch-photochemie.de—provides detailed guidance including sample images across various papers. The comprehensive lith printing guide (Lessons 1-6) is essential reading for anyone serious about the technique.
 
-### Nordic Analogue Network and Mörk
-
-<figure>
-    <img src="/notebook/018-LithMaterials/mork_darkroom.jpeg" align="right" width="350px" style="margin:10px;" alt="Mörk darkroom in Helsinki" />
-    <figcaption>Mörk, operated by the Finnish Darkroom Association, provides community darkroom infrastructure in Helsinki.</figcaption>
-</figure>
-
-My own introduction to lith printing came through [Åsmund Lahaug](https://www.instagram.com/asmundlahaug/), whose 2024 residency at [Mörk](https://www.mork.fi/) in Helsinki included multiple lith printing workshops. Åsmund works exclusively with analog processes and brings deep technical knowledge alongside artistic practice—exactly the combination needed to teach a technique this dependent on understanding its mechanisms.
-
-Mörk, operated by the [Finnish Darkroom Association](https://pimioyhdistys.fi/en/) (Suomen Pimiöyhdistys), exemplifies contemporary darkroom infrastructure: seventy square metres housing six enlargers (from 35mm to 8×10 formats), three large sinks, climate control, and twenty-four-hour member access. The organisation, founded in 2016 by six female photography artists, focuses on preserving and teaching analog photography in Finland.
-
-The [Nordic Analogue Network](https://www.nordicanalog.network/), founded in 2022 by CYAN Studio (Oslo) and the Finnish Darkroom Association, connects analog communities across Scandinavia through a darkroom exchange residency programme. Thirteen partner darkrooms participate across Finland, Denmark, Iceland, Norway, and Sweden. The network facilitates knowledge transfer—practitioners like Åsmund travelling to teach, local communities gaining exposure to techniques they might not otherwise encounter.
-
-An upcoming exhibition runs October 11-26, 2025 at Oslo Negativ Photofestival, showcasing work from the network.
 
 ### Finding Community Online
 
@@ -245,11 +236,11 @@ An upcoming exhibition runs October 11-26, 2025 at Oslo Negativ Photofestival, s
 
 **Facebook Lith Printing Group:** An active community for questions and print sharing. The group requires that posted images include paper and chemistry information—useful for understanding what produces what. Members are generally helpful and responsive to questions.
 
-**Instagram:** Follow #lithprinting, @lithprintingcollective, and individual practitioners. Notable accounts include Mitsuka Uemura (Japanese lithprint artist based in Lithuania), Dominique Capelle (homebrew developer experiments), and Gavin Lyons (UK-based with extensive documentation).
+**Instagram:** Follow #lithprinting, and individual practitioners. Notable accounts include Mitsuka Uemura (Japanese lithprint artist based in Lithuania), Dominique Capelle (homebrew developer experiments), and Gavin Lyons (UK-based with extensive documentation).
 
 ### Workshops and Learning
 
-**Penumbra Foundation** (New York): Offers two-day lith printing workshops covering first and second-pass techniques. Includes materials; fees around $715 USD.
+**Penumbra Foundation** (New York): Offers two-day lith printing workshops covering first and second-pass techniques. 
 
 **Revela-t Festival** (Barcelona): Annual alternative photography festival with periodic lith workshops, often taught by Oliver Pera.
 
@@ -264,7 +255,7 @@ The colour, first. Warm cream highlights against cool black shadows, achieved wi
 The texture. That characteristic pepper grain, the visible evidence of infectious development spreading through the emulsion. The prints have physical presence—not just tonality but surface, not just image but object.
 
 <figure>
-    <img src="/notebook/018-LithMaterials/final_print_display.jpeg" align="left" width="350px" style="margin:10px;" alt="Finished lith prints displayed" />
+    <img src="/notebook/030-032-lith/lith_tallink.jpeg" align="left" width="350px" style="margin:10px;" alt="" />
     <figcaption></figcaption>
 </figure>
 
