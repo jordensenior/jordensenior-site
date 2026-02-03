@@ -22,7 +22,6 @@ The rules of lith printing often invert what conventional darkroom experience te
 
 <figure>
     <img src="/notebook/030-032-lith/lith_boat.jpeg" align="right" width="350px" style="margin:10px;" alt="High contrast lith print with pale highlights and dense blacks" />
-    <figcaption>High contrast lith: underexposure forces extended development, creating extreme tonal separation.</figcaption>
 </figure>
 
 This post examines the practical control variables: how to use exposure to set contrast, how to read and execute the snatch point, how temperature affects everything, and how to manage (or encourage) the characteristic effects—snowballs and peppercorns—that give lith prints their distinctive texture. The previous post covered the underlying chemistry; here we translate that understanding into darkroom practice.
@@ -49,7 +48,6 @@ The mechanism connects to infectious development. When you significantly overexp
 
 <figure>
     <img src="/notebook/030-032-lith/lith_foggyboat.jpeg" align="left" width="350px" style="margin:10px;" alt="Low contrast lith print with rich midtones and soft transitions" />
-    <figcaption>Low contrast lith: heavy overexposure develops highlights substantially before snatching, preserving midtone detail.</figcaption>
 </figure>
 
 When you underexpose (one to two stops beyond normal), highlights remain thin. They barely develop before shadows demand attention. You must extend development to achieve proper shadow density, which means the infectious cascade runs longer. The result: pale, delicate highlights against harsh, gritty blacks. Maximum tonal separation. High graphic contrast.
@@ -113,6 +111,10 @@ I typically work with equal A:B as my baseline, adjusting only when a specific p
 
 "Snowballs" (or snowflakes) are circular spots where the image fails to develop—round, measles-like defects most visible in highlight areas and clear skies. They result from uneven developer penetration, often caused by hardened emulsion or exhausted chemistry. A clear sky becomes spotted with pale circles. A face develops patchy white marks. The effect ruins prints.
 
+<figure>
+    <img src="/notebook/030-032-lith/lith_skyscraper.jpeg" align="left" width="280px" style="margin:10px;" alt="Example of snowball defects in lith print" />
+</figure>
+
 Foma papers from certain production batches have been particularly prone to snowballing. The issue relates to emulsion hardness—developer can't penetrate evenly, leaving undeveloped islands. Current Fomatone batches (0796 onward) work better, but the problem hasn't entirely disappeared.
 
 Prevention methods, ranked by effectiveness:
@@ -126,11 +128,6 @@ Prevention methods, ranked by effectiveness:
 **Fresher developer**: Snowballs become more common as developer exhausts. Adding fresh chemistry mid-session can resolve emerging problems.
 
 **EasyLith FT Special**: Moersch developed this variant specifically for FomaTone, containing development retarders that help prevent snowballing. Worth considering if standard EasyLith produces consistent problems with your paper batch.
-
-<figure>
-    <img src="/notebook/030-032-lith/lith_skyscraper.jpeg" align="left" width="280px" style="margin:10px;" alt="Example of snowball defects in lith print" />
-    <figcaption>Snowball defects in highlight areas. These undeveloped spots result from uneven developer penetration. In this case, I used it for artistic effect.</figcaption>
-</figure>
 
 If snowballs appear despite prevention efforts, the print is essentially ruined for that attempt. Snowballs don't fill in with extended development—they remain as permanent undeveloped areas. Start fresh with a new sheet after adjusting your prevention strategy.
 

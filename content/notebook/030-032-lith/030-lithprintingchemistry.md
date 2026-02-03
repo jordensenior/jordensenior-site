@@ -73,7 +73,7 @@ Traditional lith developers solve this problem with formaldehyde. This might see
 The formaldehyde-bisulfite adduct is remarkably stable—reportedly many orders of magnitude more stable than alternatives like acetone-bisulfite, according to practitioner research documented in community forums. This stability explains why formaldehyde works where other aldehydes fail, and why traditional lith developers (Kodalith, the original formulations) contained it despite the health concerns. The exact chemistry remains somewhat empirical; what matters practically is that formaldehyde enables the process while other aldehydes do not.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print of landscape showing tonal separation" />
+    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="left" width="350px" style="margin:10px;" alt="Lith print of landscape showing tonal separation" />
     <figcaption>The extreme tonal separation in lith prints—soft highlights against dense shadows—emerges from the chemistry itself, not from paper grade selection.</figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ Why does Old Brown improve results? Because accumulated bromide moderates the ca
 Why must you snatch quickly once shadows start moving? Because the exponential nature of infectious development means seconds matter—the feedback loop accelerates continuously until you physically intervene.
 
 <figure>
-    <img src="//notebook/030-032-lith/lith_tampere.jpeg" align="left" width="300px" style="margin:10px;" alt="Detail showing lith grain structure" />
+    <img src="/notebook/030-032-lith/lith_tampere.jpeg" align="right" width="300px" style="margin:10px;" alt="Detail showing lith grain structure" />
     <figcaption>The distinctive grain of lith printing—visible texture in the shadows—results from the uneven, explosive nature of infectious development.</figcaption>
 </figure>
 
