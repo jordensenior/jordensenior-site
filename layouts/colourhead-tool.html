@@ -1,0 +1,743 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+  <!-- Page Header -->
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-2">{{ .Title }}</h1>
+    <div class="prose prose-lg text-gray-600">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <!-- Calculator Container -->
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+    <!-- Left Column: Controls -->
+    <div class="space-y-6">
+
+      <!-- Image Upload -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-4">Reference Image</h2>
+        <div class="space-y-3">
+          <input
+            type="file"
+            id="imageUpload"
+            accept="image/jpeg,image/jpg,image/png"
+            class="block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-md file:border-0 file:text-sm file:font-semibold file:bg-eucalyptus-50 file:text-eucalyptus-700 hover:file:bg-eucalyptus-100"
+          >
+
+          <!-- Negative/Positive Toggle -->
+          <div class="flex items-center space-x-4">
+            <label class="text-sm font-medium text-gray-700">Image Type:</label>
+            <div class="flex space-x-2">
+              <button id="negativeBtn" class="px-3 py-1 text-sm rounded-md bg-eucalyptus-600 text-white font-medium">
+                Negative
+              </button>
+              <button id="positiveBtn" class="px-3 py-1 text-sm rounded-md bg-gray-200 text-gray-700 font-medium">
+                Positive
+              </button>
+            </div>
+          </div>
+
+          <div id="imagePreview" class="mt-4 hidden">
+            <p class="text-xs text-gray-600 mb-2">Original:</p>
+            <img id="previewImg" src="" alt="Image preview" class="w-full h-auto rounded-lg border border-gray-300">
+          </div>
+          <p class="text-xs text-gray-500">Upload an image and adjust filtration to preview the final RA4 print.</p>
+        </div>
+      </div>
+
+      <!-- Film Base Selector -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-4">Film Type / Grade</h2>
+        <select
+          id="filmBase"
+          class="block w-full rounded-md border-gray-300 shadow-sm focus:border-eucalyptus-500 focus:ring-eucalyptus-500 text-sm"
+        >
+          <optgroup label="Black & White (Multigrade)">
+            <option value="mg-grade0">Grade 0 (Soft)</option>
+            <option value="mg-grade1">Grade 1</option>
+            <option value="mg-grade2">Grade 2</option>
+            <option value="mg-grade25">Grade 2.5 (Normal)</option>
+            <option value="mg-grade3">Grade 3</option>
+            <option value="mg-grade4">Grade 4</option>
+            <option value="mg-grade5">Grade 5 (Hard)</option>
+          </optgroup>
+          <optgroup label="Standard C-41">
+            <option value="kodak-portra">Kodak Portra</option>
+            <option value="fuji-pro400h">Fuji Pro 400H</option>
+            <option value="kodak-ektar">Kodak Ektar</option>
+            <option value="generic-c41">Generic C-41</option>
+          </optgroup>
+          <optgroup label="Lomography">
+            <option value="lomochrome-purple">LomoChrome Purple</option>
+            <option value="lomochrome-turquoise">LomoChrome Turquoise</option>
+            <option value="lomochrome-metropolis">LomoChrome Metropolis</option>
+          </optgroup>
+          <optgroup label="Infrared / False Color">
+            <option value="aerocolor">Aerocolor</option>
+            <option value="santacolor">Santacolor</option>
+          </optgroup>
+        </select>
+        <p class="text-xs text-gray-500 mt-2">For colour: different film bases need different filtration. For B&W: grade controls contrast.</p>
+      </div>
+
+      <!-- Enlarger Type Selector (for B&W) -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-4">Enlarger Type</h2>
+        <select
+          id="enlargerType"
+          class="block w-full rounded-md border-gray-300 shadow-sm focus:border-eucalyptus-500 focus:ring-eucalyptus-500 text-sm"
+        >
+          <option value="durst">Durst</option>
+          <option value="ilford">Ilford</option>
+          <option value="fujimoto">Fujimoto</option>
+          <option value="generic">Generic</option>
+        </select>
+        <p class="text-xs text-gray-500 mt-2">Different enlargers use different CMY scales for multigrade filters.</p>
+      </div>
+
+      <!-- Paper Stock Selector -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-4">Paper Stock</h2>
+        <select
+          id="paperStock"
+          class="block w-full rounded-md border-gray-300 shadow-sm focus:border-eucalyptus-500 focus:ring-eucalyptus-500 text-sm"
+        >
+          <optgroup label="Black & White">
+            <option value="ilford-mg">Ilford RC Multigrade</option>
+          </optgroup>
+          <optgroup label="Color (RA4)">
+            <option value="fuji-crystal">Fuji Crystal Archive</option>
+            <option value="kodak-endura">Kodak Endura</option>
+            <option value="ilford-classic">Ilford Ilfochrome Classic</option>
+            <option value="generic-ra4">Generic RA4</option>
+          </optgroup>
+        </select>
+        <p class="text-xs text-gray-500 mt-2">Select B&W paper for multigrade printing, or colour paper for RA4.</p>
+      </div>
+
+      <!-- Help Text -->
+      <div class="bg-eucalyptus-50 rounded-lg p-4">
+        <h3 class="text-sm font-semibold text-eucalyptus-900 mb-2">Quick Guide</h3>
+        <ul class="text-xs text-eucalyptus-800 space-y-1">
+          <li><strong>Add Cyan:</strong> Reduce red cast</li>
+          <li><strong>Add Magenta:</strong> Warmer tones, reduce green cast</li>
+          <li><strong>Add Yellow:</strong> Reduce blue cast</li>
+          <li><strong>Remember:</strong> These are starting values. Always make test strips!</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- Right Column: Sliders and Results -->
+    <div class="space-y-6">
+
+      <!-- Baseline Values Display -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-4">Baseline Filtration</h2>
+        <div class="text-center">
+          <p class="text-sm text-gray-600 mb-2">Film + Paper Starting Point:</p>
+          <p id="baselineValues" class="text-2xl font-mono font-bold text-eucalyptus-700">0C 80M 50Y</p>
+        </div>
+      </div>
+
+      <!-- CMY Sliders -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-6">Adjust Filtration</h2>
+
+        <!-- Cyan Slider -->
+        <div class="mb-6">
+          <div class="flex justify-between items-center mb-2">
+            <label for="cyanSlider" class="text-sm font-medium text-gray-700">Cyan</label>
+            <span id="cyanValue" class="text-sm font-mono font-semibold text-gray-900">0</span>
+          </div>
+          <input
+            type="range"
+            id="cyanSlider"
+            min="0"
+            max="200"
+            step="5"
+            value="0"
+            class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer slider-cyan"
+          >
+        </div>
+
+        <!-- Magenta Slider -->
+        <div class="mb-6">
+          <div class="flex justify-between items-center mb-2">
+            <label for="magentaSlider" class="text-sm font-medium text-gray-700">Magenta</label>
+            <span id="magentaValue" class="text-sm font-mono font-semibold text-gray-900">80</span>
+          </div>
+          <input
+            type="range"
+            id="magentaSlider"
+            min="0"
+            max="200"
+            step="5"
+            value="80"
+            class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer slider-magenta"
+          >
+        </div>
+
+        <!-- Yellow Slider -->
+        <div class="mb-6">
+          <div class="flex justify-between items-center mb-2">
+            <label for="yellowSlider" class="text-sm font-medium text-gray-700">Yellow</label>
+            <span id="yellowValue" class="text-sm font-mono font-semibold text-gray-900">50</span>
+          </div>
+          <input
+            type="range"
+            id="yellowSlider"
+            min="0"
+            max="200"
+            step="5"
+            value="50"
+            class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer slider-yellow"
+          >
+        </div>
+
+        <!-- Exposure Compensation -->
+        <div class="mb-6">
+          <div class="flex justify-between items-center mb-2">
+            <label for="exposureSlider" class="text-sm font-medium text-gray-700">Exposure</label>
+            <span id="exposureValue" class="text-sm font-mono font-semibold text-gray-900">±0</span>
+          </div>
+          <input
+            type="range"
+            id="exposureSlider"
+            min="-2"
+            max="2"
+            step="0.1"
+            value="0"
+            class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
+          >
+          <p class="text-xs text-gray-500 mt-1">Simulates exposure time/aperture adjustment</p>
+        </div>
+      </div>
+
+      <!-- Final Values and Color Preview -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h2 class="text-xl font-semibold text-gray-900 mb-4">Your Filtration</h2>
+        <div class="text-center mb-4">
+          <p id="finalValues" class="text-3xl font-mono font-bold text-gray-900 mb-4">0C 80M 50Y</p>
+          <div class="mb-4">
+            <p class="text-xs text-gray-600 mb-2">Colour Preview:</p>
+            <div id="colorPreview" class="w-full rounded-lg border-2 border-gray-300" style="background-color: rgb(255, 102, 179); height: 96px;"></div>
+          </div>
+
+          <!-- Filtered Image Preview -->
+          <div id="filteredImagePreview" class="mb-4 hidden">
+            <p class="text-xs text-gray-600 mb-2">Filtered Image Preview:</p>
+            <canvas id="filteredCanvas" class="w-full h-auto rounded-lg border-2 border-gray-300"></canvas>
+          </div>
+        </div>
+        <div class="flex space-x-3">
+          <button
+            id="copyButton"
+            class="flex-1 bg-eucalyptus-600 text-white px-4 py-2 rounded-md hover:bg-eucalyptus-700 transition text-sm font-medium"
+          >
+            Copy Values
+          </button>
+          <button
+            id="resetButton"
+            class="flex-1 bg-gray-600 text-white px-4 py-2 rounded-md hover:bg-gray-700 transition text-sm font-medium"
+          >
+            Reset to Baseline
+          </button>
+        </div>
+        <p id="copyFeedback" class="text-xs text-center text-eucalyptus-600 mt-2 hidden">Copied to clipboard!</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<style>
+  /* Custom slider styling */
+  input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #028760;
+    cursor: pointer;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+
+  input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #028760;
+    cursor: pointer;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+
+  input[type="range"]:focus {
+    outline: none;
+  }
+
+  input[type="range"]:focus::-webkit-slider-thumb {
+    box-shadow: 0 0 0 3px rgba(2, 135, 96, 0.2);
+  }
+
+  input[type="range"]:focus::-moz-range-thumb {
+    box-shadow: 0 0 0 3px rgba(2, 135, 96, 0.2);
+  }
+</style>
+
+<script>
+  // Multigrade filter CMY values for different enlargers
+  const ENLARGER_SCALES = {
+    'durst': {
+      'grade0': { c: 0, m: 0, y: 200 },
+      'grade1': { c: 0, m: 30, y: 150 },
+      'grade2': { c: 0, m: 60, y: 90 },
+      'grade25': { c: 0, m: 75, y: 60 },
+      'grade3': { c: 0, m: 100, y: 40 },
+      'grade4': { c: 0, m: 150, y: 10 },
+      'grade5': { c: 0, m: 200, y: 0 }
+    },
+    'ilford': {
+      'grade0': { c: 0, m: 0, y: 170 },
+      'grade1': { c: 0, m: 25, y: 130 },
+      'grade2': { c: 0, m: 55, y: 80 },
+      'grade25': { c: 0, m: 70, y: 55 },
+      'grade3': { c: 0, m: 95, y: 35 },
+      'grade4': { c: 0, m: 140, y: 10 },
+      'grade5': { c: 0, m: 170, y: 0 }
+    },
+    'fujimoto': {
+      'grade0': { c: 0, m: 0, y: 190 },
+      'grade1': { c: 0, m: 28, y: 145 },
+      'grade2': { c: 0, m: 58, y: 88 },
+      'grade25': { c: 0, m: 73, y: 58 },
+      'grade3': { c: 0, m: 98, y: 38 },
+      'grade4': { c: 0, m: 145, y: 8 },
+      'grade5': { c: 0, m: 190, y: 0 }
+    },
+    'generic': {
+      'grade0': { c: 0, m: 0, y: 180 },
+      'grade1': { c: 0, m: 30, y: 140 },
+      'grade2': { c: 0, m: 60, y: 85 },
+      'grade25': { c: 0, m: 75, y: 60 },
+      'grade3': { c: 0, m: 100, y: 40 },
+      'grade4': { c: 0, m: 150, y: 10 },
+      'grade5': { c: 0, m: 180, y: 0 }
+    }
+  };
+
+  // Film base data
+  // For multigrade, we store the grade number and it's handled separately
+  // baseColor: inherent colour cast of the film base (affects light transmission)
+  // adjustments: recommended filtration adjustments to achieve neutral
+  const FILM_BASES = {
+    'mg-grade0': { name: 'Grade 0 (Soft)', isMultigrade: true, grade: 'grade0' },
+    'mg-grade1': { name: 'Grade 1', isMultigrade: true, grade: 'grade1' },
+    'mg-grade2': { name: 'Grade 2', isMultigrade: true, grade: 'grade2' },
+    'mg-grade25': { name: 'Grade 2.5 (Normal)', isMultigrade: true, grade: 'grade25' },
+    'mg-grade3': { name: 'Grade 3', isMultigrade: true, grade: 'grade3' },
+    'mg-grade4': { name: 'Grade 4', isMultigrade: true, grade: 'grade4' },
+    'mg-grade5': { name: 'Grade 5 (Hard)', isMultigrade: true, grade: 'grade5' },
+    'kodak-portra': {
+      name: 'Kodak Portra (C-41)',
+      baseColor: { r: 1.0, g: 0.85, b: 0.70 },  // Orange mask
+      adjustments: { c: 0, m: 0, y: 0 }
+    },
+    'fuji-pro400h': {
+      name: 'Fuji Pro 400H (C-41)',
+      baseColor: { r: 1.0, g: 0.87, b: 0.73 },  // Slightly lighter orange
+      adjustments: { c: 5, m: -5, y: 0 }
+    },
+    'kodak-ektar': {
+      name: 'Kodak Ektar',
+      baseColor: { r: 1.0, g: 0.82, b: 0.65 },  // Denser orange mask
+      adjustments: { c: -5, m: 5, y: 5 }
+    },
+    'generic-c41': {
+      name: 'Generic C-41',
+      baseColor: { r: 1.0, g: 0.85, b: 0.70 },  // Standard orange
+      adjustments: { c: 0, m: 0, y: 0 }
+    },
+    'lomochrome-purple': {
+      name: 'LomoChrome Purple',
+      baseColor: { r: 0.95, g: 0.75, b: 0.90 },  // Purple/magenta base
+      adjustments: { c: 30, m: 20, y: -15 }
+    },
+    'lomochrome-turquoise': {
+      name: 'LomoChrome Turquoise',
+      baseColor: { r: 0.70, g: 0.90, b: 0.95 },  // Cyan/turquoise base
+      adjustments: { c: 40, m: -10, y: 5 }
+    },
+    'lomochrome-metropolis': {
+      name: 'LomoChrome Metropolis',
+      baseColor: { r: 0.90, g: 0.85, b: 0.75 },  // Warm, desaturated base
+      adjustments: { c: 15, m: 15, y: 30 }
+    },
+    'aerocolor': {
+      name: 'Aerocolor (Infrared)',
+      baseColor: { r: 1.0, g: 1.0, b: 1.0 },  // Clear base - no inherent colour
+      adjustments: { c: -30, m: 40, y: 50 }
+    },
+    'santacolor': {
+      name: 'Santacolor (Infrared)',
+      baseColor: { r: 1.0, g: 1.0, b: 1.0 },  // Clear base - no inherent colour
+      adjustments: { c: -30, m: 40, y: 50 }
+    }
+  };
+
+  // Paper stock data
+  // neutral: typical baseline filtration for standard C-41 negatives
+  // isMultigrade: whether this is a B&W multigrade paper
+  const PAPER_STOCKS = {
+    'ilford-mg': {
+      name: 'Ilford RC Multigrade',
+      isMultigrade: true,
+      neutral: { c: 0, m: 75, y: 60 }  // Grade 2.5 baseline
+    },
+    'fuji-crystal': {
+      name: 'Fuji Crystal Archive',
+      neutral: { c: 0, m: 40, y: 30 }
+    },
+    'kodak-endura': {
+      name: 'Kodak Endura',
+      neutral: { c: 0, m: 45, y: 35 }
+    },
+    'ilford-classic': {
+      name: 'Ilford Ilfochrome Classic',
+      neutral: { c: 0, m: 35, y: 25 }
+    },
+    'generic-ra4': {
+      name: 'Generic RA4',
+      neutral: { c: 0, m: 40, y: 30 }
+    }
+  };
+
+  // DOM elements
+  const imageUpload = document.getElementById('imageUpload');
+  const imagePreview = document.getElementById('imagePreview');
+  const previewImg = document.getElementById('previewImg');
+  const filteredCanvas = document.getElementById('filteredCanvas');
+  const filteredImagePreview = document.getElementById('filteredImagePreview');
+  const negativeBtn = document.getElementById('negativeBtn');
+  const positiveBtn = document.getElementById('positiveBtn');
+  const filmBase = document.getElementById('filmBase');
+  const paperStock = document.getElementById('paperStock');
+  const enlargerType = document.getElementById('enlargerType');
+  const cyanSlider = document.getElementById('cyanSlider');
+  const magentaSlider = document.getElementById('magentaSlider');
+  const yellowSlider = document.getElementById('yellowSlider');
+  const cyanValue = document.getElementById('cyanValue');
+  const magentaValue = document.getElementById('magentaValue');
+  const yellowValue = document.getElementById('yellowValue');
+  const exposureSlider = document.getElementById('exposureSlider');
+  const exposureValue = document.getElementById('exposureValue');
+  const baselineValues = document.getElementById('baselineValues');
+  const finalValues = document.getElementById('finalValues');
+  const colorPreview = document.getElementById('colorPreview');
+  const copyButton = document.getElementById('copyButton');
+  const resetButton = document.getElementById('resetButton');
+  const copyFeedback = document.getElementById('copyFeedback');
+
+  // State
+  let uploadedImage = null;
+  let isNegative = true;
+
+  // Calculate baseline filtration
+  function calculateBaseline() {
+    const film = FILM_BASES[filmBase.value];
+    const paper = PAPER_STOCKS[paperStock.value];
+
+    // Handle multigrade filters
+    if (film.isMultigrade) {
+      const enlarger = ENLARGER_SCALES[enlargerType.value];
+      const gradeValues = enlarger[film.grade];
+      return {
+        c: gradeValues.c,
+        m: gradeValues.m,
+        y: gradeValues.y
+      };
+    }
+
+    // Handle colour negatives
+    if (film.adjustments) {
+      return {
+        c: Math.max(0, Math.min(200, paper.neutral.c + film.adjustments.c)),
+        m: Math.max(0, Math.min(200, paper.neutral.m + film.adjustments.m)),
+        y: Math.max(0, Math.min(200, paper.neutral.y + film.adjustments.y))
+      };
+    }
+
+    // Default
+    return { c: 0, m: 0, y: 0 };
+  }
+
+  // Update baseline display
+  function updateBaseline() {
+    const baseline = calculateBaseline();
+    baselineValues.textContent = `${baseline.c}C ${baseline.m}M ${baseline.y}Y`;
+  }
+
+  // Update final values display
+  function updateFinalValues() {
+    const c = parseInt(cyanSlider.value);
+    const m = parseInt(magentaSlider.value);
+    const y = parseInt(yellowSlider.value);
+    const exp = parseFloat(exposureSlider.value);
+
+    finalValues.textContent = `${c}C ${m}M ${y}Y`;
+
+    // Update individual value displays
+    cyanValue.textContent = c;
+    magentaValue.textContent = m;
+    yellowValue.textContent = y;
+    exposureValue.textContent = exp >= 0 ? `+${exp.toFixed(1)}` : exp.toFixed(1);
+
+    // Update colour preview
+    updateColorPreview(c, m, y);
+
+    // Update filtered image preview
+    applyFiltration();
+  }
+
+  // Convert CMY to RGB for preview
+  function cmyToRgb(c, m, y) {
+    // Normalize CMY values (0-200) to 0-1
+    const cNorm = c / 200;
+    const mNorm = m / 200;
+    const yNorm = y / 200;
+
+    // Convert to RGB (CMY is subtractive, so invert)
+    const r = Math.round((1 - cNorm) * 255);
+    const g = Math.round((1 - mNorm) * 255);
+    const b = Math.round((1 - yNorm) * 255);
+
+    return `rgb(${r}, ${g}, ${b})`;
+  }
+
+  // Update color preview swatch
+  function updateColorPreview(c, m, y) {
+    const rgb = cmyToRgb(c, m, y);
+    colorPreview.style.backgroundColor = rgb;
+  }
+
+  // Reset sliders to baseline
+  function resetToBaseline() {
+    const baseline = calculateBaseline();
+    cyanSlider.value = baseline.c;
+    magentaSlider.value = baseline.m;
+    yellowSlider.value = baseline.y;
+    updateFinalValues();
+  }
+
+  // Apply CMY filtration to image and render to canvas
+  function applyFiltration() {
+    if (!uploadedImage) return;
+
+    const canvas = filteredCanvas;
+    const ctx = canvas.getContext('2d');
+
+    // Set canvas size to match image
+    canvas.width = uploadedImage.width;
+    canvas.height = uploadedImage.height;
+
+    // Draw image to canvas
+    ctx.drawImage(uploadedImage, 0, 0);
+
+    // Get image data
+    const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+    const data = imageData.data;
+
+    // Get current filtration values (0-200)
+    const c = parseInt(cyanSlider.value);
+    const m = parseInt(magentaSlider.value);
+    const y = parseInt(yellowSlider.value);
+    const exposure = parseFloat(exposureSlider.value);
+
+    // Normalize to 0-1 range for calculations
+    const cFactor = c / 200;
+    const mFactor = m / 200;
+    const yFactor = y / 200;
+
+    // Exposure compensation: +1 = double exposure, -1 = half exposure
+    const exposureMult = Math.pow(2, exposure);
+
+    // Check if we're doing B&W multigrade
+    const paper = PAPER_STOCKS[paperStock.value];
+    const isMultigrade = paper.isMultigrade;
+
+    // Process each pixel
+    for (let i = 0; i < data.length; i += 4) {
+      let negR = data[i] / 255;
+      let negG = data[i + 1] / 255;
+      let negB = data[i + 2] / 255;
+
+      if (isNegative) {
+        if (isMultigrade) {
+          // Black & White Multigrade Processing
+          // Step 1: Convert negative to greyscale
+          let grey = 0.299 * negR + 0.587 * negG + 0.114 * negB;
+
+          // Step 2: Create filtered light from colour head
+          let lightR = 1 - cFactor;
+          let lightG = 1 - mFactor;
+          let lightB = 1 - yFactor;
+
+          // Step 3: Light passes through negative
+          // Bright areas of negative transmit more light
+          let transmission = grey;
+
+          // Step 4: Calculate exposure on paper
+          // Average the RGB components (for B&W, all wavelengths contribute)
+          let lightIntensity = (lightR + lightG + lightB) / 3;
+          let exposure = lightIntensity * transmission * exposureMult;
+
+          // Step 5: Paper response curve (creates density)
+          // Grade determines the contrast: higher grade = steeper curve
+          // Use gamma to model this: gamma < 1 = soft, gamma > 1 = hard
+          let grade = mFactor / (mFactor + yFactor + 0.01); // 0 to 1
+          let gamma = 0.4 + grade * 2.0; // 0.4 (soft) to 2.4 (hard)
+
+          let density = Math.pow(exposure, gamma);
+          density = Math.max(0, Math.min(1, density));
+
+          // Step 6: Final print brightness (more density = darker)
+          let finalGrey = (1 - density) * 255;
+
+          data[i] = finalGrey;
+          data[i + 1] = finalGrey;
+          data[i + 2] = finalGrey;
+        } else {
+          // Colour RA4 Processing
+          // Step 1: Create filtered light from colour head
+          let lightR = 1 - cFactor;
+          let lightG = 1 - mFactor;
+          let lightB = 1 - yFactor;
+
+          // Step 2: Light passes through the negative
+          let exposureR = lightR * negR * exposureMult;
+          let exposureG = lightG * negG * exposureMult;
+          let exposureB = lightB * negB * exposureMult;
+
+          // Step 3: Paper development inverts the exposure
+          data[i] = Math.max(0, Math.min(255, (1 - exposureR) * 255));
+          data[i + 1] = Math.max(0, Math.min(255, (1 - exposureG) * 255));
+          data[i + 2] = Math.max(0, Math.min(255, (1 - exposureB) * 255));
+        }
+      } else {
+        // For positive images, just apply filtration directly
+        let r = negR * (1 - cFactor);
+        let g = negG * (1 - mFactor);
+        let b = negB * (1 - yFactor);
+
+        data[i] = Math.max(0, Math.min(255, r * 255));
+        data[i + 1] = Math.max(0, Math.min(255, g * 255));
+        data[i + 2] = Math.max(0, Math.min(255, b * 255));
+      }
+    }
+
+    // Put processed image back to canvas
+    ctx.putImageData(imageData, 0, 0);
+  }
+
+  // Toggle between negative and positive
+  function setImageType(negative) {
+    isNegative = negative;
+
+    // Update button styles
+    if (negative) {
+      negativeBtn.classList.add('bg-eucalyptus-600', 'text-white');
+      negativeBtn.classList.remove('bg-gray-200', 'text-gray-700');
+      positiveBtn.classList.remove('bg-eucalyptus-600', 'text-white');
+      positiveBtn.classList.add('bg-gray-200', 'text-gray-700');
+    } else {
+      positiveBtn.classList.add('bg-eucalyptus-600', 'text-white');
+      positiveBtn.classList.remove('bg-gray-200', 'text-gray-700');
+      negativeBtn.classList.remove('bg-eucalyptus-600', 'text-white');
+      negativeBtn.classList.add('bg-gray-200', 'text-gray-700');
+    }
+
+    // Reapply filtration with new setting
+    applyFiltration();
+  }
+
+  // Copy filtration values to clipboard
+  async function copyToClipboard() {
+    const c = parseInt(cyanSlider.value);
+    const m = parseInt(magentaSlider.value);
+    const y = parseInt(yellowSlider.value);
+    const text = `${c}C ${m}M ${y}Y`;
+
+    try {
+      await navigator.clipboard.writeText(text);
+      copyFeedback.classList.remove('hidden');
+      setTimeout(() => {
+        copyFeedback.classList.add('hidden');
+      }, 2000);
+    } catch (err) {
+      alert('Failed to copy to clipboard');
+    }
+  }
+
+  // Handle image upload
+  imageUpload.addEventListener('change', function(e) {
+    const file = e.target.files[0];
+    if (file) {
+      const reader = new FileReader();
+      reader.onload = function(event) {
+        // Create image object
+        const img = new Image();
+        img.onload = function() {
+          uploadedImage = img;
+          previewImg.src = event.target.result;
+          imagePreview.classList.remove('hidden');
+          filteredImagePreview.classList.remove('hidden');
+          applyFiltration();
+        };
+        img.src = event.target.result;
+      };
+      reader.readAsDataURL(file);
+    }
+  });
+
+  // Event listeners for film/paper/enlarger changes
+  filmBase.addEventListener('change', () => {
+    updateBaseline();
+    resetToBaseline();
+  });
+
+  paperStock.addEventListener('change', () => {
+    updateBaseline();
+    resetToBaseline();
+  });
+
+  enlargerType.addEventListener('change', () => {
+    updateBaseline();
+    resetToBaseline();
+  });
+
+  // Event listeners for sliders
+  cyanSlider.addEventListener('input', updateFinalValues);
+  magentaSlider.addEventListener('input', updateFinalValues);
+  yellowSlider.addEventListener('input', updateFinalValues);
+  exposureSlider.addEventListener('input', updateFinalValues);
+
+  // Button event listeners
+  copyButton.addEventListener('click', copyToClipboard);
+  resetButton.addEventListener('click', resetToBaseline);
+  negativeBtn.addEventListener('click', () => setImageType(true));
+  positiveBtn.addEventListener('click', () => setImageType(false));
+
+  // Initialize on page load
+  updateBaseline();
+  updateFinalValues();
+</script>
+{{ end }}
