@@ -196,22 +196,70 @@
           >
         </div>
 
-        <!-- Exposure Compensation -->
+        <!-- Exposure Controls -->
         <div class="mb-6">
           <div class="flex justify-between items-center mb-2">
-            <label for="exposureSlider" class="text-sm font-medium text-gray-700">Exposure</label>
-            <span id="exposureValue" class="text-sm font-mono font-semibold text-gray-900">±0</span>
+            <label class="text-sm font-medium text-gray-700">Exposure Mode</label>
+            <div class="flex space-x-2">
+              <button id="simpleExpBtn" class="px-2 py-1 text-xs rounded bg-eucalyptus-600 text-white font-medium">
+                Simple
+              </button>
+              <button id="advancedExpBtn" class="px-2 py-1 text-xs rounded bg-gray-200 text-gray-700 font-medium">
+                Advanced
+              </button>
+            </div>
           </div>
-          <input
-            type="range"
-            id="exposureSlider"
-            min="-2"
-            max="2"
-            step="0.1"
-            value="0"
-            class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
-          >
-          <p class="text-xs text-gray-500 mt-1">Simulates exposure time/aperture adjustment</p>
+
+          <!-- Simple Exposure Compensation -->
+          <div id="simpleExposure">
+            <div class="flex justify-between items-center mb-2">
+              <label for="exposureSlider" class="text-sm font-medium text-gray-700">Exposure</label>
+              <span id="exposureValue" class="text-sm font-mono font-semibold text-gray-900">±0</span>
+            </div>
+            <input
+              type="range"
+              id="exposureSlider"
+              min="-2"
+              max="2"
+              step="0.1"
+              value="0"
+              class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
+            >
+          </div>
+
+          <!-- Advanced Exposure Controls -->
+          <div id="advancedExposure" class="hidden space-y-3">
+            <div>
+              <div class="flex justify-between items-center mb-2">
+                <label for="apertureSlider" class="text-sm font-medium text-gray-700">Aperture</label>
+                <span id="apertureValue" class="text-sm font-mono font-semibold text-gray-900">f/8</span>
+              </div>
+              <input
+                type="range"
+                id="apertureSlider"
+                min="2.8"
+                max="16"
+                step="0.1"
+                value="8"
+                class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
+              >
+            </div>
+            <div>
+              <div class="flex justify-between items-center mb-2">
+                <label for="timeSlider" class="text-sm font-medium text-gray-700">Time</label>
+                <span id="timeValue" class="text-sm font-mono font-semibold text-gray-900">8s</span>
+              </div>
+              <input
+                type="range"
+                id="timeSlider"
+                min="1"
+                max="60"
+                step="1"
+                value="8"
+                class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
+              >
+            </div>
+          </div>
         </div>
       </div>
 
@@ -440,6 +488,14 @@
   const yellowValue = document.getElementById('yellowValue');
   const exposureSlider = document.getElementById('exposureSlider');
   const exposureValue = document.getElementById('exposureValue');
+  const simpleExpBtn = document.getElementById('simpleExpBtn');
+  const advancedExpBtn = document.getElementById('advancedExpBtn');
+  const simpleExposure = document.getElementById('simpleExposure');
+  const advancedExposure = document.getElementById('advancedExposure');
+  const apertureSlider = document.getElementById('apertureSlider');
+  const apertureValue = document.getElementById('apertureValue');
+  const timeSlider = document.getElementById('timeSlider');
+  const timeValue = document.getElementById('timeValue');
   const baselineValues = document.getElementById('baselineValues');
   const finalValues = document.getElementById('finalValues');
   const colorPreview = document.getElementById('colorPreview');
@@ -450,6 +506,7 @@
   // State
   let uploadedImage = null;
   let isNegative = true;
+  let exposureMode = 'simple'; // 'simple' or 'advanced'
 
   // Calculate baseline filtration
   function calculateBaseline() {
@@ -486,12 +543,33 @@
     baselineValues.textContent = `${baseline.c}C ${baseline.m}M ${baseline.y}Y`;
   }
 
+  // Get total exposure compensation
+  function getTotalExposure() {
+    if (exposureMode === 'simple') {
+      return parseFloat(exposureSlider.value);
+    } else {
+      // Calculate from aperture and time
+      // Reference: f/8 at 8s = 0 exposure compensation
+      const aperture = parseFloat(apertureSlider.value);
+      const time = parseFloat(timeSlider.value);
+
+      // f-stop scale: each stop doubles/halves light
+      // f/8 is reference (0 stops)
+      const apertureStops = 2 * Math.log2(aperture / 8);
+
+      // Time: 8s is reference
+      const timeStops = Math.log2(time / 8);
+
+      // Total exposure compensation
+      return timeStops - apertureStops;
+    }
+  }
+
   // Update final values display
   function updateFinalValues() {
     const c = parseInt(cyanSlider.value);
     const m = parseInt(magentaSlider.value);
     const y = parseInt(yellowSlider.value);
-    const exp = parseFloat(exposureSlider.value);
 
     finalValues.textContent = `${c}C ${m}M ${y}Y`;
 
@@ -499,13 +577,45 @@
     cyanValue.textContent = c;
     magentaValue.textContent = m;
     yellowValue.textContent = y;
-    exposureValue.textContent = exp >= 0 ? `+${exp.toFixed(1)}` : exp.toFixed(1);
+
+    if (exposureMode === 'simple') {
+      const exp = parseFloat(exposureSlider.value);
+      exposureValue.textContent = exp >= 0 ? `+${exp.toFixed(1)}` : exp.toFixed(1);
+    } else {
+      const aperture = parseFloat(apertureSlider.value);
+      const time = parseFloat(timeSlider.value);
+      apertureValue.textContent = `f/${aperture.toFixed(1)}`;
+      timeValue.textContent = `${time.toFixed(0)}s`;
+    }
 
     // Update colour preview
     updateColorPreview(c, m, y);
 
     // Update filtered image preview
     applyFiltration();
+  }
+
+  // Toggle exposure mode
+  function setExposureMode(mode) {
+    exposureMode = mode;
+
+    if (mode === 'simple') {
+      simpleExpBtn.classList.add('bg-eucalyptus-600', 'text-white');
+      simpleExpBtn.classList.remove('bg-gray-200', 'text-gray-700');
+      advancedExpBtn.classList.remove('bg-eucalyptus-600', 'text-white');
+      advancedExpBtn.classList.add('bg-gray-200', 'text-gray-700');
+      simpleExposure.classList.remove('hidden');
+      advancedExposure.classList.add('hidden');
+    } else {
+      advancedExpBtn.classList.add('bg-eucalyptus-600', 'text-white');
+      advancedExpBtn.classList.remove('bg-gray-200', 'text-gray-700');
+      simpleExpBtn.classList.remove('bg-eucalyptus-600', 'text-white');
+      simpleExpBtn.classList.add('bg-gray-200', 'text-gray-700');
+      simpleExposure.classList.add('hidden');
+      advancedExposure.classList.remove('hidden');
+    }
+
+    updateFinalValues();
   }
 
   // Convert CMY to RGB for preview
@@ -560,7 +670,7 @@
     const c = parseInt(cyanSlider.value);
     const m = parseInt(magentaSlider.value);
     const y = parseInt(yellowSlider.value);
-    const exposure = parseFloat(exposureSlider.value);
+    const exposure = getTotalExposure();
 
     // Normalize to 0-1 range for calculations
     const cFactor = c / 200;
@@ -729,12 +839,16 @@
   magentaSlider.addEventListener('input', updateFinalValues);
   yellowSlider.addEventListener('input', updateFinalValues);
   exposureSlider.addEventListener('input', updateFinalValues);
+  apertureSlider.addEventListener('input', updateFinalValues);
+  timeSlider.addEventListener('input', updateFinalValues);
 
   // Button event listeners
   copyButton.addEventListener('click', copyToClipboard);
   resetButton.addEventListener('click', resetToBaseline);
   negativeBtn.addEventListener('click', () => setImageType(true));
   positiveBtn.addEventListener('click', () => setImageType(false));
+  simpleExpBtn.addEventListener('click', () => setExposureMode('simple'));
+  advancedExpBtn.addEventListener('click', () => setExposureMode('advanced'));
 
   // Initialize on page load
   updateBaseline();
