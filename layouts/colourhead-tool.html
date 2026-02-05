@@ -445,27 +445,32 @@
   // Paper stock data
   // neutral: typical baseline filtration for standard C-41 negatives
   // isMultigrade: whether this is a B&W multigrade paper
+  // sensitivity: paper's spectral response (RA4 is more sensitive to blue)
   const PAPER_STOCKS = {
     'ilford-mg': {
       name: 'Ilford RC Multigrade',
       isMultigrade: true,
-      neutral: { c: 0, m: 75, y: 60 }  // Grade 2.5 baseline
+      neutral: { c: 0, m: 75, y: 60 }
     },
     'fuji-crystal': {
       name: 'Fuji Crystal Archive',
-      neutral: { c: 0, m: 40, y: 30 }
+      neutral: { c: 20, m: 55, y: 65 },  // Typical RA4 baseline for C-41 orange mask negatives
+      sensitivity: { r: 0.6, g: 1.0, b: 2.2 }  // Blue layer more sensitive, needs yellow filtration to compensate
     },
     'kodak-endura': {
       name: 'Kodak Endura',
-      neutral: { c: 0, m: 45, y: 35 }
+      neutral: { c: 25, m: 60, y: 70 },
+      sensitivity: { r: 0.65, g: 1.0, b: 2.4 }  // Similar to Fuji but slightly different spectral response
     },
     'ilford-classic': {
       name: 'Ilford Ilfochrome Classic',
-      neutral: { c: 0, m: 35, y: 25 }
+      neutral: { c: 15, m: 50, y: 60 },
+      sensitivity: { r: 0.7, g: 1.0, b: 2.0 }  // Ilfochrome has different chemistry, less extreme
     },
     'generic-ra4': {
       name: 'Generic RA4',
-      neutral: { c: 0, m: 40, y: 30 }
+      neutral: { c: 20, m: 55, y: 65 },
+      sensitivity: { r: 0.6, g: 1.0, b: 2.2 }  // Standard values matching Fuji
     }
   };
 
@@ -728,19 +733,52 @@
         } else {
           // Colour RA4 Processing
           // Step 1: Create filtered light from colour head
+          // CMY filters remove RGB: cyan removes red, magenta removes green, yellow removes blue
           let lightR = 1 - cFactor;
           let lightG = 1 - mFactor;
           let lightB = 1 - yFactor;
 
-          // Step 2: Light passes through the negative
-          let exposureR = lightR * negR * exposureMult;
-          let exposureG = lightG * negG * exposureMult;
-          let exposureB = lightB * negB * exposureMult;
+          // Step 2: Get film base colour (e.g., orange mask in C-41)
+          const filmData = FILM_BASES[filmBase.value];
+          const baseR = filmData.baseColor ? filmData.baseColor.r : 1.0;
+          const baseG = filmData.baseColor ? filmData.baseColor.g : 1.0;
+          const baseB = filmData.baseColor ? filmData.baseColor.b : 1.0;
 
-          // Step 3: Paper development inverts the exposure
-          data[i] = Math.max(0, Math.min(255, (1 - exposureR) * 255));
-          data[i + 1] = Math.max(0, Math.min(255, (1 - exposureG) * 255));
-          data[i + 2] = Math.max(0, Math.min(255, (1 - exposureB) * 255));
+          // Step 3: Light passes through both film base AND negative image
+          // Film base modulates all light equally, negative varies by pixel
+          let transmittedR = lightR * baseR * negR;
+          let transmittedG = lightG * baseG * negG;
+          let transmittedB = lightB * baseB * negB;
+
+          // Step 4: Paper spectral sensitivity
+          // RA4 paper has different sensitivity for each colour layer
+          // In real RA4: blue layer (yellow dye) is more sensitive than red layer (cyan dye)
+          const paperData = PAPER_STOCKS[paperStock.value];
+          const sensR = paperData.sensitivity ? paperData.sensitivity.r : 1.0;
+          const sensG = paperData.sensitivity ? paperData.sensitivity.g : 1.0;
+          const sensB = paperData.sensitivity ? paperData.sensitivity.b : 1.0;
+
+          // Apply paper response: each layer responds differently to light
+          // More sensitive = stronger response to same light
+          let exposureR = transmittedR * sensR * exposureMult;
+          let exposureG = transmittedG * sensG * exposureMult;
+          let exposureB = transmittedB * sensB * exposureMult;
+
+          // Step 5: Paper characteristic curve with per-channel gamma
+          // Each dye layer has slightly different contrast characteristics
+          const gammaR = 0.55;  // Cyan layer (red-sensitive) - slightly softer
+          const gammaG = 0.60;  // Magenta layer (green-sensitive) - medium
+          const gammaB = 0.65;  // Yellow layer (blue-sensitive) - slightly harder
+
+          let densityR = Math.pow(Math.max(0, Math.min(1, exposureR)), gammaR);
+          let densityG = Math.pow(Math.max(0, Math.min(1, exposureG)), gammaG);
+          let densityB = Math.pow(Math.max(0, Math.min(1, exposureB)), gammaB);
+
+          // Step 6: Invert to create positive from negative
+          // More exposure = more dye density = darker in final print
+          data[i] = Math.max(0, Math.min(255, (1 - densityR) * 255));
+          data[i + 1] = Math.max(0, Math.min(255, (1 - densityG) * 255));
+          data[i + 2] = Math.max(0, Math.min(255, (1 - densityB) * 255));
         }
       } else {
         // For positive images, just apply filtration directly
