@@ -38,6 +38,20 @@
             </div>
           </div>
 
+          <!-- Scan Mode Toggle (for negatives) -->
+          <div id="scanModeContainer" class="flex items-center space-x-4">
+            <label class="text-sm font-medium text-gray-700">Input Source:</label>
+            <div class="flex space-x-2">
+              <button id="scanModeBtn" class="px-3 py-1 text-sm rounded-md bg-eucalyptus-600 text-white font-medium">
+                Scanned
+              </button>
+              <button id="rawModeBtn" class="px-3 py-1 text-sm rounded-md bg-gray-200 text-gray-700 font-medium">
+                Raw/Synthetic
+              </button>
+            </div>
+            <span class="text-xs text-gray-500" title="Scanned negatives already contain the orange mask in the RGB data. Raw mode assumes no mask in input.">ⓘ</span>
+          </div>
+
           <div id="imagePreview" class="mt-4 hidden">
             <p class="text-xs text-gray-600 mb-2">Original:</p>
             <img id="previewImg" src="" alt="Image preview" class="w-full h-auto rounded-lg border border-gray-300">
@@ -445,7 +459,8 @@
   // Paper stock data
   // neutral: typical baseline filtration for standard C-41 negatives
   // isMultigrade: whether this is a B&W multigrade paper
-  // sensitivity: paper's spectral response (RA4 is more sensitive to blue)
+  // sensitivity: paper's spectral response - calibrated for orange-masked C-41 scans
+  // Blue sensitivity boosted to compensate for orange mask reducing blue in scans
   const PAPER_STOCKS = {
     'ilford-mg': {
       name: 'Ilford RC Multigrade',
@@ -454,23 +469,23 @@
     },
     'fuji-crystal': {
       name: 'Fuji Crystal Archive',
-      neutral: { c: 20, m: 55, y: 65 },  // Typical RA4 baseline for C-41 orange mask negatives
-      sensitivity: { r: 0.6, g: 1.0, b: 2.2 }  // Blue layer more sensitive, needs yellow filtration to compensate
+      neutral: { c: 0, m: 0, y: 0 },  // Start neutral, let sensitivity do the work
+      sensitivity: { r: 0.80, g: 1.0, b: 1.32 }  // Blue boosted for orange mask compensation
     },
     'kodak-endura': {
       name: 'Kodak Endura',
-      neutral: { c: 25, m: 60, y: 70 },
-      sensitivity: { r: 0.65, g: 1.0, b: 2.4 }  // Similar to Fuji but slightly different spectral response
+      neutral: { c: 0, m: 0, y: 0 },
+      sensitivity: { r: 0.82, g: 1.0, b: 1.35 }  // Slightly different response
     },
     'ilford-classic': {
       name: 'Ilford Ilfochrome Classic',
-      neutral: { c: 15, m: 50, y: 60 },
-      sensitivity: { r: 0.7, g: 1.0, b: 2.0 }  // Ilfochrome has different chemistry, less extreme
+      neutral: { c: 0, m: 0, y: 0 },
+      sensitivity: { r: 0.78, g: 1.0, b: 1.28 }  // Ilfochrome - different chemistry
     },
     'generic-ra4': {
       name: 'Generic RA4',
-      neutral: { c: 20, m: 55, y: 65 },
-      sensitivity: { r: 0.6, g: 1.0, b: 2.2 }  // Standard values matching Fuji
+      neutral: { c: 0, m: 0, y: 0 },
+      sensitivity: { r: 0.80, g: 1.0, b: 1.32 }  // Standard calibrated values
     }
   };
 
@@ -482,6 +497,9 @@
   const filteredImagePreview = document.getElementById('filteredImagePreview');
   const negativeBtn = document.getElementById('negativeBtn');
   const positiveBtn = document.getElementById('positiveBtn');
+  const scanModeBtn = document.getElementById('scanModeBtn');
+  const rawModeBtn = document.getElementById('rawModeBtn');
+  const scanModeContainer = document.getElementById('scanModeContainer');
   const filmBase = document.getElementById('filmBase');
   const paperStock = document.getElementById('paperStock');
   const enlargerType = document.getElementById('enlargerType');
@@ -511,6 +529,7 @@
   // State
   let uploadedImage = null;
   let isNegative = true;
+  let isScannedNegative = true; // true = scan (mask in data), false = raw/synthetic (no mask)
   let exposureMode = 'simple'; // 'simple' or 'advanced'
 
   // Calculate baseline filtration
@@ -744,37 +763,52 @@
           const baseG = filmData.baseColor ? filmData.baseColor.g : 1.0;
           const baseB = filmData.baseColor ? filmData.baseColor.b : 1.0;
 
-          // Step 3: Light passes through both film base AND negative image
-          // Film base modulates all light equally, negative varies by pixel
-          let transmittedR = lightR * baseR * negR;
-          let transmittedG = lightG * baseG * negG;
-          let transmittedB = lightB * baseB * negB;
+          // Step 3: Light passes through negative
+          // For SCANNED negatives: scan data already contains the orange mask,
+          // so we just use transmitted = filtered_light * scan_value
+          // Paper sensitivity compensates for the mask.
+          // For RAW/SYNTHETIC negatives: apply the mask explicitly
+          let transmittedR, transmittedG, transmittedB;
 
-          // Step 4: Paper spectral sensitivity
+          if (isScannedNegative) {
+            // Scan already contains mask - paper sensitivity handles compensation
+            transmittedR = lightR * negR;
+            transmittedG = lightG * negG;
+            transmittedB = lightB * negB;
+          } else {
+            // Raw input - apply mask in optical model
+            transmittedR = lightR * baseR * negR;
+            transmittedG = lightG * baseG * negG;
+            transmittedB = lightB * baseB * negB;
+          }
+
+          // Step 5: Paper spectral sensitivity
           // RA4 paper has different sensitivity for each colour layer
-          // In real RA4: blue layer (yellow dye) is more sensitive than red layer (cyan dye)
+          // Cyan-forming layer is RED-sensitive, magenta-forming is GREEN-sensitive, etc.
           const paperData = PAPER_STOCKS[paperStock.value];
           const sensR = paperData.sensitivity ? paperData.sensitivity.r : 1.0;
           const sensG = paperData.sensitivity ? paperData.sensitivity.g : 1.0;
           const sensB = paperData.sensitivity ? paperData.sensitivity.b : 1.0;
 
           // Apply paper response: each layer responds differently to light
-          // More sensitive = stronger response to same light
           let exposureR = transmittedR * sensR * exposureMult;
           let exposureG = transmittedG * sensG * exposureMult;
           let exposureB = transmittedB * sensB * exposureMult;
 
-          // Step 5: Paper characteristic curve with per-channel gamma
-          // Each dye layer has slightly different contrast characteristics
-          const gammaR = 0.55;  // Cyan layer (red-sensitive) - slightly softer
-          const gammaG = 0.60;  // Magenta layer (green-sensitive) - medium
-          const gammaB = 0.65;  // Yellow layer (blue-sensitive) - slightly harder
+          // Step 6: Paper characteristic curve with per-channel gamma
+          // RA4 paper typically has gamma ~1.8-2.5 in the straight-line portion
+          // Using exposure^gamma compresses shadows and creates proper photographic contrast
+          const gammaR = 2.0;  // Cyan layer (red-sensitive)
+          const gammaG = 2.0;  // Magenta layer (green-sensitive)
+          const gammaB = 2.0;  // Yellow layer (blue-sensitive)
 
-          let densityR = Math.pow(Math.max(0, Math.min(1, exposureR)), gammaR);
-          let densityG = Math.pow(Math.max(0, Math.min(1, exposureG)), gammaG);
-          let densityB = Math.pow(Math.max(0, Math.min(1, exposureB)), gammaB);
+          // Apply characteristic curve: exposure -> density
+          // Higher gamma = more contrast (shadows compress, midtones expand)
+          let densityR = Math.pow(Math.max(0.001, Math.min(1, exposureR)), gammaR);
+          let densityG = Math.pow(Math.max(0.001, Math.min(1, exposureG)), gammaG);
+          let densityB = Math.pow(Math.max(0.001, Math.min(1, exposureB)), gammaB);
 
-          // Step 6: Invert to create positive from negative
+          // Step 7: Invert to create positive from negative
           // More exposure = more dye density = darker in final print
           data[i] = Math.max(0, Math.min(255, (1 - densityR) * 255));
           data[i + 1] = Math.max(0, Math.min(255, (1 - densityG) * 255));
@@ -806,11 +840,36 @@
       negativeBtn.classList.remove('bg-gray-200', 'text-gray-700');
       positiveBtn.classList.remove('bg-eucalyptus-600', 'text-white');
       positiveBtn.classList.add('bg-gray-200', 'text-gray-700');
+      // Show scan mode toggle for negatives
+      scanModeContainer.classList.remove('hidden');
     } else {
       positiveBtn.classList.add('bg-eucalyptus-600', 'text-white');
       positiveBtn.classList.remove('bg-gray-200', 'text-gray-700');
       negativeBtn.classList.remove('bg-eucalyptus-600', 'text-white');
       negativeBtn.classList.add('bg-gray-200', 'text-gray-700');
+      // Hide scan mode toggle for positives
+      scanModeContainer.classList.add('hidden');
+    }
+
+    // Reapply filtration with new setting
+    applyFiltration();
+  }
+
+  // Toggle between scanned and raw negative input
+  function setScanMode(scanned) {
+    isScannedNegative = scanned;
+
+    // Update button styles
+    if (scanned) {
+      scanModeBtn.classList.add('bg-eucalyptus-600', 'text-white');
+      scanModeBtn.classList.remove('bg-gray-200', 'text-gray-700');
+      rawModeBtn.classList.remove('bg-eucalyptus-600', 'text-white');
+      rawModeBtn.classList.add('bg-gray-200', 'text-gray-700');
+    } else {
+      rawModeBtn.classList.add('bg-eucalyptus-600', 'text-white');
+      rawModeBtn.classList.remove('bg-gray-200', 'text-gray-700');
+      scanModeBtn.classList.remove('bg-eucalyptus-600', 'text-white');
+      scanModeBtn.classList.add('bg-gray-200', 'text-gray-700');
     }
 
     // Reapply filtration with new setting
@@ -885,6 +944,8 @@
   resetButton.addEventListener('click', resetToBaseline);
   negativeBtn.addEventListener('click', () => setImageType(true));
   positiveBtn.addEventListener('click', () => setImageType(false));
+  scanModeBtn.addEventListener('click', () => setScanMode(true));
+  rawModeBtn.addEventListener('click', () => setScanMode(false));
   simpleExpBtn.addEventListener('click', () => setExposureMode('simple'));
   advancedExpBtn.addEventListener('click', () => setExposureMode('advanced'));
 
