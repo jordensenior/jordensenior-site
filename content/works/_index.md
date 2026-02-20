@@ -14,21 +14,21 @@ A collection of photographic works, mordançage experiments, and mixed-media ins
 
 ---
 
-## [Beneath the Surface](/works/beneath-the-surface/) 
-**2025** · *Exhibition Series*
+## [Beneath the Surface](/works/beneath-the-surface/)
+**2025** · *Mordançage on silver gelatin*
 
 <br>
 <div class="work-preview">
 <img src="/notebook/005-008-beneaththesurface/afa_gallery.jpeg" alt="Beneath the Surface installation" class="preview-image" />
 <br>
-An exploration of consumer spaces through mordançage photography, exhibited in abandoned commercial spaces. The work examines the tension between aspiration and reality through chemically manipulated photographic prints.
+Mordançage photographs of Easton Hansakäytävä, a shopping mall in eastern Helsinki serving diverse communities and facing demolition. The prints enact on the photographic surface what economic logic is doing to the building — controlled destruction applied to a place already under threat.
 
 <br>
 <br>
 
-**Exhibitions:** 
-<br> Pimiö'25, Galleria West, September 2025
-<br> Art for All Festival, Easton Hansakäytävä, August 2025
+**Exhibitions:**
+<br> Pimiö 25, Galleria West, September 2025
+<br> Art for All Festival — "Success & Glory", Easton Hansakäytävä, August 2025
 
 
 </div>
@@ -36,20 +36,20 @@ An exploration of consumer spaces through mordançage photography, exhibited in 
 
 ---
 
-## [Entangled Shadows: Mordançage at the Edge of Coherence](/works/quantum_mordancage/) 
-**2025** · *Exhibition Series*
+## [Entangled Shadows: Mordançage at the Edge of Coherence](/works/quantum_mordancage/)
+**2025** · *Mordançage and lith printing on silver gelatin*
 
 <br>
 <div class="work-preview">
-<img src="/works/exhibitions/rotlicht_0.jpeg" alt="Entangled Shadows: Mordançage at the Edge of Coherence installation" class="preview-image" />
+<img src="/works/exhibitions/rotlicht_0.jpeg" alt="Entangled Shadows installation at ROTLICHT Festival" class="preview-image" />
 <br>
-An exploration transforming photographs of quantum systems into visceral representations of coherence, collapse, and emergence through mordançage and lith printing processes
+Photographs of superconducting quantum hardware transformed through mordançage and lith printing — coherence giving way to collapse, controlled conditions producing uncontrollable results. The photograph itself becomes unstable.
 
 <br>
 <br>
 
-**Exhibitions:** 
-<br> Rotlicht Festival, Vienna, November 2025
+**Exhibitions:**
+<br> ROTLICHT Festival — "Life After Extinction?", Vienna, November 2025
 
 
 </div>
@@ -59,19 +59,19 @@ An exploration transforming photographs of quantum systems into visceral represe
 ---
 
 ## [Quantum Mordançage Zine](/works/quantum-mordencage-zine/)
-**2025** · *Artist Book*
+**2025** · *Artist publication*
 <br>
 
 <br>
 <div class="work-preview">
 <img src="/notebook/004-quantummordencagezine/stackofzines.jpeg" alt="Quantum Mordançage Zine" class="preview-image" />
 <br>
-Limited-edition artist's zine exploring the intersection of quantum mechanics and photographic chemistry through mordançage processes. Hand-folded and distributed through alternative art networks.
+Risograph publication mapping the structural connections between quantum physics and analogue photography. Edition of 15, hand-folded, printed in medium blue and fluorescent pink.
 
 <br>
 <br>
 
-**Distribution:** Various locations, ongoing. First edition printed June 2025. 
+**Distribution:** Exhibitions, art swaps, independent bookstores. First edition June 2025.
 </div>
 <br>
 
@@ -98,7 +98,7 @@ A photographic interpretation of a sculptural installation encountered in Salt L
 
 ## About the Work
 
-My photographic practice centers on alternative processes, particularly mordançage, lith, and sabattier techniques, using physical transformation of the photographic surface to explore themes of impermanence and change. The work often engages with spaces in transition - abandoned malls, alternative galleries, underground venues.
+My photographic practice uses mordançage, lith printing, and sabattier to physically transform the photographic surface — dissolving, lifting, and resettling the emulsion to make visible what stable images conceal. The work engages with spaces and systems under pressure: consumer architecture facing demolition, quantum states lasting microseconds, photographic processes increasingly rare in a digital world.
 
 For inquiries about exhibitions, collaborations, or acquiring work, please [contact me](mailto:contact@jordensenior.com).
 

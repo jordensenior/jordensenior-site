@@ -1,6 +1,6 @@
 ---
 title: "Entangled Shadows: Mordançage at the Edge of Coherence"
-description: "Photographic exploration bridging quantum physics and darkroom processes"
+description: "Photographs of quantum systems transformed through mordançage — coherence, collapse, and the life of fragile states"
 author: "Jorden Senior"
 date: "2025-11-21"
 tags: ["Mordançage", "Quantum"]
@@ -10,9 +10,8 @@ toc: true
 
 # Entangled Shadows: Mordançage at the Edge of Coherence
 
-**2025** · *Exhibition Series*  
-**Medium:** Mordançage and lith printing on photographic paper  
-**Dimensions:** Variable, approximately 20 works
+**2025** · *Mordançage and lith printing on silver gelatin*
+**Approximately 20 works, dimensions variable**
 
 <figure>
     <img src="/works/exhibitions/rotlicht_0.jpeg" align="right" width="600px" style="margin:10px;" alt="Gallery" />
@@ -20,83 +19,31 @@ toc: true
 
 <div style="clear:both;"></div>
 
-<br>
-A unique artistic exploration transforming photographs of quantum systems into visceral representations of coherence, collapse, and emergence through mordançage and lith printing processes. Each print becomes a physical manifestation of quantum phenomena, where the unpredictable nature of the darkroom process mirrors the probabilistic behavior of quantum mechanics.
+---
+
+The source images for this series are photographs of quantum systems — superconducting hardware, experimental apparatus, the physical infrastructure through which coherence is maintained and lost. These are objects I work with daily as a quantum physicist: devices engineered to hold matter in superposition states that survive for microseconds before collapsing into something definite and irreversible.
+
+Every print in the series has been subjected to mordançage and lith printing. The emulsion lifts from the paper in veils and distortions that cannot be predicted or repeated. In the lith prints, grain structure coarsens and colour shifts unpredictably through the development. What were precise, clinical photographs of laboratory equipment become something else entirely — images that behave the way quantum systems behave. Coherence giving way to collapse. Controlled conditions producing uncontrollable results. The photograph itself becoming unstable.
+
+This is not metaphor applied after the fact. The darkroom processes share a structural logic with the physics: both involve systems held in delicate states that are destroyed by the act of observation or intervention. Mordançage attacks the densest areas of the print first — the components of the quantum hardware rendered in deepest black — dissolving precisely the information the photograph was made to record. What remains is emergence: new forms, textures, and spatial relationships that did not exist in the original negative and could not have been designed.
+
+The series was selected from 332 international submissions for the main exhibition at ROTLICHT Festival 2025 in Vienna, shown under the festival theme "Life After Extinction?" — a question the work addresses directly. Quantum coherence is a state that exists only briefly before it is lost. The analogue photographic processes used to make these prints are themselves increasingly rare, maintained by a diminishing community of practitioners. The work sits at the intersection of two forms of fragility, each one a way of holding something alive for a little longer than the conditions should allow.
 
 ---
 
 ## Exhibition History
 
+**ROTLICHT Festival 2025 — "Life After Extinction?"**
+**Atelierhaus, Academy of Fine Arts Vienna, Austria** · *November 21–30, 2025*
+Selected for the main exhibition from 332 submissions across 43 countries. Exhibited alongside 19 international projects.
+
 <figure>
-    <img src="/works/exhibitions/rotlicht_10.jpeg" align="right" width="600px" style="margin:10px;" alt="Gallery" />
+    <img src="/works/exhibitions/rotlicht_10.jpeg" width="600px" style="margin:10px;" alt="Exhibition view at ROTLICHT Festival" />
 </figure>
 
-**ROTLICHT Festival 2025**  
-**Atelierhaus, Academy of Fine Arts Vienna, Austria** · *November 21-30, 2025*  
-Winner of the international Open Call for the main exhibition at ROTLICHT Festival for Analog Photography. The work was selected from 332 submissions from 43 countries, exhibited alongside 19 other winning projects exploring the theme "Life After Extinction?".
-
-
 ---
 
-## Artistic Process
-
-This series emerged at the intersection of my dual practice as a quantum physicist and experimental photographer, translating my daily work with superconducting quantum hardware into tactile, darkroom-based imagery.
-
-### Conceptual Framework
-
-The project bridges two seemingly disparate worlds: the nanoscale realm of quantum coherence and the chemical alchemy of 19th-century photographic processes.
-
-**Quantum Coherence:** The ability of quantum systems to exist in superposition states—a fundamental property I work with in superconducting quantum hardware research.
-
-**Mordançage Process:** A chemical process that physically lifts and manipulates the shadow areas of photographic prints, creating veil-like formations that transform the image.
-
-**Process as Metaphor:** The unpredictable lifting and reforming of the photographic emulsion becomes a physical analog for quantum collapse—the moment when superposition gives way to definite states.
-
-### Technical Approach
-
-The work combines multiple alternative processes:
-
-- **Source Material:** Photographs of quantum systems and experimental apparatus from the laboratory
-- **Lith Printing:** Creates high-contrast prints with distinctive grain structure and colour shifts
-- **Mordançage Treatment:** Applied to finished prints, physically manipulating the emulsion in the deepest blacks where quantum components appear
-- **Chemical Manipulation:** The bleaching solution softens the emulsion, allowing physical intervention that parallels the observer effect in quantum mechanics
-
----
-
-## Thematic Connections
-
-*Entangled Shadows* operates across multiple conceptual layers:
-
-**Materiality and Immateriality:** Quantum phenomena exist at scales beyond direct observation, yet the mordançage process makes the invisible tangible through physical manipulation of the photographic surface.
-
-**Coherence and Collapse:** The delicate quantum coherence required for quantum computing finds its parallel in the precarious moment when the photographic emulsion lifts from its paper base—both require precise conditions and can collapse unexpectedly.
-
-**Emergence:** Just as quantum systems exhibit emergent properties, the mordançage process reveals unexpected forms and textures that emerge from the chemical interaction.
-
----
-
-## Context and Reception
-
-The work resonated with Rotlicht Festival's 2025 theme "Life After Extinction?" by exploring how we visualise and understand systems at the edge of existence—quantum coherence that exists for mere microseconds, translated through century-old processes that themselves risk extinction in our digital age.
-
-The exhibition at Rotlicht 2025 brought together international practitioners of analog photography, creating dialogue about preservation of experimental darkroom techniques while pushing them into new conceptual territories.
-
----
-
-
-## Related Works
-
-This series connects to broader themes explored in my practice:
-
-- [Beneath the Surface](/works/beneath-the-surface/) - Consumer spaces through mordançage
-- [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Print publication expanding on these themes
-- [Notebook: Mordançage](/notebook/) - Ongoing technical explorations
-
----
-
-For more information about this work or inquiries about exhibitions, please [contact me](mailto:contact@jordensenior.com).
-
-
+## Gallery
 
 <figure>
     <img src="/works/exhibitions/rotlicht_11.jpeg" align="left" width="625px" style="margin:10px;" alt="Gallery" />
@@ -105,4 +52,16 @@ For more information about this work or inquiries about exhibitions, please [con
     <img src="/works/exhibitions/rotlicht_4.jpeg" align="left" width="300px" style="margin:10px;" alt="Gallery" />
     <img src="/works/exhibitions/rotlicht_3.jpeg" align="right" width="300px" style="margin:10px;" alt="Gallery" />
 </figure>
+
+---
+
+## Related
+
+- [Beneath the Surface](/works/beneath-the-surface/) — Mordançage applied to consumer space under threat
+- [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) — Artist publication expanding on these themes
+- [Notebook](/notebook/) — Ongoing process documentation and reflections
+
+---
+
+For inquiries about this work or exhibitions, please [contact me](mailto:contact@jordensenior.com).
 
