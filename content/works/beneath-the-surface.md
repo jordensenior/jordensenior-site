@@ -1,6 +1,6 @@
 ---
 title: "Beneath the Surface"
-description: "Installation series exploring consumer spaces through mordançage photography"
+description: "Mordançage photographs of a shopping mall under threat — consumer space, common ground, and controlled destruction"
 author: "Jorden Senior"
 date: "2025-08-29"
 tags: ["Mordançage"]
@@ -10,95 +10,56 @@ toc: true
 
 # Beneath the Surface
 
-**2024** · *Exhibition Series*  
-**Medium:** Mordançage photography on photographic paper, mixed media  
-**Dimensions:** Variable, approximately 20 works
+**2025** · *Mordançage on silver gelatin*
+**Approximately 20 works, dimensions variable**
 
-An exploration of consumer spaces through mordançage photography, examining the tension between commercial aspiration and economic reality through chemically manipulated photographic prints.
+---
+
+Easton Hansakäytävä is a shopping mall in eastern Helsinki, in a part of the city that is genuinely multicultural — more layered, more diverse, more alive in certain ways than the wealthier centre with its managed homogeneity and international chains. The mall connects directly to the metro, making it a daily passage point for the surrounding neighbourhoods. For many residents it is not an optional consumer destination but a corridor: the route from home to the rest of the city, the place to find food and goods from dozens of different cultures, a node in the daily life of communities that don't always appear in the city's self-image.
+
+It is also struggling. Demolition is under public discussion.
+
+*Beneath the Surface* photographs the mall's passageways, materials, and overlooked corners — the architectural details that accumulate meaning through daily use rather than design intention. What begins as apparently straightforward images of a commercial interior gradually reveals something else: surfaces buckling, dissolving, lifting away from themselves. The emulsion of each print has been attacked by mordançage — copper chloride, acid, and hydrogen peroxide — which destabilises the densest highlights first, raising the photographic surface in fragile veils that billow and resettle unpredictably. Every print is unique, unstable, and irreproducible.
+
+The work operates in the space between document and elegy. These are photographs of a real place that serves real communities, made using a process of controlled, irreversible destruction — and originally exhibited inside the mall itself, under the Art for All festival banner of "Success & Glory." The irony is quiet but structural: mordançage enacts on the photographic surface what economic logic is doing to the building. What looks solid is already coming apart. What appears to be architectural photography is something being eaten away.
+
+The prints are fragile things inside a fragile place. They may outlast the building they depict.
 
 ---
 
 ## Exhibition History
 
-**Pimiö 25 Exhibition,**
-**Galleria West, Helsinki, Finland** · *September 2025*<br>
-Group exhibition at Galleria West, showcasing a variaty of analogue processes. 
+**Pimiö 25 Exhibition**
+**Galleria West, Helsinki** · *September 2025*
+Group exhibition showcasing analogue processes.
 
-**Art for All Festival,**
-**Easton Käytävä, Helsinki, Finland** · *August 2025*<br>
-Solo exhibition featuring approximately 20 mordançage prints installed in empty mall space during the Art for All festival. 
-
-The work was created under intense time pressure, with the entire process—from shooting to installation—completed in approximately one week.
+**Art for All Festival — "Success & Glory"**
+**Easton Hansakäytävä, Helsinki** · *August 2025*
+Solo exhibition of approximately 20 mordançage prints, installed along the mall corridor and inside a disused office space — formerly a book club room — within the mall itself.
 
 <div class="gallery-grid">
 
 <figure>
     <img src="/notebook/005-008-beneaththesurface/afa_gallery.jpeg" alt="Installation view at Art for All Festival" />
-    <figcaption><em>Installation view showing the full gallery space</em></figcaption>
+    <figcaption><em>Installation view, former office space, Easton Hansakäytävä</em></figcaption>
 </figure>
 
 <figure>
     <img src="/notebook/005-008-beneaththesurface/afa_gallerywall.jpeg" alt="Wall installation detail" />
-    <figcaption><em>Wall-mounted works showing mordançage treatments</em></figcaption>
+    <figcaption><em>Wall-mounted mordançage prints</em></figcaption>
 </figure>
 
 <figure>
     <img src="/notebook/005-008-beneaththesurface/afa_gallerywall2.jpeg" alt="Gallery wall with multiple works" />
-    <figcaption><em>Multiple works creating visual dialogue across the space</em></figcaption>
+    <figcaption><em>Multiple works installed along the corridor</em></figcaption>
 </figure>
 
 <figure>
     <img src="/notebook/005-008-beneaththesurface/afa_gallerytable.jpeg" alt="Table installation with prints" />
-    <figcaption><em>Table installation</em></figcaption>
+    <figcaption><em>Table installation with unframed prints</em></figcaption>
 </figure>
 
 </div>
-
----
-
-## Artistic Process
-
-The series emerged from an intense week-long creative sprint, beginning with photographing the Easton Mall spaces and culminating in a full installation. This compressed timeline became integral to the work's conceptual framework, mirroring the pressure and urgency of commercial cycles.
-
-### Production Timeline
-
-- **Day 1:** Location photography (2 rolls of film)
-- **Day 2:** Film processing and contact printing
-- **Day 3:** Production printing (~50 prints total)
-- **Day 4:** Mordançage treatment (20 selected prints)
-- **Day 5-6:** Framing and installation
-
-<figure>
-    <img src="/notebook/005-008-beneaththesurface/afa_drying1.jpeg" alt="Prints drying in studio" />
-    <figcaption><em>Prints drying during the intensive production period</em></figcaption>
-</figure>
-
-### Technical Notes
-
-The mordançage process involves treating developed silver gelatin prints with a bleaching solution that softens the emulsion, allowing it to be physically manipulated, stretched, or removed from the paper base. This technique, dating to the 19th century, creates unique textures and surface qualities impossible to achieve through digital means.
-
----
-
-## Conceptual Framework
-
-*Beneath the Surface* operates on multiple levels of meaning:
-
-**Physical Transformation:** The mordançage process literally transforms the photographic surface, paralleling the economic and social transformations affecting retail spaces.
-
-**Temporal Pressure:** The compressed production timeline reflected the urgent, speculative nature of commercial development and its equally rapid obsolescence.
-
-**Spatial Context:** Exhibiting in the Easton Hansakäytävä mall, where the images were taken, created a direct dialogue between the work and its subject matter, with the installation inhabiting the same type of space it critiques.
-
----
-
-## Documentation and Reception
-
-The work was documented extensively during both production and exhibition phases. The intense timeline and alternative venue contributed to strong engagement from festival audiences, many of whom were experiencing mordançage processes for the first time.
-
-<figure>
-    <img src="/notebook/005-008-beneaththesurface/afa_developing.jpeg" alt="Film development process" />
-    <figcaption><em>Behind-the-scenes documentation of the film development process</em></figcaption>
-</figure>
 
 ---
 
@@ -116,16 +77,11 @@ The work was documented extensively during both production and exhibition phases
 
 ---
 
-<br>
-<br>
+## Related
 
-## Related Works
-
-This series connects to broader themes explored in my practice:
-
-- [Experiments: 005 - Beneath the Surface](/notebook/005-008-beneaththesurface/005-beneaththesurface/) - Series of blog posts about the project
-- [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) - Conceptual expansion into print media
+- [Notebook: Beneath the Surface](/notebook/005-008-beneaththesurface/005-beneaththesurface/) — Process, installation, and reflections on making the work
+- [Quantum Mordançage Zine](/works/quantum-mordencage-zine/) — Related exploration of mordançage as conceptual practice
 
 ---
 
-For more information about this work or inquiries about exhibitions, please [contact me](mailto:contact@jordensenior.com).
+For inquiries about this work or exhibitions, please [contact me](mailto:contact@jordensenior.com).
