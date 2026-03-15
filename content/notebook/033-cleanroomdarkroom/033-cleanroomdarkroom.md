@@ -2,7 +2,7 @@
 title: "033 · The Cleanroom and the Darkroom"
 description: "On making things with your hands, and why experimental science and analogue photography are the same practice"
 author: "Jorden Senior"
-date: "2026-02-16"
+date: "2029-02-16"
 live: true
 tags: ["Science", "Photography", "Quantum", "NPL", "IYQ"]
 categories: ["Analogue", "Darkroom", "Science"]

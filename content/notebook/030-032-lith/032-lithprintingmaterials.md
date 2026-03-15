@@ -3,7 +3,7 @@ title: "032 · Lith Printing III: Materials, Workflow, and the Contemporary Prin
 image: ""
 description: "Papers still available for lith printing in 2025, EasyLith chemistry, practical workflow, and finding community in the Nordic analog scene"
 author: "Jorden Senior"
-date: "2026-02-15"
+date: "2029-02-15"
 tags: ["Lith Printing", "Darkroom", ]
 categories: ["Darkroom", "Analogue"]
 series: ["Experimental Darkroom", "Lith Printing"]
