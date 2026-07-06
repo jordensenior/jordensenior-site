@@ -215,36 +215,7 @@ If you have no Old Brown (first session, or starting fresh), accept that initial
 
 ## Community and Continuity
 
-### Tim Rudman's Legacy
-
-Tim Rudman is largely responsible for the contemporary understanding of lith printing. His 1998 book *The Master Photographer's Lith Printing Course* was the first comprehensive treatment—establishing the conceptual framework (including the Golden Rules), documenting paper and developer combinations, and providing the technical foundation everyone since has built upon.
-
-Rudman's workshops across the UK, Spain, Australia, and America introduced countless photographers to the technique. His ongoing exhibitions continue demonstrating what the process can achieve—most recently "The End of the Pier" at West Pier Centre, Brighton (July-September 2024).
-
-His influence extends through students and practitioners who continue developing the craft. The technical framework he established—particularly the exposure/development independence and the grain size/colour relationship—provides the conceptual vocabulary the community still uses.
-
-### Wolfgang Moersch: Chemistry for Contemporary Practice
-
-Wolfgang Moersch, the German master printer and chemist behind Moersch Photochemie, produces what many consider the best chemistry currently available for lith printing. His formaldehyde-free formulations (EasyLith, SE5 Master) address health concerns while maintaining full lith capability.
-
-His technical documentation—available at moersch-photochemie.de—provides detailed guidance including sample images across various papers. The comprehensive lith printing guide (Lessons 1-6) is essential reading for anyone serious about the technique.
-
-
-### Finding Community Online
-
-**Photrio.com:** The Alternative Processes forum hosts the most active lith printing discussions in English. Threads cover paper batch compatibility, developer formulations, troubleshooting, and technique refinement. Both Tim Rudman and Wolfgang Moersch have contributed. Search the archives for specific paper/developer combinations.
-
-**Facebook Lith Printing Group:** An active community for questions and print sharing. The group requires that posted images include paper and chemistry information—useful for understanding what produces what. Members are generally helpful and responsive to questions.
-
-**Instagram:** Follow #lithprinting, and individual practitioners. Notable accounts include Mitsuka Uemura (Japanese lithprint artist based in Lithuania), Dominique Capelle (homebrew developer experiments), and Gavin Lyons (UK-based with extensive documentation).
-
-### Workshops and Learning
-
-**Penumbra Foundation** (New York): Offers two-day lith printing workshops covering first and second-pass techniques. 
-
-**Revela-t Festival** (Barcelona): Annual alternative photography festival with periodic lith workshops, often taught by Oliver Pera.
-
-**Nordic darkroom network residencies:** Apply through the network for residency opportunities at partner darkrooms. Learning happens through community engagement as much as formal instruction.
+Two figures define contemporary lith printing. **Tim Rudman**'s 1998 *The Master Photographer's Lith Printing Course* was the first comprehensive treatment—it set the conceptual framework, including the Golden Rules and the grain-size/colour relationship the community still uses. And **Wolfgang Moersch**, the German master printer behind Moersch Photochemie, makes what many consider the best chemistry available, including the formaldehyde-free EasyLith and SE5 Master. Beyond them the knowledge lives in scattered places—the Photrio Alternative Processes forum, the Facebook Lith Printing Group, #lithprinting on Instagram, and workshops through the likes of the Penumbra Foundation and the Nordic darkroom network (see references below).
 
 ## What Lith Printing Offers
 
