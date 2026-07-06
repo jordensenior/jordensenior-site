@@ -5,14 +5,14 @@ description: "What RA4 mordançage reveals about the hidden architecture of colo
 author: "Jorden Senior"
 date: "2025-12-21"
 live: true
-tags: ["Mordançage", "RA4",]
+tags: ["Mordançage", "RA-4"]
 categories: ["Darkroom", "Colour", "Analogue"]
-series: ["Experimental Darkroom","Mordençage","RA4 Mordençage"]
+series: ["Experimental Darkroom","Mordançage","RA-4 Mordançage"]
 aliases: ["chromatic-archaeology"]
 toc: true
 ---
 
-# Chromatic Archaeology: Reading the Ruins of Colour Photography
+## Chromatic Archaeology: Reading the Ruins of Colour Photography
 
 A fully processed RA4 print presents itself as a unified surface—a seamless blend of cyan, magenta, and yellow that our eyes read as full colour. We accept this illusion so completely that we forget it's an illusion at all. But what happens when we literally peel back that promise? These mordançage-treated RA4 prints aren't just technical experiments—they're archaeological excavations into the physical structure of colour photography itself. Each lifted layer, each chromatic bubble, each yellow-green chemical burn reveals something fundamental: colour photography has always been a construction, a careful stack of molecular approximations that only coheres when we don't look too closely.
 
@@ -110,13 +110,6 @@ These experiments suggest possibilities for a new relationship with colour photo
 <figure class="inline end" markdown>
     <img src="/notebook/012-ra4mordancage/ra_6.jpeg" align="left" width="275px" style="margin:10px;" alt="Gallery" />
 </figure> 
-Imagine exhibitions where prints continue evolving throughout the show's run. Opening night viewers see different works than closing night viewers. The exhibition becomes durational, performative, unrepeatable.
-
-Imagine editions where each print is deliberately unique—not through numbering but through chemical variation. The same negative yields infinite variations, each carrying its own chemical signature.
-
-Imagine hybrid processes where controlled sections undergo mordançage whilst others remain stable, creating images that exist partially in transformation, partially in stasis. Time moves differently across the picture plane.
-
-
 ## Chemistry as Revelation
 
 These RA4 mordançage experiments aren't trying to solve a problem—archival instability isn't a bug here but a feature. They're not trying to improve colour photography—improvement implies we agree on what colour photography should do. Instead, they're revealing what colour photography is: a precarious construction that has been naturalised through repetition and convention.

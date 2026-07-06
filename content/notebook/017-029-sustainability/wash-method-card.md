@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Ilford Wash Method Card
 
 ## SIDE A: FILM WASHING

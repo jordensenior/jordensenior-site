@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# The Colour Print Question: RA-4 and Its Alternatives
+## The Colour Print Question: RA-4 and Its Alternatives
 
 **Part 5 of 13** in the Sustainable Darkroom series | [← Previous: Part 4](../020-c41colour) | [Next: Part 6 →](../022-lithprinting)
 

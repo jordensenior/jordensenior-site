@@ -1,19 +1,19 @@
 ---
-title: "004 · Quantum Mordençage"
+title: "004 · Quantum Mordançage"
 #image: "experiments/004-QuantumMordencageZine/foldingzine_2.jpeg"
 description: "And making a Riso-printed zine"
 author: "Jorden Senior"
 date: "2025-08-14"
 live: true
-tags: ["Risography","Mordencage"]
+tags: ["Risography","Mordançage"]
 categories: ["Darkroom","Printmaking"]
 series: ["Riso"]
 aliases: ["quantum-mordencage"]
 toc: true
 ---
-# Quantum Mordançage: When Chemistry Meets Coherence
+## Quantum Mordançage: When Chemistry Meets Coherence
 
-Sometimes you have to break things to see what's underneath. In quantum computing, we spend all our time trying to maintain coherence—keeping qubits isolated, stable, controlled. But what if instead of preserving that delicate quantum state, you deliberately disrupted it? What if the disruption itself could reveal something about quantum behavior that our instruments miss?
+Sometimes you have to break things to see what's underneath. In quantum computing, we spend all our time trying to maintain coherence—keeping qubits isolated, stable, controlled. But what if instead of preserving that delicate quantum state, you deliberately disrupted it? What if the disruption itself could reveal something about quantum behaviour that our instruments miss?
 
 That's the premise behind my latest project: photographing quantum computing hardware, then attacking those photographs with mordançage until the emulsion buckles and lifts, searching for traces of quantum coherence in the chemical chaos.
 
@@ -67,7 +67,7 @@ The Riso's registration drift adds another layer of uncertainty. Each print vari
 
 ## The zine as quantum object
 
-The final form: an zine using "magic" folding— folded and cut to create a 8-page zine from a single A3 sheet. 
+The final form: a zine using "magic" folding— folded and cut to create an 8-page zine from a single A3 sheet. 
 
 <figure>
     <img src="/notebook/004-quantummordencagezine/foldingzine_3.jpeg" align="left" width="300px" style="margin:16px;" alt="Folded Zine" />
@@ -90,13 +90,7 @@ But it is an investigation. Using the language and materials of one discipline (
 
 It's about making the invisible visible, even if what becomes visible is just our own attempt to see. The failure to capture quantum states becomes, through creative failure, its own kind of success.
 
-## Why this matters
-
-We live in an age of precise digital reproduction. Quantum computers promise even more precision—calculations impossible with classical systems. But quantum mechanics itself is fundamentally about uncertainty, probability, superposition.
-
-Using deliberately unstable processes—mordançage, Risograph—to document quantum computing hardware isn't contradiction. It's alignment. The medium matches the subject: both deal with states that can't be pinned down, outcomes that vary with observation, information that exists in multiple forms simultaneously.
-
-Plus, there's something satisfying about using 19th-century chemistry to document 21st-century physics. As if all technology is ultimately about the same thing: trying to see what can't quite be seen.
+There's an alignment here, not a contradiction. Quantum mechanics is about uncertainty and superposition; mordançage and Riso are processes that refuse to be pinned down. Using nineteenth-century chemistry to photograph twenty-first-century hardware feels right — both are ultimately about trying to see what can't quite be seen.
 
 ---
 
@@ -109,6 +103,6 @@ Printed at If By Magic, Helsinki, June 2025. First shown at Experimental 2025, B
 
 - [**Mordançage technique**](https://www.routledge.com/The-Experimental-Darkroom-Contemporary-Uses-of-Traditional-Black--White/Anderson/p/book/9781032131863?utm_source=cjaffiliates&utm_medium=affiliates&cjevent=b998faf77c0f11f083e602a10a18ba73): Christina Anderson's "The Experimental Darkroom"
 - [**Quantum Computing in Finland**](https://qx.vtt.fi/login)
-- [**If By Magic**](ifbymagic.space): Riso studio based in Helsinki 
+- [**If By Magic**](https://ifbymagic.space/): Riso studio based in Helsinki 
 - [**Experimental Photo Festival**](https://en.experimentalphotofestival.com/): Where photographic art meets alternative processes, annually in Barcelona
 

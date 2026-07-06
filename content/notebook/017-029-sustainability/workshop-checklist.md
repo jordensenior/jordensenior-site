@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Workshop Waste Management Checklist
 
 ## Pre-Workshop Setup

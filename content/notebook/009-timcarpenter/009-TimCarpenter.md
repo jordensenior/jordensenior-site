@@ -7,24 +7,24 @@ date: "2025-09-06"
 live: true
 tags: ["Book Review", "Tim Carpenter"]
 categories: ["Philosophy","Essay"]
-series: ["philosophy"]
+series: ["Philosophy"]
 toc: true
 ---
 
 
 
 
-This post shares a personal and reflective essay I wrote earlier in the summer, inspired by Tim Carpenters *To Photograph is to Learn How to Die*. It explores photography as a way of engaging with time, mortality, and the fleeting nature of moments—especially through analogue and darkroom practice.
+This post shares a personal and reflective essay I wrote earlier in the summer, inspired by Tim Carpenter’s *To Photograph is to Learn How to Die*. It explores photography as a way of engaging with time, mortality, and the fleeting nature of moments—especially through analogue and darkroom practice.
 
 Please forgive my more academic musings here; I hope you’ll find something meaningful in this slower, deeper take on photography.
 
 
 ---
-# Finding Mortality Through the Lens: Reflections on Tim Carpenters *To Photograph is to Learn How to Die*
+## Finding Mortality Through the Lens: Reflections on Tim Carpenters *To Photograph is to Learn How to Die*
 
 As I sit in my darkroom, watching a lith print slowly come to life in the chemical bath, I often find myself thinking about time. How photography freezes it. How the darkroom process stretches it. How each image captures a moment that's already gone.
 <figure>
-    <img src="/notebook/009-timcarpenter/timcarpenter.jpeg" align="right" width="300px" style="margin:16px;" alt="Book reading sessing in Kaapelitehdas" />
+    <img src="/notebook/009-timcarpenter/timcarpenter.jpeg" align="right" width="300px" style="margin:16px;" alt="Book reading session in Kaapelitehdas" />
     <figcaption></figcaption>
 </figure>
 There’s a moment in Paul Simon’s America where he describes looking out of a bus at the landscape while his companion reads a magazine, noticing the moon rising over an open field. That image has always struck me as profoundly photographic—this fleeting human moment against the vast, indifferent movements of nature. It’s a brief grasp at something eternal, but it slips away even as we notice it. 
@@ -88,13 +88,9 @@ In a world obsessed with instant capture and endless sharing, Carpenter offers a
 
 We are all, perhaps, looking for America. 
 
-For Carpenter, Photography teaches us to look—and to understand that looking is enough.
+For Carpenter, photography teaches us to look—and to understand that looking is enough.
 
 ---
-
-## Final Thoughts
-
-Carpenter’s book and practice spoke to me personally, offering a perspective on how photography connects us to time and the fleeting nature of life. Especially as someone who works with analogue processes, I find his ideas a meaningful way to think about how we relate to moments that slip through our fingers.  
 
 Thanks for reading. I’d love to hear your thoughts or experiences if this resonated with you.
 

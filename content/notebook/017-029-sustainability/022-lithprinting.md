@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# Experimental Methods: Lith Printing's Surprising Profile
+## Experimental Methods: Lith Printing's Surprising Profile
 
 **Part 6 of 13** in the Sustainable Darkroom series | [← Previous: Part 5](../021-ra4printing) | [Next: Part 7 →](../023-mordancage)
 
@@ -207,7 +207,7 @@ If you're doing lith printing without selenium toning, your environmental profil
 - Accept that the irreproducibility may generate more paper waste than conventional printing
 
 **A note on washing:**
-For lith prints, the same washing considerations apply as for conventional printing. [Part 8](/darkroom/sustainable/print-washing) covers print washing efficiency in detail—the sequential water changes and HCA approach work identically for lith prints. RC paper needs only brief washing regardless of development method; fibre-based lith prints benefit from the same HCA + sequential changes protocol as any fibre print.
+For lith prints, the same washing considerations apply as for conventional printing. [Part 8](/notebook/017-029-sustainability/024-printwashing/) covers print washing efficiency in detail—the sequential water changes and HCA approach work identically for lith prints. RC paper needs only brief washing regardless of development method; fibre-based lith prints benefit from the same HCA + sequential changes protocol as any fibre print.
 
 **For toning:**
 - Selenium: Use sparingly, replenish rather than discard, dispose as hazardous waste

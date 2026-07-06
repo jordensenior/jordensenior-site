@@ -8,7 +8,7 @@ categories: ["Exhibition", "Darkroom"]
 toc: true
 ---
 
-# Beneath the Surface
+## Beneath the Surface
 
 **2025** · *Mordançage on silver gelatin*
 **Approximately 20 works, dimensions variable**

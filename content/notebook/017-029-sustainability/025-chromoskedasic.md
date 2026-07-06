@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# Chromoskedasic Sabattier: The Workshop Sludge Problem
+## Chromoskedasic Sabattier: The Workshop Sludge Problem
 
 **Part 9 of 13** in the Sustainable Darkroom series | [← Previous: Part 8](../024-printwashing) | [Next: Part 10 →](../026-synthesis)
 

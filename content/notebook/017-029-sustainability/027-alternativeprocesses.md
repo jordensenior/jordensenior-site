@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# Alternative Processes—A Sustainability Overview
+## Alternative Processes—A Sustainability Overview
 
 **Part 11 of 13** in the Sustainable Darkroom series | [← Previous: Part 10](../026-synthesis) | [Next: Part 12 →](../028-filmmanufacturing)
 
@@ -89,7 +89,7 @@ Anthotype has essentially zero environmental impact:
 
 - **Reproducibility:** Each plant, each season, each batch gives different results. This is either charming or frustrating depending on your temperament.
 
-**Assessment:** Anthotype is the most sustainable photographic process possible—your materials are garden waste and sunlight. But the impermanence means it's more an art/craft practice than a archival photographic process. The aesthetic is unique and beautiful; the practical limitations are significant.
+**Assessment:** Anthotype is the most sustainable photographic process possible—your materials are garden waste and sunlight. But the impermanence means it's more an art/craft practice than an archival photographic process. The aesthetic is unique and beautiful; the practical limitations are significant.
 
 **My interest:** I haven't tried anthotypes yet, but the sustainability angle is compelling. The exposure times (potentially weeks) make it difficult to integrate into regular practice, but as a summer project with genuinely zero environmental guilt, it's appealing.
 

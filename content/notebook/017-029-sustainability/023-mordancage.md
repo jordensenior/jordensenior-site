@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# Mordançage: The Honest Assessment of an Unsustainable Process
+## Mordançage: The Honest Assessment of an Unsustainable Process
 
 **Part 7 of 13** in the Sustainable Darkroom series | [← Previous: Part 6](../022-lithprinting) | [Next: Part 8 →](../024-printwashing)
 
@@ -56,7 +56,7 @@ For comparison, typical acute toxicity values (LC₅₀):
 - Copper to sensitive fish species: ~17–200 μg/L
 - Silver to Daphnia: ~0.6 μg/L
 
-Copper is less acutely toxic than silver to most organisms, but still highly problematic. The mordançage working solution contains **10g copper per litre**—roughly 4 million times the EPA criterion concentration.
+Copper is less acutely toxic than silver to most organisms, but still highly problematic. The mordançage working solution contains **10g copper chloride per litre (~5g copper)**—roughly 2 million times the EPA criterion concentration.
 
 ### No recovery method
 

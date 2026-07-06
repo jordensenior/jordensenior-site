@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Sustainable Darkroom Practices
 ## A Practical Guide
 
@@ -526,7 +530,7 @@ A well-maintained selenium toner bath can last years of regular use.
 
 Mordançage uses copper chloride bleach—a genuine environmental concern.
 
-**The problem:** Copper is toxic to aquatic life at very low concentrations (EPA freshwater criterion: 2.3 μg/L). Working mordançage solution contains ~10g copper per litre.
+**The problem:** Copper is toxic to aquatic life at very low concentrations (EPA freshwater criterion: 2.3 μg/L). Working mordançage solution contains ~10g copper chloride per litre (~5g copper).
 
 **The mitigation:** The bleach is reusable virtually indefinitely.
 

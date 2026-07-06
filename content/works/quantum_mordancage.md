@@ -8,7 +8,7 @@ categories: ["Exhibition", "Darkroom"]
 toc: true
 ---
 
-# Entangled Shadows: Mordançage at the Edge of Coherence
+## Entangled Shadows: Mordançage at the Edge of Coherence
 
 **2025** · *Mordançage and lith printing on silver gelatin*
 **Approximately 20 works, dimensions variable**

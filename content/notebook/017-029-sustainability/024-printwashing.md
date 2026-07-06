@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# The Wash Question: Where Darkroom Water Actually Goes
+## The Wash Question: Where Darkroom Water Actually Goes
 
 **Part 8 of 13** in the Sustainable Darkroom series | [← Previous: Part 7](../023-mordancage) | [Next: Part 9 →](../025-chromoskedasic)
 

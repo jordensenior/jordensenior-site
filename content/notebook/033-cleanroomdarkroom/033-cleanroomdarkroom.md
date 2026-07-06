@@ -2,7 +2,7 @@
 title: "033 · The Cleanroom and the Darkroom"
 description: "On making things with your hands, and why experimental science and analogue photography are the same practice"
 author: "Jorden Senior"
-date: "2029-02-16"
+date: "2026-02-16"
 live: true
 tags: ["Science", "Photography", "Quantum", "NPL", "IYQ"]
 categories: ["Analogue", "Darkroom", "Science"]
@@ -11,7 +11,7 @@ aliases: ["cleanroom-darkroom"]
 toc: true
 ---
 
-# The Cleanroom and the Darkroom
+## The Cleanroom and the Darkroom
 
 A few weeks ago, in the mountains above Trento, someone I'd met briefly at an event in London pulled me aside between sessions. "I've been thinking about what you said at NPL," he told me. "About the duality of science and art, and that scientists should lean into their creativity." He's a metrologist. His world is standards, uncertainty budgets, the kind of rigour that literally defines time and the fundamental constants — not someone you'd expect to be moved by a conversation about art. But something in that panel had landed, and the thought had stayed with him for months.
 
@@ -39,7 +39,7 @@ The darkroom, for me, filled the gap. Not as a hobby, not as relaxation — as a
 
 In [lith printing](/notebook/030-032-lith/030-lithprintingchemistry/), you overexpose a sheet of paper and develop it in extremely dilute chemistry. At these dilutions, an autocatalytic cascade takes hold: the developing agent passes through a transient intermediate — the semiquinone radical — that is itself a far more aggressive reducer than what produced it. Shadows accelerate exponentially while highlights creep forward linearly. You snatch the print at exactly the right moment on that curve, just as you'd execute a measurement on a qubit near a transition: deep understanding of the system, then a precise intervention in a narrow window. Every lith print differs from the last — not a loss of control, but evidence of one. Small variations in initial conditions propagate through a nonlinear system. The chemistry is legible if you've done the work to learn its language.
 
-The [Sabattier effect](/notebook/010-sabattier/010-sabattierinthecityoflights/) demands a different skill: the irreversible commitment. You re-expose a print to light mid-development; the remaining unexposed halides develop, producing partial tone reversal. The moment you choose to flash determines the balance of positive and negative in the final image, and you cannot undo it. Every measurement in physics is the same kind of commitment — every choice of when to read out a qubit, when to apply a pulse, when to terminate a sequence. The skill lies in knowing the system well enough to commit at the right moment. I use a second enlarger for the re-exposure, for precise control over timing and intensity — the same instinct as the cleanroom: understand the physics well enough to design your intervention deliberately.
+The [Sabattier effect](/notebook/010-sabattier/010-sabattierincityoflights/) demands a different skill: the irreversible commitment. You re-expose a print to light mid-development; the remaining unexposed halides develop, producing partial tone reversal. The moment you choose to flash determines the balance of positive and negative in the final image, and you cannot undo it. Every measurement in physics is the same kind of commitment — every choice of when to read out a qubit, when to apply a pulse, when to terminate a sequence. The skill lies in knowing the system well enough to commit at the right moment. I use a second enlarger for the re-exposure, for precise control over timing and intensity — the same instinct as the cleanroom: understand the physics well enough to design your intervention deliberately.
 
 [Mordançage](/notebook/001-mordencage/001-mordancage/) is controlled destruction. You bleach a finished print in copper chloride and peroxide; the chemistry attacks the densest silver, the gelatin swells and lifts, and the shadows peel away from the paper. You redevelop, and what was light becomes dark. You can plan a mordançage print — concentrations, timing, temperature — and predict which areas will lift based on silver density. But the process retains an irreducible variability at the molecular level, producing prints that are unrepeatable in their specifics even when your method is disciplined. The same is true in cleanroom fabrication: an etch that undercuts in a way your model didn't predict isn't a lucky break — it's a signal that only someone who understands the model can read.
 

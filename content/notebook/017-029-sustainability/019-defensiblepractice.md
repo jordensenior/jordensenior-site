@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# A Defensible Practice: How to Run a Darkroom You Can Live With
+## A Defensible Practice: How to Run a Darkroom You Can Live With
 
 **Part 3 of 13** in the Sustainable Darkroom series | [← Previous: Part 2](../018-silversshadow) | [Next: Part 4 →](../020-c41colour)
 
@@ -28,7 +28,7 @@ A note on fixer types: this post assumes you're using **rapid fixer** (ammonium 
 
 Before diving into methods, let me state the priority order explicitly:
 
-1. **Silver recovery from fixer** — Eliminates approximately 95% of environmental concern
+1. **Silver recovery from fixer** — Eliminates approximately 95% of the aquatic-toxicity (heavy-metal) burden
 2. **Water efficiency in washing** — Reduces both water consumption and residual silver discharge by 75–90%
 3. **Fixer efficiency** — Extends chemical life, reducing total waste volume
 4. **Chemistry handling** — Proper storage, measuring, disposal of concentrates
@@ -40,7 +40,7 @@ If you're implementing item 5 while ignoring items 1–2, you've optimised the w
 
 ### Why It Matters Most
 
-Spent fixer contains silver at 3,000–8,000 mg/L.[^1] Aquatic organisms die at 0.6–5 μg/L.[^2] The concentration differential—roughly a million to one—means that even aggressive dilution in municipal systems doesn't reduce silver to safe levels reliably. Every litre of spent fixer represents grams of heavy metal entering your local watershed.
+Spent fixer contains silver at 3,000–8,000 mg/L.[^1] Aquatic organisms die at 0.6–5 μg/L.[^2] The concentration differential—roughly several million to one—means that even aggressive dilution in municipal systems doesn't reduce silver to safe levels reliably. Every litre of spent fixer represents grams of heavy metal entering your local watershed.
 
 Silver recovery removes this problem at source. The methods available to home darkroom operators achieve 95–99% removal, transforming hazardous waste into something that can legitimately enter municipal treatment without ecological concern.[^3]
 
@@ -157,7 +157,7 @@ Wash aids are particularly important for **fibre-based paper**, where fixer pene
 Washing prints—particularly fibre-based prints—consumes far more water than film processing. A single 8×10 fibre print can require 40–60 litres under standard protocols.
 
 **Efficient print washing:**
-1. Use RC paper when archival longevity isn't critical - i.e, test prints (30 seconds wash, ~4 litres)
+1. Use RC paper when archival longevity isn't critical - i.e., test prints (30 seconds wash, ~4 litres)
 2. Implement wash aid for fibre prints (reduces wash time by 80%)
 3. Use sequential water changes rather than continuous flow
 4. Print in batches to amortise wash water across multiple prints

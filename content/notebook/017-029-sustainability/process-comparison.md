@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Process Sustainability Comparison
 
 ## Overview
@@ -35,7 +39,7 @@ This table compares the environmental profiles of photographic processes covered
 
 | Aspect | Detail |
 |--------|--------|
-| **Primary concern** | Silver in fixer (0.5–2g per roll ends up dissolved) |
+| **Primary concern** | Silver in fixer (0.2–0.5g per roll ends up dissolved) |
 | **Secondary concerns** | Developer disposal (minimal—biodegradable) |
 | **Water use** | ~2 litres per roll (Ilford method) |
 | **Hazardous waste** | Fixer only (silver recovery possible) |

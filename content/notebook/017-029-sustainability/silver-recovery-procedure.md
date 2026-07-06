@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Steel Wool Silver Recovery Procedure
 
 ## Why This Matters

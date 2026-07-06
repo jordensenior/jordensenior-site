@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# End of Life: Disposal, Creative Reuse, and Getting Value from "Waste"
+## End of Life: Disposal, Creative Reuse, and Getting Value from "Waste"
 
 **Part 13 of 13** in the Sustainable Darkroom series | [← Previous: Part 12](../028-filmmanufacturing)
 
@@ -99,7 +99,7 @@ But here's the thing: several alternative processes work well with—or even pre
 
 ### Lith printing: The fog-tolerant process
 
-Lith printing (covered in [Part 6](/darkroom/sustainable/lith-printing)) works beautifully with aged and mildly fogged papers.
+Lith printing (covered in [Part 6](/notebook/017-029-sustainability/022-lithprinting/)) works beautifully with aged and mildly fogged papers.
 
 **Why it works:**
 - Lith development is infectious—it accelerates in areas of higher exposure
@@ -180,7 +180,7 @@ Before discarding prints that didn't work, consider:
 
 ### Mordançage: Destruction as creation
 
-Mordançage (covered in [Part 7](/darkroom/sustainable/mordancage)) transforms existing prints by selectively bleaching and lifting the emulsion.
+Mordançage (covered in [Part 7](/notebook/017-029-sustainability/023-mordancage/)) transforms existing prints by selectively bleaching and lifting the emulsion.
 
 **Why it works for failed prints:**
 - High-contrast prints that were "mistakes" often work beautifully for mordançage
@@ -278,9 +278,9 @@ Chemistry reaches the end of its useful life. Here's what to do.
 
 **Never pour silver-laden fixer down the drain.**
 
-Even if you've been recovering silver throughout use (as discussed in [Part 2](/darkroom/sustainable/silver-shadow)), exhausted fixer still contains dissolved silver. 
+Even if you've been recovering silver throughout use (as discussed in [Part 2](/notebook/017-029-sustainability/018-silversshadow/)), exhausted fixer still contains dissolved silver. 
 
-**Extend fixer life first:** Two-bath fixing (covered in [Part 3](/darkroom/sustainable/defensible-practice)) dramatically extends fixer capacity—4–10× compared to single-bath. The first bath accumulates silver while the second ensures complete fixing. When the first exhausts, promote the second to first position and make fresh second. This reduces both disposal frequency and total silver-laden waste volume.
+**Extend fixer life first:** Two-bath fixing (covered in [Part 3](/notebook/017-029-sustainability/019-defensiblepractice/)) dramatically extends fixer capacity—4–10× compared to single-bath. The first bath accumulates silver while the second ensures complete fixing. When the first exhausts, promote the second to first position and make fresh second. This reduces both disposal frequency and total silver-laden waste volume.
 
 **When fixer is truly exhausted, options include:**
 

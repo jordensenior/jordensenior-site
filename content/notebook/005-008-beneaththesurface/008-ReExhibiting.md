@@ -12,9 +12,9 @@ aliases: ["pimio25-reexhibit"]
 toc: true
 ---
 
-# Re-exhibiting Under the Surface: New Contexts at Pimiö 25
+## Re-exhibiting Beneath the Surface: New Contexts at Pimiö 25
 
-**Part 4 of 4** in the Beneath the Surface series | [← Previous: Part 3](../007-UnderPressure)
+**Part 3 of 3** in the Beneath the Surface series | [← Previous: Part 2](/notebook/005-008-beneaththesurface/007-underpressure/)
 
 ---
 

@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# Synthesis: A Framework for Sustainable Darkroom Practice
+## Synthesis: A Framework for Sustainable Darkroom Practice
 
 **Part 10 of 13** in the Sustainable Darkroom series | [← Previous: Part 9](../025-chromoskedasic) | [Next: Part 11 →](../027-alternativeprocesses)
 
@@ -28,7 +28,7 @@ The single most important finding from this research is that **not all environme
 
 ### 1. Silver (~80% of environmental burden)
 
-Silver is the dominant concern in any silver-based process. A single roll of 35mm film contains 0.5–2g of silver; a sheet of fibre paper contains 2–4g/m². This silver ends up in fixer, and fixer disposed without silver recovery represents the overwhelming majority of darkroom environmental impact.
+Silver is the dominant concern in any silver-based process. A single roll of 35mm film contains roughly 0.2–0.5g of silver (more for colour than black-and-white); a sheet of fibre paper contains 2–4g/m². This silver ends up in fixer, and fixer disposed without silver recovery represents the overwhelming majority of darkroom environmental impact.
 
 **The intervention:** Recover silver from fixer. Use a steel wool cartridge, electrolytic recovery, or collect spent fixer for professional recovery. This single action addresses most of the environmental burden of darkroom work.
 
@@ -118,8 +118,8 @@ Here's how the processes I've covered compare:
 - **Secondary concern:** Standard B&W chemistry concerns
 - **Assessment:** Lower hydroquinone use than standard printing due to extreme dilution (1+20 or more). Irreproducibility may increase paper consumption.
 
-### Toning (Selenium, Sulphide, etc.)
-- **Primary concern:** Varies by toner (selenium is toxic; sulphide is smelly but benign; iron is harmless)
+### Toning (Selenium, Sulfide, etc.)
+- **Primary concern:** Varies by toner (selenium is toxic; sulfide is smelly but benign; iron is harmless)
 - **Assessment:** Most toners at working dilutions have minimal environmental impact. Selenium requires care; gold and platinum have economic rather than environmental concerns.
 
 ### Mordançage

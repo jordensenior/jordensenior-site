@@ -1,7 +1,7 @@
 ---
 title: "003 · From Photo to Two-Plate Riso"
 image: ""
-description: "Manual seperation workflow for 2-plate prints"
+description: "Manual separation workflow for 2-plate prints"
 author: "Jorden Senior"
 date: "2025-08-12"
 live: true
@@ -12,7 +12,7 @@ aliases: ["riso-workflow-two-plate"]
 toc: true
 ---
 
-# From Photo to Two-Plate Riso (notes from a work-in-progress)
+## From Photo to Two-Plate Riso (notes from a work-in-progress)
 
 I’m not chasing CMYK here. Two reasons: **(1)** it burns through inks and setup, **(2)** it sands off a lot of what makes Riso feel like Riso. Two plates is a sweet spot for photos — enough tone and mood, still honest about the medium.
 
@@ -72,7 +72,7 @@ The goal is two grayscale plates built from different colour regions of your ima
    - Repeat for other colour regions
 
 4. **Shape each plate with Curves and Levels**:
-   - Cool plate: emphasize structure and lower-mids, protect the top end
+   - Cool plate: emphasise structure and lower-mids, protect the top end
    - Warm plate: own the upper-mids and highlights, keep shadows light
    - Constrain outputs to ~8-92% (Levels output: Black 20-30, White 225-235)
 
@@ -86,9 +86,9 @@ The goal is two grayscale plates built from different colour regions of your ima
    - Select → Tonal Range → Shadows/Highlights
    - Or paint masks manually for more control
 
-3. **Cool plate (structure)**: emphasize 0-70% tones, pull top end down
+3. **Cool plate (structure)**: emphasise 0-70% tones, pull top end down
    
-4. **Warm plate (presence)**: emphasize 30-100% tones, keep deep shadows lighter
+4. **Warm plate (presence)**: emphasise 30-100% tones, keep deep shadows lighter
 
 That 30-70% overlap is where the print breathes. If midtones get muddy, reduce the overlap rather than just cranking contrast.
 
@@ -146,7 +146,7 @@ Big visible dots (or line screens) can be the aesthetic, not a compromise — es
 
 - [**Outer Space Press**](https://www.outerspacepress.com/) — on “slow and calculated” Riso for photographic reproduction, embracing texture & imperfections.  
 - [**O.OO — *No Magic in Riso***](https://odotoo.com/NO-MAGIC-IN-RISO) — two years of separation experiments; tritone colour charts; design with imperfection.
-- [**Exploriso**](ttps://en.exploriso.info/exploriso/colour/separations/tonal-separation-by-setting-a-threshold-value/) — threshold/posterise separations for flat-tone layering.  
+- [**Exploriso**](https://en.exploriso.info/exploriso/colour/separations/tonal-separation-by-setting-a-threshold-value/) — threshold/posterise separations for flat-tone layering.  
 - [**Spectrolite**](https://spectrolite.app/how-to/overview/riso-ify) — RISO-ify overview; halftone & dithering guides; practical LPI/angle context. 
 
 

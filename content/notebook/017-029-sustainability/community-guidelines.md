@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Community Darkroom Guidelines
 ## Sustainable Practice for Shared Spaces
 

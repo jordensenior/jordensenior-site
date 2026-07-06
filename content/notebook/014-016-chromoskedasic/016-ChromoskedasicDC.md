@@ -12,9 +12,9 @@ aliases: ["chromoskedasic-dc"]
 toc: true
 ---
 
-# Chromoskedasic DC: Colour Alchemy in the Capital
+## Chromoskedasic DC: Colour Alchemy in the Capital
 
-**Part 3 of 3** in the Chromoskedasic Sabattier series | [← Previous: Part 2](../015-ChromoskedasicScience)
+**Part 3 of 3** in the Chromoskedasic Sabattier series | [← Previous: Part 2](/notebook/014-016-chromoskedasic/015-chromoskedasicscience/)
 
 ---
 
@@ -70,7 +70,7 @@ For chromoskedasic work, exposure and development strategy differs from conventi
 
 My chromoskedasic workflow splits between two locations. The darkroom provides controlled conditions for initial print exposure and partial development; outdoors provides ventilation, natural light, and working space for the chemical treatment.
 
-This also offer advantages. Natural daylight, being full-spectrum and intense, may provide more uniform activation than artificial room lighting. The outdoor environment allows extended working sessions without fatigue. And there's something fitting about performing this light-dependent chemistry in actual sunlight.
+This also offers advantages. Natural daylight, being full-spectrum and intense, may provide more uniform activation than artificial room lighting. The outdoor environment allows extended working sessions without fatigue. And there's something fitting about performing this light-dependent chemistry in actual sunlight.
 
 ### Step 1: Print Exposure (Darkroom, Safelight)
 
@@ -136,7 +136,7 @@ This removes residual silver halide without fully stripping the colour-forming p
 
 ### Step 9: Final Wash and Dry
 
-Standard fiber-based print washing: 60-90 minutes in running water or equivalent archival wash sequence with water changes.
+Standard fibre-based print washing: 60-90 minutes in running water or equivalent archival wash sequence with water changes.
 
 Dry prints face-up on screens. Do not squeegee—the altered surface marks easily.
 

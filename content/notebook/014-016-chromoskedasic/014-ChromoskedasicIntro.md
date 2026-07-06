@@ -12,9 +12,9 @@ aliases: ["chromoskedasic-intro"]
 toc: true
 ---
 
-# Chromoskedasic Sabattier: Colour from Silver, Light from Scattering
+## Chromoskedasic Sabattier: Colour from Silver, Light from Scattering
 
-**Part 1 of 3** in the Chromoskedasic Sabattier series | [Next: Part 2 →](../015-ChromoskedasicScience)
+**Part 1 of 3** in the Chromoskedasic Sabattier series | [Next: Part 2 →](/notebook/014-016-chromoskedasic/015-chromoskedasicscience/)
 
 ---
 

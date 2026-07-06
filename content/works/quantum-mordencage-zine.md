@@ -8,7 +8,7 @@ categories: ["Publication", "Artist Book"]
 toc: true
 ---
 
-# Quantum Mordançage Zine
+## Quantum Mordançage Zine
 
 **2025** · *Artist publication*
 **Risograph on 180g uncoated stock, hand-folded**

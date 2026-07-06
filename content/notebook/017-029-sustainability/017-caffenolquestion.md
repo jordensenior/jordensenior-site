@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# The Caffenol Question: What Botanical Developers Actually Offer
+## The Caffenol Question: What Botanical Developers Actually Offer
 
 **Part 1 of 13** in the Sustainable Darkroom series | [Next: Part 2 →](../018-silversshadow)
 
@@ -214,7 +214,7 @@ Not because the chemistry doesn't matter—it does, somewhat—but because the m
 
 When you develop film, your developer reduces exposed silver halides to metallic silver. That's the image. The developer is spent, relatively dilute, and contains no significant silver. It goes down the drain.
 
-When you fix film, your fixer dissolves unexposed silver halides—and those silver ions accumulate in your fixer solution, reaching concentrations of 3,000–8,000 mg/L.[^17] Silver is acutely toxic to aquatic organisms at **0.6–5 μg/L**.[^18] Your spent fixer contains silver at concentrations literally a million times higher than lethal thresholds.
+When you fix film, your fixer dissolves unexposed silver halides—and those silver ions accumulate in your fixer solution, reaching concentrations of 3,000–8,000 mg/L.[^17] Silver is acutely toxic to aquatic organisms at **0.6–5 μg/L**.[^18] Your spent fixer contains silver at concentrations literally millions of times higher than lethal thresholds.
 
 One litre of spent fixer can contain enough silver to kill fish in a small stream. And there's no "green fixer" alternative—the silver is what you're removing. That's the whole point.
 

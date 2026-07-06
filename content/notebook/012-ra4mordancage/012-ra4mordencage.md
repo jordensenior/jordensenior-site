@@ -5,14 +5,14 @@ description: "Pushing mordançage chemistry into forbidden territory—lifting c
 author: "Jorden Senior"
 date: "2025-12-20"
 live: true
-tags: ["Mordançage", "RA4", "Experimental Darkroom"]
+tags: ["Mordançage", "RA-4", "Experimental Darkroom"]
 categories: ["Darkroom", "Colour", "Analogue"]
-series: ["Experimental Darkroom","Mordençage","RA4 Mordençage"]
+series: ["Experimental Darkroom","Mordançage","RA-4 Mordançage"]
 aliases: ["ra4-mordancage"]
 toc: true
 ---
 
-# Breaking RA4 Apart: When Mordançage Meets Colour Layers
+## Breaking RA4 Apart: When Mordançage Meets Colour Layers
 
 
 
@@ -82,7 +82,7 @@ For these experiments, I use modern RC colour paper simply because it is what re
 
 The breakthrough came with temperature. At room temperature, RA4 prints resist the mordançage solution almost completely. The emulsion might swell slightly, colours might shift, but the layers hold together. Raise the working temperature to somewhere around 35°C, and everything changes.
 
-The warmth serves multiple functions. It accelerates chemical reactions—what might take hours at 20°C happens in minutes closer to 35°C. It increases molecular motion, allowing the aggressive chemistry to penetrate deeper into the emulsion structure. Most critically, it weakens the adhesion layers that bind everything together [web:10][file:4].
+The warmth serves multiple functions. It accelerates chemical reactions—what might take hours at 20°C happens in minutes closer to 35°C. It increases molecular motion, allowing the aggressive chemistry to penetrate deeper into the emulsion structure. Most critically, it weakens the adhesion layers that bind everything together.
 
 Modern RA4 papers use sophisticated adhesion promoters to lock the emulsion to the polyethylene base. These are typically titanium- or chromium-based compounds that create molecular bridges between the organic gelatin and the synthetic resin coating. They're designed to survive normal processing chemistry. They're not designed to survive concentrated hydrogen peroxide around 35°C whilst simultaneously being attacked by acid.
 
@@ -165,20 +165,8 @@ This work opens numerous research directions:
 
 **Digital hybrids**: These lifted colour layers could be scanned at various stages, creating digital composites impossible through purely photographic means.
 
-## The Larger Implications
+## What This Opens Up
 
-This technique challenges fundamental assumptions about photographic processes. We've been told colour and alternative processes don't mix—that chromogenic materials exist in a separate universe from historical techniques. Chemistry refuses those neat categories.
+We've been told colour and alternative processes don't mix — that chromogenic materials live in a separate universe from historical technique. They don't. And that matters beyond this one process: the alt-process world has exhaustively mined black and white, but experimental colour is still almost untouched. The complexity that once put people off now reads as unexplored territory.
 
-More broadly, this work suggests vast unexplored territory in experimental colour photography. Whilst the alt‑process community has exhaustively explored many historical black and white techniques, colour remains largely virgin territory for experimental manipulation. The complexity that once discouraged experimentation now offers rich possibilities for those willing to venture into unstable, unpredictable processes.
-
-Working with RA4 mordançage means accepting imperfection, embracing accident, collaborating with chemistry that refuses complete control. The results can't be precisely repeated. Each print emerges from a unique moment of chemical chaos—temperature, timing, mechanical intervention, and pure chance combining to create something that shouldn't exist according to the textbooks.
-
-## Why This Matters Now
-
-In an era when colour photography means primarily digital capture and inkjet output, returning to chromogenic materials with experimental intent feels almost archaeological. We're excavating the physical structure of colour photography itself—literally peeling apart the layers that create photographic colour.
-
-This matters because it reveals colour photography as constructed rather than natural. When we can physically separate cyan from magenta, we see how arbitrary and artificial photographic colour has always been. The smooth colour gradients we accept as “realistic” are actually discontinuous layers of dye, only appearing continuous because they're normally inseparable.
-
-The technique also speaks to contemporary concerns about permanence and degradation. Whilst traditional photography prizes archival stability, these prints celebrate their own destruction. They're photographs in active decomposition, images that refuse the stability we expect from colour prints. In a digital age of perfect preservation, there's something compelling about photographs that insist on their own material transformation.
-
-Standing in the darkroom, watching colour layers peel apart, I'm reminded that photography's experimental future might lie not in new technologies but in misusing existing ones. Every established process contains potential for subversion. Every “impossible” reaction might just be waiting for someone willing to add heat, increase concentration, or simply refuse to accept that something can't be done.
+There's a deeper point, which the companion essay [Chromatic Archaeology](/notebook/013-chromaticarchaeology/013-chromaticarchaeology/) takes up: once you can physically peel cyan from magenta, you see how constructed photographic colour has always been. For now, standing at the tray watching the layers lift, the lesson I take is the plain one — photography's experimental future may lie less in new technology than in misusing what we already have.

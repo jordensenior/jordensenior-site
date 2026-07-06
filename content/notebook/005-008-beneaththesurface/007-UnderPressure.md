@@ -5,20 +5,20 @@ description: "Reflections on the accelerated making and improvisational approach
 author: "Jorden Senior"
 date: "2025-08-29"
 live: true
-tags: ["Mordançage",]
+tags: ["Mordançage"]
 categories: ["Exhibition", "Darkroom", "Philosophy"]
 series: ["Beneath the Surface"]
 aliases: ["time-speed-improvisation"]
 toc: true
 ---
 
-# Time, Speed, and Improvisation: Making Under Pressure at Art for All
+## Time, Speed, and Improvisation: Making Under Pressure at Art for All
 
-**Part 3 of 4** in the Beneath the Surface series | [← Previous: Part 2](../006-HangingInTheMall) | [Next: Part 4 →](../008-ReExhibiting)
+**Part 2 of 3** in the Beneath the Surface series | [← Previous: Part 1](/notebook/005-008-beneaththesurface/005-beneaththesurface/) | [Next: Part 3 →](/notebook/005-008-beneaththesurface/008-reexhibiting/)
 
 ---
 
-The Art for All festival demanded an intense burst of creation. While I'm naturally quite prolific in the darkroom, often generating creative bursts with many prints in a session, this project pushed that approach to an entirely different level. In about a week, I shot two rolls of film at the mall, developed them, printed around 50 images, mordançaged my favorites, framed, and installed everything. The compressed timeline forced me to embrace risk, chance, and improvisation more deeply than usual.
+The Art for All festival demanded an intense burst of creation. While I'm naturally quite prolific in the darkroom, often generating creative bursts with many prints in a session, this project pushed that approach to an entirely different level. In about a week, I shot two rolls of film at the mall, developed them, printed around 50 images, mordançaged my favourites, framed, and installed everything. The compressed timeline forced me to embrace risk, chance, and improvisation more deeply than usual.
 
 ## Under Pressure: When Natural Energy Meets Necessity
 <figure>
@@ -27,11 +27,10 @@ The Art for All festival demanded an intense burst of creation. While I'm natura
 </figure>
 
 There's a reason "Under Pressure" feels like the perfect soundtrack to this experience—sometimes the most direct description is the most accurate. Working literally under pressure in a dead mall space, surrounded by empty storefronts and the remnants of consumer culture, I found myself collaborating with forces beyond my control: the unpredictable mordançage process, scavenged framing materials, impossible deadlines. Like Queen and Bowie's exploration of finding something beautiful despite crushing external forces, this project became about discovering what emerges when your natural creative process gets amplified by necessity.
->
 
 
 
-From just two rolls of film, I made about 50 prints—far beyond my usual experimental bursts. This volume served multiple purposes: selecting favorites, ensuring I had backups for additional mordançage treatments if needed, but most importantly, it allowed the narrative to emerge organically during the printing process itself. I was discovering what the images were trying to say as I worked, understanding which ones wanted to be paired together, how different treatments might serve the evolving story. About 20 prints ultimately received the slow, careful mordançage treatment, chosen not just for their individual merit but for how they contributed to the larger conversation happening across the room.
+From just two rolls of film, I made about 50 prints—far beyond my usual experimental bursts. This volume served multiple purposes: selecting favourites, ensuring I had backups for additional mordançage treatments if needed, but most importantly, it allowed the narrative to emerge organically during the printing process itself. I was discovering what the images were trying to say as I worked, understanding which ones wanted to be paired together, how different treatments might serve the evolving story. About 20 prints ultimately received the slow, careful mordançage treatment, chosen not just for their individual merit but for how they contributed to the larger conversation happening across the room.
 <figure>
     <img src="/notebook/005-008-beneaththesurface/afa_drying1.jpeg" align="center" width="600px" style="margin:10px;" alt="Prints Drying" />
     <figcaption></figcaption>

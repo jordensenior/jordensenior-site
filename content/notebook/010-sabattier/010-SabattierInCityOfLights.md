@@ -12,7 +12,7 @@ aliases: ["sabattier-paris"]
 toc: true
 ---
 
-# Sabattier in the City of Lights
+## Sabattier in the City of Lights
 
 
 
@@ -32,7 +32,7 @@ The Sabattier effect has one of photography's most fitting origin stories: it wa
     <figcaption></figcaption>
 </figure>
 
-Throughout the 19th century, the effect was "discovered" many times by many photographers, as it tends to occur whenever a light is switched on inadvertently in the darkroom while a film or print is being developed. The technique remained largely a curiosity until Man Ray perfected it in the 1930s, reportedly after fellow artist Lee Miller accidentally exposed his film in the darkroom (coincidentally, Lee Miller was also the inspiration for Lee Smith in the recent Civil War movie). Man Ray quickly adopted the technique as a means to "escape from banality," transforming darkroom accidents into intentional artistic practice, and to this date, is perhaps the most famous practitioner. 
+Throughout the 19th century, the effect was "discovered" many times by many photographers, as it tends to occur whenever a light is switched on inadvertently in the darkroom while a film or print is being developed. The technique remained largely a curiosity until Man Ray perfected it in the 1930s, reportedly after fellow artist Lee Miller accidentally exposed his film in the darkroom (coincidentally, Lee Miller was also the inspiration for Lee Smith in the 2024 film *Civil War*). Man Ray quickly adopted the technique as a means to "escape from banality," transforming darkroom accidents into intentional artistic practice, and to this date, is perhaps the most famous practitioner. 
 
 
 <div style="clear:both;"></div>
@@ -40,14 +40,14 @@ Throughout the 19th century, the effect was "discovered" many times by many phot
 
 ## The Chemistry of Reversal
 
-Understanding what happens during Sabattier requires looking at the behavior of silver halide crystals. When photographic paper is first exposed in an enlarger, light strikes silver halide molecules, creating latent image centers—essentially activation sites that mark where silver will form during development. During normal development, these exposed centers transform into metallic silver while the developer simultaneously eliminates the centers of remaining unexposed silver halides.
+Understanding what happens during Sabattier requires looking at the behaviour of silver halide crystals. When photographic paper is first exposed in an enlarger, light strikes silver halide molecules, creating latent image centres—essentially activation sites that mark where silver will form during development. During normal development, these exposed centres transform into metallic silver while the developer simultaneously eliminates the centres of remaining unexposed silver halides.
 
 <figure>
     <img src="/notebook/010-sabattier/paris_saba_1.jpeg" align="left" width="280px" style="margin:10px;" alt="Sabattier print" />
     <figcaption></figcaption>
 </figure>
 
-The magic happens with the second exposure. When the partially developed print is flashed with light while still in the developer, the remaining unexposed silver halides—those that would normally stay clear—suddenly become exposed. These newly formed silver bodies are much larger than the silver centers formed during the first exposure, and they overpower them, causing tone reversal. Dark areas that were heavily developed remain relatively unchanged, while lighter areas that retained more unexposed silver halides undergo dramatic transformation.
+The magic happens with the second exposure. When the partially developed print is flashed with light while still in the developer, the remaining unexposed silver halides—those that would normally stay clear—suddenly become exposed. These newly formed silver bodies are much larger than the silver centres formed during the first exposure, and they overpower them, causing tone reversal. Dark areas that were heavily developed remain relatively unchanged, while lighter areas that retained more unexposed silver halides undergo dramatic transformation.
 
 This creates the characteristic appearance of Sabattier prints: partial tone reversals, distinctive edge effects (called Mackie lines), and an eerie quality where shadows and highlights exist in uncertain relationship. The optical screening effect—where already-developed silver shields unexposed grains from the second exposure—contributes to the distinctive halos and boundaries between reversed and non-reversed areas.
 

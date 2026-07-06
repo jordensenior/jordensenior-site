@@ -12,7 +12,7 @@ toc: true
 live: true
 ---
 
-# The Upstream Cost—Film Manufacturing, Sourcing, and the Rebranding Ecosystem
+## The Upstream Cost—Film Manufacturing, Sourcing, and the Rebranding Ecosystem
 
  **Part 12 of 13** in the Sustainable Darkroom series | [← Previous: Part 11](../027-alternativeprocesses) | [Next: Part 13 →](../029-endoflife)
 
@@ -31,7 +31,7 @@ A roll of photographic film consists of several components:
 The light-sensitive component. Silver halides (typically silver bromide, sometimes silver chloride or iodide) are formed by precipitating silver nitrate with halide salts in a controlled gelatin environment.
 
 **Silver content per roll:**
-- 35mm film (36 exposures): approximately 0.5–2g of silver, depending on film type and speed
+- 35mm film (36 exposures): approximately 0.2–0.5g of silver, depending on film type and speed
 - Higher ISO films generally contain more silver (larger crystals)
 - Colour film contains more silver than B&W (multiple emulsion layers)
 
@@ -545,7 +545,7 @@ If the upstream costs of film manufacturing trouble you, the most effective resp
 
 ## References
 
-Silver content estimates vary by source. 0.5–2g per 36-exposure roll is a commonly cited range. Higher ISO films and colour films tend toward the higher end.
+Silver content estimates vary by source. 0.2–0.5g per 36-exposure roll is a commonly cited range. Higher ISO films and colour films tend toward the higher end.
 
 CO₂ equivalent estimates for silver mining vary widely depending on ore grade, extraction method, and whether silver is primary product or byproduct. 1.5–4 kg CO₂/g is a rough estimate based on various lifecycle analyses.
 

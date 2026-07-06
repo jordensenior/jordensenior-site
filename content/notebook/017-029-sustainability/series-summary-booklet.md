@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # The Sustainable Darkroom
 ## A Practical Guide to Environmentally Responsible Analogue Photography
 
@@ -41,7 +45,7 @@ After extensive research into photographic chemistry, toxicology data, and lifec
 
 ## The 80% Rule
 
-Silver is the dominant environmental concern in any silver-based photographic process. A single roll of 35mm film contains 0.5–2g of silver. This silver ends up dissolved in your fixer at concentrations of 3,000–8,000 mg/L.
+Silver is the dominant environmental concern in any silver-based photographic process. A single roll of 35mm film contains roughly 0.2–0.5g of silver (more for colour). This silver ends up dissolved in your fixer at concentrations of 3,000–8,000 mg/L.
 
 For context: aquatic invertebrates die at 0.6 μg/L. Your spent fixer contains silver at concentrations roughly **ten million times** higher than lethal thresholds.
 
@@ -239,7 +243,7 @@ Similar chemistry to C-41 but with different trade-offs:
 
 **The chemistry:** Copper chloride bleach + glacial acetic acid + hydrogen peroxide
 
-**The problem:** Copper is an aquatic toxin (EPA freshwater criterion: 2.3 μg/L). Working solution contains ~10g copper per litre—roughly 4 million times the criterion.
+**The problem:** Copper is an aquatic toxin (EPA freshwater criterion: 2.3 μg/L). Working solution contains ~10g copper chloride per litre (~5g copper)—roughly 2 million times the criterion.
 
 **The mitigation:** Mordançage bleach is reusable indefinitely. Top up with hydrogen peroxide as needed; copper cycles between oxidation states but isn't consumed.
 

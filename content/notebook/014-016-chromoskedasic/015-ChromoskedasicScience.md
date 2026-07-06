@@ -12,9 +12,9 @@ aliases: ["chromoskedasic-science"]
 toc: true
 ---
 
-# The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry
+## The Science of Colour from Silver: Mie Scattering, Plasmons, and Counterintuitive Chemistry
 
-**Part 2 of 3** in the Chromoskedasic Sabattier series | [← Previous: Part 1](../014-ChromoskedasicIntro) | [Next: Part 3 →](../016-ChromoskedasicDC)
+**Part 2 of 3** in the Chromoskedasic Sabattier series | [← Previous: Part 1](/notebook/014-016-chromoskedasic/014-chromoskedasicintro/) | [Next: Part 3 →](/notebook/014-016-chromoskedasic/016-chromoskedasicdc/)
 
 ---
 
@@ -26,7 +26,7 @@ This is where my professional life intersects with my darkroom practice. The phy
 
 ### Beyond Rayleigh: When Particles Grow Large
 
-Most photographers have encountered Rayleigh scattering, even if not by name—it famously explains why the sky is blue. When light encounters particles much smaller than its wavelength, shorter wavelengths scatter more efficiently than longer ones. The mathematical relationship is steep: scattering intensity scales with the inverse fourth power of wavelength (I ∝ λ⁻⁴). Blue light, with its shorter wavelength (~450 nm), scatters roughly ten times more intensely than red light (~650 nm). Hence blue skies during the day and red sunsets when light traverses more atmosphere.
+Most photographers have encountered Rayleigh scattering, even if not by name—it famously explains why the sky is blue. When light encounters particles much smaller than its wavelength, shorter wavelengths scatter more efficiently than longer ones. The mathematical relationship is steep: scattering intensity scales with the inverse fourth power of wavelength (I ∝ λ⁻⁴). Blue light, with its shorter wavelength (~450 nm), scatters roughly four times more intensely than red light (~650 nm). Hence blue skies during the day and red sunsets when light traverses more atmosphere.
 
 But Rayleigh scattering applies only when particles are truly small—roughly less than one-tenth the wavelength of light. For visible wavelengths (approximately 400-700 nm), this means particles smaller than about 40-70 nm. Above this threshold, the physics changes fundamentally.
 
@@ -151,7 +151,7 @@ Working dilution: 1:4 for tray work; approximately 20% for brush application.
 
 Working concentration: ~20% solution.
 
-⚠️ **Critical safety note**: Keep potassium thiocyanate away from all acids. Contact generates hydrogen cyanide gas, which is immediately dangerous to life. The ammonium thiocyanate formulation with acetic acid is safer; if using potassium thiocyanate, work only in well-ventilated areas and never add acid.
+⚠️ **Critical safety note**: Thiocyanate is stable in the mild acetic-acid buffer used here, but it must **never** contact strong acids or oxidisers—nitric acid, chlorates, or peroxides (including mordançage bleach)—or be heated, as these can liberate toxic hydrogen cyanide, hydrogen sulfide, and ammonia. Always work with good ventilation, and never combine thiocyanate stabiliser with peroxide-based chemistry.
 
 When stabilizer contacts a partially developed print, the thiocyanate ions form complexes with silver:
 
@@ -251,7 +251,7 @@ Paper choice substantially affects chromoskedasic outcomes. Key variables includ
 
 **Fomatone papers (131, 132, 532)**: Czech papers with high silver content and distinctive gelatin properties. Produce strong colour response with somewhat different palette than Ilford.
 
-**Ilford Multigrade RC Pearl**: Among resin-coated papers, Pearl surface shows strongest metallic effects. Colour formation is possible but typically less dramatic than fiber-based papers.
+**Ilford Multigrade RC Pearl**: Among resin-coated papers, Pearl surface shows strongest metallic effects. Colour formation is possible but typically less dramatic than fibre-based papers.
 
 Fiber-based papers generally outperform resin-coated for chromoskedasic work. The thicker, more robust gelatin layer in FB papers holds chemistry better and permits more complex particle formation dynamics. RC paper's thin emulsion and sealed plastic base limit chemical interaction.
 
