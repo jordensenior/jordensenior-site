@@ -20,7 +20,7 @@ The first time I developed film in coffee, I felt like I was getting away with s
 
 That was three years ago. Since then, I've processed perhaps fifty rolls in various caffenol formulations, experimented with tea-based developers, and spent more time than I'd care to admit reading electrochemistry papers about polyphenol oxidation potentials. The romantic appeal hasn't entirely faded, but my understanding of what caffenol actually offers—and what it doesn't—has changed substantially.
 
-The sustainability discourse around botanical developers tends toward the breathless. Coffee is natural! You can pour it down the drain! No scary industrial chemicals! These claims aren't false, exactly, but they're incomplete in ways that matter. And they often obscure what should be the central question: compared to what, and measured how?
+The sustainability discourse around botanical developers tends towards the breathless. Coffee is natural! You can pour it down the drain! No scary industrial chemicals! These claims aren't false, exactly, but they're incomplete in ways that matter. And they often obscure what should be the central question: compared to what, and measured how?
 
 This post examines what botanical developers actually offer from an environmental perspective—the genuine advantages, the hidden costs, and the uncomfortable reality that developer choice might be the wrong place to focus our sustainability efforts entirely.
 
@@ -183,7 +183,7 @@ Having spent several thousand words complicating the picture, let me try to synt
 - **Distinctive aesthetic qualities unavailable from synthetic developers:**
   - Tannin-based developers (tea, wine, oak gall) produce natural staining that enhances tonal separation and creates warmer image tones—similar to the revered pyrogallol "glow" but from food-safe compounds
   - Caffenol's characteristic high-acutance grain structure, often compared to Rodinal, with a distinctive midtone rendering
-  - Natural toning effects: anthocyanins from berries shift image colour toward blue-violet; tannins warm highlights while preserving cool shadows, enabling split-tone effects without separate toning baths
+  - Natural toning effects: anthocyanins from berries shift image colour towards blue-violet; tannins warm highlights while preserving cool shadows, enabling split-tone effects without separate toning baths
   - Plant polyphenols can act as both developer and toner simultaneously, creating looks that would require multiple chemical steps with conventional processes
   - The variability that frustrates reproducibility can become an aesthetic resource—each batch slightly different, each print unique
 - Connection to photographic history and material culture

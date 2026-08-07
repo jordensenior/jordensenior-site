@@ -165,7 +165,7 @@ Home processing eliminates the lab's facility footprint—heating, lighting, equ
 
 **My current compromise:**
 
-For C-41, I increasingly lean toward lab processing when I can't batch. I'm in the fortunate position that there are at least 4 local labs, including one on the street where I live, and I believe they are responsible (except for the one who for inexplicable reasons, sends film from [Finland to Spain](https://kamerastore.com/en/pages/sending-your-film-to-us) to be developed...). The industrial efficiency argument is strong, and the chemistry is standardised anyway—I'm not making aesthetic choices about colour developer the way I do with B&W.
+For C-41, I increasingly lean towards lab processing when I can't batch. I'm in the fortunate position that there are at least 4 local labs, including one on the street where I live, and I believe they are responsible (except for the one who for inexplicable reasons, sends film from [Finland to Spain](https://kamerastore.com/en/pages/sending-your-film-to-us) to be developed...). The industrial efficiency argument is strong, and the chemistry is standardised anyway—I'm not making aesthetic choices about colour developer the way I do with B&W.
 
 For B&W, I continue to process at home because developer choice matters to how my negatives look, and the environmental profile of B&W chemistry is more manageable.
 

@@ -18,7 +18,7 @@ live: true
 
 ---
 
-The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn't develop so much as erupt, shadows darkening visibly, racing toward black while I scrambled to snatch the print before it went too far.
+The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn't develop so much as erupt, shadows darkening visibly, racing towards black while I scrambled to snatch the print before it went too far.
 
 <figure>
     <img src="/notebook/030-032-lith/lith_acidsquad.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print showing characteristic warm highlights and gritty shadows" />
@@ -35,7 +35,7 @@ This post begins a three-part series on lith printing. Here I'll examine the che
 
 Every darkroom printer understands basic development: exposed silver halide crystals reduce to metallic silver in the presence of a developing agent, with the rate depending on exposure, developer activity, temperature, and time. More exposure means faster development. Longer development means more density. The relationship is essentially linear and predictable.
 
-Lith development violates these assumptions fundamentally. The process is autocatalytic — development accelerates itself. The more silver reduces in a given area, the faster reduction proceeds in that area. Shadows don't just develop; they explode. And while shadows race toward maximum black, highlights develop slowly, linearly, at a fraction of the pace. The result is extreme tonal separation achieved not through paper grade or contrast filtration, but through differential chemistry occurring simultaneously across the image.
+Lith development violates these assumptions fundamentally. The process is autocatalytic — development accelerates itself. The more silver reduces in a given area, the faster reduction proceeds in that area. Shadows don't just develop; they explode. And while shadows race towards maximum black, highlights develop slowly, linearly, at a fraction of the pace. The result is extreme tonal separation achieved not through paper grade or contrast filtration, but through differential chemistry occurring simultaneously across the image.
 
 This phenomenon is called infectious development, and understanding it requires looking at what happens to hydroquinone—the developing agent—as it works.
 
@@ -83,7 +83,7 @@ Modern formaldehyde-free developers, including the Moersch EasyLith I use, achie
 
 As silver bromide crystals develop, they release bromide ions into solution. In conventional development, this bromide accumulation gradually restrains development—one reason why developers exhaust and development times extend with use.
 
-In lith printing, bromide dynamics are more complex and more useful. Bromide restrains the infectious cascade, providing some control over the otherwise exponential acceleration. Bromide also affects image colour, shifting tones from pink-sepia toward yellow-sepia as concentration increases.
+In lith printing, bromide dynamics are more complex and more useful. Bromide restrains the infectious cascade, providing some control over the otherwise exponential acceleration. Bromide also affects image colour, shifting tones from pink-sepia towards yellow-sepia as concentration increases.
 
 This is why experienced lith printers save their used developer. "Old Brown"—the oxidised, bromide-rich developer remaining after a printing session—isn't waste to be discarded. It's a valuable additive that improves results.
 

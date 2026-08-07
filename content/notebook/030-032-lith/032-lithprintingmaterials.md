@@ -50,7 +50,7 @@ Even with good batches, FomaTone 132 can be prone to snowballing in lith develop
 
 ### FomaBrom 152: The Gritty Alternative
 
-FomaBrom 152, also from Foma, is a cold-tone graded paper (available in several contrast grades; I use grade 3 and grade 4 most). The high bromide silver content produces dramatically different results from FomaTone: grittier texture, more aggressive peppercorn grain, and a fundamentally cold tonal character that can shift toward yellow-red but never achieves FomaTone's warmth.
+FomaBrom 152, also from Foma, is a cold-tone graded paper (available in several contrast grades; I use grade 3 and grade 4 most). The high bromide silver content produces dramatically different results from FomaTone: grittier texture, more aggressive peppercorn grain, and a fundamentally cold tonal character that can shift towards yellow-red but never achieves FomaTone's warmth.
 
 Where FomaTone is creamy, FomaBrom is gritty. Where FomaTone is warm, FomaBrom is hard. The paper lends itself to urban subjects, industrial scenes, and deliberately harsh aesthetics. Portraits become graphic and edgy rather than soft and flattering.
 
@@ -97,7 +97,7 @@ The 500ml kit (250ml each of A and B) makes 7.5 to 15 litres of working solution
 
 The SE5 Master kit provides everything EasyLith offers plus dedicated additives for fine-tuning:
 
-**Lith C** (sodium sulfite): Suppresses grain and peppering. Add when you want smoother tones from papers that tend toward texture.
+**Lith C** (sodium sulfite): Suppresses grain and peppering. Add when you want smoother tones from papers that tend towards texture.
 
 **Lith D** (potassium bromide): Slows development and increases colour. Add when colour matters more than speed.
 
@@ -238,7 +238,7 @@ The challenge, honestly. Lith printing resists automation and standardisation. E
 
 The materials are limited and shrinking. The chemistry requires understanding. The technique takes practice to control. None of this is convenient. But what emerges from the inconvenience—those warm-cold prints with their gritty shadows and creamy highlights—justifies the effort. Some images need this process. Some images can only be this process.
 
-Standing at the developer tray, watching shadows accelerate toward the snatch point, I'm doing something that connects backward to the technique's origins and forward to whatever prints I'll make next. The chemistry remains the same; the practice evolves; the community continues. That continuity matters as much as any individual print.
+Standing at the developer tray, watching shadows accelerate towards the snatch point, I'm doing something that connects backward to the technique's origins and forward to whatever prints I'll make next. The chemistry remains the same; the practice evolves; the community continues. That continuity matters as much as any individual print.
 
 ---
 

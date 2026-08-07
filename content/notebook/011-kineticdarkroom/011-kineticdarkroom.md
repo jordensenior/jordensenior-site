@@ -112,7 +112,7 @@ These initial experiments suggest numerous directions worth pursuing:
 
 **Multiple movement phases**: Brief static exposure, movement phase, another static exposure. This could create sandwich effects—sharp images interpenetrated by their own motion ghosts.
 
-**Rotational movement**: Spinning the paper during exposure for radial blur effects. Combined with off-center placement, this could create vortex-like distortions.
+**Rotational movement**: Spinning the paper during exposure for radial blur effects. Combined with off-centre placement, this could create vortex-like distortions.
 
 **Chemical combinations**: Movement prints as base layers for mordançage or Sabattier treatment. The altered silver distribution from movement might create unique reaction patterns.
 

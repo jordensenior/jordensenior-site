@@ -274,7 +274,7 @@ Film manufactured in:
 
 The carbon footprint of shipping is real but relatively small per unit. A roll of film weighs perhaps 30g packaged; the transport emissions per roll are negligible compared to, say, driving to the camera shop to buy it.
 
-**My approach:** I'm based in Europe, so I lean toward Ilford/Harman for black-and-white work. This isn't primarily an environmental decision—Ilford films are simply excellent—but the shorter supply chain is a minor bonus.
+**My approach:** I'm based in Europe, so I lean towards Ilford/Harman for black-and-white work. This isn't primarily an environmental decision—Ilford films are simply excellent—but the shorter supply chain is a minor bonus.
 
 ### Quality vs. Geography
 
@@ -490,7 +490,7 @@ If the upstream costs of film manufacturing trouble you, the most effective resp
 
 ## References
 
-Silver content estimates vary by source. 0.2–0.5g per 36-exposure roll is a commonly cited range. Higher ISO films and colour films tend toward the higher end.
+Silver content estimates vary by source. 0.2–0.5g per 36-exposure roll is a commonly cited range. Higher ISO films and colour films tend towards the higher end.
 
 CO₂ equivalent estimates for silver mining vary widely depending on ore grade, extraction method, and whether silver is primary product or byproduct. 1.5–4 kg CO₂/g is a rough estimate based on various lifecycle analyses.
 

@@ -72,8 +72,8 @@ Based on available data:[^5]
 
 **Black-and-white papers:**
 - Typical range: **1–4 g/m² silver**
-- RC papers (like Ilford Multigrade RC): toward the lower end (~1.5–2 g/m²)
-- Fibre-based papers: toward the higher end (2–4 g/m²)
+- RC papers (like Ilford Multigrade RC): towards the lower end (~1.5–2 g/m²)
+- Fibre-based papers: towards the higher end (2–4 g/m²)
 - The higher silver content in premium papers contributes to their richer tonal range and deeper blacks
 
 **Colour RA-4 papers:**

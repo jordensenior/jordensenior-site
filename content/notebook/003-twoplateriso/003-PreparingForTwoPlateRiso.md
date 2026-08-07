@@ -139,7 +139,7 @@ Plan for a **1–2 mm wobble**. Put fine linework on one plate; use the other as
 Dark last usually preserves detail; light last can **tint** the first pass and feel more “printed.” Test both in proofs; don’t be afraid if the “wrong” order looks more alive. [(Spectrolite’s overprint preview helps you pre-judge how layers will mix.)](https://spectrolite.app/how-to/overview/riso-ify)
 
 ### 6) Coarse screens on purpose
-Big visible dots (or line screens) can be the aesthetic, not a compromise — especially for skies, seas, concrete, anything that welcomes texture. If you want that look, set a lower LPI or choose halftone shapes accordingly rather than fighting toward smooth CMYK-ish blends.
+Big visible dots (or line screens) can be the aesthetic, not a compromise — especially for skies, seas, concrete, anything that welcomes texture. If you want that look, set a lower LPI or choose halftone shapes accordingly rather than fighting towards smooth CMYK-ish blends.
 
 
 ## References & further reading

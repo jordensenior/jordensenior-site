@@ -103,7 +103,7 @@ With two-part developers like EasyLith, the ratio of Part A (hydroquinone) to Pa
 
 **More B than A** (for example, 15ml A to 20ml B): Reduces contrast. Produces less deep blacks, softer tonal transitions. Reduces colour intensity. Finer grain. Use for contrasty negatives or when you want smoother results.
 
-The Moersch SE5 Master kit extends this with dedicated additives. Lith C (sodium sulfite) suppresses grain and peppering—useful when you want smooth tones from a paper that tends toward texture. Lith D (potassium bromide) slows development and increases colour—useful when colour matters more than speed. Lith E increases grain at the expense of colour—useful for deliberately gritty effects.
+The Moersch SE5 Master kit extends this with dedicated additives. Lith C (sodium sulfite) suppresses grain and peppering—useful when you want smooth tones from a paper that tends towards texture. Lith D (potassium bromide) slows development and increases colour—useful when colour matters more than speed. Lith E increases grain at the expense of colour—useful for deliberately gritty effects.
 
 I typically work with equal A:B as my baseline, adjusting only when a specific print needs pushing in one direction. The ratio adjustment is a fine-tuning tool, not a primary control.
 
@@ -157,7 +157,7 @@ Several factors shift the palette:
 
 **Temperature:** Warmer development with early snatching produces more colour because grains don't have time to grow large. Cooler development with extended times produces cooler tones.
 
-**Paper choice:** Each paper has a characteristic palette. FomaTone 132 produces reddish-yellow highlights with green-black shadows—very colourful even with short development. FomaBrom 152 can achieve yellow-red but tends toward cold tones overall.
+**Paper choice:** Each paper has a characteristic palette. FomaTone 132 produces reddish-yellow highlights with green-black shadows—very colourful even with short development. FomaBrom 152 can achieve yellow-red but tends towards cold tones overall.
 
 **A:B ratio:** More A than B increases colour; more B than A reduces it.
 
@@ -178,7 +178,7 @@ The exposure/snatch relationship gives you two fundamentally different approache
 
 **Low contrast printing** (overexposure, early snatch): Rich, detailed highlights. Softer shadows with retained detail. Smooth tonal transitions. Creamy, pictorialist appearance. Warmer overall colour. Finer grain. Works well for portraits, landscapes, and any image where you want tonal information throughout the scale.
 
-Most of my work falls somewhere between these extremes—I aim for neither maximum drama nor maximum smoothness, but a balanced lith character that preserves detail while still showing the process's distinctive look. But understanding the extremes helps you navigate toward your intended result.
+Most of my work falls somewhere between these extremes—I aim for neither maximum drama nor maximum smoothness, but a balanced lith character that preserves detail while still showing the process's distinctive look. But understanding the extremes helps you navigate towards your intended result.
 
 A useful workflow: start with your two-stop-over baseline exposure. Make a print. Evaluate whether you want more or less contrast. Adjust exposure by a stop in the appropriate direction. Make another print. After a few iterations, you'll develop intuition for where different negatives want to sit on the exposure scale.
 

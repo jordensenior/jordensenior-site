@@ -64,9 +64,9 @@ The resonance wavelength depends on three primary factors:
 
 These ranges are approximate. In practice, particle shape, aggregation state, size distribution, and the local gelatin environment all influence the exact resonance position. The table provides a conceptual framework, not precise specifications.
 
-**Particle shape**: Spherical particles show single resonance peaks. Elongated particles (ellipsoids, rods) show multiple resonances at different wavelengths corresponding to oscillation along different axes. Irregular particles show broadened, complex spectra. In chromoskedasic prints, particles form under rapid, non-equilibrium conditions and tend toward irregular shapes—broadening the colour response and contributing to the technique's characteristic warm, complex tones.
+**Particle shape**: Spherical particles show single resonance peaks. Elongated particles (ellipsoids, rods) show multiple resonances at different wavelengths corresponding to oscillation along different axes. Irregular particles show broadened, complex spectra. In chromoskedasic prints, particles form under rapid, non-equilibrium conditions and tend towards irregular shapes—broadening the colour response and contributing to the technique's characteristic warm, complex tones.
 
-**Surrounding medium**: The refractive index of the embedding medium shifts the resonance wavelength. Higher refractive index produces longer resonance wavelength (red-shift). Gelatin has a refractive index of approximately 1.5 (compared to 1.33 for water and 1.0 for air), causing significant red-shift of the plasmon resonance compared to silver nanoparticles in aqueous solution. This partly explains why chromoskedasic prints show predominantly warm tones—the gelatin matrix shifts resonances toward longer wavelengths.
+**Surrounding medium**: The refractive index of the embedding medium shifts the resonance wavelength. Higher refractive index produces longer resonance wavelength (red-shift). Gelatin has a refractive index of approximately 1.5 (compared to 1.33 for water and 1.0 for air), causing significant red-shift of the plasmon resonance compared to silver nanoparticles in aqueous solution. This partly explains why chromoskedasic prints show predominantly warm tones—the gelatin matrix shifts resonances towards longer wavelengths.
 
 ### Why Warm Tones Dominate
 
@@ -79,11 +79,11 @@ The characteristic amber-bronze-gold palette of chromoskedasic prints reflects f
 
 Silver nanoparticles exhibit their primary surface plasmon resonance around 390-420 nm in vacuum or air—the boundary between ultraviolet and visible violet. In gelatin, this shifts to approximately 400-450 nm. Small silver particles therefore strongly absorb violet and blue light while transmitting and scattering longer wavelengths. The visual result is yellow.
 
-As particles grow larger, the resonance shifts to longer wavelengths. Absorption moves through blue (producing orange appearance) toward green (producing red-brown appearance). But the resonance peak also broadens and weakens as particles grow. Very large particles—above roughly 150 nm—no longer show strong, sharp resonance. They scatter light more diffusely across the visible spectrum, appearing grey or metallic silver.
+As particles grow larger, the resonance shifts to longer wavelengths. Absorption moves through blue (producing orange appearance) towards green (producing red-brown appearance). But the resonance peak also broadens and weakens as particles grow. Very large particles—above roughly 150 nm—no longer show strong, sharp resonance. They scatter light more diffusely across the visible spectrum, appearing grey or metallic silver.
 
 The chromoskedasic process produces particles predominantly in the 30-100 nm range, with size distributions that depend on processing conditions. This range corresponds directly to the warm colour palette: yellow, amber, orange, bronze, gold, russet brown. Cool tones (pure blue, green) require very small particles (under ~25 nm) that form only under conditions difficult to achieve with the rapid, aggressive chemistry involved.
 
-The chemistry can push toward cooler or warmer within this range—more on this below—but the basic palette is constrained by physics. Chromoskedasic printing doesn't offer the full spectral range of chromogenic colour or multi-toner combinations. It offers instead a distinctive warm palette with metallic character impossible through any other means.
+The chemistry can push towards cooler or warmer within this range—more on this below—but the basic palette is constrained by physics. Chromoskedasic printing doesn't offer the full spectral range of chromogenic colour or multi-toner combinations. It offers instead a distinctive warm palette with metallic character impossible through any other means.
 
 ### The Quantum Connection
 
@@ -200,7 +200,7 @@ Light exposure serves multiple functions:
 
 **Photolytic reduction**: Light can directly reduce silver ions to metallic silver, especially in the presence of organic electron donors. This photolytic reduction produces very small initial particles—exactly the nucleation sites needed for controlled colour formation.
 
-**Multiplication of nucleation sites**: Room light creates numerous small nucleation centres rather than the few large latent image centres from camera exposure. More nuclei means smaller average particle size after growth—pushing results toward visible colour rather than grey fog.
+**Multiplication of nucleation sites**: Room light creates numerous small nucleation centres rather than the few large latent image centres from camera exposure. More nuclei means smaller average particle size after growth—pushing results towards visible colour rather than grey fog.
 
 Without light exposure during the chromoskedasic sequence, colour formation is weak or absent. The prints fog to grey rather than developing warm tones.
 
@@ -208,9 +208,9 @@ Without light exposure during the chromoskedasic sequence, colour formation is w
 
 Within the constraints of the basic chemistry, pH provides the most direct control over colour:
 
-**More alkaline → warmer colours**: Higher activator concentration or longer activator contact favours larger particles and pushes toward red, brown, and bronze tones.
+**More alkaline → warmer colours**: Higher activator concentration or longer activator contact favours larger particles and pushes towards red, brown, and bronze tones.
 
-**More acidic → cooler colours**: Higher stabilizer proportion or shorter activator contact preserves smaller particles and can produce yellower tones, occasionally tending toward blue-green in highlight areas.
+**More acidic → cooler colours**: Higher stabilizer proportion or shorter activator contact preserves smaller particles and can produce yellower tones, occasionally tending towards blue-green in highlight areas.
 
 **Balanced conditions → golden yellow to amber**: Moderate chemistry produces the classic chromoskedasic palette.
 
@@ -253,7 +253,7 @@ Paper choice substantially affects chromoskedasic outcomes. Key variables includ
 
 **Ilford Multigrade RC Pearl**: Among resin-coated papers, Pearl surface shows strongest metallic effects. Colour formation is possible but typically less dramatic than fibre-based papers.
 
-Fiber-based papers generally outperform resin-coated for chromoskedasic work. The thicker, more robust gelatin layer in FB papers holds chemistry better and permits more complex particle formation dynamics. RC paper's thin emulsion and sealed plastic base limit chemical interaction.
+Fibre-based papers generally outperform resin-coated for chromoskedasic work. The thicker, more robust gelatin layer in FB papers holds chemistry better and permits more complex particle formation dynamics. RC paper's thin emulsion and sealed plastic base limit chemical interaction.
 
 Surface finish matters for colour visibility. Glossy surfaces allow direct reflection of plasmon-scattered wavelengths. Matte surfaces scatter reflected light in all directions, diluting the resonant colour with diffuse white scatter. For maximum colour intensity, glossy is preferred.
 
@@ -298,9 +298,9 @@ For brush work, I use a calligraphy brush (holds fluid, comes to a point) for de
 
 **Brush method sequence**:
 1. Under room light, apply dilute stabilizer (20%) to target areas
-2. Observe colour shift—areas should move toward pale yellow within 30-90 seconds
+2. Observe colour shift—areas should move towards pale yellow within 30-90 seconds
 3. Apply dilute activator (2-5% KOH) selectively
-4. Observe colour development—treated areas shift toward amber, brown over 30-120 seconds
+4. Observe colour development—treated areas shift towards amber, brown over 30-120 seconds
 5. Optionally apply developer for localised silvering
 6. Repeat and adjust until satisfied
 7. Rinse thoroughly to arrest further change
@@ -308,11 +308,11 @@ For brush work, I use a calligraphy brush (holds fluid, comes to a point) for de
 
 ### Fixing: The Archival Trade-off
 
-Standard fixer (sodium thiosulfate) removes unfixed silver halide—necessary for archival permanence—but also attacks the colour-forming nanoparticles, shifting colours toward grey.
+Standard fixer (sodium thiosulfate) removes unfixed silver halide—necessary for archival permanence—but also attacks the colour-forming nanoparticles, shifting colours towards grey.
 
 Two approaches:
 
-**Standard fixer with accepted colour shift**: Use normal thiosulfate fixer. Blues and violets shift toward silvery grey with interesting fluorescence under oblique lighting. Warm tones shift toward grey-brown. Some practitioners prefer these more muted post-fix colours.
+**Standard fixer with accepted colour shift**: Use normal thiosulfate fixer. Blues and violets shift towards silvery grey with interesting fluorescence under oblique lighting. Warm tones shift towards grey-brown. Some practitioners prefer these more muted post-fix colours.
 
 **Colour-preserving thiocyanate fix** (after Jolly):
 
@@ -324,7 +324,7 @@ Two approaches:
 
 This removes residual halide without fully attacking the colour-forming particles. Results preserve colours closer to their wet-print appearance. However, archival stability may be reduced compared to thorough thiosulfate fixation—a trade-off each practitioner must evaluate.
 
-After fixing, wash prints thoroughly. Fiber-based prints require 60-120 minutes in running water or equivalent archival washing sequence. RC prints need minimum 5 minutes.
+After fixing, wash prints thoroughly. Fibre-based prints require 60-120 minutes in running water or equivalent archival washing sequence. RC prints need minimum 5 minutes.
 
 Prints darken approximately one stop when dry. Stop processing when the wet print appears slightly lighter than desired.
 

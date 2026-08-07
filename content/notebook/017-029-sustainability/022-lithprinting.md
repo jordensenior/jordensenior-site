@@ -110,7 +110,7 @@ This is both a strength and a weakness:
 
 *As a strength:* Each print is genuinely unique. The process rewards intuition and embraces happy accidents. There's an alchemical satisfaction in watching infectious development take hold differently each time.
 
-*As a weakness:* It's easy to get an "okay" print, but hard to fine-tune toward a specific vision. You can't effectively "dial in" lith printing the way you can conventional work—make a test strip, adjust, and reproduce. Each print is somewhat of a fresh experiment.
+*As a weakness:* It's easy to get an "okay" print, but hard to fine-tune towards a specific vision. You can't effectively "dial in" lith printing the way you can conventional work—make a test strip, adjust, and reproduce. Each print is somewhat of a fresh experiment.
 
 **This has waste implications.** With conventional printing, you might make 3–4 work prints to optimise exposure and contrast, then produce final prints with confidence. With lith, even after extensive experience, the hit rate for "excellent" versus "acceptable" prints is lower. You may generate more paper waste chasing a specific result that the process doesn't want to give you.
 

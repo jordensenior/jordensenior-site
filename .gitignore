@@ -26,3 +26,6 @@ Thumbs.db
 
 # Node modules (if using npm/yarn for theme development)
 node_modules/
+
+# FUSE mount artefacts
+.fuse_hidden*

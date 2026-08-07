@@ -24,7 +24,7 @@ A single 8×10 fibre-based print washed using traditional continuous-flow method
 
 Washing is the single largest water consumer in darkroom practice. It's also non-negotiable for archival permanence. The sustainability challenge is therefore specific: we need washing that's thorough enough for prints to last, but efficient enough to justify in an era of water scarcity.
 
-This post examines the options and works toward an answer.
+This post examines the options and works towards an answer.
 
 ## Why Washing Can't Be Shortened Carelessly
 

@@ -101,7 +101,7 @@ But the digital documentation is necessarily incomplete. It can't capture the di
 
 This gap between digital documentation and physical reality emphasises what we lose in photography's digital migration. These prints insist on their materiality in ways that can't be fully digitised. They're photographs that resist photography.
 
-## Toward a New Colour Aesthetic
+## Towards a New Colour Aesthetic
 
 These experiments suggest possibilities for a new relationship with colour photography—one that acknowledges construction rather than assuming naturalism, embraces instability rather than pursuing permanence, celebrates accident alongside intention.
 

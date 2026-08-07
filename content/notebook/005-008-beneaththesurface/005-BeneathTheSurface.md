@@ -104,7 +104,7 @@ I also hoped visitors would naturally pick up and engage with the unframed print
     <figcaption></figcaption>
 </figure>
 
-Fortunately, as I was present during most of the festival, I could encourage and guide visitors toward more interactive appreciation, emphasizing the materiality and process behind the work. This approach aligns with the practice of artists like Daido Moriyama, who deliberately place unframed photos in exhibitions to explore how format influences viewers’ engagement.
+Fortunately, as I was present during most of the festival, I could encourage and guide visitors towards more interactive appreciation, emphasizing the materiality and process behind the work. This approach aligns with the practice of artists like Daido Moriyama, who deliberately place unframed photos in exhibitions to explore how format influences viewers’ engagement.
 
 Other contemporary artists also investigate how photographic format shapes viewer experience. For example, Klea McKenna’s textured photographic rubbings highlight physicality and touch, while makers like Chris McCaw and Meghann Riepenhoff create unique analog objects inviting intimate interaction. There is also a growing practice of tactile photography designed for multisensory engagement, especially for visually impaired audiences, which underlines that how photographs are presented profoundly affects how they are perceived and felt.
 

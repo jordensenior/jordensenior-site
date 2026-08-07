@@ -33,7 +33,7 @@ If you're considering trying chromoskedasic printing, this post provides concret
 
 The Washington Metro system, designed by architect Harry Weese and constructed between 1969 and 2001, represents one of America's most ambitious public architecture projects of the late twentieth century. The system serves the District of Columbia and surrounding Maryland and Virginia suburbs through 98 stations spanning six lines and over 120 miles of track.
 
-Weese's design established a distinctive visual vocabulary: coffered concrete vaults that widen toward the platforms, indirect lighting casting gradients across curved surfaces, dramatically long escalators connecting platform levels to the surface. The stations draw on brutalist precedents—raw concrete, expressed structure, monumental scale—while achieving an elegance unusual in public infrastructure. The coffered vault design, beyond its aesthetic impact, serves acoustic and structural functions, controlling reverberation while spanning wide platform areas without intermediate supports.
+Weese's design established a distinctive visual vocabulary: coffered concrete vaults that widen towards the platforms, indirect lighting casting gradients across curved surfaces, dramatically long escalators connecting platform levels to the surface. The stations draw on brutalist precedents—raw concrete, expressed structure, monumental scale—while achieving an elegance unusual in public infrastructure. The coffered vault design, beyond its aesthetic impact, serves acoustic and structural functions, controlling reverberation while spanning wide platform areas without intermediate supports.
 
 <!-- <figure>
     <img src="/notebook/015-ChromoskedasicDC/dc_platform.jpeg" align="left" width="350px" style="margin:10px;" alt="Chromoskedasic print of DC Metro platform" />
@@ -106,13 +106,13 @@ My outdoor setup consists of plastic trays, chemistry in labelled bottles, brush
 
 With chemistry prepared and print positioned face-up, I begin treatment under natural daylight.
 
-I apply stabilizer with a wide brush, covering the entire print surface evenly. Within 30-90 seconds, light-struck areas shift from their developed grey toward pale yellow. This is expected and correct.
+I apply stabilizer with a wide brush, covering the entire print surface evenly. Within 30-90 seconds, light-struck areas shift from their developed grey towards pale yellow. This is expected and correct.
 
 Stabilizer timing matters. Too brief (under 30 seconds of contact) and the subsequent activator produces weak colour. Too long (over 3-4 minutes) and reactions overshoot into different effects. I typically work in the 1-2 minute range, watching for the yellow shift to stabilise before proceeding.
 
 ### Step 6: Activator Application (Outdoors, Daylight)
 
-I apply activator selectively with a brush, watching the print transform. Pale yellow areas shift toward amber, then bronze, then brown depending on activator concentration and contact time. Colour change occurs over 30-120 seconds—slower than the stabilizer effects, allowing time to observe and adjust.
+I apply activator selectively with a brush, watching the print transform. Pale yellow areas shift towards amber, then bronze, then brown depending on activator concentration and contact time. Colour change occurs over 30-120 seconds—slower than the stabilizer effects, allowing time to observe and adjust.
 
 This step offers artistic control. More activator on certain areas intensifies their colour. Areas receiving only stabilizer remain cooler (yellower). Working back and forth between stabilizer and activator applications lets me tune colour balance across the image.
 
@@ -132,7 +132,7 @@ When the print reaches a satisfactory state, I rinse thoroughly in running water
 - Water: 5 parts
 - Treatment time: approximately 20 seconds with agitation
 
-This removes residual silver halide without fully stripping the colour-forming particles. Standard  fixer works but shifts colours toward grey—acceptable if you prefer more muted results or prioritise archival stability.
+This removes residual silver halide without fully stripping the colour-forming particles. Standard  fixer works but shifts colours towards grey—acceptable if you prefer more muted results or prioritise archival stability.
 
 ### Step 9: Final Wash and Dry
 
@@ -153,7 +153,7 @@ Let me walk through specific images and their responses to treatment.
     <figcaption></figcaption>
 </figure>
 
-Shot looking up an escalator toward a glass canopy entrance, this image presents strong vanishing-point composition with the structural grid of the canopy filling the upper two-thirds of the frame. Silhouetted figures on the escalator provide human scale and narrative suggestion.
+Shot looking up an escalator towards a glass canopy entrance, this image presents strong vanishing-point composition with the structural grid of the canopy filling the upper two-thirds of the frame. Silhouetted figures on the escalator provide human scale and narrative suggestion.
 
 The canopy area, predominantly highlight (sky through glass), took colour dramatically. The structural grid of the canopy framework remained largely black, preserving contrast and compositional structure. The glass panels between grid members shifted to warm amber with areas of deeper bronze where activator concentrated during treatment.
 
@@ -163,7 +163,7 @@ The canopy area, predominantly highlight (sky through glass), took colour dramat
 
 <!-- ### The Platform (Vault Station)
 
-The iconic Metro station composition: coffered concrete vault receding toward tunnel darkness, platforms flanking the tracks, a train visible in the tunnel approach. High contrast between illuminated ceiling panels and dark platform/tunnel areas.
+The iconic Metro station composition: coffered concrete vault receding towards tunnel darkness, platforms flanking the tracks, a train visible in the tunnel approach. High contrast between illuminated ceiling panels and dark platform/tunnel areas.
 
 <figure>
     <img src="/notebook/014-016-chromoskedasic/chromo_3.jpeg" align="left" width="400px" style="margin:10px;" alt="Full platform chromoskedasic print" />
@@ -187,7 +187,7 @@ The tunnel at centre, being nearly black in the negative, remained unchanged. Th
 
 A simpler composition: the Monument filling most of the frame, shot from near its base looking upward, American flags on poles at the base. The marble shaft constitutes almost entirely highlight area against the bright sky.
 
-This print demonstrates both potential and limitations when treating large continuous tonal areas. The Monument shaft developed rich bronze-amber colour, but with visible streaking where brush strokes deposited varying chemical amounts. The sky area, which I intended to push toward deeper amber, developed unevenly—some regions dark bronze, others remaining pale.
+This print demonstrates both potential and limitations when treating large continuous tonal areas. The Monument shaft developed rich bronze-amber colour, but with visible streaking where brush strokes deposited varying chemical amounts. The sky area, which I intended to push towards deeper amber, developed unevenly—some regions dark bronze, others remaining pale.
 
 Conceptually, I find the print compelling despite (or because of) these technical imperfections. The Monument transformed from white marble icon to something resembling oxidized bronze or weathered metal. The streaking reads almost as weathering patterns on aged material. The American symbol rendered in tones of transformation and age carries meaning beyond the technical result.
 

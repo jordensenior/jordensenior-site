@@ -48,6 +48,20 @@ The chemistry and craft of infectious development—soft warm highlights against
 
 ---
 
+### Silver Mirror Toning (4 parts)
+**July – August 2026**
+
+Deliberately inducing the silver mirroring that conservators spend their careers preventing—learned from Lexy Liangzi Xiao at Mörk during the Helsinki Analog Festival, then pushed onto papers it was never designed for.
+
+1. [034 · Making the Fault the Picture](/notebook/034-037-silvermirror/034-silvermirrorprocess/) — the process, the chemistry, and the two directions it runs in.
+2. [035 · Why the Silver Comes to the Surface](/notebook/034-037-silvermirror/035-silvermirrorphysics/) — physical development, nucleation, and the percolation threshold between colour and mirror.
+3. [036 · How Far the Recipe Travels](/notebook/034-037-silvermirror/036-silvermirrorpapers/) — fibre, lith, RA-4, and mordançage hybrids, including where it refuses.
+4. [037 · The Metal Trees](/notebook/034-037-silvermirror/037-metaltrees/) — the Supertrees at Gardens by the Bay, printed until the sky went metallic.
+
+**Start here if:** You want the newest process in the notebook, or you like prints that look different depending on where you stand.
+
+---
+
 ## Projects & Series
 
 ### [004 · Quantum Mordançage](/notebook/004-quantummordencagezine/004-quantummordencage/)
