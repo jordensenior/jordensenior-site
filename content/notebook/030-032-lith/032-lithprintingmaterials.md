@@ -1,6 +1,6 @@
 ---
 title: "032 · Lith Printing III: Materials, Workflow, and the Contemporary Printer"
-image: ""
+image: "/notebook/030-032-lith/Lith_OsloSculpturePark.jpeg"
 description: "Papers still available for lith printing, EasyLith chemistry, practical workflow, and finding community in the Nordic analogue scene"
 author: "Jorden Senior"
 date: "2026-02-15"
@@ -14,7 +14,7 @@ live: true
 
 ## Lith Printing III: Materials, Workflow, and the Contemporary Printer
 
-**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](../031-lithprintingcontrol)
+**Part 3 of 3** in the Lith Printing series | [← Previous: Part 2](/notebook/030-032-lith/031-lithprintingcontrol/)
 
 ---
 
@@ -143,7 +143,7 @@ I work in a well ventilated darkroom with a heating pad to warm up the chemistry
 
 **Old Brown status:** Ensure I have adequate Old Brown saved. If starting fresh without existing stock, accept that first prints may be less colourful—they're seasoning the developer for later prints.
 
-**Pre-soak preparation:** For FomaTone, prepare a tray of a few percent hydrogen peroxide solution for pre-soaking, seems to handle snowballs well.
+**Pre-soak preparation:** For FomaTone, prepare a tray of three percent hydrogen peroxide solution for pre-soaking, which seems to handle snowballs well.
 
 ### Exposure Determination
 

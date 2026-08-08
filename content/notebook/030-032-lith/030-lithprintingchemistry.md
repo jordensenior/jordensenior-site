@@ -1,6 +1,6 @@
 ---
 title: "030 · Lith Printing: The Chemistry of Chaos"
-image: ""
+image: "/notebook/030-032-lith/lith_sea.jpeg"
 description: "Understanding infectious development—the autocatalytic chemistry that makes lith printing unlike anything else in the darkroom"
 author: "Jorden Senior"
 date: "2026-02-01"
@@ -14,7 +14,7 @@ live: true
 
 ## Lith Printing: The Chemistry of Chaos
 
-<!-- **Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](../031-lithprintingcontrol) -->
+**Part 1 of 3** in the Lith Printing series | [Next: Part 2 →](/notebook/030-032-lith/031-lithprintingcontrol/)
 
 ---
 
@@ -39,6 +39,8 @@ Lith development violates these assumptions fundamentally. The process is autoca
 
 This phenomenon is called infectious development, and understanding it requires looking at what happens to hydroquinone—the developing agent—as it works.
 
+One caveat before I start explaining it. What follows is my reading of Rudman, Moersch and the practitioner literature, not measurements I have made. I can watch the cascade happen in a tray and I can predict what it will do to a print, but I have never put a lith developer on a bench and characterised it. Some of this chemistry is genuinely settled and some of it is empirical folklore that has held up; I have tried to say which is which as I go, and where I am not sure, I say so.
+
 ## The Semiquinone Cascade
 
 In conventional developers, hydroquinone oxidises to quinone as it reduces silver. Quinone is essentially inert—it doesn't participate further in development. The reaction proceeds, products accumulate, and eventually the developer exhausts.
@@ -60,7 +62,7 @@ This differential is the source of lith printing's characteristic look. Highligh
 
 Conventional black and white developers typically combine multiple developing agents. Metol and hydroquinone (MQ developers) or phenidone and hydroquinone (PQ developers) work synergistically—the combination develops faster than either agent alone, a phenomenon called superadditivity. Most darkroom chemistry exploits this.
 
-Lith developers use hydroquinone alone, or hydroquinone with minimal additions. The reason is precisely that semiquinone pathway. Other developing agents don't produce the same autocatalytic intermediate. Metol oxidises directly. Phenidone actually suppresses infectious development—which is why papers containing phenidone in their emulsion (some Adox batches, for instance) won't lith properly regardless of developer choice.
+Lith developers use hydroquinone alone, or hydroquinone with minimal additions. The reason is precisely that semiquinone pathway. Other developing agents don't produce the same autocatalytic intermediate. Metol oxidises directly. Phenidone actually suppresses infectious development—which is why a paper with phenidone incorporated in its emulsion will not lith properly regardless of developer choice. This is one of the reasons batch and formulation changes matter so much, and why a paper can stop lithing without changing its name.
 
 The hydroquinone must also be present in specific conditions. The developer needs to be highly alkaline (pH 11-12) for hydroquinone to be active, but the formulation must carefully control other components that might interfere with the semiquinone cascade.
 
