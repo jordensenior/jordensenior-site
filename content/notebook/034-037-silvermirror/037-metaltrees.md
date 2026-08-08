@@ -21,7 +21,7 @@ live: true
 There are eighteen of them at Gardens by the Bay — steel armatures between twenty-five and fifty metres high, planted with bromeliads and ferns and flowering climbers, fitted with photovoltaic cells and rainwater collection. They are called Supertrees. They are not trees. They are infrastructure wearing a hundred and sixty thousand plants, and from a distance the illusion holds completely; up close it collapses into welded steel and irrigation, and then, if you keep looking, reassembles.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/silvertrees_5.jpeg" align="center" width="640px" style="margin:10px;" alt="Two Supertrees silhouetted against a streaked metallic sky" />
+    <img src="/notebook/034-037-silvermirror/silvertrees_5.jpeg" align="center" width="600px" style="margin:10px;" alt="Two Supertrees silhouetted against a streaked metallic sky" />
     <figcaption>Two of the eighteen, against a sky that is no longer behaving like a sky.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Direct toning is the obvious choice for this subject, and the consequence is one
 What I could not know in advance was how far it would go. Anticipating a metallic sky and standing in front of one are different experiences, and the prints are considerably more disorientating than the plan for them was.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/silvertrees_4.jpeg" align="center" width="640px" style="margin:10px;" alt="Three Supertrees against a heavily streaked and mottled metallic sky" />
+    <img src="/notebook/034-037-silvermirror/silvertrees_4.jpeg" align="center" width="600px" style="margin:10px;" alt="Three Supertrees against a heavily streaked and mottled metallic sky" />
     <figcaption>The extreme case. Almost the entire frame above the treeline is deposit, and the streaking is the toning rather than anything that was in the negative.</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ I would not have predicted liking that. It works because it is doing the same th
 There is a practical consequence to this that took me a while to name. A conventional print holds still while you look at it, and you can therefore compose it as a fixed arrangement of tones. These do not hold still. Move your head thirty centimetres and the tonal relationships in the upper half of the picture invert — sky that read as bright goes dark, or the reverse, depending on where the light is coming from. The composition is not a property of the print; it is a property of the print, the light, and where you happen to be standing. What you can control at the enlarger is the *range* of pictures a print will produce, not which one a viewer gets.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/silvertrees_6.jpeg" align="center" width="640px" style="margin:10px;" alt="A Supertree trunk with the Marina Bay Sands hotel behind it, the skyway crossing the frame with figures on it" />
+    <img src="/notebook/034-037-silvermirror/silvertrees_6.jpeg" align="center" width="600px" style="margin:10px;" alt="A Supertree trunk with the Marina Bay Sands hotel behind it, the skyway crossing the frame with figures on it" />
     <figcaption>The other end of the range. With a trunk, a hotel and a walkway full of people occupying most of the frame, there is far less for the toning to act on — and the print behaves accordingly.</figcaption>
 </figure>
 
@@ -58,12 +58,12 @@ Ilford Satin turned out to matter more than I expected. Satin already sits betwe
 The frames do not all take it equally, and the reason is arithmetic rather than aesthetic. Direct toning acts on the highlights, so the proportion of a print that becomes reflective is roughly the proportion of the frame that was bright — which here means the proportion that was sky. A wide shot of the grove against open sky is mostly mirror. A tighter frame looking up into the planting, where the structure fills the picture and the sky survives only as gaps between the fronds, is mostly a normal photograph with a scatter of bright interruptions.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/silvertrees_3.jpeg" align="center" width="440px" style="margin:10px;" alt="Marina Bay Sands seen through palm fronds, almost the whole frame pale and reflective" />
+    <img src="/notebook/034-037-silvermirror/silvertrees_3.jpeg" align="center" width="430px" style="margin:10px;" alt="Marina Bay Sands seen through palm fronds, almost the whole frame pale and reflective" />
     <figcaption>Sky-dominant: nearly the whole sheet is deposit.</figcaption>
 </figure>
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/silvertrees_2.jpeg" align="center" width="440px" style="margin:10px;" alt="Looking directly up the trunk and canopy struts of a single Supertree" />
+    <img src="/notebook/034-037-silvermirror/silvertrees_2.jpeg" align="center" width="430px" style="margin:10px;" alt="Looking directly up the trunk and canopy struts of a single Supertree" />
     <figcaption>Structure-dominant: the sky is reduced to the spaces between the struts.</figcaption>
 </figure>
 

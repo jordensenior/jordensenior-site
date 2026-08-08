@@ -52,7 +52,7 @@ The mechanism connects to infectious development. When you significantly overexp
 When you underexpose (one to two stops beyond normal), highlights remain thin. They barely develop before shadows demand attention. You must extend development to achieve proper shadow density, which means the infectious cascade runs longer. The result: pale, delicate highlights against harsh, gritty blacks. Maximum tonal separation. High graphic contrast.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="center" width="420px" style="margin:10px;" alt="Warm, soft lith print of a sailing boat in an archipelago" />
+    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="center" width="430px" style="margin:10px;" alt="Warm, soft lith print of a sailing boat in an archipelago" />
     <figcaption>The overexposed end: enough exposure that the highlights carry detail and the whole print stays warm.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ A rough timing heuristic that many practitioners use: the snatch point often arr
 **Snatch too late:** Shadows block up, losing detail. Grain becomes excessive, particularly in transition zones. The image looks harsh, graphic—or if severely late, simply black in the lower half of the tonal scale.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_tampere.jpeg" align="center" width="420px" style="margin:10px;" alt="Dark, heavily grained lith print of trees over water, shadows almost fully blocked" />
+    <img src="/notebook/030-032-lith/lith_tampere.jpeg" align="center" width="430px" style="margin:10px;" alt="Dark, heavily grained lith print of trees over water, shadows almost fully blocked" />
     <figcaption>Snatched late. The shadows have blocked and the grain has come up with them — sometimes the point, sometimes a misjudgement.</figcaption>
 </figure>
 
@@ -125,12 +125,12 @@ That matters more than it might sound, because the received wisdom is not entire
 Rather than describe it, here is the same negative twice — a weir in Tampere, printed in the same session on the same paper.
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_TampereAcidSquad_Snowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="Lith print of a Tampere weir covered in pale circular snowball defects" />
+    <img src="/notebook/030-032-lith/Lith_TampereAcidSquad_Snowballs.jpeg" align="center" width="430px" style="margin:10px;" alt="Lith print of a Tampere weir covered in pale circular snowball defects" />
     <figcaption>Snowballed. The pale cellular blotching has eaten most of the frame; the picture is barely underneath it any more.</figcaption>
 </figure>
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_TampereAcidSquad_NoSnowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="The same Tampere weir printed cleanly, with dense blacks and no snowball defects" />
+    <img src="/notebook/030-032-lith/Lith_TampereAcidSquad_NoSnowballs.jpeg" align="center" width="430px" style="margin:10px;" alt="The same Tampere weir printed cleanly, with dense blacks and no snowball defects" />
     <figcaption>The same negative without them. Dense, clean, and doing what the paper is supposed to do.</figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ If snowballs appear despite prevention efforts, the print is essentially ruined 
 Although "ruined" is doing some work in that sentence, and I want to qualify it. At low intensity the same defect stops reading as damage and starts reading as weather.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_skyscraper.jpeg" align="center" width="440px" style="margin:10px;" alt="Lith print of a skyscraper" />
+    <img src="/notebook/030-032-lith/lith_skyscraper.jpeg" align="center" width="430px" style="margin:10px;" alt="Lith print of a skyscraper" />
     <figcaption>Strong snowballing across the sky, as cleaners ascend a skyscraper in Salt Lake City. I did not ask for this and would not have been able to repeat it, but I kept the print.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Which is the thing I find hardest to write rules about. The difference between t
 The effect results from uncontrolled infectious development spreading to unexposed areas. Where semiquinone concentration is high (near developing shadows), some crystals that received no camera exposure reduce anyway, creating random developed spots. The result is visible texture that can range from subtle stippling to aggressive grit.
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_Louvre_Peppercorns.jpeg" align="center" width="560px" style="margin:10px;" alt="Lith print of the Louvre pyramid and palace with dark peppercorn speckling across the sky" />
+    <img src="/notebook/030-032-lith/Lith_Louvre_Peppercorns.jpeg" align="center" width="500px" style="margin:10px;" alt="Lith print of the Louvre pyramid and palace with dark peppercorn speckling across the sky" />
     <figcaption>Peppercorns across the sky at the Louvre. None of this is in the negative — it is development finding crystals that were never exposed.</figcaption>
 </figure>
 
@@ -216,12 +216,12 @@ The exposure/snatch relationship gives you two fundamentally different approache
 This is the counterintuitive claim from earlier in the post — that more exposure gives *less* contrast — and it is easier to believe from two prints than from a paragraph. Same negative, a valley outside Trento, printed both ways.
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_TrentoMountain_HighContrast.jpeg" align="center" width="420px" style="margin:10px;" alt="Lith print of a mountain valley, high contrast, with the foreground blocked into deep shadow" />
+    <img src="/notebook/030-032-lith/Lith_TrentoMountain_HighContrast.jpeg" align="center" width="430px" style="margin:10px;" alt="Lith print of a mountain valley, high contrast, with the foreground blocked into deep shadow" />
     <figcaption>The high contrast version. The town and the valley floor have gone; the picture is a mountain and a branch.</figcaption>
 </figure>
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_TrentoMountain_Midtones.jpeg" align="center" width="420px" style="margin:10px;" alt="The same valley printed with more exposure, showing roads, river and town in the valley floor" />
+    <img src="/notebook/030-032-lith/Lith_TrentoMountain_Midtones.jpeg" align="center" width="430px" style="margin:10px;" alt="The same valley printed with more exposure, showing roads, river and town in the valley floor" />
     <figcaption>More exposure, snatched earlier. The valley comes back — roads, river, the town — and the whole print softens.</figcaption>
 </figure>
 

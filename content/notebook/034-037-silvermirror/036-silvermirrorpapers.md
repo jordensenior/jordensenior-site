@@ -31,7 +31,7 @@ The obvious first test, and the least dramatic to write about, which is exactly 
 I had half expected fibre to behave differently. A fibre print has a thicker emulsion sitting on a baryta layer sitting on paper that actively absorbs the bath, where an RC print has a thin emulsion between two plastic layers that absorb nothing. If the mirroring depends on what the emulsion can hold and how quickly the bath clears out of it, those are not obviously equivalent situations.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/smt_fomabromlibrary.jpeg" align="center" width="600px" style="margin:10px;" alt="Equestrian statue and a modernist tower seen through overhanging foliage, printed with a warm silvered sky" />
+    <img src="/notebook/034-037-silvermirror/smt_fomabromlibrary.jpeg" align="center" width="430px" style="margin:10px;" alt="Equestrian statue and a modernist tower seen through overhanging foliage, printed with a warm silvered sky" />
     <figcaption>Direct toning on FomaBrom 111. The sky carries the deposit; the statue and the foliage stay as ordinary silver.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ This is the most interesting failure in the set, and the one I would like to und
 Lith prints are an obvious target for indirect toning specifically. Direct toning would compete with the print's own highlights, but indirect works on the shadows and leaves the highlights largely alone — and the highlights are where a lith print keeps its colour. In principle you get metallic shadows with all the warmth and grain of the lith intact above them. In principle.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/smt_lithretrobrom.jpeg" align="center" width="600px" style="margin:10px;" alt="Milan cathedral in warm gold and brown lith tones, with mirrored shadows" />
+    <img src="/notebook/034-037-silvermirror/smt_lithretrobrom.jpeg" align="center" width="430px" style="margin:10px;" alt="Milan cathedral in warm gold and brown lith tones, with mirrored shadows" />
     <figcaption>Indirect toning over a lith print on Retrobrom 152. The lith colour survives intact; the mirroring is in the stonework and the shadow mass of the Milan cathedral, and only shows at an angle.</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ The last thing to try was combining silver mirroring with [mordançage](/noteboo
 **Mordançage first, indirect silver mirror toning later: excellent.** The mordançaged shadows came up gold, which on its own would have made the session worthwhile. But the paper base also turned a distinct purple.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/smt_mordancagefirstpearl.jpeg" align="center" width="600px" style="margin:10px;" alt="Industrial rooftops under a lilac sky, with gold-brown mordançaged shadows and bleached white forms along the roofline" />
+    <img src="/notebook/034-037-silvermirror/smt_mordancagefirstpearl.jpeg" align="center" width="430px" style="margin:10px;" alt="Industrial rooftops under a lilac sky, with gold-brown mordançaged shadows and bleached white forms along the roofline" />
     <figcaption>Mordançage first, then indirect toning, on Ilford Pearl. Gold in the mordançaged shadows, bleached veiling along the roofline — and a sky that has gone lilac for reasons I cannot account for.</figcaption>
 </figure>
 

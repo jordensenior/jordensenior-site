@@ -75,7 +75,7 @@ If that framework is right, then colour and shine are not two different results 
 One observation from the darkroom is at least consistent with this, though it is not evidence. With a fresh bath I could not see much difference between one minute and two — which would make sense if a fresh bath drives coverage past the threshold quickly and then has nowhere further to go. What did change the result was letting the chemistry age. A tired bath produced patchier, less uniform mirroring, which is exactly what a print sitting *at* the percolation threshold rather than comfortably above it should look like: connectivity varying across the sheet, some regions percolating and some not.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/smt_fomaspeed.jpeg" align="center" width="600px" style="margin:10px;" alt="A city skyline printed on Fomaspeed, the image floating in a pale cream field with dark mottled deposit along the paper edges" />
+    <img src="/notebook/034-037-silvermirror/smt_fomaspeed.jpeg" align="center" width="430px" style="margin:10px;" alt="A city skyline printed on Fomaspeed, the image floating in a pale cream field with dark mottled deposit along the paper edges" />
     <figcaption>Melbourne City Skyline. Here, the coverage varies across a single sheet: heavy, broken deposit at the edges, very light in the middle. Whatever sets the local density of the deposit, it is not uniform across a print. </figcaption>
 </figure>
 

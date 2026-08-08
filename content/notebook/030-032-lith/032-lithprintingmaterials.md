@@ -21,7 +21,7 @@ live: true
 The classic lith papers are gone. Sterling Lith, Forte Polywarmtone, Kodak Ektalure, the old Agfa Brovira—papers that defined the technique for decades—have all been discontinued. What remains is a short list of currently manufactured papers that still work, chemistry from a handful of dedicated suppliers, and a community of practitioners who share knowledge about batch variations, workarounds, and alternative approaches.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_watch.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print on FomaTone 132" />
+    <img src="/notebook/030-032-lith/lith_watch.jpeg" align="right" width="260px" style="margin:10px;" alt="Lith print on FomaTone 132" />
     <figcaption>FomaTone 132 remains one of the most reliable papers for lith printing in current production.</figcaption>
 </figure>
 
@@ -55,12 +55,12 @@ FomaBrom 152, also from Foma, is a cold-tone graded paper (available in several 
 Where FomaTone is creamy, FomaBrom is gritty. Where FomaTone is warm, FomaBrom is hard. The paper lends itself to urban subjects, industrial scenes, and deliberately harsh aesthetics. Portraits become graphic and edgy rather than soft and flattering.
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_OsloSculpturePark.jpeg" align="center" width="520px" style="margin:10px;" alt="Graphic lith print of relief figures at Vigeland sculpture park, heavy blacks against cream" />
+    <img src="/notebook/030-032-lith/Lith_OsloSculpturePark.jpeg" align="center" width="600px" style="margin:10px;" alt="Graphic lith print of relief figures at Vigeland sculpture park, heavy blacks against cream" />
     <figcaption>The hard end: relief figures at Vigeland, Oslo. Blacks that have blocked completely, and highlights that have stayed paper.</figcaption>
 </figure>
 
 <figure>
-    <img src="/notebook/030-032-lith/Lith_LondonHydeParkBench.jpeg" align="center" width="520px" style="margin:10px;" alt="Soft warm lith print looking along a park bench in Hyde Park, London" />
+    <img src="/notebook/030-032-lith/Lith_LondonHydeParkBench.jpeg" align="center" width="430px" style="margin:10px;" alt="Soft warm lith print looking along a park bench in Hyde Park, London" />
     <figcaption>And the soft end: a bench in Hyde Park. Same process, opposite register.</figcaption>
 </figure>
 

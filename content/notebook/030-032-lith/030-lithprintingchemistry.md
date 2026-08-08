@@ -21,7 +21,7 @@ live: true
 The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn't develop so much as erupt, shadows darkening visibly, racing towards black while I scrambled to snatch the print before it went too far.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_foggyboat.jpeg" align="right" width="330px" style="margin:10px;" alt="Very dark, heavily grained lith print of a small boat in fog" />
+    <img src="/notebook/030-032-lith/lith_foggyboat.jpeg" align="right" width="240px" style="margin:10px;" alt="Very dark, heavily grained lith print of a small boat in fog" />
     <figcaption>Almost the whole print is shadow, and the grain is development rather than film. This is what the cascade does when you let it run.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ The hydroquinone must also be present in specific conditions. The developer need
 Here's where lith chemistry becomes genuinely subtle. Conventional developers contain sodium sulfite as a preservative—it scavenges oxidation products, preventing aerial oxidation and extending developer life. But sulfite also scavenges semiquinone. In a high-sulfite developer, the autocatalytic cascade never develops because the intermediate gets neutralised as fast as it forms.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_tallink.jpeg" align="center" width="460px" style="margin:10px;" alt="Warm sepia lith print of children silhouetted against a bright ferry window" />
+    <img src="/notebook/030-032-lith/lith_tallink.jpeg" align="center" width="500px" style="margin:10px;" alt="Warm sepia lith print of children silhouetted against a bright ferry window" />
     <figcaption>Warm colour out of a black and white paper, with no toner anywhere near it. The colour is grain size, nothing else.</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Modern formaldehyde-free developers, including the Moersch EasyLith I use, achie
 As silver bromide crystals develop, they release bromide ions into solution. In conventional development, this bromide accumulation gradually restrains development—one reason why developers exhaust and development times extend with use.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_sea_Snowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="Warm lith print of a sailing boat, with faint mottling across the pale sky" />
+    <img src="/notebook/030-032-lith/lith_sea_Snowballs.jpeg" align="center" width="430px" style="margin:10px;" alt="Warm lith print of a sailing boat, with faint mottling across the pale sky" />
     <figcaption>Faint mottling across the sky, from a bath that had been worked hard. In its severe form this is snowballing, which <a href="/notebook/030-032-lith/031-lithprintingcontrol/">031</a> covers properly; in this quantity I was happy to keep it.</figcaption>
 </figure>
 

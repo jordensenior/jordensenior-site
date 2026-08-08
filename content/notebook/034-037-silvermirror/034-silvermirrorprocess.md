@@ -23,7 +23,7 @@ Sometimes when glancing at old silver gelatin prints that have been on display f
 The workshop I took at [Mörk](https://pimiotaiteilijat.fi/en/) in April, during the [Helsinki Analog Festival](https://pimiotaiteilijat.fi/en/helsinki-analog-festival-2026/), was about causing it on purpose, in a couple of minutes.
 
 <figure>
-    <img src="/notebook/034-037-silvermirror/smt_fomabrom.jpeg" align="center" width="600px" style="margin:10px;" alt="Silver mirror toned print of a library reading room, warm olive and silver" />
+    <img src="/notebook/034-037-silvermirror/smt_fomabrom.jpeg" align="center" width="430px" style="margin:10px;" alt="Silver mirror toned print of a library reading room, warm olive and silver" />
     <figcaption>Direct toning on FomaBrom 111. The La Trobe Reading Room at State Library Victoria, Melbourne — the upper walls and windows, the highlights, are where the silvering has occurred.</figcaption>
 </figure>
 
