@@ -23,7 +23,8 @@ Most of what I do in a lith session comes down to standing over a tray with a sa
 Everything below is an attempt to make that judgement less arbitrary. The rules of lith printing invert what conventional darkroom experience teaches: more exposure produces lower contrast, longer development produces cooler colours, and the highlights are fixed at the moment of exposure while the shadows are fixed at the moment you snatch. Each variable operates somewhat independently, which gives a control range Tim Rudman described as spanning six or seven equivalent paper grades from a single material — a remarkable claim, and one my own prints bear out.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_boat.jpeg" align="right" width="350px" style="margin:10px;" alt="High contrast lith print with pale highlights and dense blacks" />
+    <img src="/notebook/030-032-lith/lith_boat.jpeg" align="right" width="350px" style="margin:10px;" alt="High contrast lith print of a boat prow, blown white sky against a dense black hull" />
+    <figcaption>Highlights set at the enlarger, shadows set at the snatch. Two decisions, two ends of the scale.</figcaption>
 </figure>
 
 This post examines the practical control variables: how to use exposure to set contrast, how to read and execute the snatch point, how temperature affects everything, and how to manage (or encourage) the characteristic effects—snowballs and peppercorns—that give lith prints their distinctive texture. The previous post covered the underlying chemistry; here we translate that understanding into darkroom practice.
@@ -48,11 +49,12 @@ In lith printing, exposure primarily controls contrast. The relationship runs op
 
 The mechanism connects to infectious development. When you significantly overexpose (three to four stops beyond normal), highlights and midtones receive substantial exposure. They begin developing earlier and generate semiquinone locally. By the time shadows start their exponential acceleration, highlights have already developed considerable density. You snatch earlier, before infectious development creates extreme separation. The result: more tonal information throughout the scale, softer gradation, a creamier overall appearance.
 
-<figure>
-    <img src="/notebook/030-032-lith/lith_foggyboat.jpeg" align="left" width="350px" style="margin:10px;" alt="Low contrast lith print with rich midtones and soft transitions" />
-</figure>
-
 When you underexpose (one to two stops beyond normal), highlights remain thin. They barely develop before shadows demand attention. You must extend development to achieve proper shadow density, which means the infectious cascade runs longer. The result: pale, delicate highlights against harsh, gritty blacks. Maximum tonal separation. High graphic contrast.
+
+<figure>
+    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="center" width="420px" style="margin:10px;" alt="Warm, soft lith print of a sailing boat in an archipelago" />
+    <figcaption>The overexposed end: enough exposure that the highlights carry detail and the whole print stays warm.</figcaption>
+</figure>
 
 The practical baseline I use: expose approximately two stops beyond what would produce a proper conventional print, then adjust based on negative contrast. Contrasty negatives need more exposure (to lower lith contrast). Flat negatives need less exposure (to increase lith contrast). The exposure/contrast relationship becomes a tool for matching the process to the source material.
 
@@ -69,6 +71,11 @@ A rough timing heuristic that many practitioners use: the snatch point often arr
 **Snatch too early:** The print emerges with weak, muddy blacks lacking punch. Tonal separation is minimal. Grain is fine, but shadow density disappoints. The image looks flat.
 
 **Snatch too late:** Shadows block up, losing detail. Grain becomes excessive, particularly in transition zones. The image looks harsh, graphic—or if severely late, simply black in the lower half of the tonal scale.
+
+<figure>
+    <img src="/notebook/030-032-lith/lith_tampere.jpeg" align="center" width="420px" style="margin:10px;" alt="Dark, heavily grained lith print of trees over water, shadows almost fully blocked" />
+    <figcaption>Snatched late. The shadows have blocked and the grain has come up with them — sometimes the point, sometimes a misjudgement.</figcaption>
+</figure>
 
 I use a safelight torch to monitor shadow development, holding it at an angle that reveals emerging density. The print needs to keep moving gently in the tray for even development. When the most important shadow area reaches proper density, I go directly to stop bath without draining—even seconds of continued development can overshoot during the exponential phase.
 

@@ -241,11 +241,6 @@ The colour, first. Warm cream highlights against cool black shadows, achieved wi
 
 The texture. That characteristic pepper grain, the visible evidence of infectious development spreading through the emulsion. The prints have physical presence—not just tonality but surface, not just image but object.
 
-<figure>
-    <img src="/notebook/030-032-lith/lith_tallink.jpeg" align="left" width="350px" style="margin:10px;" alt="" />
-    <figcaption></figcaption>
-</figure>
-
 The latitude. A single paper, a single developer, producing results spanning from soft pictorialism to harsh graphic abstraction depending entirely on how you balance the variables. The control isn't precise—you're collaborating with chemistry that wants to accelerate—but it's real. Different results for different images, different moods, different intentions.
 
 The connection to a specific community of practice. Lith printing isn't solitary work in isolation; it's participation in ongoing conversation about materials, technique, and possibility. The knowledge passes through workshops, forums, articles, conversations. Åsmund taught me what others taught him; what I learn gets shared in turn.

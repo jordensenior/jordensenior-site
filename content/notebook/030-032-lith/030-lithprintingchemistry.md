@@ -1,6 +1,6 @@
 ---
 title: "030 · Lith Printing: The Chemistry of Chaos"
-image: "/notebook/030-032-lith/lith_sea.jpeg"
+image: "/notebook/030-032-lith/lith_foggyboat.jpeg"
 description: "Understanding infectious development—the autocatalytic chemistry that makes lith printing unlike anything else in the darkroom"
 author: "Jorden Senior"
 date: "2026-02-01"
@@ -21,8 +21,8 @@ live: true
 The first time I watched a lith print develop, I thought something had gone wrong. The paper sat in the tray for what felt like an eternity—two minutes, three minutes, four—showing almost nothing. Then faint highlights emerged, ghostly and uncertain. Then midtones, slowly. Then the shadows began to move, and suddenly everything accelerated. The image didn't develop so much as erupt, shadows darkening visibly, racing towards black while I scrambled to snatch the print before it went too far.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_acidsquad.jpeg" align="right" width="350px" style="margin:10px;" alt="Lith print showing characteristic warm highlights and gritty shadows" />
-    <figcaption></figcaption>
+    <img src="/notebook/030-032-lith/lith_foggyboat.jpeg" align="right" width="330px" style="margin:10px;" alt="Very dark, heavily grained lith print of a small boat in fog" />
+    <figcaption>Almost the whole print is shadow, and the grain is development rather than film. This is what the cascade does when you let it run.</figcaption>
 </figure>
 
 This was at [Mörk](https://pimiotaiteilijat.fi/en/) in Helsinki, during a workshop led by [Åsmund Lahaug](https://www.instagram.com/aaklahaug/) as part of the [Nordic Analogue Network](https://www.nordicanalognetwork.com/) residency programme. Åsmund had warned us: lith printing doesn't behave like conventional development. The chemistry follows different rules. But understanding those rules intellectually is one thing; watching them unfold in the tray is another entirely.
@@ -70,20 +70,25 @@ The hydroquinone must also be present in specific conditions. The developer need
 
 Here's where lith chemistry becomes genuinely subtle. Conventional developers contain sodium sulfite as a preservative—it scavenges oxidation products, preventing aerial oxidation and extending developer life. But sulfite also scavenges semiquinone. In a high-sulfite developer, the autocatalytic cascade never develops because the intermediate gets neutralised as fast as it forms.
 
+<figure>
+    <img src="/notebook/030-032-lith/lith_tallink.jpeg" align="center" width="460px" style="margin:10px;" alt="Warm sepia lith print of children silhouetted against a bright ferry window" />
+    <figcaption>Warm colour out of a black and white paper, with no toner anywhere near it. The colour is grain size, nothing else.</figcaption>
+</figure>
+
 Traditional lith developers solve this problem with formaldehyde. This might seem counterintuitive—formaldehyde is primarily known as a preservative and hardener, not a development modifier. Its role in lith chemistry is indirect but essential: formaldehyde binds sulfite into a stable adduct called hydroxymethylsulfonate. This effectively locks up the sulfite, preventing it from scavenging semiquinone while retaining some antioxidant protection for the developer.
 
 The formaldehyde-bisulfite adduct is remarkably stable—reportedly many orders of magnitude more stable than alternatives like acetone-bisulfite, according to practitioner research documented in community forums. This stability explains why formaldehyde works where other aldehydes fail, and why traditional lith developers (Kodalith, the original formulations) contained it despite the health concerns. The exact chemistry remains somewhat empirical; what matters practically is that formaldehyde enables the process while other aldehydes do not.
-
-<figure>
-    <img src="/notebook/030-032-lith/lith_sea.jpeg" align="left" width="350px" style="margin:10px;" alt="Lith print of landscape showing tonal separation" />
-    <figcaption>The extreme tonal separation in lith prints—soft highlights against dense shadows—emerges from the chemistry itself, not from paper grade selection.</figcaption>
-</figure>
 
 Modern formaldehyde-free developers, including the Moersch EasyLith I use, achieve similar results through different means: minimal sulfite levels, careful pH control, and formulations that simply accept shorter working life in exchange for avoiding formaldehyde entirely. This matters practically—heated formaldehyde fumes are problematic, and formaldehyde absorbs through skin. If you're working with traditional developers, ventilation isn't optional. With EasyLith or SE5 Master, health concerns diminish substantially.
 
 ## Bromide Dynamics and the Importance of Old Brown
 
 As silver bromide crystals develop, they release bromide ions into solution. In conventional development, this bromide accumulation gradually restrains development—one reason why developers exhaust and development times extend with use.
+
+<figure>
+    <img src="/notebook/030-032-lith/lith_sea_Snowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="Warm lith print of a sailing boat, with faint mottling across the pale sky" />
+    <figcaption>Faint mottling across the sky, from a bath that had been worked hard. In its severe form this is snowballing, which <a href="/notebook/030-032-lith/031-lithprintingcontrol/">031</a> covers properly; in this quantity I was happy to keep it.</figcaption>
+</figure>
 
 In lith printing, bromide dynamics are more complex and more useful. Bromide restrains the infectious cascade, providing some control over the otherwise exponential acceleration. Bromide also affects image colour, shifting tones from pink-sepia towards yellow-sepia as concentration increases.
 
@@ -126,11 +131,6 @@ Why do longer development times produce cooler, grainier results? Because extend
 Why does Old Brown improve results? Because accumulated bromide moderates the cascade while accumulated oxidation products enhance colour.
 
 Why must you snatch quickly once shadows start moving? Because the exponential nature of infectious development means seconds matter—the feedback loop accelerates continuously until you physically intervene.
-
-<figure>
-    <img src="/notebook/030-032-lith/lith_tampere.jpeg" align="right" width="300px" style="margin:10px;" alt="Detail showing lith grain structure" />
-    <figcaption>The distinctive grain of lith printing—visible texture in the shadows—results from the uneven, explosive nature of infectious development.</figcaption>
-</figure>
 
 The chemistry also explains why lith printing requires specific papers. The emulsion must contain chlorobromide or bromide silver (not just chloride), and it must be free of incorporated developing agents like phenidone that would suppress the semiquinone pathway. Many modern papers fail one or both requirements, which is why the list of lithable papers has shrunk dramatically since the technique's heyday.
 
