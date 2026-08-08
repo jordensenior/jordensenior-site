@@ -54,6 +54,18 @@ FomaBrom 152, also from Foma, is a cold-tone graded paper (available in several 
 
 Where FomaTone is creamy, FomaBrom is gritty. Where FomaTone is warm, FomaBrom is hard. The paper lends itself to urban subjects, industrial scenes, and deliberately harsh aesthetics. Portraits become graphic and edgy rather than soft and flattering.
 
+<figure>
+    <img src="/notebook/030-032-lith/Lith_OsloSculpturePark.jpeg" align="center" width="520px" style="margin:10px;" alt="Graphic lith print of relief figures at Vigeland sculpture park, heavy blacks against cream" />
+    <figcaption>The hard end: relief figures at Vigeland, Oslo. Blacks that have blocked completely, and highlights that have stayed paper.</figcaption>
+</figure>
+
+<figure>
+    <img src="/notebook/030-032-lith/Lith_LondonHydeParkBench.jpeg" align="center" width="520px" style="margin:10px;" alt="Soft warm lith print looking along a park bench in Hyde Park, London" />
+    <figcaption>And the soft end: a bench in Hyde Park. Same process, opposite register.</figcaption>
+</figure>
+
+Those two prints are the range the process covers, and neither took anything exotic to get — just a different decision about exposure and when to pull.
+
 FomaBrom shares FomaTone's susceptibility to batch variation and snowballing. The same mitigation strategies apply: check batch numbers, pre-soak, consider EasyLith FT Special.
 
 ### Other Options, With A Caveat

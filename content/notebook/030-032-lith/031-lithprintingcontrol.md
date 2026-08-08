@@ -113,11 +113,21 @@ That matters more than it might sound, because the received wisdom is not entire
 
 ## Snowballs: The Unwanted Effect
 
-"Snowballs" (or snowflakes) are circular spots where the image fails to develop—round, measles-like defects most visible in highlight areas and clear skies. They result from uneven developer penetration, often caused by hardened emulsion or exhausted chemistry. A clear sky becomes spotted with pale circles. A face develops patchy white marks. The effect ruins prints.
+"Snowballs" (or snowflakes) are circular spots where the image fails to develop—round, measles-like defects most visible in highlight areas and clear skies. They result from uneven developer penetration, often caused by hardened emulsion or exhausted chemistry. A clear sky becomes spotted with pale circles. A face develops patchy white marks.
+
+Rather than describe it, here is the same negative twice — a weir in Tampere, printed in the same session on the same paper.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_skyscraper.jpeg" align="left" width="280px" style="margin:10px;" alt="Example of snowball defects in lith print" />
+    <img src="/notebook/030-032-lith/Lith_TampereAcidSquad_Snowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="Lith print of a Tampere weir covered in pale circular snowball defects" />
+    <figcaption>Snowballed. The pale cellular blotching has eaten most of the frame; the picture is barely underneath it any more.</figcaption>
 </figure>
+
+<figure>
+    <img src="/notebook/030-032-lith/Lith_TampereAcidSquad_NoSnowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="The same Tampere weir printed cleanly, with dense blacks and no snowball defects" />
+    <figcaption>The same negative without them. Dense, clean, and doing what the paper is supposed to do.</figcaption>
+</figure>
+
+That first print is not a marginal case or a subtle degradation. It is a sheet of paper I threw away, and it is the reason the prevention list below exists.
 
 Foma papers from certain production batches have been particularly prone to snowballing. The issue relates to emulsion hardness—developer can't penetrate evenly, leaving undeveloped islands. Current Fomatone batches (0796 onward) work better, but the problem hasn't entirely disappeared.
 
@@ -135,11 +145,25 @@ Prevention methods, ranked by effectiveness:
 
 If snowballs appear despite prevention efforts, the print is essentially ruined for that attempt. Snowballs don't fill in with extended development—they remain as permanent undeveloped areas. Start fresh with a new sheet after adjusting your prevention strategy.
 
+Although "ruined" is doing some work in that sentence, and I want to qualify it. At low intensity the same defect stops reading as damage and starts reading as weather.
+
+<figure>
+    <img src="/notebook/030-032-lith/lith_sea_Snowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="Lith print of a sailing boat in an archipelago, with faint mottled snowballing across the pale sky" />
+    <figcaption>Mild snowballing across the sky. I did not ask for this and would not have been able to repeat it, but I kept the print.</figcaption>
+</figure>
+
+Which is the thing I find hardest to write rules about. The difference between the Tampere print and this one is a matter of degree in a defect I do not fully control, and my response to it is not consistent — I threw one away and kept the other. The prevention list is honest advice for getting a predictable print. It is not advice for getting an interesting one.
+
 ## Peppercorns: The Characteristic Grain
 
 "Peppercorns" (or pepper grain) describes the visible textural structure unique to lith printing—small black dots sprinkled across the image, particularly in transition zones between shadows and midtones. Unlike film grain, which you're reproducing from the negative, this is emulsion grain created by the development process itself.
 
 The effect results from uncontrolled infectious development spreading to unexposed areas. Where semiquinone concentration is high (near developing shadows), some crystals that received no camera exposure reduce anyway, creating random developed spots. The result is visible texture that can range from subtle stippling to aggressive grit.
+
+<figure>
+    <img src="/notebook/030-032-lith/Lith_Louvre_Peppercorns.jpeg" align="center" width="560px" style="margin:10px;" alt="Lith print of the Louvre pyramid and palace with dark peppercorn speckling across the sky" />
+    <figcaption>Peppercorns across the sky at the Louvre. None of this is in the negative — it is development finding crystals that were never exposed.</figcaption>
+</figure>
 
 Whether peppercorns are desirable depends entirely on the image. For portraits, excessive pepper can be distracting. For industrial subjects, urban scenes, or deliberately rough aesthetics, pepper adds character. The effect is controllable within limits.
 
@@ -182,6 +206,20 @@ The exposure/snatch relationship gives you two fundamentally different approache
 
 **Low contrast printing** (overexposure, early snatch): Rich, detailed highlights. Softer shadows with retained detail. Smooth tonal transitions. Creamy, pictorialist appearance. Warmer overall colour. Finer grain. Works well for portraits, landscapes, and any image where you want tonal information throughout the scale.
 
+This is the counterintuitive claim from earlier in the post — that more exposure gives *less* contrast — and it is easier to believe from two prints than from a paragraph. Same negative, a valley outside Trento, printed both ways.
+
+<figure>
+    <img src="/notebook/030-032-lith/Lith_TrentoMountain_HighContrast.jpeg" align="center" width="420px" style="margin:10px;" alt="Lith print of a mountain valley, high contrast, with the foreground blocked into deep shadow" />
+    <figcaption>The high contrast version. The town and the valley floor have gone; the picture is a mountain and a branch.</figcaption>
+</figure>
+
+<figure>
+    <img src="/notebook/030-032-lith/Lith_TrentoMountain_Midtones.jpeg" align="center" width="420px" style="margin:10px;" alt="The same valley printed with more exposure, showing roads, river and town in the valley floor" />
+    <figcaption>More exposure, snatched earlier. The valley comes back — roads, river, the town — and the whole print softens.</figcaption>
+</figure>
+
+Neither is the correct one. The first is a stronger picture and the second is a more complete one, and choosing between them is the actual work.
+
 Most of my work falls somewhere between these extremes—I aim for neither maximum drama nor maximum smoothness, but a balanced lith character that preserves detail while still showing the process's distinctive look. But understanding the extremes helps you navigate towards your intended result.
 
 A useful workflow: start with your two-stop-over baseline exposure. Make a print. Evaluate whether you want more or less contrast. Adjust exposure by a stop in the appropriate direction. Make another print. After a few iterations, you'll develop intuition for where different negatives want to sit on the exposure scale.
@@ -207,12 +245,6 @@ Everything above describes a process I can steer. It does not describe one I und
 I cannot reliably predict how a given box of paper will behave. Batch variation in the remaining lith papers is real and widely reported, and I have had sheets from different boxes of the same stock want noticeably different snatch points. I do not know how much of that is manufacturing and how much is age, storage, or my own inconsistency in mixing.
 
 I also cannot account for one result that ought to be adjacent to all of this. When I later tried [silver mirror toning on lith prints](/notebook/034-037-silvermirror/036-silvermirrorpapers/), Retrobrom 152 took it well and **FomaTone 132 — the paper I use for most of my lith work, and the one I recommend below — showed no response at all.** Same bath, same session. I have four candidate explanations and no way to choose between them. Which is a useful reminder that knowing how to control a material is not the same as knowing what it is.
-
-<!-- TODO — the one thing this post is still missing is a failure of your own:
-     a specific print where you misjudged the snatch, or a session that went
-     wrong, told as a story rather than as a principle. Two or three sentences
-     would do it. Everything else here is now in your voice, but the post has
-     no scar tissue in it, and lith of all processes should. -->
 
 In the final post of this series I document current materials — which papers still lith, what chemistry to use, and my working process from exposure through archiving.
 
