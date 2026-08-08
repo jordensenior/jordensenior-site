@@ -38,7 +38,7 @@ FomaTone 132, manufactured by Foma Bohemia in the Czech Republic, is the paper I
 The colour palette runs from reddish-yellow highlights to greenish-black shadows—warmly coloured even with relatively short development times. FomaTone rewards overexposure with creamy, detailed highlights. It handles both high-contrast and low-contrast approaches well.
 
 A significant caveat: Foma's emulsion has changed over the years, and certain production batches have been problematic. Papers manufactured between approximately late 2022 and 2023 (various batch numbers in that period) were reported as unlithable or severely compromised—the emulsion changes apparently interfered with infectious development. The community tracked this through forums and social media, comparing batch numbers and results.
-<!-- 
+<!--
 <figure>
     <img src="/notebook/018-LithMaterials/batch_numbers.jpeg" align="left" width="280px" style="margin:10px;" alt="Foma paper batch number location" />
     <figcaption>Check batch numbers before purchasing Foma papers. Current batches (0796+) are reported as working properly.</figcaption>
@@ -93,7 +93,7 @@ If you encounter old paper stock—at estate sales, darkroom closures, or forgot
 ### Moersch EasyLith: My Standard Developer
 
 Moersch EasyLith, manufactured by Wolfgang Moersch's Moersch Photochemie in Germany, is the developer I use for virtually all my lith printing. It's a two-part formaldehyde-free concentrate that produces consistent results across different papers with minimal fuss.
-<!-- 
+<!--
 <figure>
     <img src="/notebook/018-LithMaterials/easylith_kit.jpeg" align="right" width="280px" style="margin:10px;" alt="Moersch EasyLith kit" />
     <figcaption>Moersch EasyLith: the pre-tuned two-part concentrate that handles most lith printing needs.</figcaption>
@@ -135,21 +135,21 @@ Here's how I approach a lith printing session, from preparation through finishin
 
 ### Session Preparation
 
-I work in a properly ventilated darkroom with temperature control—Mörk in Helsinki when I'm there, my home darkroom in between. Before starting:
+I work in a well ventilated darkroom with a heating pad to warm up the chemistry. Before starting:
 
-**Chemistry preparation:** Mix fresh working solution. For a typical session, I prepare two litres: 30ml Part A plus 30ml Part B plus 1940ml water (approximately 1:30 dilution). To this I add 100-200ml of Old Brown from previous sessions. Warm to working temperature if desired (I usually work at room temperature, twenty to twenty-two degrees).
+**Chemistry preparation:** Mix fresh working solution. For a typical session, I prepare Part A: Part B: Water approximately 1:1:19 dilution. The water is mixed with Old Brown from previous sessions. Warm to working temperature if desired (I usually work at 35 degrees).
 
-**Paper inventory check:** Verify I have sufficient paper in appropriate grades. Check batch numbers if using newly purchased stock.
+**Paper inventory check:** Verify I have enough paper for the session.
 
 **Old Brown status:** Ensure I have adequate Old Brown saved. If starting fresh without existing stock, accept that first prints may be less colourful—they're seasoning the developer for later prints.
 
-**Pre-soak preparation:** For FomaTone, prepare a tray of three percent hydrogen peroxide solution for pre-soaking.
+**Pre-soak preparation:** For FomaTone, prepare a tray of a few percent hydrogen peroxide solution for pre-soaking, seems to handle snowballs well.
 
 ### Exposure Determination
 
-I approach lith exposure differently from conventional printing:
+I approach lith exposure differently from conventional printing. Often I don't bother with a test strip — I know both my paper and negatives enough to be able to guess a reasonable starting point, but in general:
 
-**Make a standard test strip** in normal developer (Ilford Multigrade or equivalent) first. This establishes baseline exposure for proper midtones.
+**Make a standard test strip** in normal developer first. This establishes baseline exposure for proper midtones.
 
 **Select the strip showing correct midtone density** under normal development.
 
@@ -161,7 +161,7 @@ This baseline approach gets me in the correct range for first prints. Fine-tunin
 
 ### Development Sequence
 
-**Pre-soak** (FomaTone): Immerse paper in hydrogen peroxide solution for thirty to sixty seconds. This step prevents snowballing. Drain briefly before transferring to developer.
+**Pre-soak** (FomaTone): Immerse paper in hydrogen peroxide solution for thirty to sixty seconds. This step seems to prevent snowballing. Drain briefly before transferring to developer.
 
 **Developer immersion:** Slide paper into developer face-down. After ten to fifteen seconds, turn face-up. Keep paper moving gently throughout development—continuous agitation isn't necessary, but periodic movement ensures even development.
 
@@ -175,7 +175,7 @@ This baseline approach gets me in the correct range for first prints. Fine-tunin
     <figcaption></figcaption>
 </figure>
 
-**Monitor with safelight torch:** I use a bright amber safelight torch to inspect shadow development, holding it at an angle to reveal emerging density. The key is watching your most important shadow area—where you need detail, not just maximum black.
+**Monitor with safelight torch:** I use a red safelight torch to inspect shadow development, holding it at an angle to reveal emerging density. The key is watching your most important shadow area—where you need detail, not just maximum black.
 
 **Induction period:** Expect two to five minutes of essentially no visible image. This is normal. Don't panic; don't strengthen developer.
 
@@ -183,9 +183,9 @@ This baseline approach gets me in the correct range for first prints. Fine-tunin
 
 **Acceleration phase:** Shadows begin darkening noticeably. The pace quickens visibly. Infectious development is engaging.
 
-**Snatch point:** When your key shadow area reaches proper density, remove the print immediately and transfer to stop bath. Don't drain over the developer tray—you'll continue developing in air. Move directly and quickly.
+**Snatch point:** When your key shadow area reaches proper density, remove the print immediately and transfer to stop bath. Don't drain over the developer tray—you'll continue developing in air. Move directly and quickly. Note that also, Lith prints in my experience typically dry darker 1/2 to 1 stop.
 
-**Stop bath:** Acid stop bath (acetic acid) provides cleaner snatch than water stop. The acid immediately halts development, which matters during the exponential phase where seconds count. I use standard stop bath at working strength, agitating for thirty seconds.
+**Stop bath:** Acid stop bath provides cleaner snatch than water stop. The acid immediately halts development, which matters during the exponential phase where seconds count. I use standard stop bath at working strength, agitating for thirty seconds.
 
 **Fixing:** Standard two-bath fixing for archival work; single bath acceptable for proofing. Fix for manufacturer's recommended time. The print may lighten slightly in fixer—this is normal. Avoid over-fixing, which can damage delicate highlights.
 
@@ -209,13 +209,13 @@ Iterate. Lith printing typically requires several attempts to optimise a given n
 
 ### Post-Processing and Archiving
 
-**Drying:** Lay prints face-up to dry. Don't squeegee—fibre papers are delicate when wet, and lith prints may be more fragile than conventional prints.
+**Drying:** Most people lay prints face-up to dry; personally I hang them vertically, and press later.
 
 **Assessment shift:** Lith prints may shift colour slightly as they dry. Evaluate final colour on dry prints; wet assessment can be misleading.
 
-**Toning (optional but recommended):** Selenium toning provides archival protection and can enhance colour. Dilute selenium toner heavily (1:15 to 1:20) for lith prints—they respond more dramatically than conventional prints. Brief immersion (thirty to sixty seconds) deepens blacks and may remove greenish cast. Extended immersion produces more significant colour shifts.
+**Toning (optional):** Selenium toning provides archival protection and can enhance colour. Dilute selenium toner heavily (1:15 to 1:20) for lith prints—they respond more dramatically than conventional prints. Brief immersion (thirty to sixty seconds) deepens blacks and may remove undesirable colour cast. Extended immersion produces more significant colour shifts.
 
-**Storage:** Interleave with acid-free tissue in archival boxes. Lith prints are silver-based and respond to environmental conditions like any silver gelatin print. Proper storage ensures longevity.
+**Storage:** Lith prints are silver-based and respond to environmental conditions like any silver gelatin print. Proper storage ensures longevity.
 
 ## Managing Old Brown
 
@@ -254,7 +254,6 @@ The challenge, honestly. Lith printing resists automation and standardisation. E
 
 The materials are limited and shrinking. The chemistry requires understanding. The technique takes practice to control. None of this is convenient. But what emerges from the inconvenience—those warm-cold prints with their gritty shadows and creamy highlights—justifies the effort. Some images need this process. Some images can only be this process.
 
-Standing at the developer tray, watching shadows accelerate towards the snatch point, I'm doing something that connects backward to the technique's origins and forward to whatever prints I'll make next. The chemistry remains the same; the practice evolves; the community continues. That continuity matters as much as any individual print.
 
 ---
 

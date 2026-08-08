@@ -66,11 +66,11 @@ Then comes the acceleration phase. Shadows begin darkening noticeably. If you're
 
 A rough timing heuristic that many practitioners use: the snatch point often arrives at approximately double the time from when the image first became visible. If highlights emerged at two minutes, expect to snatch somewhere around four minutes. This isn't a rule—too many variables affect actual timing—but it helps calibrate expectations, especially when you're learning to read development pace.
 
-**Snatch too early:** The print emerges with weak, muddy blacks lacking punch. Tonal separation is minimal. Colours are warmer throughout, grain is fine, but shadow density disappoints. The image looks flat.
+**Snatch too early:** The print emerges with weak, muddy blacks lacking punch. Tonal separation is minimal. Grain is fine, but shadow density disappoints. The image looks flat.
 
-**Snatch too late:** Shadows block up, losing detail. Cold tones creep from shadows into midtones. Grain becomes excessive, particularly in transition zones. The image looks harsh, graphic—or if severely late, simply black in the lower half of the tonal scale.
+**Snatch too late:** Shadows block up, losing detail. Grain becomes excessive, particularly in transition zones. The image looks harsh, graphic—or if severely late, simply black in the lower half of the tonal scale.
 
-I use a bright safelight torch to monitor shadow development, holding it at an angle that reveals emerging density. The print needs to keep moving gently in the tray for even development. When the most important shadow area reaches proper density, I go directly to stop bath without draining—even seconds of continued development can overshoot during the exponential phase.
+I use a safelight torch to monitor shadow development, holding it at an angle that reveals emerging density. The print needs to keep moving gently in the tray for even development. When the most important shadow area reaches proper density, I go directly to stop bath without draining—even seconds of continued development can overshoot during the exponential phase.
 
 The key shadow area matters. Don't watch the deepest black in the image; watch the shadow that needs detail. A face in shade, texture in dark fabric, architecture in shadow—whatever carries important information in the lower tones. When that area reaches proper density, snatch regardless of what the pure blacks are doing.
 
@@ -93,7 +93,7 @@ Temperature also affects developer longevity. Warm developer exhausts faster—b
 
 Safety note: with formaldehyde-containing developers (traditional Kodalith-type formulations), heated chemistry produces significant fumes. Use Moersch's formaldehyde-free options (EasyLith, SE5 Master) when working warm, or ensure exceptional ventilation if using traditional developers.
 
-My typical practice: I work at room temperature (usually twenty to twenty-two degrees in Finnish darkrooms), accepting longer development times in exchange for maximum control. For sessions where colour is the priority, I'll warm the chemistry to around thirty degrees and work quickly.
+My typical practice: I'll warm the chemistry to around thirty five degrees and work quickly.
 
 ## A:B Ratio Adjustments
 
@@ -127,7 +127,7 @@ Rather than describe it, here is the same negative twice — a weir in Tampere, 
     <figcaption>The same negative without them. Dense, clean, and doing what the paper is supposed to do.</figcaption>
 </figure>
 
-That first print is not a marginal case or a subtle degradation. It is a sheet of paper I threw away, and it is the reason the prevention list below exists.
+That first print is not a marginal case or a subtle degradation.
 
 Foma papers from certain production batches have been particularly prone to snowballing. The issue relates to emulsion hardness—developer can't penetrate evenly, leaving undeveloped islands. Current Fomatone batches (0796 onward) work better, but the problem hasn't entirely disappeared.
 
@@ -137,7 +137,7 @@ Prevention methods, ranked by effectiveness:
 
 **Warm water pre-soak** (ten minutes at approximately thirty-eight degrees): Moderately effective. Softens emulsion without chemical intervention.
 
-**Stronger developer concentration**: Reducing dilution from 1:30 to 1:20 often eliminates snowballs simply by increasing developer activity. Some practitioners find this sufficient.
+**Stronger developer concentration**: Reducing dilution from 1:30 to 1:20 often eliminates snowballs simply by increasing developer activity. Some practitioners find this sufficient. I often work at 1:19 for this reason.
 
 **Fresher developer**: Snowballs become more common as developer exhausts. Adding fresh chemistry mid-session can resolve emerging problems.
 
@@ -148,8 +148,8 @@ If snowballs appear despite prevention efforts, the print is essentially ruined 
 Although "ruined" is doing some work in that sentence, and I want to qualify it. At low intensity the same defect stops reading as damage and starts reading as weather.
 
 <figure>
-    <img src="/notebook/030-032-lith/lith_sea_Snowballs.jpeg" align="center" width="440px" style="margin:10px;" alt="Lith print of a sailing boat in an archipelago, with faint mottled snowballing across the pale sky" />
-    <figcaption>Mild snowballing across the sky. I did not ask for this and would not have been able to repeat it, but I kept the print.</figcaption>
+    <img src="/notebook/030-032-lith/lith_skyscraper.jpeg" align="center" width="440px" style="margin:10px;" alt="Lith print of a skyscraper" />
+    <figcaption>Strong snowballing across the sky, as cleaners ascend a skyscraper in Salt Lake City. I did not ask for this and would not have been able to repeat it, but I kept the print.</figcaption>
 </figure>
 
 Which is the thing I find hardest to write rules about. The difference between the Tampere print and this one is a matter of degree in a defect I do not fully control, and my response to it is not consistent — I threw one away and kept the other. The prevention list is honest advice for getting a predictable print. It is not advice for getting an interesting one.
