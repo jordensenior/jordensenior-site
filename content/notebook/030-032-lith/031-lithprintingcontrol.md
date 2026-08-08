@@ -18,7 +18,9 @@ live: true
 
 ---
 
-The rules of lith printing often invert what conventional darkroom experience teaches. More exposure produces lower contrast. Longer development produces cooler colours. The highlights are fixed at the moment of exposure; the shadows at the moment you snatch. Each variable operates somewhat independently, giving you a control range that Tim Rudman described as spanning six or seven equivalent paper grades from a single material—a remarkable claim, but one that repeated practice bears out.
+Most of what I do in a lith session comes down to standing over a tray with a safelight torch held at a low angle, watching for the moment the shadows start to move. When they do, I go straight to the stop bath — not draining the print first, because during the exponential phase even the seconds it takes to drain can overshoot. That single judgement, made in the dark, against a print that is actively running away from me, determines more about the final image than any other decision in the process.
+
+Everything below is an attempt to make that judgement less arbitrary. The rules of lith printing invert what conventional darkroom experience teaches: more exposure produces lower contrast, longer development produces cooler colours, and the highlights are fixed at the moment of exposure while the shadows are fixed at the moment you snatch. Each variable operates somewhat independently, which gives a control range Tim Rudman described as spanning six or seven equivalent paper grades from a single material — a remarkable claim, and one my own prints bear out.
 
 <figure>
     <img src="/notebook/030-032-lith/lith_boat.jpeg" align="right" width="350px" style="margin:10px;" alt="High contrast lith print with pale highlights and dense blacks" />
@@ -28,13 +30,13 @@ This post examines the practical control variables: how to use exposure to set c
 
 ## The Two Golden Rules
 
-Tim Rudman established two principles that remain the foundation of lith printing practice. Understanding them transforms random experimentation into directed craft.
+Almost everything I know about controlling this process I got from Tim Rudman's books rather than from working it out myself, and his two principles are the frame I still print inside. They are worth stating as his rather than as facts of nature — they are a model that has held up, not a law.
 
 **Golden Rule One:** Image colour and contrast relate to grain size in the paper emulsion, which relates to development stage. Small grains forming early in development appear soft and warm. Large grains forming late in development appear hard and cold.
 
 **Golden Rule Two:** Highlights are controlled by exposure. Shadows are controlled by development (the snatch point).
 
-These rules have profound practical implications. You cannot improve weak highlights by extending development—they're determined entirely by how much exposure they received. You cannot control shadow density through exposure—shadows are determined by when you pull the print. The two variables operate on different parts of the tonal scale through different mechanisms.
+The practical consequence is that two mistakes are unrecoverable in opposite directions. I cannot improve weak highlights by leaving the print in longer — they were determined by how much exposure they received, and no amount of development will retrieve them. I cannot control shadow density by adjusting exposure — the shadows are set by when I pull the print. The two variables act on different parts of the tonal scale through different mechanisms, and each will ignore the other's control.
 
 This independence is what gives lith printing its remarkable flexibility. A single paper, a single developer, can produce results ranging from soft and creamy to harsh and graphic, depending entirely on how you balance exposure against snatch timing.
 
@@ -105,7 +107,9 @@ With two-part developers like EasyLith, the ratio of Part A (hydroquinone) to Pa
 
 The Moersch SE5 Master kit extends this with dedicated additives. Lith C (sodium sulfite) suppresses grain and peppering—useful when you want smooth tones from a paper that tends towards texture. Lith D (potassium bromide) slows development and increases colour—useful when colour matters more than speed. Lith E increases grain at the expense of colour—useful for deliberately gritty effects.
 
-I typically work with equal A:B as my baseline, adjusting only when a specific print needs pushing in one direction. The ratio adjustment is a fine-tuning tool, not a primary control.
+I should be straightforward about this section: it is Moersch's guidance and Rudman's, not mine. I work at equal A:B and I have never made a print where I changed the ratio to shift colour. Everything above is reported rather than tested, and I am including it because it is the documented behaviour of the developer, not because I can vouch for it.
+
+That matters more than it might sound, because the received wisdom is not entirely self-consistent — more B than A is described as reducing contrast and softening the print, yet it also turns up in advice for cooler, more graphic results. Those pull in opposite directions. I do not know which effect dominates in practice, and I will not until I run the comparison properly: one negative, one session, three ratios.
 
 ## Snowballs: The Unwanted Effect
 
@@ -159,7 +163,7 @@ Several factors shift the palette:
 
 **Paper choice:** Each paper has a characteristic palette. FomaTone 132 produces reddish-yellow highlights with green-black shadows—very colourful even with short development. FomaBrom 152 can achieve yellow-red but tends towards cold tones overall.
 
-**A:B ratio:** More A than B increases colour; more B than A reduces it.
+**A:B ratio:** Reported to shift colour — more A than B increasing it, more B than A reducing it. Untested by me; see the caveat above.
 
 <!-- <figure>
     <img src="/notebook/017-LithControl/colour_progression.jpeg" align="right" width="350px" style="margin:10px;" alt="Series showing lith colour progression with development time" />
@@ -184,7 +188,7 @@ A useful workflow: start with your two-stop-over baseline exposure. Make a print
 
 ## Putting It Together: A Control Framework
 
-Here's how the variables interact in practice:
+What follows is the cheat sheet I keep in my head, written out. Treat it as a set of tendencies rather than settings — every line of it is a direction to push in, not a value to dial.
 
 **For warmer, more colourful results:** Increase overexposure. Increase dilution. Add Old Brown. Lower temperature. Add restrainers. Use more A than B. Snatch earlier relative to shadow development.
 
@@ -194,9 +198,23 @@ Here's how the variables interact in practice:
 
 **For grittier, more textured results:** Use cold-tone paper (FomaBrom 152). Use exhausted developer. Work warm. Extend development. Use more A than B.
 
-The key insight is that you're not adjusting one variable—you're balancing several variables that each affect multiple aspects of the final print. Learning to see these relationships takes time and prints. The chemistry creates possibilities; practice teaches you to navigate them.
+The point is that none of these is a single adjustment. Each one moves several properties of the print at once, which is why the framework is a set of tendencies rather than a recipe, and why the only way to learn it is to spend paper.
 
-In the final post of this series, I'll document current materials—which papers actually work for lith in 2025, what chemistry to use, and my working process from exposure through archiving. The theory and control principles covered in these first two posts become practical when you know what materials to work with and how to work with them.
+## What I Still Cannot Predict
+
+Everything above describes a process I can steer. It does not describe one I understand, and I want to be honest about where the edge of that is.
+
+I cannot reliably predict how a given box of paper will behave. Batch variation in the remaining lith papers is real and widely reported, and I have had sheets from different boxes of the same stock want noticeably different snatch points. I do not know how much of that is manufacturing and how much is age, storage, or my own inconsistency in mixing.
+
+I also cannot account for one result that ought to be adjacent to all of this. When I later tried [silver mirror toning on lith prints](/notebook/034-037-silvermirror/036-silvermirrorpapers/), Retrobrom 152 took it well and **FomaTone 132 — the paper I use for most of my lith work, and the one I recommend below — showed no response at all.** Same bath, same session. I have four candidate explanations and no way to choose between them. Which is a useful reminder that knowing how to control a material is not the same as knowing what it is.
+
+<!-- TODO — the one thing this post is still missing is a failure of your own:
+     a specific print where you misjudged the snatch, or a session that went
+     wrong, told as a story rather than as a principle. Two or three sentences
+     would do it. Everything else here is now in your voice, but the post has
+     no scar tissue in it, and lith of all processes should. -->
+
+In the final post of this series I document current materials — which papers still lith, what chemistry to use, and my working process from exposure through archiving.
 
 ---
 

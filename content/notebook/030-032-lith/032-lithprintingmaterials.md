@@ -1,7 +1,7 @@
 ---
 title: "032 · Lith Printing III: Materials, Workflow, and the Contemporary Printer"
 image: ""
-description: "Papers still available for lith printing in 2025, EasyLith chemistry, practical workflow, and finding community in the Nordic analog scene"
+description: "Papers still available for lith printing, EasyLith chemistry, practical workflow, and finding community in the Nordic analogue scene"
 author: "Jorden Senior"
 date: "2026-02-15"
 tags: ["Lith Printing", "Darkroom"]
@@ -25,7 +25,7 @@ The classic lith papers are gone. Sterling Lith, Forte Polywarmtone, Kodak Ektal
     <figcaption>FomaTone 132 remains one of the most reliable papers for lith printing in current production.</figcaption>
 </figure>
 
-This final post in my lith printing series documents what actually works in 2025: the papers I use, the chemistry I trust, my practical workflow from test strip to finished print, and the community—particularly the Nordic analog network—that keeps this knowledge alive and developing.
+This final post in my lith printing series documents what actually works now: the papers I use, the chemistry I trust, my practical workflow from test strip to finished print, and the community—particularly the Nordic analog network—that keeps this knowledge alive and developing.
 
 ## Papers That Still Lith
 
@@ -56,17 +56,21 @@ Where FomaTone is creamy, FomaBrom is gritty. Where FomaTone is warm, FomaBrom i
 
 FomaBrom shares FomaTone's susceptibility to batch variation and snowballing. The same mitigation strategies apply: check batch numbers, pre-soak, consider EasyLith FT Special.
 
-### Other Current Options
+### Other Options, With A Caveat
 
-**Oriental New Seagull:** Still manufactured in Japan and available internationally. A classic lith paper producing creamy beige tones with exceptional shadow differentiation. Note that Oriental Warmtone is actually FomaTone emulsion manufactured under license—check which version you're purchasing.
+I have only lith printed on the two papers above. Everything in this section is compiled from other printers, forums and Rudman's materials guides, and I am flagging that rather than presenting it as advice, because two things change underneath a list like this and neither announces itself.
 
-**Slavich Unibrom:** Manufactured in Russia, theoretically still available but increasingly difficult to source due to distribution challenges. A cold-tone graded paper producing gritty, textured results favoured for dramatic effects. Forum reports suggest pricing has increased substantially, with figures around €140-400 mentioned for direct manufacturer purchases—though this may have changed and international shipping adds complications. If you can source it, Slavich produces distinctive results unlike any current Western paper.
+The first is **availability**, which is regional and volatile. Oriental Seagull and Slavich have had no reliable route into parts of Europe for years; what is stocked in Helsinki, London and New York are three different lists. The second, and more insidious, is **reformulation**. A paper can keep its name and stop lithing. Foma's own gelatine change is the well-documented case, and it is the reason any list of "papers that lith" carries an invisible expiry date — including this one.
 
-**Adox MCC:** Batch-dependent and unpredictable. Some batches lith well; others contain phenidone that prevents proper infectious development. Development times can extend to forty-five minutes or longer. When it works, Adox produces sandy brown tones with noticeable grain. The inconsistency makes it difficult to recommend without batch-specific verification.
+So: names to investigate, not recommendations.
 
-**Ilford Multigrade Warmtone:** Not a true lith paper, but produces semi-lith effects with modified technique. Requires hot developer (thirty to thirty-five degrees), only five times normal exposure (not ten times), and development under five minutes. Results show khaki colour and graininess but lack the full tonal separation of proper lith. Consider it a fallback option rather than a primary material.
+- **Oriental New Seagull** — long-standing reputation as a lith paper, creamy beige tones. Availability outside Japan is patchy and has been for some time. Note that Oriental Warmtone has been FomaTone emulsion under licence, so check what you are actually buying.
+- **Slavich Unibrom** — Russian, cold-tone, gritty; distribution has been badly disrupted and I would not count on sourcing it.
+- **Adox** — reports are mixed and batch-dependent, and the picture is complicated by Adox's ongoing work recreating Forte Polywarmtone, which is a different proposition from the older MCC stock the forum threads discuss. Worth watching rather than ordering blind.
+- **Ilford Multigrade Warmtone** — often described as semi-lith with a hot developer and reduced exposure. I have not tested whether the *current* emulsion still does this, and I would treat any specific technique you find for it as possibly describing an older formulation.
+- **Bergger Portrait Matt** — reported to lith well and fast, with a matte surface. Expensive, and I have no first-hand experience of it.
 
-**Bergger Portrait Matt 300g:** A newer option reported to lith "beautifully and very fast" with a super-matte texture. Expensive (approximately eighty dollars for twenty-five sheets in 11×14), but worth considering if you want matte surface lith prints.
+If you are about to spend money on any of these, ask somebody who has printed on that specific box in the last year. That is genuinely the only reliable method, and it is why the community in the next section matters more than any list I can write.
 
 ### Discontinued Papers Worth Finding
 
